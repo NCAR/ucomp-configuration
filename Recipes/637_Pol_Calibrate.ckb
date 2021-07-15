@@ -1,0 +1,10 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 637 nm
+
+
+637_FW.rcp
+setupFlat.rcp
+637_1_2beams_16sums.rcp
+setupCal.rcp
+637_Pol_Calibrate.rcp

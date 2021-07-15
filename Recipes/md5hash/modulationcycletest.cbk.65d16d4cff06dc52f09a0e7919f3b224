@@ -1,0 +1,73 @@
+#Cal_Optics_In.rcp
+gain_low.rcp
+mod1.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod2.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod3.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod4.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod5.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod10.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod15.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+calpol_90.rcp
+mod1.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod2.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod3.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod4.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod5.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod10.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR
+mod15.rcp
+Exposure_5.rcp
+FOR 10
+one_dark.rcp
+ENDFOR

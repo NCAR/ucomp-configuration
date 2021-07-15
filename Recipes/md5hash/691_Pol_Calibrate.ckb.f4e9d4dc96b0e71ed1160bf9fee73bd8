@@ -1,0 +1,11 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 691 nm
+
+Exposure_80.rcp
+691_FW.rcp
+setupFlat.rcp
+691_Flat.rcp
+setupCal.rcp
+691_Pol_Calibrate.rcp
+setupObserving.rcp

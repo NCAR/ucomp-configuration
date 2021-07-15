@@ -1,0 +1,11 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 789 nm
+
+Exposure_80.rcp
+789_FW.rcp
+setupFlat.rcp
+789_1_2beams_4sums.rcp
+setupCal.rcp
+789_Pol_Calibrate.rcp
+setupObserving.rcp

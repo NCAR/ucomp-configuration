@@ -1,0 +1,24 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 789 nm
+
+CALRET	0
+CALPOL	0
+789_1_2beams_4sums.rcp
+CALPOL	45
+789_1_2beams_4sums.rcp
+CALPOL	90
+789_1_2beams_4sums.rcp
+CALPOL	135
+789_1_2beams_4sums.rcp
+CALRET	45
+CALPOL	0
+789_1_2beams_4sums.rcp
+CALPOL	45
+789_1_2beams_4sums.rcp
+CALPOL	90
+789_1_2beams_4sums.rcp
+CALPOL	135
+789_1_2beams_4sums.rcp
+CALIB	OUT
+789_1_2beams_4sums.rcp

@@ -1,0 +1,35 @@
+#  Recipes now support a few keywords that will get passed on 
+#  to the fits header.
+# 
+#  AUTHOR  ##Who made the recipe
+#  DATE    ##Date of creating/modification for the recipe.
+#  DESCRIPTION  ## Description of the recipe
+#
+#  We also support comments with lines starting with a #hash
+
+#Blank lines are also ignored.
+#
+AUTHOR Ben 
+DATE July 18, 2018
+DESCRIPTION Example Recipe to show off new features.
+
+
+#Recipe syntax for the recipe related to taking data.
+# DATA,FLAT,DARK,POLCAL
+# will have the format that each line lists the 
+#DATATYPE	BEAM	WAVELENGTH	NUMSUMS
+#EXPOSURE	10
+DATA	RCAM	1079.1	10
+DATA	RCAM	1079.1	10
+DATA	RCAM	1079.2	10
+DATA	RCAM	1079.2	10
+DATA	TCAM	1079.3	10
+DATA	TCAM	1079.3	10
+#EXPOSURE	.1
+DATA	TCAM	1079.4	10
+DATA	TCAM	1079.4	10
+DATA	RCAM	1079.5	10
+DATA	RCAM	1079.5	10
+DATA	TCAM	1079.6 	10
+
+

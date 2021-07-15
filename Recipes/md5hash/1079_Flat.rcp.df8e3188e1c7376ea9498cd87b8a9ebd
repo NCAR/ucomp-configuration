@@ -1,0 +1,5 @@
+DATE  Weds May 1 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization flat at 1079 nm
+DATA	RCAM	BOTH	1079.80	4
+DATA	TCAM	BOTH	1079.80	4

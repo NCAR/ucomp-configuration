@@ -1,0 +1,6 @@
+AUTHOR BEN
+DATE June 12 2020
+DESCRIPTION CBK Testing out UCOMP motion control. Looks like we move the filter wheel to 1083 on one recipe then all the other aft optics  mechanisms in a second recipe called mechTest.
+
+1083_FW.rcp
+mechTest.rcp

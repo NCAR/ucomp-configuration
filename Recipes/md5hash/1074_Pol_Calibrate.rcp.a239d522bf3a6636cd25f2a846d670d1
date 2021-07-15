@@ -1,0 +1,25 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 1074 nm
+
+CALRET	0
+CALPOL	0
+1074_1_2beams_4sums.rcp
+CALPOL	45
+1074_1_2beams_4sums.rcp
+CALPOL	90
+1074_1_2beams_4sums.rcp
+CALPOL	135
+1074_1_2beams_4sums.rcp
+CALRET	45
+CALPOL	0
+1074_1_2beams_4sums.rcp
+CALPOL	45
+1074_1_2beams_4sums.rcp
+CALPOL	90
+1074_1_2beams_4sums.rcp
+CALPOL	135
+1074_1_2beams_4sums.rcp
+CALIB	OUT
+1074_1_2beams_4sums.rcp
+

@@ -1,0 +1,25 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 530 nm
+
+CALRET	0
+CALPOL	0
+530_1_2beams_4sums.rcp
+CALPOL	45
+530_1_2beams_4sums.rcp
+CALPOL	90
+530_1_2beams_4sums.rcp
+CALPOL	135
+530_1_2beams_4sums.rcp
+CALRET	45
+CALPOL	0
+530_1_2beams_4sums.rcp
+CALPOL	45
+530_1_2beams_4sums.rcp
+CALPOL	90
+530_1_2beams_4sums.rcp
+CALPOL	135
+530_1_2beams_4sums.rcp
+CALIB	OUT
+530_1_2beams_4sums.rcp
+
