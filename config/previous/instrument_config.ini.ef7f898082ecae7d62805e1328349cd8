@@ -1,0 +1,84 @@
+[main]
+Data Dir = d:\data\obs-code\
+[SGS]
+Arcsec Error Limit = .1
+Voltage to Arcsec = 1920
+[ports] 
+ILX COM PORT = COM14
+Cropico PORT = COM13
+Spectragraph PORT = COM4
+[sampling info]
+fs = 8000
+numS = 10000
+[FeLC Voltages]
+vneg = -10
+vpos = 10
+[DAQ Physical Channels]
+lyotAO = Dev1/ao0:7
+felcAO = Dev1/ao5:6
+triggerAO = Dev1/ao7
+triggerCtl = Dev1/ctr0
+[Filter config]
+LCVR Relaxation = .25
+[Camera Config]
+##Config FileA= C:\xcapconfig\video with gain-offset settings on.fmt
+Config File= C:\xcapconfig\2-camera-triggered.fmt
+##Config File no trigger = C:\xcapconfig\2-cameras-maunal-exposure-high-gain-a.fmt
+###Triggered Config File = C:\xcapconfig\2-camera-triggered.fmt
+TEC Setpoint = 10
+High gain = true
+[Use Real Hardware]
+O1 Focus = false
+Diffuser = false
+FilterWheel = true
+Cal Pol Rot = true
+Cal Ret Rot = true
+Cal Trans = true
+Occ X = true
+Occ Y = true
+Lyot = true
+Camera1 = false
+Camera2 = true
+Cropico = true
+ILX = true
+Spectragraph = false
+[Standa In Beam Pos]
+Cal Pol Rot = 0
+Cal Ret Rot = 0
+Cal Trans = 17000
+Occ X = 12200
+Occ Y = 2300
+[FILTER 530.3]
+Filter Pos = 6
+O1 Pos = 23
+[FILTER 637.4]
+Filter Pos = 6
+O1 Pos = 27
+[FILTER 656.3]
+Filter Pos = 6
+[FILTER 691.8]
+Filter Pos = 6
+[FILTER 706.2]
+Filter Pos = 6
+[FILTER 789.4]
+Filter Pos = 6
+[FILTER 1074.7]
+Filter Pos = 6
+[FILTER 1079.8]
+Filter Pos = 6
+[FILTER 1083.0]
+Filter Pos = 6
+[TEMP Sensor Names]
+T0 = T_AIR
+T1 = T_LCVR1
+T2 = T_LCVR2
+T3 = T_LCVR3
+T4 = T_LN1
+T5 = T_LN2
+T6 = T_LCVR4
+T7 = T_LCVR5
+
+
+
+
+

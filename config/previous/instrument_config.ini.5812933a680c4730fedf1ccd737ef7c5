@@ -1,0 +1,133 @@
+[main]
+Data Dir = d:\data\obs-code
+Server Data Dir = z:\ucomp
+[SGS]
+Arcsec Error Limit = .1
+Voltage to Arcsec = 1920
+[ports] 
+ILX COM PORT = COM14
+Cropico PORT = COM13
+#Spectragraph PORT = COM4
+O1 PORT = COM4
+Diffuser PORT = COM3
+[SGS Config]  
+IP Address = 128.171.190.18
+Port = 6341
+[sampling info]
+fs = 8000
+numS = 10000
+[FeLC Voltages]
+vneg = -7
+vpos = 7
+#vneg = 0
+#vpos = 0
+
+[DAQ Physical Channels]
+lyotAO = Dev1/ao0:7
+felcAO = Dev1/ao5:6
+triggerAO = Dev1/ao7
+triggerCtl = Dev1/ctr0
+coverDirection =  Dev1/port0/line1
+coverMotor = Dev1/port0/line0
+coverInBeam = Dev1/port0/line3
+coverOutOfBeam = Dev1/port0/line2
+[Filter config]
+LCVR Relaxation = .25
+Temperature Compensation = true
+Temperature Compensation step size = .05
+[Camera Config]
+##Config FileA= C:\xcapconfig\video with gain-offset settings on.fmt
+Config File= C:\xcapconfig\2-camera-triggered.fmt
+##Config File no trigger = C:\xcapconfig\2-cameras-maunal-exposure-high-gain-a.fmt
+###Triggered Config File = C:\xcapconfig\2-camera-triggered.fmt
+TEC Setpoint = 10
+High gain = true
+Max Framerate = 670
+Min Framerate = 0
+## IF Save all Image is true, instead of summing N times we will generate N (extra) extend header extensions.  This should go full rate without the modulator stabilization time
+Save all images without summing = false  
+[Use Real Hardware]
+O1 Focus = true
+Diffuser = true
+FilterWheel = false
+Cal Pol Rot = false
+Cal Ret Rot = false
+Cal Trans = false
+Occ X = false
+Occ Y = false
+Lyot = false
+Cover = true
+Camera1 = false
+Camera2 = false
+Cropico = false
+Cover = true
+ILX = false
+Spectragraph = false
+SGS = false
+Saftey Shutter = false
+[Mech In Beam Pos]
+### Counts are raw. Linear stages are 200 counts per mm.  Rotation stages are 100 counts per degree
+Cal Pol Rot = 0
+Cal Ret Rot = 0
+Cal Trans = 85 
+Occ X = 61
+Occ Y = 11.5
+Diffuser = 75
+Shutter = 1
+Cover = 1
+[Mech Out Beam Pos]
+### Counts are raw. Linear stages are 200 counts per mm.  Rotation stages are 100 counts per degree
+Occ X = 40
+Diffuser = 0
+Shutter = 0
+Cover = 0
+[Mech Home Offset]
+### Counts are raw. Linear stages are 200 counts per mm.  Rotation stages are 100 counts per degree  
+Cal Pol Rot = 11021
+Cal Ret Rot = 8694
+Cal Trans = 0
+Occ X = 0
+Occ Y = 0
+[FILTER 530.3]
+Filter Pos = 0
+O1 Pos = 20
+[FILTER 637.4]
+Filter Pos = 1
+O1 Pos = 21
+[FILTER 656.3]
+Filter Pos = 2
+O1 Pos = 22
+[FILTER 691.8]
+Filter Pos = 3
+O1 Pos = 23
+[FILTER 706.2]
+Filter Pos = 4
+O1 Pos = 24
+[FILTER 789.4]
+Filter Pos = 5
+O1 Pos = 25
+[FILTER 1074.7]
+Filter Pos = 6
+O1 Pos = 26
+[FILTER 1079.8]
+Filter Pos = 7
+O1 Pos = 27
+[FILTER 1083.0]
+Filter Pos = 8
+O1 Pos = 28
+[TEMP Sensor Names]
+T0 = T_FW
+T1 = T_LCVR1
+T2 = T_LCVR2
+T3 = T_LCVR3
+T4 = T_LN1
+T5 = T_MODULATE
+T6 = T_LN2
+T7 = T_LCVR4
+T8 = T_LCVR5
+T9 = T_RACK
+
+
+
+
+
