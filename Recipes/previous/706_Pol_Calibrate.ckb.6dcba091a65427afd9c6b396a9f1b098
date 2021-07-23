@@ -4,5 +4,7 @@ DESCRIPTION Perform polarization calibration at 706 nm
 
 
 706_FW.rcp
+setupFlat.rcp
+706_1_2beams_16sums.rcp
 setupCal.rcp
 706_Pol_Calibrate.rcp

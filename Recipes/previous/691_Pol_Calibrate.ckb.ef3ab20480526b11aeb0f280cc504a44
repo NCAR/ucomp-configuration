@@ -4,5 +4,7 @@ DESCRIPTION Perform polarization calibration at 691 nm
 
 
 691_FW.rcp
+setupFlat.rcp
+691_1_2beams_16sums.rcp
 setupCal.rcp
 691_Pol_Calibrate.rcp

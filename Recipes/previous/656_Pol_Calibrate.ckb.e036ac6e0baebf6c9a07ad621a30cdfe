@@ -4,5 +4,7 @@ DESCRIPTION Perform polarization calibration at 656 nm
 
 
 656_FW.rcp
+setupFlat.rcp
+656_1_2beams_16sums.rcp
 setupCal.rcp
 656_Pol_Calibrate.rcp

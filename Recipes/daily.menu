@@ -1,3 +1,16 @@
+#Polariztion calibration
+80ms_dark.ckb
+530_Pol_Calibrate.ckb
+637_Pol_Calibrate.ckb
+656_Pol_Calibrate.ckb
+691_Pol_Calibrate.ckb
+706_Pol_Calibrate.ckb
+789_Pol_Calibrate.ckb
+1074_Pol_Calibrate.ckb
+1079_Pol_Calibrate.ckb
+1083_Pol_Calibrate.ckb
+
+
 #morning corona imagegs   
 all_coronal_7_flats.ckb
 all_coronal_7.ckb
@@ -14,17 +27,6 @@ all_coronal_7.ckb
 1079_Scan.ckb
 1083_Scan.ckb
 
-#Polariztion calibration
-80ms_dark.ckb
-530_Pol_Calibrate.ckb
-637_Pol_Calibrate.ckb
-656_Pol_Calibrate.ckb
-691_Pol_Calibrate.ckb
-706_Pol_Calibrate.ckb
-789_Pol_Calibrate.ckb
-1074_Pol_Calibrate.ckb
-1079_Pol_Calibrate.ckb
-1083_Pol_Calibrate.ckb
 
 #rest of the day coronal images
 all_coronal_7_flats.ckb

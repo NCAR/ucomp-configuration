@@ -3,5 +3,7 @@ AUTHOR Berkey
 DESCRIPTION Perform polarization calibration at 530 nm
 
 530_FW.rcp
+setupFlat.rcp
+530_1_2beams_16sums.rcp
 setupCal.rcp
 530_Pol_Calibrate.rcp
