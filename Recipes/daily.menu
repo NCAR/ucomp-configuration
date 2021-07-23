@@ -1,3 +1,9 @@
+#morning corona imagegs   
+all_coronal_7_flats.ckb
+all_coronal_7.ckb
+all_coronal_7.ckb
+
+
 #Polariztion calibration
 80ms_dark.ckb
 530_Pol_Calibrate.ckb
@@ -10,11 +16,6 @@
 1079_Pol_Calibrate.ckb
 1083_Pol_Calibrate.ckb
 
-
-#morning corona imagegs   
-all_coronal_7_flats.ckb
-all_coronal_7.ckb
-all_coronal_7.ckb
 
 #21 wave scan    
 530_Scan.ckb
