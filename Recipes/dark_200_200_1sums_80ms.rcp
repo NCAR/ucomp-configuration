@@ -1,0 +1,5 @@
+Exposure_80.rcp
+setupdark.rcp
+FOR 200
+DATA	RCAM	BOTH	656.28	1
+ENDFOR

@@ -1,11 +1,25 @@
-#morning corona imagegs   
+
+#Take 21 position wavelenght scans.
+dark_80ms_2beam_16sums_BOTH.ckb
+# As for July 29, WAVE_Scan.ckb only sets the O1/filterwheel then runs WAVE_21_1beam_BOTH.rcp
+530_Scan.ckb
+637_Scan.ckb
+656_Scan.ckb
+691_Scan.ckb
+706_Scan.ckb
+789_Scan.ckb
+1074_Scan.ckb
+1079_Scan.ckb
+1083_Scan.ckb
+
+
+#Take some early morning Morning coronal images 
 all_coronal_7_flats.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 
-
-#Polariztion calibration
-80ms_dark.ckb
+#Take polarization calbirations for all wavelenghts
+dark_80ms_2beam_16sums_BOTH.ckb
 530_Pol_Calibrate.ckb
 637_Pol_Calibrate.ckb
 656_Pol_Calibrate.ckb
@@ -17,55 +31,56 @@ all_coronal_7.ckb
 1083_Pol_Calibrate.ckb
 
 
-#21 wave scan    
-530_Scan.ckb
-637_Scan.ckb
-656_Scan.ckb
-691_Scan.ckb
-706_Scan.ckb
-789_Scan.ckb
-1074_Scan.ckb
-1079_Scan.ckb
-1083_Scan.ckb
+#For the rest of the day take coronal flats/images and some 1074 polarization calibrations 
+dark_200_200_1sums_80ms.ckb
+all_coronal_7_flats.ckb
+all_coronal_7.ckb
+all_coronal_7.ckb
+all_coronal_7.ckb
+all_coronal_7.ckb 
 1074_Pol_Calibrate.ckb
 
-#rest of the day coronal images
-all_coronal_7_flats.ckb
-all_coronal_7.ckb
-all_coronal_7.ckb
-all_coronal_7.ckb
-all_coronal_7.ckb 
-1074_Pol_Calibrate.ckb
+dark_200_200_1sums_80ms.ckb
 all_coronal_7_flats.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 1074_Pol_Calibrate.ckb
+
+dark_200_200_1sums_80ms.ckb
 all_coronal_7_flats.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 1074_Pol_Calibrate.ckb
+
+dark_200_200_1sums_80ms.ckb
 all_coronal_7_flats.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb 
 all_coronal_7.ckb
 all_coronal_7.ckb
 1074_Pol_Calibrate.ckb
+
+dark_200_200_1sums_80ms.ckb
 all_coronal_7_flats.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 1074_Pol_Calibrate.ckb
+
+dark_200_200_1sums_80ms.ckb
 all_coronal_7_flats.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb 
 1074_Pol_Calibrate.ckb
+
+dark_200_200_1sums_80ms.ckb
 all_coronal_7_flats.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
