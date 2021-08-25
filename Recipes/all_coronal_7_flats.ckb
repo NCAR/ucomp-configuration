@@ -1,4 +1,6 @@
+gain_high.rcp
 Exposure_80.rcp
+setupFlat.rcp #doing setupflat here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
 setupDark.rcp
 Dark_16Sums.rcp
 
@@ -7,15 +9,6 @@ setupFlat.rcp
 530_07_2beam_16sums_BOTH.rcp
 637_FW.rcp
 637_07_2beam_16sums_BOTH.rcp
-
-Exposure_40.rcp
-setupDark.rcp
-Dark_16Sums.rcp
-setupFlat.rcp
-656_FW.rcp
-656_07_2beam_16sums_BOTH.rcp
-
-Exposure_80.rcp
 691_FW.rcp
 691_07_2beam_16sums_BOTH.rcp
 706_FW.rcp
@@ -27,13 +20,33 @@ Exposure_80.rcp
 1079_FW.rcp
 1079_07_2beam_16sums_BOTH.rcp
 
-Exposure_10.rcp
+
+Exposure_10
+1083_FW.rcp
+setupDark.rcp
+Dark_16Sums.rcp
+
+setupFlat.rcp
+1083_07_2beam_16sums_BOTH.rcp
+
+
+Exposure_80.rcp
+gain_low.rcp
 setupDark.rcp
 Dark_16Sums.rcp
 setupFlat.rcp
 1083_FW.rcp
 1083_07_2beam_16sums_BOTH.rcp
+656_FW.rcp
+656_07_2beam_16sums_BOTH.rcp
 
 
-
+gain_high.rcp
+Exposure_40
 setupDark.rcp
+Dark_16Sums.rcp
+setupFlat.rcp
+656_07_2beam_16sums_BOTH.rcp
+setupDark.rcp
+
+

@@ -2,6 +2,7 @@
 #Take 21 position wavelenght scans.
 dark_80ms_2beam_16sums_BOTH.ckb
 # As for July 29, WAVE_Scan.ckb only sets the O1/filterwheel then runs WAVE_21_1beam_BOTH.rcp
+
 530_Scan.ckb
 637_Scan.ckb
 656_Scan.ckb
@@ -54,6 +55,7 @@ all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
+
 1074_Pol_Calibrate.ckb
 
 dark_200_200_1sums_80ms.ckb
@@ -63,6 +65,7 @@ all_coronal_7.ckb
 all_coronal_7.ckb
 all_coronal_7.ckb
 1074_Pol_Calibrate.ckb
+waves_1074_2_2beams_16sums_120_repeats.ckb
 
 dark_200_200_1sums_80ms.ckb
 all_coronal_7_flats.ckb
