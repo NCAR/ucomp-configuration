@@ -2,10 +2,10 @@ gain_high.rcp
 exposure_80.rcp
 1074_FW.rcp
 setupDark.rcp
-Dark_12Sums.rcp 
+Dark_11Sums.rcp 
 setupFlat.rcp 
-1074_3_2beams_12sums_BOTH.rcp
+1074_3_2beams_11sums_BOTH.rcp
 setupObserving.rcp
 FOR 120
-1074_3_2beams_12sums_BOTH.rcp 
+1074_3_2beams_11sums_BOTH.rcp 
 ENDFOR
