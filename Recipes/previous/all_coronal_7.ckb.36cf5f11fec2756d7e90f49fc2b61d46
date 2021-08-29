@@ -1,0 +1,54 @@
+AUTHOR BERKEY
+DESCRIPTION Perform 7 point wavelength scan
+
+gain_high.rcp
+Exposure_80.rcp
+setupObserving.rcp   #doing setupobserving here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
+setupDark.rcp
+Dark_16Sums.rcp
+setupObserving.rcp
+530_FW.rcp
+FOR 1
+530_07_2beam_16sums_BOTH.rcp
+ENDFOR
+637_FW.rcp
+FOR 1
+637_07_2beam_16sums_BOTH.rcp
+ENDFOR
+
+
+691_FW.rcp
+FOR 1
+691_07_2beam_16sums_BOTH.rcp
+ENDFOR
+706_FW.rcp
+FOR 1
+706_07_2beam_16sums_BOTH.rcp
+ENDFOR
+789_FW.rcp
+FOR 1
+789_07_2beam_16sums_BOTH.rcp
+ENDFOR
+1074_FW.rcp
+FOR 1
+1074_07_2beam_16sums_BOTH.rcp
+ENDFOR
+1079_FW.rcp
+FOR 1
+1079_07_2beam_16sums_BOTH.rcp
+ENDFOR
+
+gain_low.rcp
+Exposure_80.rcp
+setupObserving.rcp
+setupDark.rcp
+Dark_16Sums.rcp
+setupObserving.rcp
+1083_FW.rcp
+FOR 1
+1083_07_2beam_16sums_BOTH.rcp
+ENDFOR
+656_FW.rcp
+FOR 1
+656_07_2beam_16sums_BOTH.rcp
+ENDFOR

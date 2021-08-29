@@ -1,0 +1,170 @@
+[main]
+Data Dir = d:\data\obs-code
+Server Data Dir = z:\ucomp
+
+[SGS]
+Arcsec Error Limit = .1
+Voltage to Arcsec = 1920
+
+[ports] 
+ILX COM PORT = COM44
+Cropico PORT = COM43
+O1 PORT = COM4
+Diffuser PORT = COM3
+
+[SGS Config]  
+IP Address = 128.171.190.18
+Port = 6341
+
+[sampling info]
+fs = 8000
+numS = 10000
+
+[FeLC Voltages]
+vneg = -7
+vpos = 7
+#vneg = 0
+#vpos = 0
+
+[DAQ Physical Channels]
+lyotAO = Dev1/ao0:7
+felcAO = Dev1/ao5:6
+triggerAO = Dev1/ao7
+triggerCtl = Dev1/ctr0
+#coverDirection = Dev5/port0/line1
+#coverMotor = Dev5/port0/line0
+#coverInBeam = Dev5/port0/line3
+#coverOutOfBeam = Dev5/port0/line2
+coverMotor = Dev1/port1/line0
+coverDirection = Dev1/port1/line1
+coverOutOfBeam = Dev1/port1/line2
+coverInBeam = Dev1/port1/line3
+shutterTrigger = Dev1/port1/line4
+shutterFeedBack = Dev1/port1/line5
+occulterSwitch = Dev1/port1/line6
+
+[Filter config]
+LCVR Relaxation = .25
+Temperature Compensation = true
+Temperature Compensation step size = .05
+
+[Camera Config]
+## It looks like the camera config needs to change when we swap cameras.
+## To build a camera config open up XCAP get the camera settings tweaked to be 
+## the desired settings.  Then go PCXCI->PCXCI Export Video Setup  and use the 
+## dialog box to create a new fmt file for the new cameras.  Then edit this
+## config tile to point at the newly created video format.
+Config File = C:\xcapconfig\2-camera-offset-gain-10006-10055.fmt
+##Config File no trigger = C:\xcapconfig\2-cameras-maunal-exposure-high-gain-a.fmt
+###Triggered Config File = C:\xcapconfig\2-camera-triggered.fmt
+TEC Setpoint = 5
+High gain = true
+Max Framerate = 670
+Min Framerate = 0
+# NUC options  Offset corrected,  Offset + gain corrected, normal, offset + gain  + dark
+# Exact spelling and case is important
+#NUC Type = Offset + gain corrected
+NUC Type = normal
+## IF Save all Image is true, instead of summing N times we will generate N (extra) extend header extensions.  This should go full rate without the modulator stabilization time
+Save all images without summing = false
+Busy read cycle = 10
+
+[Use Real Hardware]
+Diffuser = true
+Cover = true
+O1 Focus = true
+Saftey Shutter = true
+Occ X = true
+Occ Y = true
+FilterWheel = true
+Cal Pol Rot = true
+Cal Ret Rot = true
+Cal Trans = true
+Lyot = true
+Camera1 = true
+Camera2 = true
+Cropico = true
+ILX = true
+Spectragraph = false
+SGS = true
+
+[Mech In Beam Pos]
+### Counts are raw. Linear stages are 200 counts per mm.  Rotation stages are 100 counts per degree
+Cal Pol Rot = 0
+Cal Ret Rot = 0
+Cal Trans = 85
+Occ X = 61.75    
+Occ Y = 12.60
+Diffuser = 0
+Shutter = 1
+Cover = 1
+
+[Mech Out Beam Pos]
+### Counts are raw. Linear stages are 200 counts per mm.  Rotation stages are 100 counts per degree
+Occ X = 40
+Diffuser = -75
+Shutter = 0
+Cover = 0
+
+[Mech Home Offset]
+### Counts are raw. Linear stages are 200 counts per mm.  Rotation stages are 100 counts per degree  
+Cal Pol Rot = 11021
+Cal Ret Rot = 8694
+Cal Trans = 0
+Occ X = 0
+Occ Y = 0
+
+[O1 Config]
+counts2mm = 1290
+o1countlimit = 80302
+
+[FILTER 530]
+Filter Pos = 1
+O1 Pos = 2.52
+
+[FILTER 637]
+Filter Pos = 2
+O1 Pos = 21.64
+
+[FILTER 656]
+Filter Pos = 3
+O1 Pos = 24.18
+
+[FILTER 691]
+Filter Pos = 4
+O1 Pos = 28.38
+
+[FILTER 706]
+Filter Pos = 5
+O1 Pos = 30.29
+
+[FILTER 789]
+Filter Pos = 6
+O1 Pos = 39.03
+
+[FILTER 1074]
+Filter Pos = 7
+O1 Pos = 60.51
+
+[FILTER 1079]
+Filter Pos = 8
+O1 Pos = 61.02
+
+[FILTER 1083]
+Filter Pos = 9
+O1 Pos = 61.59
+
+[TEMP Sensor Names]
+#
+#  May 26, filter wheel RTD dead moving rack to A0 so T9 and T0 swapped.
+#
+T0 = T_RACK
+T1 = T_LCVR1
+T2 = T_LCVR2
+T3 = T_LCVR3
+T4 = T_LN1
+T5 = T_MODULATE
+T6 = T_LN2
+T7 = T_LCVR4
+T8 = T_LCVR5
+T9 = T_BASE
