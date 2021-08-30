@@ -16,6 +16,20 @@ jobs:
         with:
           script: |
             import os
-            print("Directory contents:")
-            for f in os.listdir():
-                print(f)            
+            os.chdir("Recipes")
+            
+            def read_script(scriptname,tab=0,childextension=".rcp"):
+              script = open(scriptname,"r")
+              tab = tab +1
+              for child in script.readlines():
+                child=child.strip()
+                if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("DATE") and not child.startswith("AUTHOR") and not child.startswith("DESCRIPTION"):
+                  print(f"{tab*6*'-'}>  {child.split('#')[0]}")
+                  try:
+                    read_script(child,tab)
+                  except:
+                    pass
+              script.close()
+
+            print("daily.menu")
+            read_script("daily.menu",0,".cbk")
