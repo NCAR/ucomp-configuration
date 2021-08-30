@@ -42,6 +42,6 @@ jobs:
           
       - uses: actions/download-artifact@v2
         with:
-          name: daily.sum2
+          name: daily.summary
           path: Recipes/daily.summary2
       
