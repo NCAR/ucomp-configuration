@@ -35,3 +35,7 @@ jobs:
             f.write("daily.menu\n")
             read_script(f,"daily.menu",0,".cbk")
             f.close()
+      - uses: actions/upload-artifact@v2
+        with:
+          name: daily.summary
+          path: Recipes/daily.summary
