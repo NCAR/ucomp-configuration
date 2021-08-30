@@ -40,7 +40,7 @@ jobs:
           name: daily.summary
           path: Recipes/daily.summary
           
-      - uses: action/download-artifact@v2
+      - uses: actions/download-artifact@v2
         with:
           name: daily.sum2
           path: Recipes/daily.summary2
