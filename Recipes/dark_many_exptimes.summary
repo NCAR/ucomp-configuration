@@ -1,0 +1,256 @@
+  > dark_many_exptimes.menu
+ ------ > dark_many_exptimes.ckb
+------------> gain_low.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_70.rcp
+------------------> EXPOSURE 70
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_60.rcp
+------------------> EXPOSURE 60
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_50.rcp
+------------------> EXPOSURE 50
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_40.rcp
+------------------> EXPOSURE 40
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_30.rcp
+------------------> EXPOSURE 30
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_20.rcp
+------------------> EXPOSURE 20
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_5.rcp
+------------------> EXPOSURE 5
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+------------> gain_low.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_70.rcp
+------------------> EXPOSURE 70
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_60.rcp
+------------------> EXPOSURE 60
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_50.rcp
+------------------> EXPOSURE 50
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_40.rcp
+------------------> EXPOSURE 40
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_30.rcp
+------------------> EXPOSURE 30
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_20.rcp
+------------------> EXPOSURE 20
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > Exposure_5.rcp
+------------------> EXPOSURE 5
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > one_dark.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	1

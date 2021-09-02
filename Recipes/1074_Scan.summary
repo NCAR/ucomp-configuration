@@ -1,0 +1,36 @@
+  > 1074_Scan.menu
+ ------ > 1074_Scan.ckb
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > 1074_FW.rcp
+------------------> PREFILTERRANGE 1074
+ ------------ > setupFlat.rcp
+------------------> DIFFUSER  IN
+------------------> COVER OUT
+------------------> OCC		OUT
+------------------> SHUT	OUT
+------------------> CALIB	OUT
+ ------------ > 1074_21_1beam_16sums_BOTH.rcp
+------------------> DATA	RCAM	BOTH	1072.20	16
+------------------> DATA	RCAM	BOTH	1072.45	16
+------------------> DATA	RCAM	BOTH	1072.70	16
+------------------> DATA	RCAM	BOTH	1072.95	16
+------------------> DATA	RCAM	BOTH	1073.20	16
+------------------> DATA	RCAM	BOTH	1073.45	16
+------------------> DATA	RCAM	BOTH	1073.70	16
+------------------> DATA	RCAM	BOTH	1073.95	16
+------------------> DATA	RCAM	BOTH	1074.20	16
+------------------> DATA	RCAM	BOTH	1074.45	16
+------------------> DATA	RCAM	BOTH	1074.70	16
+------------------> DATA	RCAM	BOTH	1074.95	16
+------------------> DATA	RCAM	BOTH	1075.20	16
+------------------> DATA	RCAM	BOTH	1075.45	16
+------------------> DATA	RCAM	BOTH	1075.70	16
+------------------> DATA	RCAM	BOTH	1075.95	16
+------------------> DATA	RCAM	BOTH	1076.20	16
+------------------> DATA	RCAM	BOTH	1076.45	16
+------------------> DATA	RCAM	BOTH	1076.70	16
+------------------> DATA	RCAM	BOTH	1076.95	16
+------------------> DATA	RCAM	BOTH	1077.20	16
+ ------------ > setupDark.rcp
+------------------> SHUT	IN

@@ -1,0 +1,7 @@
+  > header-demo.menu
+ ------ > header-demo.ckb
+ ------------ > header-demo.rcp
+------------------> DATA	RCAM	BOTH 	1074.7		    1
+------------------> DATA	RCAM	BLUE  	1074.7		    1
+------------------> DATA	TCAM	RED		1074.7			1
+------------------> DATA	RCAM	BLUE	1074.8			1
