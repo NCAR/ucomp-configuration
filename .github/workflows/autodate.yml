@@ -9,7 +9,9 @@ jobs:
         uses: actions/checkout@v2-beta # use either @v2-beta or @master. Eventually there will be a @v2 tag.
 
       - name: save current date
-        run: |
+        uses: actions/setup-python@v2
+        uses: jannekem/run-python-script-action@v1
+        with:
           script: |
             import os
             os.chdir("Recipes")
