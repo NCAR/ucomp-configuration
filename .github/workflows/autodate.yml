@@ -48,7 +48,7 @@ jobs:
                 results2 = unroll_forloop(results)
 
                 f1.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
-                f.write(f"<details>\n<summary>{scriptname}</summary>\n\n<blockquote>\n\n")
+                f.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
 
                 tab = tab +1
                 for child in results2:
@@ -59,10 +59,10 @@ jobs:
                         except:
                             print(child)
                             f1.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
-                            f.write(f"``` {child.split('#')[0]} ```\n")
+                            f.write(f"{child.split('#')[0]}\n")
                             pass
                 script.close()
-                f.write("\n</blockquote></details>\n")
+                f.write("</pre></blockquote></details>")
 
 
 
