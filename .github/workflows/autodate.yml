@@ -45,6 +45,6 @@ jobs:
       - name: commit
         run: |
           # Stage the file, commit and push
-          git add daily.summary
+          git add .
           git commit -m "new date commit"
           git push origin main
