@@ -6,11 +6,11 @@ jobs:
     steps:
       # Checkout the branch
       - name: checkout
-        uses: actions/checkout@v2-beta # use either @v2-beta or @master. Eventually there will be a @v2 tag.
+        uses: actions/checkout@v2 # use either @v2-beta or @master. Eventually there will be a @v2 tag.
       
       
       - name: setup python
-        uses: actions/setup-python@v2-beta
+        uses: actions/setup-python@v2
         
       - name: save current date
         uses: jannekem/run-python-script-action@v1
