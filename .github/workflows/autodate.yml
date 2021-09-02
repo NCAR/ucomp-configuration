@@ -10,8 +10,26 @@ jobs:
 
       - name: save current date
         run: |
-          # do some operation that changes a file in the git repo
-          date > time.txt
+          script: |
+            import os
+            os.chdir("Recipes")
+            
+            def read_script(f,scriptname,tab=0,childextension=".rcp"):
+              script = open(scriptname,"r")
+              tab = tab +1
+              for child in script.readlines():
+                child=child.strip()
+                if len(child) > 0 and child[0] != "#" and not child.startswith("DATE") and not child.startswith("AUTHOR") and not child.startswith("DESCRIPTION"):
+                  f.write((f"{tab*6*'-'}>  {child.split('#')[0]}\n"))
+                  try:
+                    read_script(f,child,tab)
+                  except:
+                    pass
+              script.close()
+            f = open("daily.summary","w")
+            f.write("daily.menu\n")
+            read_script(f,"daily.menu",0,".cbk")
+            f.close()
 
       - name: setup git config
         run: |
