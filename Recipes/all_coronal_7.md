@@ -206,7 +206,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -461,7 +461,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -716,7 +716,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -971,7 +971,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -1226,7 +1226,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -1467,7 +1467,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -1722,7 +1722,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -1977,7 +1977,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -2232,7 +2232,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -2487,7 +2487,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -2728,7 +2728,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -2983,7 +2983,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -3238,7 +3238,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -3493,7 +3493,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -3748,7 +3748,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -3989,7 +3989,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -4244,7 +4244,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -4499,7 +4499,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -4754,7 +4754,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -5009,7 +5009,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -5250,7 +5250,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -5505,7 +5505,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -5760,7 +5760,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -6015,7 +6015,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -6270,7 +6270,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -6511,7 +6511,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -6766,7 +6766,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -7021,7 +7021,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -7276,7 +7276,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -7531,7 +7531,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -7772,7 +7772,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -8027,7 +8027,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -8282,7 +8282,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -8537,7 +8537,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -8792,7 +8792,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -9033,7 +9033,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -9288,7 +9288,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -9543,7 +9543,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -9798,7 +9798,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
@@ -10053,7 +10053,7 @@ DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>ENDFOR
 gain_high.rcp
-<details><summary>Exposure_40.rcp</summary><blockquote><pre>EXPOSURE 40
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
