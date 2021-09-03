@@ -573,8 +573,8 @@
 ------------------> DATA	TCAM	BOTH	 656.54	16
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -868,8 +868,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -1163,8 +1163,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -3166,8 +3166,8 @@
 ------------------> DATA	TCAM	BOTH	 656.54	16
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -3461,8 +3461,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -3756,8 +3756,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -4051,8 +4051,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -4346,8 +4346,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -5097,8 +5097,8 @@
 ------------------> DATA	TCAM	BOTH	 656.54	16
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -5392,8 +5392,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -5687,8 +5687,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -5982,8 +5982,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -6277,8 +6277,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -7028,8 +7028,8 @@
 ------------------> DATA	TCAM	BOTH	 656.54	16
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -7323,8 +7323,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -7618,8 +7618,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -7913,8 +7913,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -8208,8 +8208,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -8959,8 +8959,8 @@
 ------------------> DATA	TCAM	BOTH	 656.54	16
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -9254,8 +9254,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -9549,8 +9549,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -9844,8 +9844,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -10139,8 +10139,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -10890,8 +10890,8 @@
 ------------------> DATA	TCAM	BOTH	 656.54	16
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -11185,8 +11185,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -11480,8 +11480,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -11775,8 +11775,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -12070,8 +12070,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -12821,8 +12821,8 @@
 ------------------> DATA	TCAM	BOTH	 656.54	16
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -13116,8 +13116,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -13411,8 +13411,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -13706,8 +13706,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -14001,8 +14001,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -14752,8 +14752,8 @@
 ------------------> DATA	TCAM	BOTH	 656.54	16
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -15047,8 +15047,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -15342,8 +15342,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -15637,8 +15637,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
@@ -15932,8 +15932,8 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
 ------------> ENDFOR
 ------------> gain_high.rcp
- ------------ > Exposure_40.rcp
-------------------> EXPOSURE 40
+ ------------ > Exposure_10.rcp
+------------------> EXPOSURE 10
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
  ------------ > Dark_16Sums.rcp
