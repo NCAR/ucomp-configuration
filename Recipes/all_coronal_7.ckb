@@ -1,5 +1,5 @@
 AUTHOR BERKEY
-DESCRIPTION Perform 7 point wavelength scan
+DESCRIPTION Perform 7 point wavelength scan for all 9 wavelengths
 
 gain_high.rcp
 Exposure_80.rcp
