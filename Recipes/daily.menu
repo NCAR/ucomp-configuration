@@ -29,7 +29,7 @@ dark_80ms_2beam_16sums_BOTH.ckb
 1074_Pol_Calibrate.ckb
 1079_Pol_Calibrate.ckb
 1083_Pol_Calibrate.ckb
-
+sumtest-1074.ckb
 waves_1074_1hour.ckb
 #For the rest of the day take coronal flats/images and some 1074 polarization calibrations 
 dark_200_200_1sums_80ms.ckb
