@@ -1353,7 +1353,57 @@ DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALIB	OUT
 <details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>waves_1074_1hour.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>sumtest-1074.ckb</summary><blockquote><pre>gain_high.rcp
+exposure_80.rcp
+<details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details><details><summary>sumframes.rcp</summary><blockquote><pre>SAVEALL OUT
+</pre></blockquote></details>Dark_11Sums.rcp
+<details><summary>saveindividualframes.rcp</summary><blockquote><pre>SAVEALL IN
+</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+CALIB	OUT
+OCC		IN
+DIFFUSER OUT
+SHUT	OUT
+</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+DATA RCAM BOTH 1074.82 11
+DATA RCAM BOTH 1074.70 11
+DATA TCAM BOTH 1074.58 11
+DATA TCAM BOTH 1074.82 11
+DATA TCAM BOTH 1074.70 11
+</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+DATA RCAM BOTH 1074.82 11
+DATA RCAM BOTH 1074.70 11
+DATA TCAM BOTH 1074.58 11
+DATA TCAM BOTH 1074.82 11
+DATA TCAM BOTH 1074.70 11
+</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+DATA RCAM BOTH 1074.82 11
+DATA RCAM BOTH 1074.70 11
+DATA TCAM BOTH 1074.58 11
+DATA TCAM BOTH 1074.82 11
+DATA TCAM BOTH 1074.70 11
+</pre></blockquote></details><details><summary>sumframes.rcp</summary><blockquote><pre>SAVEALL OUT
+</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+DATA RCAM BOTH 1074.82 11
+DATA RCAM BOTH 1074.70 11
+DATA TCAM BOTH 1074.58 11
+DATA TCAM BOTH 1074.82 11
+DATA TCAM BOTH 1074.70 11
+</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+DATA RCAM BOTH 1074.82 11
+DATA RCAM BOTH 1074.70 11
+DATA TCAM BOTH 1074.58 11
+DATA TCAM BOTH 1074.82 11
+DATA TCAM BOTH 1074.70 11
+</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+DATA RCAM BOTH 1074.82 11
+DATA RCAM BOTH 1074.70 11
+DATA TCAM BOTH 1074.58 11
+DATA TCAM BOTH 1074.82 11
+DATA TCAM BOTH 1074.70 11
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details></pre></blockquote></details><details><summary>waves_1074_1hour.ckb</summary><blockquote><pre>gain_high.rcp
 exposure_80.rcp
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
