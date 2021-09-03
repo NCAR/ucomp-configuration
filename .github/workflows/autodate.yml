@@ -1,0 +1,89 @@
+name: Commit date to master
+on: push
+jobs:
+  date:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the branch
+      - name: checkout
+        uses: actions/checkout@v2 # use either @v2-beta or @master. Eventually there will be a @v2 tag.
+      
+      
+      - name: setup python
+        uses: actions/setup-python@v2
+        
+      - name: save current date
+        uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import os
+            os.chdir("Recipes")
+            import glob
+
+            def unroll_forloop(results):
+                results2 = []
+                endline =0
+                for i in range(len(results)):
+                    if "FOR " in results[i]:
+                        forCount = int(results[i].split()[1])
+                        startLine = i+1
+                        for repeats in range(forCount):
+                            for nextLine in range(len(results)-i):
+                                if "ENDFOR" in results[startLine+nextLine]:
+                                    endline = startLine+nextLine
+                                    break
+                                else:
+                                    results2.append(results[startLine+nextLine])
+                    else:
+                        if i < endline:
+                            pass
+                        else:
+                            results2.append(results[i])
+                return results2
+
+            def read_script(f,f1,scriptname,tab=0,childextension=".rcp"):
+                script = open(scriptname,"r")
+                results = script.readlines()
+                script.close()
+                results2 = unroll_forloop(results)
+
+                f1.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
+                f.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
+
+                tab = tab +1
+                for child in results2:
+                    child=child.strip()
+                    if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("DATE") and not child.startswith("AUTHOR") and not child.startswith("DESCRIPTION"):
+                        try:
+                            read_script(f,f1,child.split('#')[0],tab)
+                        except:
+                            print(child)
+                            f1.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
+                            f.write(f"{child.split('#')[0]}\n")
+                            pass
+                script.close()
+                f.write("</pre></blockquote></details>")
+
+
+
+            menus = glob.glob("*.menu")
+            for menu in menus:
+                f = open(menu.split(".menu")[0]+".md","w")
+                f1 = open(menu.split(".menu")[0]+".summary","w")
+                read_script(f,f1,menu,0,".cbk")
+                f.close()
+                f1.close()
+            
+           
+      - name: setup git config
+        run: |
+          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          # Stage the file, commit and push
+          git add .
+          git commit -m "Menu files re-summarized"
+          git push origin main

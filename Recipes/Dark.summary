@@ -1,0 +1,9 @@
+  > Dark.menu
+ ------ > Dark.ckb
+ ------------ > Shutter_Close.rcp
+------------------> SHUT IN
+------------> for 1000
+ ------------ > Dark_1Sums-noshutter.rcp
+------------------> DATA	RCAM	BOTH	656.28	1
+------------------> DATA	RCAM	BOTH	656.28	1
+------------> endfor

@@ -1,0 +1,23 @@
+  > airforce.menu
+ ------ > airforce.cbk
+ ------------ > 1083_FW.rcp
+------------------> PREFILTERRANGE 1083
+ ------------ > Exposure_81.rcp
+------------------> EXPOSURE 81
+------------> setupdark.rcp
+ ------------ > Dark_4Sums.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	4
+------------------> DATA	RCAM	BOTH	656.28	4
+ ------------ > setupFlat.rcp
+------------------> DIFFUSER  IN
+------------------> COVER OUT
+------------------> OCC		OUT
+------------------> SHUT	OUT
+------------------> CALIB	OUT
+ ------------ > 1083_1_2beams_4sums.rcp
+------------------> SHUT OUT
+------------------> DATA	RCAM	BOTH	1083.00	4
+------------------> DATA	TCAM	BOTH	1083.00	4
+------------------> SHUT IN
+------------> setupdark.rcp
