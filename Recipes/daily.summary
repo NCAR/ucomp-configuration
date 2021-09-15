@@ -1652,6 +1652,70 @@
  ------------------ > 1083_1_2beams_16sums.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
+ ------ > sumtest-1074.ckb
+------------> gain_high.rcp
+------------> exposure_80.rcp
+ ------------ > 1074_FW.rcp
+------------------> PREFILTERRANGE 1074
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > sumframes.rcp
+------------------> SAVEALL OUT
+------------> Dark_11Sums.rcp
+ ------------ > saveindividualframes.rcp
+------------------> SAVEALL IN
+ ------------ > setupObserving.rcp
+------------------> SHUT IN
+------------------> CALIB	OUT
+------------------> OCC		IN
+------------------> DIFFUSER OUT
+------------------> SHUT	OUT
+ ------------ > 1074_3_2beams_11sums_BOTH.rcp
+------------------> DATA RCAM BOTH 1074.58 11
+------------------> DATA RCAM BOTH 1074.82 11
+------------------> DATA RCAM BOTH 1074.70 11
+------------------> DATA TCAM BOTH 1074.58 11
+------------------> DATA TCAM BOTH 1074.82 11
+------------------> DATA TCAM BOTH 1074.70 11
+ ------------ > 1074_3_2beams_11sums_BOTH.rcp
+------------------> DATA RCAM BOTH 1074.58 11
+------------------> DATA RCAM BOTH 1074.82 11
+------------------> DATA RCAM BOTH 1074.70 11
+------------------> DATA TCAM BOTH 1074.58 11
+------------------> DATA TCAM BOTH 1074.82 11
+------------------> DATA TCAM BOTH 1074.70 11
+ ------------ > 1074_3_2beams_11sums_BOTH.rcp
+------------------> DATA RCAM BOTH 1074.58 11
+------------------> DATA RCAM BOTH 1074.82 11
+------------------> DATA RCAM BOTH 1074.70 11
+------------------> DATA TCAM BOTH 1074.58 11
+------------------> DATA TCAM BOTH 1074.82 11
+------------------> DATA TCAM BOTH 1074.70 11
+ ------------ > sumframes.rcp
+------------------> SAVEALL OUT
+ ------------ > 1074_3_2beams_11sums_BOTH.rcp
+------------------> DATA RCAM BOTH 1074.58 11
+------------------> DATA RCAM BOTH 1074.82 11
+------------------> DATA RCAM BOTH 1074.70 11
+------------------> DATA TCAM BOTH 1074.58 11
+------------------> DATA TCAM BOTH 1074.82 11
+------------------> DATA TCAM BOTH 1074.70 11
+ ------------ > 1074_3_2beams_11sums_BOTH.rcp
+------------------> DATA RCAM BOTH 1074.58 11
+------------------> DATA RCAM BOTH 1074.82 11
+------------------> DATA RCAM BOTH 1074.70 11
+------------------> DATA TCAM BOTH 1074.58 11
+------------------> DATA TCAM BOTH 1074.82 11
+------------------> DATA TCAM BOTH 1074.70 11
+ ------------ > 1074_3_2beams_11sums_BOTH.rcp
+------------------> DATA RCAM BOTH 1074.58 11
+------------------> DATA RCAM BOTH 1074.82 11
+------------------> DATA RCAM BOTH 1074.70 11
+------------------> DATA TCAM BOTH 1074.58 11
+------------------> DATA TCAM BOTH 1074.82 11
+------------------> DATA TCAM BOTH 1074.70 11
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
  ------ > waves_1074_1hour.ckb
 ------------> gain_high.rcp
 ------------> exposure_80.rcp
