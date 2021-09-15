@@ -1360,7 +1360,8 @@ exposure_80.rcp
 </pre></blockquote></details><details><summary>sumframes.rcp</summary><blockquote><pre>SAVEALL OUT
 </pre></blockquote></details>Dark_11Sums.rcp
 <details><summary>saveindividualframes.rcp</summary><blockquote><pre>SAVEALL IN
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_11Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -2145,7 +2146,123 @@ DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
 </pre></blockquote></details>ENDFOR
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>691_Scan_coronal.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
+</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+CALIB	OUT
+OCC		IN
+DIFFUSER OUT
+SHUT	OUT
+</pre></blockquote></details><details><summary>691_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 690.90	16
+DATA	RCAM	BOTH	 690.99	16
+DATA	RCAM	BOTH	 691.08	16
+DATA	RCAM	BOTH	 691.17	16
+DATA	RCAM	BOTH	 691.26	16
+DATA	RCAM	BOTH	 691.35	16
+DATA	RCAM	BOTH	 691.44	16
+DATA	RCAM	BOTH	 691.53	16
+DATA	RCAM	BOTH	 691.62	16
+DATA	RCAM	BOTH	 691.71	16
+DATA	RCAM	BOTH	 691.80	16
+DATA	RCAM	BOTH	 691.89	16
+DATA	RCAM	BOTH	 691.98	16
+DATA	RCAM	BOTH	 692.07	16
+DATA	RCAM	BOTH	 692.16	16
+DATA	RCAM	BOTH	 692.25	16
+DATA	RCAM	BOTH	 692.34	16
+DATA	RCAM	BOTH	 692.43	16
+DATA	RCAM	BOTH	 692.52	16
+DATA	RCAM	BOTH	 692.61	16
+DATA	RCAM	BOTH	 692.70	16
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details></pre></blockquote></details><details><summary>706_Scan_coronal.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
+</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+CALIB	OUT
+OCC		IN
+DIFFUSER OUT
+SHUT	OUT
+</pre></blockquote></details><details><summary>706_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.30	16
+DATA	RCAM	BOTH	 705.39	16
+DATA	RCAM	BOTH	 705.48	16
+DATA	RCAM	BOTH	 705.57	16
+DATA	RCAM	BOTH	 705.66	16
+DATA	RCAM	BOTH	 705.75	16
+DATA	RCAM	BOTH	 705.84	16
+DATA	RCAM	BOTH	 705.93	16
+DATA	RCAM	BOTH	 706.02	16
+DATA	RCAM	BOTH	 706.11	16
+DATA	RCAM	BOTH	 706.20	16
+DATA	RCAM	BOTH	 706.29	16
+DATA	RCAM	BOTH	 706.38	16
+DATA	RCAM	BOTH	 706.47	16
+DATA	RCAM	BOTH	 706.56	16
+DATA	RCAM	BOTH	 706.65	16
+DATA	RCAM	BOTH	 706.74	16
+DATA	RCAM	BOTH	 706.83	16
+DATA	RCAM	BOTH	 706.92	16
+DATA	RCAM	BOTH	 707.01	16
+DATA	RCAM	BOTH	 707.10	16
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details></pre></blockquote></details><details><summary>691_Scan_coronal.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
+</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+CALIB	OUT
+OCC		IN
+DIFFUSER OUT
+SHUT	OUT
+</pre></blockquote></details><details><summary>691_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 690.90	16
+DATA	RCAM	BOTH	 690.99	16
+DATA	RCAM	BOTH	 691.08	16
+DATA	RCAM	BOTH	 691.17	16
+DATA	RCAM	BOTH	 691.26	16
+DATA	RCAM	BOTH	 691.35	16
+DATA	RCAM	BOTH	 691.44	16
+DATA	RCAM	BOTH	 691.53	16
+DATA	RCAM	BOTH	 691.62	16
+DATA	RCAM	BOTH	 691.71	16
+DATA	RCAM	BOTH	 691.80	16
+DATA	RCAM	BOTH	 691.89	16
+DATA	RCAM	BOTH	 691.98	16
+DATA	RCAM	BOTH	 692.07	16
+DATA	RCAM	BOTH	 692.16	16
+DATA	RCAM	BOTH	 692.25	16
+DATA	RCAM	BOTH	 692.34	16
+DATA	RCAM	BOTH	 692.43	16
+DATA	RCAM	BOTH	 692.52	16
+DATA	RCAM	BOTH	 692.61	16
+DATA	RCAM	BOTH	 692.70	16
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details></pre></blockquote></details><details><summary>706_Scan_coronal.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
+</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+CALIB	OUT
+OCC		IN
+DIFFUSER OUT
+SHUT	OUT
+</pre></blockquote></details><details><summary>706_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.30	16
+DATA	RCAM	BOTH	 705.39	16
+DATA	RCAM	BOTH	 705.48	16
+DATA	RCAM	BOTH	 705.57	16
+DATA	RCAM	BOTH	 705.66	16
+DATA	RCAM	BOTH	 705.75	16
+DATA	RCAM	BOTH	 705.84	16
+DATA	RCAM	BOTH	 705.93	16
+DATA	RCAM	BOTH	 706.02	16
+DATA	RCAM	BOTH	 706.11	16
+DATA	RCAM	BOTH	 706.20	16
+DATA	RCAM	BOTH	 706.29	16
+DATA	RCAM	BOTH	 706.38	16
+DATA	RCAM	BOTH	 706.47	16
+DATA	RCAM	BOTH	 706.56	16
+DATA	RCAM	BOTH	 706.65	16
+DATA	RCAM	BOTH	 706.74	16
+DATA	RCAM	BOTH	 706.83	16
+DATA	RCAM	BOTH	 706.92	16
+DATA	RCAM	BOTH	 707.01	16
+DATA	RCAM	BOTH	 707.10	16
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
