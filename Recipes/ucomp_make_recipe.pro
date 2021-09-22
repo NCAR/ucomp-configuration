@@ -1,13 +1,14 @@
 pro make_recipe_event, ev
 
-common recipe, wave_region, step, nwave, nsum, nbeam, mode, expose, ext_id, num_id
+common recipe, wave_region, step, nwave, nsum, nbeam, nrep, mode, expose, ext_id, num_id,step_id
 
-dir='C:\Users\tomczyk\Documents\HAO-IG\UCOMP\Software\Labview development\Recipes'
+dir='C:\Users\tomczyk\Documents\GitHub\ucomp-configuration\Recipes'
 cd,dir
 
 ;  the 9 wavelength regions observed by the ucomp
 
 regions=['530.3','637.4','656.3','691.8','706.2','789.4','1074.7', '1079.8', '1083.0']
+default_step = [0.06,0.07,0.07,0.075,0.075,0.08,0.11,0.11,0.08]         ;corresponding default step size
 back_mode = ['BOTH', 'BLUE', 'RED','ALL']
 
 debug='yes'			;debug mode, 'yes' or 'no'
@@ -16,7 +17,6 @@ widget_control, ev.id, get_uvalue=value
 if (n_elements(value) eq 0) then value = ''
 if debug eq 'yes' then print,value
 
-
 case (value) of				;  if done, close widget
 	"DONE": begin
 		WIDGET_CONTROL, /destroy, ev.top
@@ -24,8 +24,8 @@ case (value) of				;  if done, close widget
 	end
 
  	"Write": begin
-		if debug eq 'yes' then print,wave_region, step, nwave, nsum, nbeam, mode, expose
-  		ucomp_write_recipe,wave_region, step, nwave, nsum, nbeam, mode, expose
+		if debug eq 'yes' then print,wave_region, step, nwave, nsum, nbeam, mode, expose, nrep
+  		ucomp_write_recipe,wave_region, step, nwave, nsum, nbeam, mode, expose, nrep
  	end
 
  	"NWave": begin
@@ -43,6 +43,11 @@ case (value) of				;  if done, close widget
 		if debug eq 'yes' then print,nbeam,' beams'
 	end
 
+	"NRep": begin
+	  nrep=ev.value
+	  if debug eq 'yes' then print,nrep,' repetitions'
+	end
+
 	"NSum": begin
 		nsum=ev.value
 		if debug eq 'yes' then print,nsum,' sums'
@@ -55,51 +60,48 @@ case (value) of				;  if done, close widget
 
 	"Region": begin
 		wave_region = regions[ev.index]
+		step = default_step[ev.index]
+		widget_control, step_id, set_value=string(format='(f5.3)',step)
   		if debug eq 'yes' then print,wave_region
-  	end
-
-	"WStep": begin
-		step=ev.value
-		step=fix(step*100.+0.5)/100.	;round to nearest 0.01
-  		if debug eq 'yes' then print,step
   	end
 
   else:
   endcase
 
-
 ;  compute and display number of images in recipe
 ;  compute and display estimated recipe execution time in seconds (assume 0.25 s lcvr delay)
 
 if mode eq 'ALL' then nmode=3 else nmode=1
-ntot = nwave*nbeam*nmode
+ntot = nwave*nbeam*nrep*nmode
 extime = expose*ntot*4*nsum/1000. + 0.25*ntot
 
 widget_control, num_id, set_value=string(format='(i3)',ntot)
 
 widget_control, ext_id, set_value=string(format='(f6.1)',extime)
-
+print,'test'
 end
 
+;-------------------------------------------------------------------------------------------------------------------------------------------
 
 pro ucomp_make_recipe
 
-common recipe, wave_region, step, nwave, nsum, nbeam, mode, expose, ext_id, num_id
+common recipe, wave_region, step, nwave, nsum, nbeam, nrep, mode, expose, ext_id, num_id,step_id
 
 ;	set default values
 
 wave_region = '530.3'
-step = 0.12
-nwave = 5
-nsum = 1
-nbeam = 2
+step = 0.06
+nwave = 5l
+nsum = 16l
+nbeam = 2l
+nrep = 2l
 mode = 'BOTH'
-nmode = 1
-expose = 81
+nmode = 1l
+expose = 80l
 
 ;  compute default recipe execution time
 
-ntot = nwave*nbeam*nmode
+ntot = nwave*nbeam*nrep*nmode
 extime = expose*ntot*4*nsum/1000. + 0.25*ntot
 
 swin = !d.window	;Previous window
@@ -117,7 +119,7 @@ value = [ 'UCoMP Recipe Generating Application', $
 '    observations. Each line of a recipe represents a group of image data at the specified ', $
 '    wavelength, in all 4 modulation states, and for both cameras that will be saved in a', $ 
 '    single fits file. A recipe typically consists of a number commands in a single wavelength', $ 
-'    region, and takes from 10 to 40 seconds. The observing code executes a list of recipes,', $
+'    region, and takes from 30 to 100 seconds. The observing code executes a list of recipes,', $
 '    listed in a cookbook (.cbk) file, during the day.' ])
 
 WIDGET_CONTROL, base, set_uvalue=t1
@@ -125,7 +127,6 @@ WIDGET_CONTROL, base, set_uvalue=t1
 b2 = WIDGET_BASE(base, /frame, /column, space=30)
 
 t1 = widget_base(b1, /row)
-
 
 ;  create widget to display number of images in recipe
 
@@ -164,21 +165,28 @@ t1 = widget_slider(b2, title='Number of Wavelengths (make odd)',uvalue='NWave',v
 
 ;  create slider for wavelength step size
 
-t1 = cw_fslider(b2, title='Wavelength Step (nm)', uvalue='WStep', format='(f5.2)', $
- minimum=0.03, maximum=5.0, scroll=1.d-2, value=0.120d0, /double)
+t1 = widget_label(b2, value = 'Wavelength Step (nm):')
+step_id = widget_text(b2, /editable, xsize=6, ysize=1,value=string(format='(f5.3)',step))
 
 ;  create slider for exposure time
 
-t1 = widget_slider(b2, title='Exposure Time (ms)',uvalue='Expose',value=81, $
+t1 = widget_slider(b2, title='Exposure Time (ms)',uvalue='Expose',value=80, $
  minimum=1, maximum=81)
 
 ;  create slider for number of sums
 
-t1 = widget_slider(b2, title='Number of Sums',uvalue='NSum',value=1, $
- minimum=1, maximum=10)
+t1 = widget_slider(b2, title='Number of Sums',uvalue='NSum',value=16, $
+ minimum=1, maximum=20)
+
+;  create slider for number of beams
 
 t1 = widget_slider(b2, title='Number of Beams',uvalue='NBeam',value=2, $
  minimum=1, maximum=2)
+
+ ;  create slider for number of repetitions
+
+ t1 = widget_slider(b2, title='Number of Repetitions',uvalue='NRep',value=2, $
+   minimum=1, maximum=10)
 
 widget_control, base, /realize
 XMANAGER, 'make_recipe', base, /NO_BLOCK

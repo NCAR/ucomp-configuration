@@ -1,22 +1,18 @@
-pro ucomp_write_recipe,wave_region, step, nwave, nsum, nbeam, mode, expose
+pro ucomp_write_recipe,wave_region, step, nwave, nsum, nbeam, mode, expose, nrep
 
 ;  procedure to write a recipe, called by make_recipe widget
 
-
 debug='yes'			;debug mode, 'yes' or 'no'
 tab=string(9B)
-
 
 ;  specify central wavelength depending on region
 
 wave0 = float(wave_region)
 
-
 ;  compute wavelengths
 
 waves = (indgen(nwave)-fix(nwave/2))*step +wave0
 if debug eq 'yes' then print,waves
-
 
 ;  create background mode sequence
 
@@ -31,21 +27,18 @@ nmode = n_elements(back_mode)
 
 if debug eq 'yes' then print,nmode
 
-
 ;  compute expected execution time
 
-ntot = nwave*nbeam*nmode
+ntot = nwave*nbeam*nrep*nmode
 extime = expose*ntot*4*nsum/1000. + 0.25*ntot
-
 
 ;  create filename and write file
 
-name = strcompress(string(format='(i4.0,"_",i2.2,"_",i1,"beam_",a,".rcp")', $
- fix(wave0),nwave,nbeam,mode),/remove_all)
+name = strcompress(string(format='(i4.0,"_",i2.2,"wave","_",i1,"beam_",i2.2,"sums_",i1.1,"rep_",a,".rcp")', $
+ fix(wave0),nwave,nbeam,nsum,nrep,mode),/remove_all)
 if debug eq 'yes' then print,name
 
 openw,1,name
-
 
 ;  write out recipe
 
@@ -58,15 +51,17 @@ printf,1,"DATE  ",systime()
 printf,1
 printf,1,format='("#Expected execution time:",f7.3," s")',extime
 printf,1
-printf,1,"#DATATYPE BEAM  WAVELENGTH  NUMSUMS"
+printf,1,"#DATATYPE BEAM CONTINUUM WAVELENGTH NUMSUMS"
 
-for imode=0,nmode-1 do begin
-  for ibeam=0,nbeam-1 do begin
-    for iwave=0,nwave-1 do begin
-    	printf,1, format='("DATA",a,a,a,a,a,f7.2,a,i1)', $
-        tab,beams[ibeam],tab,back_mode[imode],tab,waves[iwave],tab,nsum
+for irep=0,nrep-1 do begin
+  for imode=0,nmode-1 do begin
+    for ibeam=0,nbeam-1 do begin
+      for iwave=0,nwave-1 do begin
+      	printf,1, format='("DATA",a,a,a,a,a,f7.2,a,i5)', $
+          tab,beams[ibeam],tab,back_mode[imode],tab,waves[iwave],tab,nsum
+      endfor
+      printf,1
     endfor
-    printf,1
   endfor
 endfor
 
