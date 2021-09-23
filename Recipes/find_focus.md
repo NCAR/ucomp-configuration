@@ -1,17 +1,7 @@
 <details><summary>find_focus.menu</summary><blockquote><pre><details><summary>find_focus.cbk</summary><blockquote><pre>ND_IN.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>530_focus-a.rcp</summary><blockquote><pre>PREFILTERRANGE 530
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>530_focus-a.rcp</summary><blockquote><pre>PREFILTERRANGE 530
 SHUT	OUT
 O1 0
 DATA	TCAM	BOTH	530.00	16
@@ -372,62 +362,8 @@ DATA	TCAM	BOTH	1074.45	4
 O1 62
 DATA	TCAM	BOTH	1074.45	4
 SHUT IN
-</pre></blockquote></details><details><summary>1079_focus.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-SHUT	OUT
-O1 50
-DATA	TCAM	BOTH	1079.80	4
-O1 50.5
-DATA	TCAM	BOTH	1079.80	4
-O1 51
-DATA	TCAM	BOTH	1079.80	4
-O1 51.5
-DATA	TCAM	BOTH	1079.80	4
-O1 52
-DATA	TCAM	BOTH	1079.80	4
-O1 52.5
-DATA	TCAM	BOTH	1079.80	4
-O1 53
-DATA	TCAM	BOTH	1079.80	4
-O1 53.5
-DATA	TCAM	BOTH	1079.80	4
-O1 54
-DATA	TCAM	BOTH	1079.80	4
-O1 54.5
-DATA	TCAM	BOTH	1079.80	4
-O1 55
-DATA	TCAM	BOTH	1079.80	4
-O1 55.5
-DATA	TCAM	BOTH	1079.80	4
-O1 56
-DATA	TCAM	BOTH	1079.80	4
-O1 56.5
-DATA	TCAM	BOTH	1079.80	4
-O1 57
-DATA	TCAM	BOTH	1079.80	4
-O1 57.5
-DATA	TCAM	BOTH	1079.80	4
-O1 58
-DATA	TCAM	BOTH	1079.80	4
-O1 58.5
-DATA	TCAM	BOTH	1079.80	4
-O1 59
-DATA	TCAM	BOTH	1079.80	4
-O1 59.5
-DATA	TCAM	BOTH	1079.80	4
-O1 60
-DATA	TCAM	BOTH	1079.80	4
-O1 60.5
-DATA	TCAM	BOTH	1079.80	4
-O1 61
-DATA	TCAM	BOTH	1079.80	4
-O1 61.5
-DATA	TCAM	BOTH	1079.80	4
-O1 62
-DATA	TCAM	BOTH	1079.80	4
-O1 62.5
-DATA	TCAM	BOTH	1079.80	4
-SHUT IN
-</pre></blockquote></details><details><summary>1083_focus.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
+</pre></blockquote></details>1079_focus.rcp
+<details><summary>1083_focus.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 SHUT	OUT
 O1 62
 DATA	TCAM	BOTH	1083.00	4
