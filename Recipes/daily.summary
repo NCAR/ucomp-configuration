@@ -1,5 +1,22 @@
   > daily.menu
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 530_Scan.cbk
  ------------ > Exposure_80.rcp
 ------------------> EXPOSURE 80
@@ -3712,7 +3729,24 @@
 ------------------> DATA	TCAM	BOTH	 656.44	   16
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 530_Pol_Calibrate.cbk
  ------------ > 530_FW.rcp
 ------------------> PREFILTERRANGE 530
@@ -10679,7 +10713,24 @@
 ------------------> DATA	TCAM	BOTH	 656.44	   16
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 1074_Pol_Calibrate.cbk
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
@@ -16365,7 +16416,24 @@
 ------------------> DATA	TCAM	BOTH	 656.44	   16
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 1074_Pol_Calibrate.cbk
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
@@ -22051,7 +22119,24 @@
 ------------------> DATA	TCAM	BOTH	 656.44	   16
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 1074_Pol_Calibrate.cbk
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
@@ -27737,7 +27822,24 @@
 ------------------> DATA	TCAM	BOTH	 656.44	   16
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 1074_Pol_Calibrate.cbk
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
@@ -32985,7 +33087,24 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 1074_Pol_Calibrate.cbk
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
@@ -38233,7 +38352,24 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 1074_Pol_Calibrate.cbk
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
@@ -43481,7 +43617,24 @@
 ------------------> DATA	TCAM	BOTH	 656.66	16
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------> dark_80ms_2beam_16sums_BOTH.cbk
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
+ ------------ > Exposure_80.rcp
+------------------> EXPOSURE 80
+ ------------ > setupDark.rcp
+------------------> SHUT	IN
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------ > 1074_Pol_Calibrate.cbk
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
