@@ -4,21 +4,21 @@ DESCRIPTION Perform polarization calibration at 789 nm
 
 CALRET	0
 CALPOL	0
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	45
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	90
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	135
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp
 CALRET	45
 CALPOL	0
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	45
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	90
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	135
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp
 CALIB	OUT
-789_1_2beams_16sums.rcp
+789_01wave_2beam_16sums_1rep_BOTH.rcp

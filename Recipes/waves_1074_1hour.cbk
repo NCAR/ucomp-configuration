@@ -1,0 +1,11 @@
+gain_high.rcp
+exposure_80.rcp
+1074_FW.rcp
+setupDark.rcp
+Dark_11Sums.rcp 
+setupFlat.rcp 
+1074_02wave_2beam_11sums_1_rep_BOTH.rcp
+setupObserving.rcp
+FOR 120
+1074_02wave_2beam_11sums_1_rep_BOTH.rcp
+ENDFOR

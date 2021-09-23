@@ -1,0 +1,10 @@
+DATE  Thurs Aug 20 2020
+AUTHOR Tomczyk
+DESCRIPTION Perform 21 point wavelength scan
+
+
+Exposure_80.rcp
+1079_FW.rcp
+setupFlat.rcp
+1079_21wave_1beam_16sums_1rep_BOTH.rcp
+setupDark.rcp

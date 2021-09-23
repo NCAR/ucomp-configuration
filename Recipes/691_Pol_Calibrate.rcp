@@ -4,21 +4,21 @@ DESCRIPTION Perform polarization calibration at 691 nm
 
 CALRET	0
 CALPOL	0
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	45
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	90
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	135
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
 CALRET	45
 CALPOL	0
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	45
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	90
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
 CALPOL	135
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
 CALIB	OUT
-691_1_2beams_16sums.rcp
+691_01wave_2beam_16sums_1rep_BOTH.rcp
