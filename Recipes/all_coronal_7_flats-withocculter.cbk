@@ -6,7 +6,7 @@ gain_high.rcp
 Exposure_80.rcp
 setupFlat.rcp
 setupDark.rcp
-dark_01wave_1beam_16sums_200_rep_BOTH.rcp
+dark_01wave_1beam_16sums_1rep_BOTH.rcp
 
 setupFlat.rcp
 530_FW.rcp
@@ -26,7 +26,7 @@ setupFlat.rcp
 1079_FW.rcp
 1079_07wave_2beam_16sums_1rep_BOTH.rcp
 1083_FW.rcp
-1083_07_2beam_16sums_BOTH.rcp
+1083_07wave_2beam_16sums_1rep_BOTH.rcp
 
 
 setupFlat-occulter.rcp
@@ -41,10 +41,10 @@ setupFlat-occulter.rcp
 706_FW.rcp
 706_07wave_2beam_16sums_1rep_BOTH.rcp
 789_FW.rcp
-789_07_2beam_16sums_BOTH.rcp
+789_07wave_2beam_16sums_1rep_BOTH.rcp
 1074_FW.rcp
-1074_07_2beam_16sums_BOTH.rcp
+1074_07wave_2beam_16sums_1rep_BOTH.rcp
 1079_FW.rcp
-1079_07_2beam_16sums_BOTH.rcp
+1079_07wave_2beam_16sums_1rep_BOTH.rcp
 1083_FW.rcp
-1083_07_2beam_16sums_BOTH.rcp
+1083_07wave_2beam_16sums_1rep_BOTH.rcp

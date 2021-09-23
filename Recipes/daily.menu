@@ -33,8 +33,9 @@ dark_80ms_2beam_16sums_BOTH.cbk
 1074_Pol_Calibrate.cbk
 1079_Pol_Calibrate.cbk
 1083_Pol_Calibrate.cbk
-sumtest-1074.cbk
+
 waves_1074_1hour.cbk
+sumtest-1074.cbk
 
 
 #For the rest of the day take coronal flats/images and some 1074 polarization calibrations 

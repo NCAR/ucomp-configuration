@@ -7,18 +7,18 @@ exposure_80.rcp
 1074_FW.rcp
 setupDark.rcp
 sumframes.rcp
-Dark_11Sums.rcp 
+dark_01wave_1beam_11sums_10rep_BOTH.rcp
 saveindividualframes.rcp
-Dark_11Sums.rcp 
+dark_01wave_1beam_11sums_10rep_BOTH.rcp
 
 setupObserving.rcp
 
-1074_3_2beams_11sums_BOTH.rcp 
-1074_3_2beams_11sums_BOTH.rcp 
-1074_3_2beams_11sums_BOTH.rcp 
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
 
 sumframes.rcp
-1074_3_2beams_11sums_BOTH.rcp 
-1074_3_2beams_11sums_BOTH.rcp 
-1074_3_2beams_11sums_BOTH.rcp 
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
 setupDark.rcp
