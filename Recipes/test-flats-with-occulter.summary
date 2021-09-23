@@ -11,207 +11,18 @@
 ------------------> CALIB	OUT
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
- ------------ > dark_01wave_1beam_16sums_200_rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
-------------------> DATA	RCAM	BOTH	656.28	1
+ ------------ > dark_01wave_1beam_16sums_1rep_BOTH.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
  ------------ > setupFlat.rcp
 ------------------> DIFFUSER  IN
 ------------------> COVER OUT
@@ -356,7 +167,21 @@
 ------------------> DATA	TCAM	BOTH	1080.16	16
  ------------ > 1083_FW.rcp
 ------------------> PREFILTERRANGE 1083
-------------> 1083_07_2beam_16sums_BOTH.rcp
+ ------------ > 1083_07wave_2beam_16sums_1rep_BOTH.rcp
+------------------> DATA	RCAM	BOTH	1082.64	16
+------------------> DATA	RCAM	BOTH	1082.76	16
+------------------> DATA	RCAM	BOTH	1082.88	16
+------------------> DATA	RCAM	BOTH	1083.00	16
+------------------> DATA	RCAM	BOTH	1083.12	16
+------------------> DATA	RCAM	BOTH	1083.24	16
+------------------> DATA	RCAM	BOTH	1083.36	16
+------------------> DATA	TCAM	BOTH	1082.64	16
+------------------> DATA	TCAM	BOTH	1082.76	16
+------------------> DATA	TCAM	BOTH	1082.88	16
+------------------> DATA	TCAM	BOTH	1083.00	16
+------------------> DATA	TCAM	BOTH	1083.12	16
+------------------> DATA	TCAM	BOTH	1083.24	16
+------------------> DATA	TCAM	BOTH	1083.36	16
  ------------ > setupFlat-occulter.rcp
 ------------------> DIFFUSER  IN
 ------------------> COVER OUT
@@ -450,13 +275,69 @@
 ------------------> DATA	TCAM	BOTH	 706.56	16
  ------------ > 789_FW.rcp
 ------------------> PREFILTERRANGE 789
-------------> 789_07_2beam_16sums_BOTH.rcp
+ ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
+------------------> DATA	RCAM	BOTH	 789.04	16
+------------------> DATA	RCAM	BOTH	 789.16	16
+------------------> DATA	RCAM	BOTH	 789.28	16
+------------------> DATA	RCAM	BOTH	 789.40	16
+------------------> DATA	RCAM	BOTH	 789.52	16
+------------------> DATA	RCAM	BOTH	 789.64	16
+------------------> DATA	RCAM	BOTH	 789.76	16
+------------------> DATA	TCAM	BOTH	 789.04	16
+------------------> DATA	TCAM	BOTH	 789.16	16
+------------------> DATA	TCAM	BOTH	 789.28	16
+------------------> DATA	TCAM	BOTH	 789.40	16
+------------------> DATA	TCAM	BOTH	 789.52	16
+------------------> DATA	TCAM	BOTH	 789.64	16
+------------------> DATA	TCAM	BOTH	 789.76	16
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
-------------> 1074_07_2beam_16sums_BOTH.rcp
+ ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
+------------------> DATA	RCAM	BOTH	1074.34	16
+------------------> DATA	RCAM	BOTH	1074.46	16
+------------------> DATA	RCAM	BOTH	1074.58	16
+------------------> DATA	RCAM	BOTH	1074.70	16
+------------------> DATA	RCAM	BOTH	1074.82	16
+------------------> DATA	RCAM	BOTH	1074.94	16
+------------------> DATA	RCAM	BOTH	1075.06	16
+------------------> DATA	TCAM	BOTH	1074.34	16
+------------------> DATA	TCAM	BOTH	1074.46	16
+------------------> DATA	TCAM	BOTH	1074.58	16
+------------------> DATA	TCAM	BOTH	1074.70	16
+------------------> DATA	TCAM	BOTH	1074.82	16
+------------------> DATA	TCAM	BOTH	1074.94	16
+------------------> DATA	TCAM	BOTH	1075.06	16
  ------------ > 1079_FW.rcp
 ------------------> PREFILTERRANGE 1079
-------------> 1079_07_2beam_16sums_BOTH.rcp
+ ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
+------------------> DATA	RCAM	BOTH	1079.44	16
+------------------> DATA	RCAM	BOTH	1079.56	16
+------------------> DATA	RCAM	BOTH	1079.68	16
+------------------> DATA	RCAM	BOTH	1079.80	16
+------------------> DATA	RCAM	BOTH	1079.92	16
+------------------> DATA	RCAM	BOTH	1080.04	16
+------------------> DATA	RCAM	BOTH	1080.16	16
+------------------> DATA	TCAM	BOTH	1079.44	16
+------------------> DATA	TCAM	BOTH	1079.56	16
+------------------> DATA	TCAM	BOTH	1079.68	16
+------------------> DATA	TCAM	BOTH	1079.80	16
+------------------> DATA	TCAM	BOTH	1079.92	16
+------------------> DATA	TCAM	BOTH	1080.04	16
+------------------> DATA	TCAM	BOTH	1080.16	16
  ------------ > 1083_FW.rcp
 ------------------> PREFILTERRANGE 1083
-------------> 1083_07_2beam_16sums_BOTH.rcp
+ ------------ > 1083_07wave_2beam_16sums_1rep_BOTH.rcp
+------------------> DATA	RCAM	BOTH	1082.64	16
+------------------> DATA	RCAM	BOTH	1082.76	16
+------------------> DATA	RCAM	BOTH	1082.88	16
+------------------> DATA	RCAM	BOTH	1083.00	16
+------------------> DATA	RCAM	BOTH	1083.12	16
+------------------> DATA	RCAM	BOTH	1083.24	16
+------------------> DATA	RCAM	BOTH	1083.36	16
+------------------> DATA	TCAM	BOTH	1082.64	16
+------------------> DATA	TCAM	BOTH	1082.76	16
+------------------> DATA	TCAM	BOTH	1082.88	16
+------------------> DATA	TCAM	BOTH	1083.00	16
+------------------> DATA	TCAM	BOTH	1083.12	16
+------------------> DATA	TCAM	BOTH	1083.24	16
+------------------> DATA	TCAM	BOTH	1083.36	16
