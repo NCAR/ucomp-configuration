@@ -1,4 +1,4 @@
-<details><summary>daily.menu</summary><blockquote><pre><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+<details><summary>daily.menu</summary><blockquote><pre><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -12,14 +12,14 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>530_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>530_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>530_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.90	16
+</pre></blockquote></details><details><summary>530_21wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.90	16
 DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 529.98	16
 DATA	RCAM	BOTH	 530.02	16
@@ -41,14 +41,14 @@ DATA	RCAM	BOTH	 530.62	16
 DATA	RCAM	BOTH	 530.66	16
 DATA	RCAM	BOTH	 530.70	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>637_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>637_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>637_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 636.70	16
+</pre></blockquote></details><details><summary>637_21wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 636.70	16
 DATA	RCAM	BOTH	 636.77	16
 DATA	RCAM	BOTH	 636.84	16
 DATA	RCAM	BOTH	 636.91	16
@@ -70,14 +70,14 @@ DATA	RCAM	BOTH	 637.96	16
 DATA	RCAM	BOTH	 638.03	16
 DATA	RCAM	BOTH	 638.10	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>656_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>656_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.60	16
+</pre></blockquote></details><details><summary>656_21wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.60	16
 DATA	RCAM	BOTH	 655.67	16
 DATA	RCAM	BOTH	 655.74	16
 DATA	RCAM	BOTH	 655.81	16
@@ -99,7 +99,7 @@ DATA	RCAM	BOTH	 656.86	16
 DATA	RCAM	BOTH	 656.93	16
 DATA	RCAM	BOTH	 657.00	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>691_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>691_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
@@ -128,36 +128,16 @@ DATA	RCAM	BOTH	 692.52	16
 DATA	RCAM	BOTH	 692.61	16
 DATA	RCAM	BOTH	 692.70	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>706_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>706_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>706_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.30	16
-DATA	RCAM	BOTH	 705.39	16
-DATA	RCAM	BOTH	 705.48	16
-DATA	RCAM	BOTH	 705.57	16
-DATA	RCAM	BOTH	 705.66	16
-DATA	RCAM	BOTH	 705.75	16
-DATA	RCAM	BOTH	 705.84	16
-DATA	RCAM	BOTH	 705.93	16
-DATA	RCAM	BOTH	 706.02	16
-DATA	RCAM	BOTH	 706.11	16
-DATA	RCAM	BOTH	 706.20	16
-DATA	RCAM	BOTH	 706.29	16
-DATA	RCAM	BOTH	 706.38	16
-DATA	RCAM	BOTH	 706.47	16
-DATA	RCAM	BOTH	 706.56	16
-DATA	RCAM	BOTH	 706.65	16
-DATA	RCAM	BOTH	 706.74	16
-DATA	RCAM	BOTH	 706.83	16
-DATA	RCAM	BOTH	 706.92	16
-DATA	RCAM	BOTH	 707.01	16
-DATA	RCAM	BOTH	 707.10	16
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>789_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details>707_21wave_2beam_16sums_1rep_BOTH.rcp
+<details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details></pre></blockquote></details><details><summary>789_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
@@ -186,14 +166,14 @@ DATA	RCAM	BOTH	 790.36	16
 DATA	RCAM	BOTH	 790.48	16
 DATA	RCAM	BOTH	 790.60	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1074_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1072.20	16
+</pre></blockquote></details><details><summary>1074_21wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1072.20	16
 DATA	RCAM	BOTH	1072.45	16
 DATA	RCAM	BOTH	1072.70	16
 DATA	RCAM	BOTH	1072.95	16
@@ -215,14 +195,14 @@ DATA	RCAM	BOTH	1076.70	16
 DATA	RCAM	BOTH	1076.95	16
 DATA	RCAM	BOTH	1077.20	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>1079_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>1079_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1079_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1077.30	16
+</pre></blockquote></details><details><summary>1079_21wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1077.30	16
 DATA	RCAM	BOTH	1077.55	16
 DATA	RCAM	BOTH	1077.80	16
 DATA	RCAM	BOTH	1078.05	16
@@ -244,14 +224,14 @@ DATA	RCAM	BOTH	1081.80	16
 DATA	RCAM	BOTH	1082.05	16
 DATA	RCAM	BOTH	1082.30	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>1083_Scan.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>1083_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1080.50	16
+</pre></blockquote></details><details><summary>1083_21wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1080.50	16
 DATA	RCAM	BOTH	1080.75	16
 DATA	RCAM	BOTH	1081.00	16
 DATA	RCAM	BOTH	1081.25	16
@@ -277,259 +257,289 @@ DATA	RCAM	BOTH	1085.50	16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupFlat.rcp 
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
-DATA	RCAM	BOTH	 530.06	16
-DATA	RCAM	BOTH	 530.18	16
-DATA	RCAM	BOTH	 530.30	16
-DATA	RCAM	BOTH	 530.42	16
-DATA	RCAM	BOTH	 530.54	16
-DATA	RCAM	BOTH	 530.66	16
-DATA	TCAM	BOTH	 529.94	16
-DATA	TCAM	BOTH	 530.06	16
-DATA	TCAM	BOTH	 530.18	16
-DATA	TCAM	BOTH	 530.30	16
-DATA	TCAM	BOTH	 530.42	16
-DATA	TCAM	BOTH	 530.54	16
-DATA	TCAM	BOTH	 530.66	16
+</pre></blockquote></details><details><summary>530_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
-DATA	RCAM	BOTH	 637.16	16
-DATA	RCAM	BOTH	 637.28	16
-DATA	RCAM	BOTH	 637.40	16
-DATA	RCAM	BOTH	 637.52	16
-DATA	RCAM	BOTH	 637.64	16
-DATA	RCAM	BOTH	 637.76	16
-DATA	TCAM	BOTH	 637.04	16
-DATA	TCAM	BOTH	 637.16	16
-DATA	TCAM	BOTH	 637.28	16
-DATA	TCAM	BOTH	 637.40	16
-DATA	TCAM	BOTH	 637.52	16
-DATA	TCAM	BOTH	 637.64	16
-DATA	TCAM	BOTH	 637.76	16
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_3rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
-DATA	RCAM	BOTH	 691.56	16
-DATA	RCAM	BOTH	 691.68	16
-DATA	RCAM	BOTH	 691.80	16
-DATA	RCAM	BOTH	 691.92	16
-DATA	RCAM	BOTH	 692.04	16
-DATA	RCAM	BOTH	 692.16	16
-DATA	TCAM	BOTH	 691.44	16
-DATA	TCAM	BOTH	 691.56	16
-DATA	TCAM	BOTH	 691.68	16
-DATA	TCAM	BOTH	 691.80	16
-DATA	TCAM	BOTH	 691.92	16
-DATA	TCAM	BOTH	 692.04	16
-DATA	TCAM	BOTH	 692.16	16
+</pre></blockquote></details><details><summary>691_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
-DATA	RCAM	BOTH	 705.96	16
-DATA	RCAM	BOTH	 706.08	16
-DATA	RCAM	BOTH	 706.20	16
-DATA	RCAM	BOTH	 706.32	16
-DATA	RCAM	BOTH	 706.44	16
-DATA	RCAM	BOTH	 706.56	16
-DATA	TCAM	BOTH	 705.84	16
-DATA	TCAM	BOTH	 705.96	16
-DATA	TCAM	BOTH	 706.08	16
-DATA	TCAM	BOTH	 706.20	16
-DATA	TCAM	BOTH	 706.32	16
-DATA	TCAM	BOTH	 706.44	16
-DATA	TCAM	BOTH	 706.56	16
+</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
-DATA	RCAM	BOTH	 789.16	16
-DATA	RCAM	BOTH	 789.28	16
-DATA	RCAM	BOTH	 789.40	16
-DATA	RCAM	BOTH	 789.52	16
-DATA	RCAM	BOTH	 789.64	16
-DATA	RCAM	BOTH	 789.76	16
-DATA	TCAM	BOTH	 789.04	16
-DATA	TCAM	BOTH	 789.16	16
-DATA	TCAM	BOTH	 789.28	16
-DATA	TCAM	BOTH	 789.40	16
-DATA	TCAM	BOTH	 789.52	16
-DATA	TCAM	BOTH	 789.64	16
-DATA	TCAM	BOTH	 789.76	16
+</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
-DATA	RCAM	BOTH	1074.46	16
-DATA	RCAM	BOTH	1074.58	16
-DATA	RCAM	BOTH	1074.70	16
-DATA	RCAM	BOTH	1074.82	16
-DATA	RCAM	BOTH	1074.94	16
-DATA	RCAM	BOTH	1075.06	16
-DATA	TCAM	BOTH	1074.34	16
-DATA	TCAM	BOTH	1074.46	16
-DATA	TCAM	BOTH	1074.58	16
-DATA	TCAM	BOTH	1074.70	16
-DATA	TCAM	BOTH	1074.82	16
-DATA	TCAM	BOTH	1074.94	16
-DATA	TCAM	BOTH	1075.06	16
+</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
+DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
-DATA	RCAM	BOTH	1079.56	16
-DATA	RCAM	BOTH	1079.68	16
-DATA	RCAM	BOTH	1079.80	16
-DATA	RCAM	BOTH	1079.92	16
-DATA	RCAM	BOTH	1080.04	16
-DATA	RCAM	BOTH	1080.16	16
-DATA	TCAM	BOTH	1079.44	16
-DATA	TCAM	BOTH	1079.56	16
-DATA	TCAM	BOTH	1079.68	16
-DATA	TCAM	BOTH	1079.80	16
-DATA	TCAM	BOTH	1079.92	16
-DATA	TCAM	BOTH	1080.04	16
-DATA	TCAM	BOTH	1080.16	16
+</pre></blockquote></details><details><summary>1079_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
+DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>gain_low.rcp
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details>gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -704,18 +714,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -748,18 +748,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -811,18 +801,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -852,18 +832,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -1038,18 +1008,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -1082,18 +1042,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -1145,18 +1095,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -1182,7 +1122,7 @@ DATA	TCAM	BOTH	 656.30	   16
 DATA	TCAM	BOTH	 656.37	   16
 DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -1196,7 +1136,7 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>530_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
+</pre></blockquote></details></pre></blockquote></details><details><summary>530_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1204,34 +1144,34 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>530_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>530_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
+<details><summary>530_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	530.30	16
 DATA	TCAM	BOTH	530.30	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>637_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>637_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1239,34 +1179,34 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>637_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>637_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>656_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>656_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1301,7 +1241,7 @@ DATA	TCAM	BOTH	656.28	16
 </pre></blockquote></details>CALIB	OUT
 <details><summary>656_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	16
 DATA	TCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>691_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>691_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1309,34 +1249,34 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>691_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>691_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
+<details><summary>691_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	691.80	16
 DATA	TCAM	BOTH	691.80	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>706_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>706_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1344,34 +1284,34 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>706_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>706_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
+<details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	706.20	16
 DATA	TCAM	BOTH	706.20	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>789_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>789_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1379,34 +1319,34 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>789_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>789_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
+<details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	789.40	16
 DATA	TCAM	BOTH	789.40	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1414,34 +1354,34 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>1079_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>1079_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1449,34 +1389,34 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1079_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1079_1_2beam_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
+<details><summary>1079_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.80	16
 DATA	TCAM	BOTH	1079.80	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>1083_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>1083_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -1484,34 +1424,34 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1083_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1083_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
+<details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1083.00	16
 DATA	TCAM	BOTH	1083.00	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>sumtest-1074.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>sumtest-1074.cbk</summary><blockquote><pre>gain_high.rcp
 exposure_80.rcp
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
@@ -1524,45 +1464,15 @@ CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
-DATA RCAM BOTH 1074.82 11
-DATA RCAM BOTH 1074.70 11
-DATA TCAM BOTH 1074.58 11
-DATA TCAM BOTH 1074.82 11
-DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
-DATA RCAM BOTH 1074.82 11
-DATA RCAM BOTH 1074.70 11
-DATA TCAM BOTH 1074.58 11
-DATA TCAM BOTH 1074.82 11
-DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
-DATA RCAM BOTH 1074.82 11
-DATA RCAM BOTH 1074.70 11
-DATA TCAM BOTH 1074.58 11
-DATA TCAM BOTH 1074.82 11
-DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>sumframes.rcp</summary><blockquote><pre>SAVEALL OUT
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
-DATA RCAM BOTH 1074.82 11
-DATA RCAM BOTH 1074.70 11
-DATA TCAM BOTH 1074.58 11
-DATA TCAM BOTH 1074.82 11
-DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
-DATA RCAM BOTH 1074.82 11
-DATA RCAM BOTH 1074.70 11
-DATA TCAM BOTH 1074.58 11
-DATA TCAM BOTH 1074.82 11
-DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
-DATA RCAM BOTH 1074.82 11
-DATA RCAM BOTH 1074.70 11
-DATA TCAM BOTH 1074.58 11
-DATA TCAM BOTH 1074.82 11
-DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>waves_1074_1hour.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details>1074_3_2beams_11sums_BOTH.rcp
+1074_3_2beams_11sums_BOTH.rcp
+1074_3_2beams_11sums_BOTH.rcp
+<details><summary>sumframes.rcp</summary><blockquote><pre>SAVEALL OUT
+</pre></blockquote></details>1074_3_2beams_11sums_BOTH.rcp
+1074_3_2beams_11sums_BOTH.rcp
+1074_3_2beams_11sums_BOTH.rcp
+<details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details></pre></blockquote></details><details><summary>waves_1074_1hour.cbk</summary><blockquote><pre>gain_high.rcp
 exposure_80.rcp
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
@@ -1572,7 +1482,7 @@ COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
@@ -1583,729 +1493,729 @@ CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
-</pre></blockquote></details><details><summary>1074_3_2beams_11sums_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
+</pre></blockquote></details><details><summary>1074_02wave_2beam_11sums_1_rep_BOTH.rcp</summary><blockquote><pre>DATA RCAM BOTH 1074.58 11
 DATA RCAM BOTH 1074.82 11
 DATA RCAM BOTH 1074.70 11
 DATA TCAM BOTH 1074.58 11
 DATA TCAM BOTH 1074.82 11
 DATA TCAM BOTH 1074.70 11
 </pre></blockquote></details>ENDFOR
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details><details><summary>dark_200_1sums_80ms.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -2505,7 +2415,7 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -2709,259 +2619,289 @@ DATA	RCAM	BOTH	656.28	1
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupFlat.rcp 
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
-DATA	RCAM	BOTH	 530.06	16
-DATA	RCAM	BOTH	 530.18	16
-DATA	RCAM	BOTH	 530.30	16
-DATA	RCAM	BOTH	 530.42	16
-DATA	RCAM	BOTH	 530.54	16
-DATA	RCAM	BOTH	 530.66	16
-DATA	TCAM	BOTH	 529.94	16
-DATA	TCAM	BOTH	 530.06	16
-DATA	TCAM	BOTH	 530.18	16
-DATA	TCAM	BOTH	 530.30	16
-DATA	TCAM	BOTH	 530.42	16
-DATA	TCAM	BOTH	 530.54	16
-DATA	TCAM	BOTH	 530.66	16
+</pre></blockquote></details><details><summary>530_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
-DATA	RCAM	BOTH	 637.16	16
-DATA	RCAM	BOTH	 637.28	16
-DATA	RCAM	BOTH	 637.40	16
-DATA	RCAM	BOTH	 637.52	16
-DATA	RCAM	BOTH	 637.64	16
-DATA	RCAM	BOTH	 637.76	16
-DATA	TCAM	BOTH	 637.04	16
-DATA	TCAM	BOTH	 637.16	16
-DATA	TCAM	BOTH	 637.28	16
-DATA	TCAM	BOTH	 637.40	16
-DATA	TCAM	BOTH	 637.52	16
-DATA	TCAM	BOTH	 637.64	16
-DATA	TCAM	BOTH	 637.76	16
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_3rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
-DATA	RCAM	BOTH	 691.56	16
-DATA	RCAM	BOTH	 691.68	16
-DATA	RCAM	BOTH	 691.80	16
-DATA	RCAM	BOTH	 691.92	16
-DATA	RCAM	BOTH	 692.04	16
-DATA	RCAM	BOTH	 692.16	16
-DATA	TCAM	BOTH	 691.44	16
-DATA	TCAM	BOTH	 691.56	16
-DATA	TCAM	BOTH	 691.68	16
-DATA	TCAM	BOTH	 691.80	16
-DATA	TCAM	BOTH	 691.92	16
-DATA	TCAM	BOTH	 692.04	16
-DATA	TCAM	BOTH	 692.16	16
+</pre></blockquote></details><details><summary>691_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
-DATA	RCAM	BOTH	 705.96	16
-DATA	RCAM	BOTH	 706.08	16
-DATA	RCAM	BOTH	 706.20	16
-DATA	RCAM	BOTH	 706.32	16
-DATA	RCAM	BOTH	 706.44	16
-DATA	RCAM	BOTH	 706.56	16
-DATA	TCAM	BOTH	 705.84	16
-DATA	TCAM	BOTH	 705.96	16
-DATA	TCAM	BOTH	 706.08	16
-DATA	TCAM	BOTH	 706.20	16
-DATA	TCAM	BOTH	 706.32	16
-DATA	TCAM	BOTH	 706.44	16
-DATA	TCAM	BOTH	 706.56	16
+</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
-DATA	RCAM	BOTH	 789.16	16
-DATA	RCAM	BOTH	 789.28	16
-DATA	RCAM	BOTH	 789.40	16
-DATA	RCAM	BOTH	 789.52	16
-DATA	RCAM	BOTH	 789.64	16
-DATA	RCAM	BOTH	 789.76	16
-DATA	TCAM	BOTH	 789.04	16
-DATA	TCAM	BOTH	 789.16	16
-DATA	TCAM	BOTH	 789.28	16
-DATA	TCAM	BOTH	 789.40	16
-DATA	TCAM	BOTH	 789.52	16
-DATA	TCAM	BOTH	 789.64	16
-DATA	TCAM	BOTH	 789.76	16
+</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
-DATA	RCAM	BOTH	1074.46	16
-DATA	RCAM	BOTH	1074.58	16
-DATA	RCAM	BOTH	1074.70	16
-DATA	RCAM	BOTH	1074.82	16
-DATA	RCAM	BOTH	1074.94	16
-DATA	RCAM	BOTH	1075.06	16
-DATA	TCAM	BOTH	1074.34	16
-DATA	TCAM	BOTH	1074.46	16
-DATA	TCAM	BOTH	1074.58	16
-DATA	TCAM	BOTH	1074.70	16
-DATA	TCAM	BOTH	1074.82	16
-DATA	TCAM	BOTH	1074.94	16
-DATA	TCAM	BOTH	1075.06	16
+</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
+DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
-DATA	RCAM	BOTH	1079.56	16
-DATA	RCAM	BOTH	1079.68	16
-DATA	RCAM	BOTH	1079.80	16
-DATA	RCAM	BOTH	1079.92	16
-DATA	RCAM	BOTH	1080.04	16
-DATA	RCAM	BOTH	1080.16	16
-DATA	TCAM	BOTH	1079.44	16
-DATA	TCAM	BOTH	1079.56	16
-DATA	TCAM	BOTH	1079.68	16
-DATA	TCAM	BOTH	1079.80	16
-DATA	TCAM	BOTH	1079.92	16
-DATA	TCAM	BOTH	1080.04	16
-DATA	TCAM	BOTH	1080.16	16
+</pre></blockquote></details><details><summary>1079_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
+DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>gain_low.rcp
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details>gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3136,18 +3076,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3180,18 +3110,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3243,18 +3163,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3284,18 +3194,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3470,18 +3370,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3514,18 +3404,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3577,18 +3457,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3618,18 +3488,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3804,18 +3664,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3848,18 +3698,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3911,18 +3751,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -3952,18 +3782,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -4138,18 +3958,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -4182,18 +3992,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -4245,18 +4045,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -4282,7 +4072,7 @@ DATA	TCAM	BOTH	 656.30	   16
 DATA	TCAM	BOTH	 656.37	   16
 DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -4296,7 +4086,7 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -4304,35 +4094,35 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_1sums_80ms.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -4532,7 +4322,7 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -4736,259 +4526,289 @@ DATA	RCAM	BOTH	656.28	1
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupFlat.rcp 
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
-DATA	RCAM	BOTH	 530.06	16
-DATA	RCAM	BOTH	 530.18	16
-DATA	RCAM	BOTH	 530.30	16
-DATA	RCAM	BOTH	 530.42	16
-DATA	RCAM	BOTH	 530.54	16
-DATA	RCAM	BOTH	 530.66	16
-DATA	TCAM	BOTH	 529.94	16
-DATA	TCAM	BOTH	 530.06	16
-DATA	TCAM	BOTH	 530.18	16
-DATA	TCAM	BOTH	 530.30	16
-DATA	TCAM	BOTH	 530.42	16
-DATA	TCAM	BOTH	 530.54	16
-DATA	TCAM	BOTH	 530.66	16
+</pre></blockquote></details><details><summary>530_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
-DATA	RCAM	BOTH	 637.16	16
-DATA	RCAM	BOTH	 637.28	16
-DATA	RCAM	BOTH	 637.40	16
-DATA	RCAM	BOTH	 637.52	16
-DATA	RCAM	BOTH	 637.64	16
-DATA	RCAM	BOTH	 637.76	16
-DATA	TCAM	BOTH	 637.04	16
-DATA	TCAM	BOTH	 637.16	16
-DATA	TCAM	BOTH	 637.28	16
-DATA	TCAM	BOTH	 637.40	16
-DATA	TCAM	BOTH	 637.52	16
-DATA	TCAM	BOTH	 637.64	16
-DATA	TCAM	BOTH	 637.76	16
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_3rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
-DATA	RCAM	BOTH	 691.56	16
-DATA	RCAM	BOTH	 691.68	16
-DATA	RCAM	BOTH	 691.80	16
-DATA	RCAM	BOTH	 691.92	16
-DATA	RCAM	BOTH	 692.04	16
-DATA	RCAM	BOTH	 692.16	16
-DATA	TCAM	BOTH	 691.44	16
-DATA	TCAM	BOTH	 691.56	16
-DATA	TCAM	BOTH	 691.68	16
-DATA	TCAM	BOTH	 691.80	16
-DATA	TCAM	BOTH	 691.92	16
-DATA	TCAM	BOTH	 692.04	16
-DATA	TCAM	BOTH	 692.16	16
+</pre></blockquote></details><details><summary>691_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
-DATA	RCAM	BOTH	 705.96	16
-DATA	RCAM	BOTH	 706.08	16
-DATA	RCAM	BOTH	 706.20	16
-DATA	RCAM	BOTH	 706.32	16
-DATA	RCAM	BOTH	 706.44	16
-DATA	RCAM	BOTH	 706.56	16
-DATA	TCAM	BOTH	 705.84	16
-DATA	TCAM	BOTH	 705.96	16
-DATA	TCAM	BOTH	 706.08	16
-DATA	TCAM	BOTH	 706.20	16
-DATA	TCAM	BOTH	 706.32	16
-DATA	TCAM	BOTH	 706.44	16
-DATA	TCAM	BOTH	 706.56	16
+</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
-DATA	RCAM	BOTH	 789.16	16
-DATA	RCAM	BOTH	 789.28	16
-DATA	RCAM	BOTH	 789.40	16
-DATA	RCAM	BOTH	 789.52	16
-DATA	RCAM	BOTH	 789.64	16
-DATA	RCAM	BOTH	 789.76	16
-DATA	TCAM	BOTH	 789.04	16
-DATA	TCAM	BOTH	 789.16	16
-DATA	TCAM	BOTH	 789.28	16
-DATA	TCAM	BOTH	 789.40	16
-DATA	TCAM	BOTH	 789.52	16
-DATA	TCAM	BOTH	 789.64	16
-DATA	TCAM	BOTH	 789.76	16
+</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
-DATA	RCAM	BOTH	1074.46	16
-DATA	RCAM	BOTH	1074.58	16
-DATA	RCAM	BOTH	1074.70	16
-DATA	RCAM	BOTH	1074.82	16
-DATA	RCAM	BOTH	1074.94	16
-DATA	RCAM	BOTH	1075.06	16
-DATA	TCAM	BOTH	1074.34	16
-DATA	TCAM	BOTH	1074.46	16
-DATA	TCAM	BOTH	1074.58	16
-DATA	TCAM	BOTH	1074.70	16
-DATA	TCAM	BOTH	1074.82	16
-DATA	TCAM	BOTH	1074.94	16
-DATA	TCAM	BOTH	1075.06	16
+</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
+DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
-DATA	RCAM	BOTH	1079.56	16
-DATA	RCAM	BOTH	1079.68	16
-DATA	RCAM	BOTH	1079.80	16
-DATA	RCAM	BOTH	1079.92	16
-DATA	RCAM	BOTH	1080.04	16
-DATA	RCAM	BOTH	1080.16	16
-DATA	TCAM	BOTH	1079.44	16
-DATA	TCAM	BOTH	1079.56	16
-DATA	TCAM	BOTH	1079.68	16
-DATA	TCAM	BOTH	1079.80	16
-DATA	TCAM	BOTH	1079.92	16
-DATA	TCAM	BOTH	1080.04	16
-DATA	TCAM	BOTH	1080.16	16
+</pre></blockquote></details><details><summary>1079_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
+DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>gain_low.rcp
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details>gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5163,18 +4983,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5207,18 +5017,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5270,18 +5070,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5311,18 +5101,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5497,18 +5277,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5541,18 +5311,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5604,18 +5364,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5645,18 +5395,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5831,18 +5571,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5875,18 +5605,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5938,18 +5658,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -5979,18 +5689,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -6165,18 +5865,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -6209,18 +5899,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -6272,18 +5952,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -6309,7 +5979,7 @@ DATA	TCAM	BOTH	 656.30	   16
 DATA	TCAM	BOTH	 656.37	   16
 DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -6323,7 +5993,7 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -6331,35 +6001,35 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_1sums_80ms.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -6559,7 +6229,7 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -6763,259 +6433,289 @@ DATA	RCAM	BOTH	656.28	1
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupFlat.rcp 
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
-DATA	RCAM	BOTH	 530.06	16
-DATA	RCAM	BOTH	 530.18	16
-DATA	RCAM	BOTH	 530.30	16
-DATA	RCAM	BOTH	 530.42	16
-DATA	RCAM	BOTH	 530.54	16
-DATA	RCAM	BOTH	 530.66	16
-DATA	TCAM	BOTH	 529.94	16
-DATA	TCAM	BOTH	 530.06	16
-DATA	TCAM	BOTH	 530.18	16
-DATA	TCAM	BOTH	 530.30	16
-DATA	TCAM	BOTH	 530.42	16
-DATA	TCAM	BOTH	 530.54	16
-DATA	TCAM	BOTH	 530.66	16
+</pre></blockquote></details><details><summary>530_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
-DATA	RCAM	BOTH	 637.16	16
-DATA	RCAM	BOTH	 637.28	16
-DATA	RCAM	BOTH	 637.40	16
-DATA	RCAM	BOTH	 637.52	16
-DATA	RCAM	BOTH	 637.64	16
-DATA	RCAM	BOTH	 637.76	16
-DATA	TCAM	BOTH	 637.04	16
-DATA	TCAM	BOTH	 637.16	16
-DATA	TCAM	BOTH	 637.28	16
-DATA	TCAM	BOTH	 637.40	16
-DATA	TCAM	BOTH	 637.52	16
-DATA	TCAM	BOTH	 637.64	16
-DATA	TCAM	BOTH	 637.76	16
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_3rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
-DATA	RCAM	BOTH	 691.56	16
-DATA	RCAM	BOTH	 691.68	16
-DATA	RCAM	BOTH	 691.80	16
-DATA	RCAM	BOTH	 691.92	16
-DATA	RCAM	BOTH	 692.04	16
-DATA	RCAM	BOTH	 692.16	16
-DATA	TCAM	BOTH	 691.44	16
-DATA	TCAM	BOTH	 691.56	16
-DATA	TCAM	BOTH	 691.68	16
-DATA	TCAM	BOTH	 691.80	16
-DATA	TCAM	BOTH	 691.92	16
-DATA	TCAM	BOTH	 692.04	16
-DATA	TCAM	BOTH	 692.16	16
+</pre></blockquote></details><details><summary>691_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
-DATA	RCAM	BOTH	 705.96	16
-DATA	RCAM	BOTH	 706.08	16
-DATA	RCAM	BOTH	 706.20	16
-DATA	RCAM	BOTH	 706.32	16
-DATA	RCAM	BOTH	 706.44	16
-DATA	RCAM	BOTH	 706.56	16
-DATA	TCAM	BOTH	 705.84	16
-DATA	TCAM	BOTH	 705.96	16
-DATA	TCAM	BOTH	 706.08	16
-DATA	TCAM	BOTH	 706.20	16
-DATA	TCAM	BOTH	 706.32	16
-DATA	TCAM	BOTH	 706.44	16
-DATA	TCAM	BOTH	 706.56	16
+</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
-DATA	RCAM	BOTH	 789.16	16
-DATA	RCAM	BOTH	 789.28	16
-DATA	RCAM	BOTH	 789.40	16
-DATA	RCAM	BOTH	 789.52	16
-DATA	RCAM	BOTH	 789.64	16
-DATA	RCAM	BOTH	 789.76	16
-DATA	TCAM	BOTH	 789.04	16
-DATA	TCAM	BOTH	 789.16	16
-DATA	TCAM	BOTH	 789.28	16
-DATA	TCAM	BOTH	 789.40	16
-DATA	TCAM	BOTH	 789.52	16
-DATA	TCAM	BOTH	 789.64	16
-DATA	TCAM	BOTH	 789.76	16
+</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
-DATA	RCAM	BOTH	1074.46	16
-DATA	RCAM	BOTH	1074.58	16
-DATA	RCAM	BOTH	1074.70	16
-DATA	RCAM	BOTH	1074.82	16
-DATA	RCAM	BOTH	1074.94	16
-DATA	RCAM	BOTH	1075.06	16
-DATA	TCAM	BOTH	1074.34	16
-DATA	TCAM	BOTH	1074.46	16
-DATA	TCAM	BOTH	1074.58	16
-DATA	TCAM	BOTH	1074.70	16
-DATA	TCAM	BOTH	1074.82	16
-DATA	TCAM	BOTH	1074.94	16
-DATA	TCAM	BOTH	1075.06	16
+</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
+DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
-DATA	RCAM	BOTH	1079.56	16
-DATA	RCAM	BOTH	1079.68	16
-DATA	RCAM	BOTH	1079.80	16
-DATA	RCAM	BOTH	1079.92	16
-DATA	RCAM	BOTH	1080.04	16
-DATA	RCAM	BOTH	1080.16	16
-DATA	TCAM	BOTH	1079.44	16
-DATA	TCAM	BOTH	1079.56	16
-DATA	TCAM	BOTH	1079.68	16
-DATA	TCAM	BOTH	1079.80	16
-DATA	TCAM	BOTH	1079.92	16
-DATA	TCAM	BOTH	1080.04	16
-DATA	TCAM	BOTH	1080.16	16
+</pre></blockquote></details><details><summary>1079_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
+DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>gain_low.rcp
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details>gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7190,18 +6890,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7234,18 +6924,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7297,18 +6977,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7338,18 +7008,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7524,18 +7184,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7568,18 +7218,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7631,18 +7271,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7672,18 +7302,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7858,18 +7478,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7902,18 +7512,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -7965,18 +7565,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -8006,18 +7596,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -8192,18 +7772,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -8236,18 +7806,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -8299,18 +7859,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -8336,7 +7886,7 @@ DATA	TCAM	BOTH	 656.30	   16
 DATA	TCAM	BOTH	 656.37	   16
 DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -8350,7 +7900,7 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -8358,35 +7908,35 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_1sums_80ms.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -8586,7 +8136,7 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -8790,259 +8340,289 @@ DATA	RCAM	BOTH	656.28	1
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupFlat.rcp 
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
-DATA	RCAM	BOTH	 530.06	16
-DATA	RCAM	BOTH	 530.18	16
-DATA	RCAM	BOTH	 530.30	16
-DATA	RCAM	BOTH	 530.42	16
-DATA	RCAM	BOTH	 530.54	16
-DATA	RCAM	BOTH	 530.66	16
-DATA	TCAM	BOTH	 529.94	16
-DATA	TCAM	BOTH	 530.06	16
-DATA	TCAM	BOTH	 530.18	16
-DATA	TCAM	BOTH	 530.30	16
-DATA	TCAM	BOTH	 530.42	16
-DATA	TCAM	BOTH	 530.54	16
-DATA	TCAM	BOTH	 530.66	16
+</pre></blockquote></details><details><summary>530_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
+DATA	RCAM	RED	 530.24	   16
+DATA	RCAM	RED	 530.30	   16
+DATA	RCAM	RED	 530.36	   16
+DATA	TCAM	RED	 530.24	   16
+DATA	TCAM	RED	 530.30	   16
+DATA	TCAM	RED	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
-DATA	RCAM	BOTH	 637.16	16
-DATA	RCAM	BOTH	 637.28	16
-DATA	RCAM	BOTH	 637.40	16
-DATA	RCAM	BOTH	 637.52	16
-DATA	RCAM	BOTH	 637.64	16
-DATA	RCAM	BOTH	 637.76	16
-DATA	TCAM	BOTH	 637.04	16
-DATA	TCAM	BOTH	 637.16	16
-DATA	TCAM	BOTH	 637.28	16
-DATA	TCAM	BOTH	 637.40	16
-DATA	TCAM	BOTH	 637.52	16
-DATA	TCAM	BOTH	 637.64	16
-DATA	TCAM	BOTH	 637.76	16
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_3rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
+DATA	RCAM	BOTH	 637.33	   16
+DATA	RCAM	BOTH	 637.40	   16
+DATA	RCAM	BOTH	 637.47	   16
+DATA	TCAM	BOTH	 637.33	   16
+DATA	TCAM	BOTH	 637.40	   16
+DATA	TCAM	BOTH	 637.47	   16
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
-DATA	RCAM	BOTH	 691.56	16
-DATA	RCAM	BOTH	 691.68	16
-DATA	RCAM	BOTH	 691.80	16
-DATA	RCAM	BOTH	 691.92	16
-DATA	RCAM	BOTH	 692.04	16
-DATA	RCAM	BOTH	 692.16	16
-DATA	TCAM	BOTH	 691.44	16
-DATA	TCAM	BOTH	 691.56	16
-DATA	TCAM	BOTH	 691.68	16
-DATA	TCAM	BOTH	 691.80	16
-DATA	TCAM	BOTH	 691.92	16
-DATA	TCAM	BOTH	 692.04	16
-DATA	TCAM	BOTH	 692.16	16
+</pre></blockquote></details><details><summary>691_03wave_2beam_16sums_4rep_RED.rcp</summary><blockquote><pre>DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
+DATA	RCAM	RED	 691.72	   16
+DATA	RCAM	RED	 691.80	   16
+DATA	RCAM	RED	 691.88	   16
+DATA	TCAM	RED	 691.72	   16
+DATA	TCAM	RED	 691.80	   16
+DATA	TCAM	RED	 691.88	   16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
-DATA	RCAM	BOTH	 705.96	16
-DATA	RCAM	BOTH	 706.08	16
-DATA	RCAM	BOTH	 706.20	16
-DATA	RCAM	BOTH	 706.32	16
-DATA	RCAM	BOTH	 706.44	16
-DATA	RCAM	BOTH	 706.56	16
-DATA	TCAM	BOTH	 705.84	16
-DATA	TCAM	BOTH	 705.96	16
-DATA	TCAM	BOTH	 706.08	16
-DATA	TCAM	BOTH	 706.20	16
-DATA	TCAM	BOTH	 706.32	16
-DATA	TCAM	BOTH	 706.44	16
-DATA	TCAM	BOTH	 706.56	16
+</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
+DATA	RCAM	BOTH	 706.13	   16
+DATA	RCAM	BOTH	 706.20	   16
+DATA	RCAM	BOTH	 706.28	   16
+DATA	TCAM	BOTH	 706.13	   16
+DATA	TCAM	BOTH	 706.20	   16
+DATA	TCAM	BOTH	 706.28	   16
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
-DATA	RCAM	BOTH	 789.16	16
-DATA	RCAM	BOTH	 789.28	16
-DATA	RCAM	BOTH	 789.40	16
-DATA	RCAM	BOTH	 789.52	16
-DATA	RCAM	BOTH	 789.64	16
-DATA	RCAM	BOTH	 789.76	16
-DATA	TCAM	BOTH	 789.04	16
-DATA	TCAM	BOTH	 789.16	16
-DATA	TCAM	BOTH	 789.28	16
-DATA	TCAM	BOTH	 789.40	16
-DATA	TCAM	BOTH	 789.52	16
-DATA	TCAM	BOTH	 789.64	16
-DATA	TCAM	BOTH	 789.76	16
+</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
+DATA	RCAM	BOTH	 789.32	   16
+DATA	RCAM	BOTH	 789.40	   16
+DATA	RCAM	BOTH	 789.48	   16
+DATA	TCAM	BOTH	 789.32	   16
+DATA	TCAM	BOTH	 789.40	   16
+DATA	TCAM	BOTH	 789.48	   16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
-DATA	RCAM	BOTH	1074.46	16
-DATA	RCAM	BOTH	1074.58	16
-DATA	RCAM	BOTH	1074.70	16
-DATA	RCAM	BOTH	1074.82	16
-DATA	RCAM	BOTH	1074.94	16
-DATA	RCAM	BOTH	1075.06	16
-DATA	TCAM	BOTH	1074.34	16
-DATA	TCAM	BOTH	1074.46	16
-DATA	TCAM	BOTH	1074.58	16
-DATA	TCAM	BOTH	1074.70	16
-DATA	TCAM	BOTH	1074.82	16
-DATA	TCAM	BOTH	1074.94	16
-DATA	TCAM	BOTH	1075.06	16
+</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
+DATA	RCAM	BOTH	1074.48	   16
+DATA	RCAM	BOTH	1074.59	   16
+DATA	RCAM	BOTH	1074.70	   16
+DATA	RCAM	BOTH	1074.81	   16
+DATA	RCAM	BOTH	1074.92	   16
+DATA	TCAM	BOTH	1074.48	   16
+DATA	TCAM	BOTH	1074.59	   16
+DATA	TCAM	BOTH	1074.70	   16
+DATA	TCAM	BOTH	1074.81	   16
+DATA	TCAM	BOTH	1074.92	   16
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
-DATA	RCAM	BOTH	1079.56	16
-DATA	RCAM	BOTH	1079.68	16
-DATA	RCAM	BOTH	1079.80	16
-DATA	RCAM	BOTH	1079.92	16
-DATA	RCAM	BOTH	1080.04	16
-DATA	RCAM	BOTH	1080.16	16
-DATA	TCAM	BOTH	1079.44	16
-DATA	TCAM	BOTH	1079.56	16
-DATA	TCAM	BOTH	1079.68	16
-DATA	TCAM	BOTH	1079.80	16
-DATA	TCAM	BOTH	1079.92	16
-DATA	TCAM	BOTH	1080.04	16
-DATA	TCAM	BOTH	1080.16	16
+</pre></blockquote></details><details><summary>1079_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
+DATA	RCAM	BOTH	1079.58	   16
+DATA	RCAM	BOTH	1079.69	   16
+DATA	RCAM	BOTH	1079.80	   16
+DATA	RCAM	BOTH	1079.91	   16
+DATA	RCAM	BOTH	1080.02	   16
+DATA	TCAM	BOTH	1079.58	   16
+DATA	TCAM	BOTH	1079.69	   16
+DATA	TCAM	BOTH	1079.80	   16
+DATA	TCAM	BOTH	1079.91	   16
+DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>gain_low.rcp
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
+</pre></blockquote></details><details><summary>1083_05wave_2beam_16sums_2rep_BLUE.rcp</summary><blockquote><pre>DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
+DATA	RCAM	BLUE	1082.84	   16
+DATA	RCAM	BLUE	1082.92	   16
+DATA	RCAM	BLUE	1083.00	   16
+DATA	RCAM	BLUE	1083.08	   16
+DATA	RCAM	BLUE	1083.16	   16
+DATA	TCAM	BLUE	1082.84	   16
+DATA	TCAM	BLUE	1082.92	   16
+DATA	TCAM	BLUE	1083.00	   16
+DATA	TCAM	BLUE	1083.08	   16
+DATA	TCAM	BLUE	1083.16	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details>gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
-DATA	RCAM	BOTH	 656.06	16
-DATA	RCAM	BOTH	 656.18	16
-DATA	RCAM	BOTH	 656.30	16
-DATA	RCAM	BOTH	 656.42	16
-DATA	RCAM	BOTH	 656.54	16
-DATA	RCAM	BOTH	 656.66	16
-DATA	TCAM	BOTH	 655.94	16
-DATA	TCAM	BOTH	 656.06	16
-DATA	TCAM	BOTH	 656.18	16
-DATA	TCAM	BOTH	 656.30	16
-DATA	TCAM	BOTH	 656.42	16
-DATA	TCAM	BOTH	 656.54	16
-DATA	TCAM	BOTH	 656.66	16
+</pre></blockquote></details><details><summary>656_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
+DATA	RCAM	BOTH	 656.16	   16
+DATA	RCAM	BOTH	 656.23	   16
+DATA	RCAM	BOTH	 656.30	   16
+DATA	RCAM	BOTH	 656.37	   16
+DATA	RCAM	BOTH	 656.44	   16
+DATA	TCAM	BOTH	 656.16	   16
+DATA	TCAM	BOTH	 656.23	   16
+DATA	TCAM	BOTH	 656.30	   16
+DATA	TCAM	BOTH	 656.37	   16
+DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9217,18 +8797,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9261,18 +8831,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9324,18 +8884,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9365,18 +8915,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9551,18 +9091,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9595,18 +9125,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9658,18 +9178,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9699,18 +9209,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9885,18 +9385,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9929,18 +9419,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -9992,18 +9472,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -10033,18 +9503,8 @@ DATA	TCAM	BOTH	 656.44	   16
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -10219,18 +9679,8 @@ DATA	TCAM	BOTH	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -10263,18 +9713,8 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -10326,18 +9766,8 @@ DATA	TCAM	BOTH	 656.44	   16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
@@ -10363,7 +9793,7 @@ DATA	TCAM	BOTH	 656.30	   16
 DATA	TCAM	BOTH	 656.37	   16
 DATA	TCAM	BOTH	 656.44	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -10377,7 +9807,7 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -10385,35 +9815,35 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_1sums_80ms.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -10613,7 +10043,7 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -10813,28 +10243,18 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7_flats.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7_flats.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupFlat.rcp 
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -10849,7 +10269,7 @@ DATA	TCAM	BOTH	 530.42	16
 DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -10864,7 +10284,7 @@ DATA	TCAM	BOTH	 637.52	16
 DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -10879,7 +10299,7 @@ DATA	TCAM	BOTH	 691.92	16
 DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -10894,7 +10314,7 @@ DATA	TCAM	BOTH	 706.32	16
 DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -10909,7 +10329,7 @@ DATA	TCAM	BOTH	 789.52	16
 DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -10924,89 +10344,30 @@ DATA	TCAM	BOTH	1074.82	16
 DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
-DATA	RCAM	BOTH	1079.56	16
-DATA	RCAM	BOTH	1079.68	16
-DATA	RCAM	BOTH	1079.80	16
-DATA	RCAM	BOTH	1079.92	16
-DATA	RCAM	BOTH	1080.04	16
-DATA	RCAM	BOTH	1080.16	16
-DATA	TCAM	BOTH	1079.44	16
-DATA	TCAM	BOTH	1079.56	16
-DATA	TCAM	BOTH	1079.68	16
-DATA	TCAM	BOTH	1079.80	16
-DATA	TCAM	BOTH	1079.92	16
-DATA	TCAM	BOTH	1080.04	16
-DATA	TCAM	BOTH	1080.16	16
-</pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
+</pre></blockquote></details>11079_07wave_2beam_16sums_1rep_BOTH.rcp
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
-</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details>1083_07_2beam_16sums_BOTH.rcp
+<details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>gain_low.rcp
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
-</pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details>1083_07_2beam_16sums_BOTH.rcp
+<details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -11023,23 +10384,13 @@ DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -11054,28 +10405,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -11091,7 +10432,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -11107,7 +10448,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -11123,7 +10464,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -11139,7 +10480,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -11155,7 +10496,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -11171,7 +10512,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -11189,23 +10530,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -11227,24 +10558,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -11260,7 +10581,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -11278,23 +10599,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -11309,28 +10620,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -11346,7 +10647,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -11362,7 +10663,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -11378,7 +10679,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -11394,7 +10695,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -11410,7 +10711,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -11426,7 +10727,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -11444,23 +10745,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -11482,24 +10773,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -11515,7 +10796,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -11533,23 +10814,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -11564,28 +10835,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -11601,7 +10862,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -11617,7 +10878,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -11633,7 +10894,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -11649,7 +10910,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -11665,7 +10926,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -11681,7 +10942,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -11699,23 +10960,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -11737,24 +10988,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -11770,7 +11011,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -11788,23 +11029,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -11819,28 +11050,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -11856,7 +11077,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -11872,7 +11093,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -11888,7 +11109,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -11904,7 +11125,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -11920,7 +11141,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -11936,7 +11157,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -11954,23 +11175,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -11992,24 +11203,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -12025,7 +11226,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -12043,23 +11244,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -12074,7 +11265,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -12088,7 +11279,7 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -12096,35 +11287,35 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_1sums_80ms.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -12324,7 +11515,7 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -12524,28 +11715,18 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7_flats.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7_flats.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupFlat.rcp 
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -12560,7 +11741,7 @@ DATA	TCAM	BOTH	 530.42	16
 DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -12575,7 +11756,7 @@ DATA	TCAM	BOTH	 637.52	16
 DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -12590,7 +11771,7 @@ DATA	TCAM	BOTH	 691.92	16
 DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -12605,7 +11786,7 @@ DATA	TCAM	BOTH	 706.32	16
 DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -12620,7 +11801,7 @@ DATA	TCAM	BOTH	 789.52	16
 DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -12635,89 +11816,30 @@ DATA	TCAM	BOTH	1074.82	16
 DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
-DATA	RCAM	BOTH	1079.56	16
-DATA	RCAM	BOTH	1079.68	16
-DATA	RCAM	BOTH	1079.80	16
-DATA	RCAM	BOTH	1079.92	16
-DATA	RCAM	BOTH	1080.04	16
-DATA	RCAM	BOTH	1080.16	16
-DATA	TCAM	BOTH	1079.44	16
-DATA	TCAM	BOTH	1079.56	16
-DATA	TCAM	BOTH	1079.68	16
-DATA	TCAM	BOTH	1079.80	16
-DATA	TCAM	BOTH	1079.92	16
-DATA	TCAM	BOTH	1080.04	16
-DATA	TCAM	BOTH	1080.16	16
-</pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
+</pre></blockquote></details>11079_07wave_2beam_16sums_1rep_BOTH.rcp
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
-</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details>1083_07_2beam_16sums_BOTH.rcp
+<details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>gain_low.rcp
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
-</pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details>1083_07_2beam_16sums_BOTH.rcp
+<details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -12734,23 +11856,13 @@ DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -12765,28 +11877,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -12802,7 +11904,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -12818,7 +11920,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -12834,7 +11936,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -12850,7 +11952,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -12866,7 +11968,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -12882,7 +11984,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -12900,23 +12002,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -12938,24 +12030,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -12971,7 +12053,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -12989,23 +12071,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -13020,28 +12092,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -13057,7 +12119,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -13073,7 +12135,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -13089,7 +12151,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -13105,7 +12167,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -13121,7 +12183,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -13137,7 +12199,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -13155,23 +12217,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -13193,24 +12245,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -13226,7 +12268,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -13244,23 +12286,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -13275,28 +12307,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -13312,7 +12334,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -13328,7 +12350,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -13344,7 +12366,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -13360,7 +12382,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -13376,7 +12398,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -13392,7 +12414,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -13410,23 +12432,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -13448,24 +12460,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -13481,7 +12483,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -13499,23 +12501,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -13530,28 +12522,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -13567,7 +12549,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -13583,7 +12565,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -13599,7 +12581,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -13615,7 +12597,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -13631,7 +12613,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -13647,7 +12629,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -13665,23 +12647,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -13703,24 +12675,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -13736,7 +12698,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -13754,23 +12716,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -13785,7 +12737,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -13799,7 +12751,7 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -13807,35 +12759,35 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.ckb</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>dark_200_1sums_80ms.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -14035,7 +12987,7 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details><details><summary>dark_200_200_1sums_80ms.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_200_rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
@@ -14235,28 +13187,18 @@ DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
 DATA	RCAM	BOTH	656.28	1
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7_flats.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7_flats.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupFlat.rcp 
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -14271,7 +13213,7 @@ DATA	TCAM	BOTH	 530.42	16
 DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -14286,7 +13228,7 @@ DATA	TCAM	BOTH	 637.52	16
 DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details><details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -14301,7 +13243,7 @@ DATA	TCAM	BOTH	 691.92	16
 DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -14316,7 +13258,7 @@ DATA	TCAM	BOTH	 706.32	16
 DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -14331,7 +13273,7 @@ DATA	TCAM	BOTH	 789.52	16
 DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -14346,89 +13288,30 @@ DATA	TCAM	BOTH	1074.82	16
 DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
-DATA	RCAM	BOTH	1079.56	16
-DATA	RCAM	BOTH	1079.68	16
-DATA	RCAM	BOTH	1079.80	16
-DATA	RCAM	BOTH	1079.92	16
-DATA	RCAM	BOTH	1080.04	16
-DATA	RCAM	BOTH	1080.16	16
-DATA	TCAM	BOTH	1079.44	16
-DATA	TCAM	BOTH	1079.56	16
-DATA	TCAM	BOTH	1079.68	16
-DATA	TCAM	BOTH	1079.80	16
-DATA	TCAM	BOTH	1079.92	16
-DATA	TCAM	BOTH	1080.04	16
-DATA	TCAM	BOTH	1080.16	16
-</pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
+</pre></blockquote></details>11079_07wave_2beam_16sums_1rep_BOTH.rcp
+<details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
-</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
+</pre></blockquote></details>1083_07_2beam_16sums_BOTH.rcp
+<details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>gain_low.rcp
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
-DATA	RCAM	BOTH	1082.76	16
-DATA	RCAM	BOTH	1082.88	16
-DATA	RCAM	BOTH	1083.00	16
-DATA	RCAM	BOTH	1083.12	16
-DATA	RCAM	BOTH	1083.24	16
-DATA	RCAM	BOTH	1083.36	16
-DATA	TCAM	BOTH	1082.64	16
-DATA	TCAM	BOTH	1082.76	16
-DATA	TCAM	BOTH	1082.88	16
-DATA	TCAM	BOTH	1083.00	16
-DATA	TCAM	BOTH	1083.12	16
-DATA	TCAM	BOTH	1083.24	16
-DATA	TCAM	BOTH	1083.36	16
-</pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details>1083_07_2beam_16sums_BOTH.rcp
+<details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -14445,23 +13328,13 @@ DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details>gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -14476,28 +13349,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -14513,7 +13376,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -14529,7 +13392,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -14545,7 +13408,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -14561,7 +13424,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -14577,7 +13440,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -14593,7 +13456,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -14611,23 +13474,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -14649,24 +13502,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -14682,7 +13525,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -14700,23 +13543,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -14731,28 +13564,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -14768,7 +13591,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -14784,7 +13607,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -14800,7 +13623,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -14816,7 +13639,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -14832,7 +13655,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -14848,7 +13671,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -14866,23 +13689,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -14904,24 +13717,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -14937,7 +13740,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -14955,23 +13758,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -14986,28 +13779,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -15023,7 +13806,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -15039,7 +13822,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -15055,7 +13838,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -15071,7 +13854,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -15087,7 +13870,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -15103,7 +13886,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -15121,23 +13904,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -15159,24 +13932,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -15192,7 +13955,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -15210,23 +13973,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -15241,28 +13994,18 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupObserving.rcp   
 <details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 530
-</pre></blockquote></details><details><summary>530_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 529.94	16
 DATA	RCAM	BOTH	 530.06	16
 DATA	RCAM	BOTH	 530.18	16
 DATA	RCAM	BOTH	 530.30	16
@@ -15278,7 +14021,7 @@ DATA	TCAM	BOTH	 530.54	16
 DATA	TCAM	BOTH	 530.66	16
 </pre></blockquote></details>ENDFOR
 <details><summary>637_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 637
-</pre></blockquote></details><details><summary>637_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
+</pre></blockquote></details><details><summary>637_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 637.04	16
 DATA	RCAM	BOTH	 637.16	16
 DATA	RCAM	BOTH	 637.28	16
 DATA	RCAM	BOTH	 637.40	16
@@ -15294,7 +14037,7 @@ DATA	TCAM	BOTH	 637.64	16
 DATA	TCAM	BOTH	 637.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>691_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 691
-</pre></blockquote></details><details><summary>691_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
+</pre></blockquote></details><details><summary>691_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 691.44	16
 DATA	RCAM	BOTH	 691.56	16
 DATA	RCAM	BOTH	 691.68	16
 DATA	RCAM	BOTH	 691.80	16
@@ -15310,7 +14053,7 @@ DATA	TCAM	BOTH	 692.04	16
 DATA	TCAM	BOTH	 692.16	16
 </pre></blockquote></details>ENDFOR
 <details><summary>706_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 706
-</pre></blockquote></details><details><summary>706_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
+</pre></blockquote></details><details><summary>706_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.84	16
 DATA	RCAM	BOTH	 705.96	16
 DATA	RCAM	BOTH	 706.08	16
 DATA	RCAM	BOTH	 706.20	16
@@ -15326,7 +14069,7 @@ DATA	TCAM	BOTH	 706.44	16
 DATA	TCAM	BOTH	 706.56	16
 </pre></blockquote></details>ENDFOR
 <details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
-</pre></blockquote></details><details><summary>789_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
+</pre></blockquote></details><details><summary>789_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 789.04	16
 DATA	RCAM	BOTH	 789.16	16
 DATA	RCAM	BOTH	 789.28	16
 DATA	RCAM	BOTH	 789.40	16
@@ -15342,7 +14085,7 @@ DATA	TCAM	BOTH	 789.64	16
 DATA	TCAM	BOTH	 789.76	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
-</pre></blockquote></details><details><summary>1074_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
+</pre></blockquote></details><details><summary>1074_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.34	16
 DATA	RCAM	BOTH	1074.46	16
 DATA	RCAM	BOTH	1074.58	16
 DATA	RCAM	BOTH	1074.70	16
@@ -15358,7 +14101,7 @@ DATA	TCAM	BOTH	1074.94	16
 DATA	TCAM	BOTH	1075.06	16
 </pre></blockquote></details>ENDFOR
 <details><summary>1079_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1079
-</pre></blockquote></details><details><summary>1079_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
+</pre></blockquote></details><details><summary>1079_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1079.44	16
 DATA	RCAM	BOTH	1079.56	16
 DATA	RCAM	BOTH	1079.68	16
 DATA	RCAM	BOTH	1079.80	16
@@ -15376,23 +14119,13 @@ DATA	TCAM	BOTH	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -15414,24 +14147,14 @@ OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1083
-</pre></blockquote></details><details><summary>1083_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
+</pre></blockquote></details><details><summary>1083_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1082.64	16
 DATA	RCAM	BOTH	1082.76	16
 DATA	RCAM	BOTH	1082.88	16
 DATA	RCAM	BOTH	1083.00	16
@@ -15447,7 +14170,7 @@ DATA	TCAM	BOTH	1083.24	16
 DATA	TCAM	BOTH	1083.36	16
 </pre></blockquote></details>ENDFOR
 <details><summary>656_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 656
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -15465,23 +14188,13 @@ DATA	TCAM	BOTH	 656.66	16
 gain_high.rcp
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>EXPOSURE 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>Dark_16Sums.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
+</pre></blockquote></details>Dark_16Sums.rcp
+<details><summary>setupObserving.rcp</summary><blockquote><pre>SHUT IN
 CALIB	OUT
 OCC		IN
 DIFFUSER OUT
 SHUT	OUT
-</pre></blockquote></details><details><summary>656_07_2beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
+</pre></blockquote></details><details><summary>656_07wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 655.94	16
 DATA	RCAM	BOTH	 656.06	16
 DATA	RCAM	BOTH	 656.18	16
 DATA	RCAM	BOTH	 656.30	16
@@ -15496,7 +14209,7 @@ DATA	TCAM	BOTH	 656.42	16
 DATA	TCAM	BOTH	 656.54	16
 DATA	TCAM	BOTH	 656.66	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.ckb</summary><blockquote><pre>gain_high.rcp
+</pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
@@ -15510,7 +14223,7 @@ DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.ckb</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
+</pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
@@ -15518,31 +14231,31 @@ SHUT	OUT
 CALIB	IN
 </pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>CALRET	0
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALRET	45
 CALPOL	0
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	45
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	90
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALPOL	135
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details>CALIB	OUT
-<details><summary>1074_1_2beams_16sums.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
+<details><summary>1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 </pre></blockquote></details></pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>

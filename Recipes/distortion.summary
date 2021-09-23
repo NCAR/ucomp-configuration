@@ -3,18 +3,7 @@
  ------------ > Exposure_80.rcp
 ------------------> EXPOSURE 80
 ------------> setupdark.rcp
- ------------ > Dark_16Sums.rcp
-------------------> SHUT	IN
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
+------------> Dark_16Sums.rcp
  ------------ > setupFlat.rcp
 ------------------> DIFFUSER  IN
 ------------------> COVER OUT
@@ -29,45 +18,45 @@
 ------------------> CALIB	OUT
  ------------ > 530_FW.rcp
 ------------------> PREFILTERRANGE 530
- ------------ > 530_1_2beams_16sums.rcp
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> DATA	RCAM	BOTH	530.30	16
 ------------------> DATA	TCAM	BOTH	530.30	16
  ------------ > 637_FW.rcp
 ------------------> PREFILTERRANGE 637
- ------------ > 637_1_2beams_16sums.rcp
+ ------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> DATA	RCAM	BOTH	637.40	16
 ------------------> DATA	TCAM	BOTH	637.40	16
  ------------ > 656_FW.rcp
 ------------------> PREFILTERRANGE 656
- ------------ > 656_1_2beams_16sums.rcp
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	TCAM	BOTH	656.28	16
+------------> 656_01wave_2beam_16sums_1rep_BOTH.rcp
  ------------ > 691_FW.rcp
 ------------------> PREFILTERRANGE 691
- ------------ > 691_1_2beams_16sums.rcp
+ ------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> DATA	RCAM	BOTH	691.80	16
 ------------------> DATA	TCAM	BOTH	691.80	16
  ------------ > 706_FW.rcp
 ------------------> PREFILTERRANGE 706
- ------------ > 706_1_2beams_16sums.rcp
+ ------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> DATA	RCAM	BOTH	706.20	16
 ------------------> DATA	TCAM	BOTH	706.20	16
  ------------ > 789_FW.rcp
 ------------------> PREFILTERRANGE 789
- ------------ > 789_1_2beams_16sums.rcp
+ ------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> DATA	RCAM	BOTH	789.40	16
 ------------------> DATA	TCAM	BOTH	789.40	16
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
- ------------ > 1074_1_2beams_16sums.rcp
+ ------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------> DATA	TCAM	BOTH	1074.70	16
  ------------ > 1079_FW.rcp
 ------------------> PREFILTERRANGE 1079
-------------> 1079_1_2beams_16sums.rcp
+ ------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> DATA	RCAM	BOTH	1079.80	16
+------------------> DATA	TCAM	BOTH	1079.80	16
  ------------ > 1083_FW.rcp
 ------------------> PREFILTERRANGE 1083
- ------------ > 1083_1_2beams_16sums.rcp
+ ------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------> DATA	TCAM	BOTH	1083.00	16
 ------------> setupdark.rcp

@@ -1,11 +1,23 @@
   > All_Pol_Calibrate.menu
- ------ > 80ms_dark.ckb
+ ------ > dark_80ms_2beam_16sums_BOTH.cbk
+------------> gain_high.rcp
  ------------ > Exposure_80.rcp
 ------------------> EXPOSURE 80
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
-------------> dark_2beam_16sums_both.rcp
- ------ > 530_Pol_Calibrate.ckb
+ ------------ > dark_2beam_16sum_both.rcp
+------------------> SHUT	IN
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+------------------> DATA	RCAM	BOTH	656.28	16
+ ------ > 530_Pol_Calibrate.cbk
  ------------ > 530_FW.rcp
 ------------------> PREFILTERRANGE 530
  ------------ > setupCal.rcp
@@ -17,43 +29,43 @@
  ------------ > 530_Pol_Calibrate.rcp
 ------------------> CALRET	0
 ------------------> CALPOL	0
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
 ------------------> CALPOL	45
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
 ------------------> CALPOL	90
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
 ------------------> CALPOL	135
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
 ------------------> CALRET	45
 ------------------> CALPOL	0
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
 ------------------> CALPOL	45
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
 ------------------> CALPOL	90
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
 ------------------> CALPOL	135
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
 ------------------> CALIB	OUT
- ------------------ > 530_1_2beams_16sums.rcp
+ ------------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	530.30	16
 ------------------------> DATA	TCAM	BOTH	530.30	16
- ------ > 637_Pol_Calibrate.ckb
+ ------ > 637_Pol_Calibrate.cbk
  ------------ > 637_FW.rcp
 ------------------> PREFILTERRANGE 637
  ------------ > setupCal.rcp
@@ -65,43 +77,43 @@
  ------------ > 637_Pol_Calibrate.rcp
 ------------------> CALRET	0
 ------------------> CALPOL	0
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
 ------------------> CALPOL	45
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
 ------------------> CALPOL	90
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
 ------------------> CALPOL	135
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
 ------------------> CALRET	45
 ------------------> CALPOL	0
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
 ------------------> CALPOL	45
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
 ------------------> CALPOL	90
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
 ------------------> CALPOL	135
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
 ------------------> CALIB	OUT
- ------------------ > 637_1_2beams_16sums.rcp
+ ------------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	637.40	16
 ------------------------> DATA	TCAM	BOTH	637.40	16
- ------ > 656_Pol_Calibrate.ckb
+ ------ > 656_Pol_Calibrate.cbk
  ------------ > 656_FW.rcp
 ------------------> PREFILTERRANGE 656
  ------------ > setupCal.rcp
@@ -149,7 +161,7 @@
  ------------------ > 656_1_2beams_16sums.rcp
 ------------------------> DATA	RCAM	BOTH	656.28	16
 ------------------------> DATA	TCAM	BOTH	656.28	16
- ------ > 691_Pol_Calibrate.ckb
+ ------ > 691_Pol_Calibrate.cbk
  ------------ > 691_FW.rcp
 ------------------> PREFILTERRANGE 691
  ------------ > setupCal.rcp
@@ -161,43 +173,43 @@
  ------------ > 691_Pol_Calibrate.rcp
 ------------------> CALRET	0
 ------------------> CALPOL	0
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
 ------------------> CALPOL	45
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
 ------------------> CALPOL	90
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
 ------------------> CALPOL	135
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
 ------------------> CALRET	45
 ------------------> CALPOL	0
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
 ------------------> CALPOL	45
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
 ------------------> CALPOL	90
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
 ------------------> CALPOL	135
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
 ------------------> CALIB	OUT
- ------------------ > 691_1_2beams_16sums.rcp
+ ------------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	691.80	16
 ------------------------> DATA	TCAM	BOTH	691.80	16
- ------ > 706_Pol_Calibrate.ckb
+ ------ > 706_Pol_Calibrate.cbk
  ------------ > 706_FW.rcp
 ------------------> PREFILTERRANGE 706
  ------------ > setupCal.rcp
@@ -209,43 +221,43 @@
  ------------ > 706_Pol_Calibrate.rcp
 ------------------> CALRET	0
 ------------------> CALPOL	0
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
 ------------------> CALPOL	45
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
 ------------------> CALPOL	90
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
 ------------------> CALPOL	135
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
 ------------------> CALRET	45
 ------------------> CALPOL	0
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
 ------------------> CALPOL	45
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
 ------------------> CALPOL	90
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
 ------------------> CALPOL	135
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
 ------------------> CALIB	OUT
- ------------------ > 706_1_2beams_16sums.rcp
+ ------------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	706.20	16
 ------------------------> DATA	TCAM	BOTH	706.20	16
- ------ > 789_Pol_Calibrate.ckb
+ ------ > 789_Pol_Calibrate.cbk
  ------------ > 789_FW.rcp
 ------------------> PREFILTERRANGE 789
  ------------ > setupCal.rcp
@@ -257,43 +269,43 @@
  ------------ > 789_Pol_Calibrate.rcp
 ------------------> CALRET	0
 ------------------> CALPOL	0
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
 ------------------> CALPOL	45
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
 ------------------> CALPOL	90
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
 ------------------> CALPOL	135
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
 ------------------> CALRET	45
 ------------------> CALPOL	0
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
 ------------------> CALPOL	45
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
 ------------------> CALPOL	90
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
 ------------------> CALPOL	135
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
 ------------------> CALIB	OUT
- ------------------ > 789_1_2beams_16sums.rcp
+ ------------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	789.40	16
 ------------------------> DATA	TCAM	BOTH	789.40	16
- ------ > 1074_Pol_Calibrate.ckb
+ ------ > 1074_Pol_Calibrate.cbk
  ------------ > 1074_FW.rcp
 ------------------> PREFILTERRANGE 1074
  ------------ > setupCal.rcp
@@ -305,43 +317,43 @@
  ------------ > 1074_Pol_Calibrate.rcp
 ------------------> CALRET	0
 ------------------> CALPOL	0
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
 ------------------> CALPOL	45
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
 ------------------> CALPOL	90
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
 ------------------> CALPOL	135
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
 ------------------> CALRET	45
 ------------------> CALPOL	0
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
 ------------------> CALPOL	45
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
 ------------------> CALPOL	90
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
 ------------------> CALPOL	135
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
 ------------------> CALIB	OUT
- ------------------ > 1074_1_2beams_16sums.rcp
+ ------------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1074.70	16
 ------------------------> DATA	TCAM	BOTH	1074.70	16
- ------ > 1079_Pol_Calibrate.ckb
+ ------ > 1079_Pol_Calibrate.cbk
  ------------ > 1079_FW.rcp
 ------------------> PREFILTERRANGE 1079
  ------------ > setupCal.rcp
@@ -353,43 +365,43 @@
  ------------ > 1079_Pol_Calibrate.rcp
 ------------------> CALRET	0
 ------------------> CALPOL	0
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
 ------------------> CALPOL	45
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
 ------------------> CALPOL	90
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
 ------------------> CALPOL	135
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
 ------------------> CALRET	45
 ------------------> CALPOL	0
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
 ------------------> CALPOL	45
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
 ------------------> CALPOL	90
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
 ------------------> CALPOL	135
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
 ------------------> CALIB	OUT
- ------------------ > 1079_1_2beam_16sums.rcp
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1079.80	16
 ------------------------> DATA	TCAM	BOTH	1079.80	16
- ------ > 1083_Pol_Calibrate.ckb
+ ------ > 1083_Pol_Calibrate.cbk
  ------------ > 1083_FW.rcp
 ------------------> PREFILTERRANGE 1083
  ------------ > setupCal.rcp
@@ -401,39 +413,39 @@
  ------------ > 1083_Pol_Calibrate.rcp
 ------------------> CALRET	0
 ------------------> CALPOL	0
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
 ------------------> CALPOL	45
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
 ------------------> CALPOL	90
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
 ------------------> CALPOL	135
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
 ------------------> CALRET	45
 ------------------> CALPOL	0
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
 ------------------> CALPOL	45
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
 ------------------> CALPOL	90
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
 ------------------> CALPOL	135
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
 ------------------> CALIB	OUT
- ------------------ > 1083_1_2beams_16sums.rcp
+ ------------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> DATA	RCAM	BOTH	1083.00	16
 ------------------------> DATA	TCAM	BOTH	1083.00	16
