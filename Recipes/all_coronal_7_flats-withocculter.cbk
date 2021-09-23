@@ -6,7 +6,7 @@ gain_high.rcp
 Exposure_80.rcp
 setupFlat.rcp
 setupDark.rcp
-Dark_16Sums.rcp
+dark_01wave_1beam_16sums_200_rep_BOTH.rcp
 
 setupFlat.rcp
 530_FW.rcp
