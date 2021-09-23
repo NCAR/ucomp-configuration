@@ -1,22 +1,5 @@
   > All_Pol_Calibrate.menu
- ------ > dark_80ms_2beam_16sums_BOTH.cbk
-------------> gain_high.rcp
- ------------ > Exposure_80.rcp
-------------------> EXPOSURE 80
- ------------ > setupDark.rcp
-------------------> SHUT	IN
- ------------ > dark_2beam_16sum_both.rcp
-------------------> SHUT	IN
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
+------> dark_80ms_2beam_16sums_BOTH.cbk
  ------ > 530_Pol_Calibrate.cbk
  ------------ > 530_FW.rcp
 ------------------> PREFILTERRANGE 530
