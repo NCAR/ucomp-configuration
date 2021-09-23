@@ -144,7 +144,7 @@ COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details><details><summary>789_21_1beam_16sums_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 788.20	16
+</pre></blockquote></details><details><summary>789_21wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 788.20	16
 DATA	RCAM	BOTH	 788.32	16
 DATA	RCAM	BOTH	 788.44	16
 DATA	RCAM	BOTH	 788.56	16

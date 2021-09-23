@@ -182,7 +182,7 @@
 ------------------> OCC		OUT
 ------------------> SHUT	OUT
 ------------------> CALIB	OUT
- ------------ > 789_21_1beam_16sums_BOTH.rcp
+ ------------ > 789_21wave_1beam_16sums_1rep_BOTH.rcp
 ------------------> DATA	RCAM	BOTH	 788.20	16
 ------------------> DATA	RCAM	BOTH	 788.32	16
 ------------------> DATA	RCAM	BOTH	 788.44	16
