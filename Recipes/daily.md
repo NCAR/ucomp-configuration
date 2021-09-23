@@ -135,8 +135,49 @@ COVER OUT
 OCC		OUT
 SHUT	OUT
 CALIB	OUT
-</pre></blockquote></details>707_21wave_2beam_16sums_1rep_BOTH.rcp
-<details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details><details><summary>706_21wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>DATA	RCAM	BOTH	 705.30	16
+DATA	RCAM	BOTH	 705.39	16
+DATA	RCAM	BOTH	 705.48	16
+DATA	RCAM	BOTH	 705.57	16
+DATA	RCAM	BOTH	 705.66	16
+DATA	RCAM	BOTH	 705.75	16
+DATA	RCAM	BOTH	 705.84	16
+DATA	RCAM	BOTH	 705.93	16
+DATA	RCAM	BOTH	 706.02	16
+DATA	RCAM	BOTH	 706.11	16
+DATA	RCAM	BOTH	 706.20	16
+DATA	RCAM	BOTH	 706.29	16
+DATA	RCAM	BOTH	 706.38	16
+DATA	RCAM	BOTH	 706.47	16
+DATA	RCAM	BOTH	 706.56	16
+DATA	RCAM	BOTH	 706.65	16
+DATA	RCAM	BOTH	 706.74	16
+DATA	RCAM	BOTH	 706.83	16
+DATA	RCAM	BOTH	 706.92	16
+DATA	RCAM	BOTH	 707.01	16
+DATA	RCAM	BOTH	 707.10	16
+DATA	TCAM	BOTH	 705.30	16
+DATA	TCAM	BOTH	 705.39	16
+DATA	TCAM	BOTH	 705.48	16
+DATA	TCAM	BOTH	 705.57	16
+DATA	TCAM	BOTH	 705.66	16
+DATA	TCAM	BOTH	 705.75	16
+DATA	TCAM	BOTH	 705.84	16
+DATA	TCAM	BOTH	 705.93	16
+DATA	TCAM	BOTH	 706.02	16
+DATA	TCAM	BOTH	 706.11	16
+DATA	TCAM	BOTH	 706.20	16
+DATA	TCAM	BOTH	 706.29	16
+DATA	TCAM	BOTH	 706.38	16
+DATA	TCAM	BOTH	 706.47	16
+DATA	TCAM	BOTH	 706.56	16
+DATA	TCAM	BOTH	 706.65	16
+DATA	TCAM	BOTH	 706.74	16
+DATA	TCAM	BOTH	 706.83	16
+DATA	TCAM	BOTH	 706.92	16
+DATA	TCAM	BOTH	 707.01	16
+DATA	TCAM	BOTH	 707.10	16
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
 </pre></blockquote></details></pre></blockquote></details><details><summary>789_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>PREFILTERRANGE 789
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
