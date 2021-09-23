@@ -1,7 +1,7 @@
 name: Commit date to master
 on: push
 jobs:
-  date:
+  build_summary:
     runs-on: ubuntu-latest
     steps:
       # Checkout the branch
@@ -12,7 +12,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v2
         
-      - name: save current date
+      - name: build summary
         uses: jannekem/run-python-script-action@v1
         with:
           script: |
