@@ -94,6 +94,9 @@ data	tcam	both	530.00	16
 o1 8.75
 data	tcam	both	530.00	16
 shut in
+</pre></blockquote></details><details><summary>Dark_4Sums.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	4
+data	rcam	both	656.28	4
 </pre></blockquote></details><details><summary>637_focus.rcp</summary><blockquote><pre>prefilterrange 637
 shut	out
 o1 13

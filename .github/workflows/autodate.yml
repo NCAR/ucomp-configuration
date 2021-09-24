@@ -122,5 +122,5 @@ jobs:
         run: |
           # Stage the file, commit and push
           git add .
-          git commit -m "Menu files re-summarized"
+          git commit -m "Menu files re-summarized" --allow-empty
           git push origin main
