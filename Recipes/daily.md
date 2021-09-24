@@ -1595,6 +1595,7 @@ data	tcam	both	1083.00	16
 <details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
 data	tcam	both	1083.00	16
 </pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>waves_1074_1hour.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details><details><summary>dark_01wave_1beam_11sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
@@ -2346,6 +2347,7 @@ data tcam both 1074.82 11
 data tcam both 1074.70 11
 </pre></blockquote></details>endfor
 </pre></blockquote></details><details><summary>sumtest-1074.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details><details><summary>sumframes.rcp</summary><blockquote><pre>saveall out
