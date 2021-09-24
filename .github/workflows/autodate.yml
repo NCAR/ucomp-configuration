@@ -19,7 +19,6 @@ jobs:
             import os
             os.chdir("Recipes")
             import glob
-
             def unroll_forloop(results):
                 results2 = []
                 endline =0
@@ -40,39 +39,77 @@ jobs:
                         else:
                             results2.append(results[i])
                 return results2
-
-            def read_script(f,f1,scriptname,tab=0,childextension=".rcp"):
+            def read_script(scriptname,parent,tab,state,darks,flat,summary,md,warning,childextension=".rcp"):
+                #print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
                 script = open(scriptname,"r")
                 results = script.readlines()
                 script.close()
                 results2 = unroll_forloop(results)
-
-                f1.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
-                f.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
-
+                summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
+                md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
                 for child in results2:
-                    child=child.strip()
-                    if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("DATE") and not child.startswith("AUTHOR") and not child.startswith("DESCRIPTION"):
-                        try:
-                            read_script(f,f1,child.split('#')[0],tab)
-                        except:
-                            print(child)
-                            f1.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
-                            f.write(f"{child.split('#')[0]}\n")
+                    filename =child.split('#')[0].strip()
+                    child=child.strip().lower()
+                    if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("date") and not child.startswith("author") and not child.startswith("description"):
+                        if childextension in child.split('#')[0]:
+                            try:
+                                read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
+                            except FileNotFoundError:
+                                warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
+                        else:
+                            #print(f"{state} {darks} {flat} {parent} {child}")
+                            
+                            summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
+                            md.write(f"{child.split('#')[0]}\n")
+                            if "gain" in child:
+                                state['gain'] = "low" if "low" in child else "high"
+                            if "shut" in child:
+                                state['shut'] = "in" if "in" in child else "out"
+                            if "exposure" in child:
+                                state['exposure'] = child.split(" ")[1]
+                                #print(state)
+                            if "cover" in child:
+                                state['cover'] = "in" if "in" in child else "out"
+                            if "occ" in child:
+                                state['occ'] = "in" if "in" in child else "out"
+                            if "calib" in child:
+                                state['calib'] = "in" if "in" in child else "out"
+                            if "diffuser" in child:
+                                state['diffuser'] = "in" if "in" in child else "out"
+                            if "data" in child:
+                                #print(child)
+                                data,cam,cont,wave,sums = child.split()
+                                if state['shut'] == "in":
+                                    if state['exposure']+state['gain']+sums not in darks:
+                                        darks.append(state['exposure']+state['gain']+sums)
+                                if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
+                                    if state['gain']+sums+cam+cont+wave not in flats:
+                                        flats.append(state['gain']+sums+cam+cont+wave)
+                                if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
+                                    #print(state)
+                                    if state['exposure']+state['gain']+sums not in darks:
+                                        warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
+                                    if state['gain']+sums+cam+cont+wave not in flats:
+                                        warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
                             pass
                 script.close()
-                f.write("</pre></blockquote></details>")
-
-
-
+                md.write("</pre></blockquote></details>")
             menus = glob.glob("*.menu")
+            state = {}
+            darks = []
+            flats = []
+            warning = open('warnings.txt',"w")
             for menu in menus:
-                f = open(menu.split(".menu")[0]+".md","w")
-                f1 = open(menu.split(".menu")[0]+".summary","w")
-                read_script(f,f1,menu,0,".cbk")
-                f.close()
-                f1.close()
+                state = {'exposure':"",'shut':"",'calib':"",'occ':"",'diffuser':"",'gain':""}
+                darks = []
+                flats = []
+                md = open(menu.split(".menu")[0]+".md","w")
+                summary = open(menu.split(".menu")[0]+".summary","w")
+                read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
+                md.close()
+                summary.close()
+            warning.close()
             
            
       - name: setup git config

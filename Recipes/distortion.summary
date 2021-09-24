@@ -1,64 +1,61 @@
   > distortion.menu
  ------ > distortion.cbk
  ------------ > Exposure_80.rcp
-------------------> EXPOSURE 80
-------------> setupdark.rcp
-------------> dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
-------------------> DIFFUSER  IN
-------------------> COVER OUT
-------------------> OCC		OUT
-------------------> SHUT	OUT
-------------------> CALIB	OUT
+------------------> diffuser  in
+------------------> cover out
+------------------> occ		out
+------------------> shut	out
+------------------> calib	out
  ------------ > setupFlat.rcp
-------------------> DIFFUSER  IN
-------------------> COVER OUT
-------------------> OCC		OUT
-------------------> SHUT	OUT
-------------------> CALIB	OUT
+------------------> diffuser  in
+------------------> cover out
+------------------> occ		out
+------------------> shut	out
+------------------> calib	out
  ------------ > 530_FW.rcp
-------------------> PREFILTERRANGE 530
+------------------> prefilterrange 530
  ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	530.30	16
-------------------> DATA	TCAM	BOTH	530.30	16
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
  ------------ > 637_FW.rcp
-------------------> PREFILTERRANGE 637
+------------------> prefilterrange 637
  ------------ > 637_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	637.40	16
-------------------> DATA	TCAM	BOTH	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
  ------------ > 656_FW.rcp
-------------------> PREFILTERRANGE 656
+------------------> prefilterrange 656
  ------------ > 656_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	TCAM	BOTH	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	tcam	both	656.28	16
  ------------ > 691_FW.rcp
-------------------> PREFILTERRANGE 691
+------------------> prefilterrange 691
  ------------ > 691_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	691.80	16
-------------------> DATA	TCAM	BOTH	691.80	16
+------------------> data	rcam	both	691.80	16
+------------------> data	tcam	both	691.80	16
  ------------ > 706_FW.rcp
-------------------> PREFILTERRANGE 706
+------------------> prefilterrange 706
  ------------ > 706_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	706.20	16
-------------------> DATA	TCAM	BOTH	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
  ------------ > 789_FW.rcp
-------------------> PREFILTERRANGE 789
+------------------> prefilterrange 789
  ------------ > 789_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	789.40	16
-------------------> DATA	TCAM	BOTH	789.40	16
+------------------> data	rcam	both	789.40	16
+------------------> data	tcam	both	789.40	16
  ------------ > 1074_FW.rcp
-------------------> PREFILTERRANGE 1074
+------------------> prefilterrange 1074
  ------------ > 1074_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	1074.70	16
-------------------> DATA	TCAM	BOTH	1074.70	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	tcam	both	1074.70	16
  ------------ > 1079_FW.rcp
-------------------> PREFILTERRANGE 1079
+------------------> prefilterrange 1079
  ------------ > 1079_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	1079.80	16
-------------------> DATA	TCAM	BOTH	1079.80	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	tcam	both	1079.80	16
  ------------ > 1083_FW.rcp
-------------------> PREFILTERRANGE 1083
+------------------> prefilterrange 1083
  ------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
-------------------> DATA	RCAM	BOTH	1083.00	16
-------------------> DATA	TCAM	BOTH	1083.00	16
-------------> setupdark.rcp
+------------------> data	rcam	both	1083.00	16
+------------------> data	tcam	both	1083.00	16
