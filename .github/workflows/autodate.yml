@@ -56,7 +56,8 @@ jobs:
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call {child.split('#')[0]} which does not exist\n")
                         else:
-                            print(state)
+                            print(f"{state} {dark} {flat} {child}")
+                            
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             md.write(f"{child.split('#')[0]}\n")
                             if "gain" in child:
@@ -64,7 +65,6 @@ jobs:
                             if "shut" in child:
                                 state['shut'] = "in" if "in" in child else "out"
                             if "exposure" in child:
-                                print(child)
                                 state['exposure'] = child.split(" ")[1]
                                 print(state)
                             if "cover" in child:
