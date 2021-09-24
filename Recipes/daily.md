@@ -1,6 +1,17 @@
 <details><summary>daily.menu</summary><blockquote><pre><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>530_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange 530
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
@@ -291,6 +302,17 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -502,6 +524,17 @@ data	tcam	blue	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -564,6 +597,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -739,6 +783,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -772,6 +827,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -824,6 +890,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -858,6 +935,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -1033,6 +1121,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -1066,6 +1165,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -1118,6 +1228,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -1147,6 +1268,17 @@ data	tcam	both	 656.44	   16
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>530_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange 530
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -2693,6 +2825,17 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -2904,6 +3047,17 @@ data	tcam	blue	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -2966,6 +3120,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3141,6 +3306,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3174,6 +3350,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3226,6 +3413,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3260,6 +3458,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3435,6 +3644,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3468,6 +3688,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3520,6 +3751,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3554,6 +3796,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3729,6 +3982,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3762,6 +4026,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3814,6 +4089,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -3848,6 +4134,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -4023,6 +4320,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -4056,6 +4364,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -4108,6 +4427,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -4137,6 +4467,17 @@ data	tcam	both	 656.44	   16
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -4582,6 +4923,17 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -4870,6 +5222,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5045,6 +5408,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5078,6 +5452,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5130,6 +5515,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5164,6 +5560,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5339,6 +5746,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5372,6 +5790,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5424,6 +5853,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5458,6 +5898,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5633,6 +6084,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5666,6 +6128,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5718,6 +6191,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5752,6 +6236,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5927,6 +6422,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -5960,6 +6466,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -6012,6 +6529,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -6041,6 +6569,17 @@ data	tcam	both	 656.44	   16
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -6486,6 +7025,17 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -6697,6 +7247,17 @@ data	tcam	blue	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -6759,6 +7320,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -6934,6 +7506,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -6967,6 +7550,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7019,6 +7613,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7053,6 +7658,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7228,6 +7844,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7261,6 +7888,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7313,6 +7951,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7347,6 +7996,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7522,6 +8182,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7555,6 +8226,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7607,6 +8289,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7641,6 +8334,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7816,6 +8520,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7849,6 +8564,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7901,6 +8627,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -7930,6 +8667,17 @@ data	tcam	both	 656.44	   16
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -8375,6 +9123,17 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -8586,6 +9345,17 @@ data	tcam	blue	1083.16	   16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -8648,6 +9418,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -8823,6 +9604,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -8856,6 +9648,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -8908,6 +9711,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -8942,6 +9756,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9117,6 +9942,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9150,6 +9986,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9202,6 +10049,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9236,6 +10094,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9411,6 +10280,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9444,6 +10324,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9496,6 +10387,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9530,6 +10432,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9705,6 +10618,17 @@ data	tcam	both	1080.02	   16
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9738,6 +10662,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9790,6 +10725,17 @@ data	tcam	both	 656.44	   16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -9819,6 +10765,17 @@ data	tcam	both	 656.44	   16
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -10264,6 +11221,17 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -10407,6 +11375,17 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -10452,6 +11431,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -10572,6 +11562,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -10599,6 +11600,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -10639,6 +11651,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -10667,6 +11690,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -10787,6 +11821,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -10814,6 +11859,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -10854,6 +11910,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -10882,6 +11949,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -11002,6 +12080,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -11029,6 +12118,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -11069,6 +12169,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -11097,6 +12208,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -11217,6 +12339,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -11244,6 +12377,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -11284,6 +12428,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -11307,6 +12462,17 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -11752,6 +12918,17 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -11895,6 +13072,17 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -11940,6 +13128,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12060,6 +13259,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12087,6 +13297,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12127,6 +13348,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12155,6 +13387,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12275,6 +13518,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12302,6 +13556,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12342,6 +13607,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12370,6 +13646,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12490,6 +13777,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12517,6 +13815,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12557,6 +13866,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12585,6 +13905,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12705,6 +14036,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12732,6 +14074,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12772,6 +14125,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -12795,6 +14159,17 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -13240,6 +14615,17 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -13383,6 +14769,17 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -13428,6 +14825,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13548,6 +14956,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13575,6 +14994,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13615,6 +15045,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13643,6 +15084,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13763,6 +15215,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13790,6 +15253,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13830,6 +15304,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13858,6 +15343,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -13978,6 +15474,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -14005,6 +15512,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -14045,6 +15563,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -14073,6 +15602,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -14193,6 +15733,17 @@ data	tcam	both	1080.16	16
 <details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -14220,6 +15771,17 @@ occ		in
 diffuser out
 shut	out
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -14260,6 +15822,17 @@ data	tcam	both	 656.66	16
 <details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_10.rcp</summary><blockquote><pre>exposure 10
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 calib	out
 occ		in
@@ -14283,6 +15856,17 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out

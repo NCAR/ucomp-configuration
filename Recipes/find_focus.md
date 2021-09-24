@@ -1,4 +1,5 @@
-<details><summary>find_focus.menu</summary><blockquote><pre><details><summary>find_focus.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+<details><summary>find_focus.menu</summary><blockquote><pre><details><summary>find_focus.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre>nd in
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>shut	in
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16

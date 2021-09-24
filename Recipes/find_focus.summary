@@ -1,5 +1,7 @@
   > find_focus.menu
  ------ > find_focus.cbk
+ ------------ > ND_IN.rcp
+------------------> nd in
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > dark_01wave_1beam_16sums_1rep_BOTH.rcp
