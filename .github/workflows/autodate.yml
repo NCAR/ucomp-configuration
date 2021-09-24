@@ -56,8 +56,8 @@ jobs:
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call {child.split('#')[0]} which does not exist\n")
                             print(child)
-                            f1.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
-                            f.write(f"{child.split('#')[0]}\n")
+                            summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
+                            md.write(f"{child.split('#')[0]}\n")
                             if "gain" in child:
                                 state['gain'] = "low" if "low" in child else "high"
                             if "shut" in child:
