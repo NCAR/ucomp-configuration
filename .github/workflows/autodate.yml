@@ -85,6 +85,7 @@ jobs:
                                     if state['gain']+sums+cam+cont+wave not in flats:
                                         flats.append(state['gain']+sums+cam+cont+wave)
                                 if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
+                                    print(state)
                                     if state['exposure']+state['gain']+sums not in darks:
                                         warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
                                     if state['gain']+sums+cam+cont+wave not in flats:
