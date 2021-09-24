@@ -1,4 +1,5 @@
 <details><summary>distortion.menu</summary><blockquote><pre><details><summary>distortion.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
@@ -36,4 +37,5 @@ data	tcam	both	1079.80	16
 </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange 1083
 </pre></blockquote></details><details><summary>1083_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
 data	tcam	both	1083.00	16
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>

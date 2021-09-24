@@ -2,6 +2,8 @@
  ------ > distortion.cbk
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > setupDark.rcp
+------------------> shut	in
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -59,3 +61,5 @@
  ------------ > 1083_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1083.00	16
 ------------------> data	tcam	both	1083.00	16
+ ------------ > setupDark.rcp
+------------------> shut	in
