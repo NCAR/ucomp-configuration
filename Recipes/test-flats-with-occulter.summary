@@ -1,5 +1,7 @@
   > test-flats-with-occulter.menu
  ------ > all_coronal_7_flats-withocculter.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp

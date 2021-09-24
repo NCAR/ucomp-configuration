@@ -1,4 +1,5 @@
-<details><summary>test-flats-with-occulter.menu</summary><blockquote><pre><details><summary>all_coronal_7_flats-withocculter.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+<details><summary>test-flats-with-occulter.menu</summary><blockquote><pre><details><summary>all_coronal_7_flats-withocculter.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out

@@ -1,5 +1,7 @@
   > all_coronal_7.menu
  ------ > all_coronal_7_flats.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp
@@ -171,6 +173,8 @@
 ------------------> data	tcam	both	 656.66	16
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
@@ -211,11 +215,15 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -385,6 +393,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -437,6 +447,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -465,6 +477,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -634,6 +648,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -686,6 +702,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -714,6 +732,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -883,6 +903,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -935,6 +957,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -963,6 +987,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -1132,6 +1158,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -1184,6 +1212,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -1212,6 +1242,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7_flats.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp
@@ -1383,6 +1415,8 @@
 ------------------> data	tcam	both	 656.66	16
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
@@ -1423,11 +1457,15 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -1597,6 +1635,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -1649,6 +1689,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -1677,6 +1719,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -1846,6 +1890,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -1898,6 +1944,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -1926,6 +1974,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -2095,6 +2145,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -2147,6 +2199,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -2175,6 +2229,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -2344,6 +2400,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -2396,6 +2454,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -2424,6 +2484,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7_flats.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp
@@ -2595,6 +2657,8 @@
 ------------------> data	tcam	both	 656.66	16
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
@@ -2635,11 +2699,15 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -2809,6 +2877,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -2861,6 +2931,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -2889,6 +2961,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -3058,6 +3132,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -3110,6 +3186,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -3138,6 +3216,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -3307,6 +3387,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -3359,6 +3441,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -3387,6 +3471,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -3556,6 +3642,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -3608,6 +3696,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -3636,6 +3726,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7_flats.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp
@@ -3807,6 +3899,8 @@
 ------------------> data	tcam	both	 656.66	16
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
@@ -3847,11 +3941,15 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4021,6 +4119,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4073,6 +4173,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -4101,6 +4203,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4270,6 +4374,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4322,6 +4428,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -4350,6 +4458,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4519,6 +4629,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4571,6 +4683,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -4599,6 +4713,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4768,6 +4884,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4820,6 +4938,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -4848,6 +4968,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7_flats.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp
@@ -5019,6 +5141,8 @@
 ------------------> data	tcam	both	 656.66	16
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
@@ -5059,11 +5183,15 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5233,6 +5361,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5285,6 +5415,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -5313,6 +5445,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5482,6 +5616,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5534,6 +5670,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -5562,6 +5700,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5731,6 +5871,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5783,6 +5925,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -5811,6 +5955,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5980,6 +6126,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6032,6 +6180,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -6060,6 +6210,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7_flats.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp
@@ -6231,6 +6383,8 @@
 ------------------> data	tcam	both	 656.66	16
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
@@ -6271,11 +6425,15 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6445,6 +6603,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6497,6 +6657,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -6525,6 +6687,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6694,6 +6858,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6746,6 +6912,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -6774,6 +6942,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6943,6 +7113,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6995,6 +7167,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -7023,6 +7197,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7192,6 +7368,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7244,6 +7422,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -7272,6 +7452,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7_flats.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp
@@ -7443,6 +7625,8 @@
 ------------------> data	tcam	both	 656.66	16
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
@@ -7483,11 +7667,15 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7657,6 +7845,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7709,6 +7899,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -7737,6 +7929,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7906,6 +8100,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7958,6 +8154,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -7986,6 +8184,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8155,6 +8355,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8207,6 +8409,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -8235,6 +8439,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8404,6 +8610,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8456,6 +8664,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -8484,6 +8694,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7_flats.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupFlat.rcp
@@ -8655,6 +8867,8 @@
 ------------------> data	tcam	both	 656.66	16
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
@@ -8695,11 +8909,15 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8869,6 +9087,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8921,6 +9141,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -8949,6 +9171,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9118,6 +9342,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9170,6 +9396,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -9198,6 +9426,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9367,6 +9597,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9419,6 +9651,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp
@@ -9447,6 +9681,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_coronal_7.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9616,6 +9852,8 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+ ------------ > gain_low.rcp
+------------------> gain low
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9668,6 +9906,8 @@
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
 ------------> endfor
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > setupDark.rcp

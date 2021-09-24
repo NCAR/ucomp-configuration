@@ -1,5 +1,7 @@
   > All_Pol_Calibrate.menu
  ------ > dark_80ms_2beam_16sums_BOTH.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupDark.rcp
