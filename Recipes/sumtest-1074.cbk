@@ -3,7 +3,7 @@ DATE 9-2-2021
 DESCRIPTION Test Cookbook to take some frames with and without summing.  Data should look like the 1074 waves data (with poor cadiance).
 
 gain_high.rcp
-exposure_80.rcp
+Exposure_80.rcp
 1074_FW.rcp
 setupDark.rcp
 sumframes.rcp
