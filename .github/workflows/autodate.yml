@@ -49,11 +49,12 @@ jobs:
                 md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
                 for child in results2:
+                    filename =child.split('#')[0]
                     child=child.strip().lower()
                     if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("date") and not child.startswith("author") and not child.startswith("description"):
                         if childextension in child.split('#')[0]:
                             try:
-                                read_script(child.split('#')[0],parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
+                                read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call {child.split('#')[0]} which does not exist\n")
                         else:
