@@ -55,6 +55,7 @@ jobs:
                                 read_script(child.split('#')[0],parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call {child.split('#')[0]} which does not exist\n")
+                        else:
                             print(child)
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             md.write(f"{child.split('#')[0]}\n")
@@ -63,7 +64,7 @@ jobs:
                             if "shut" in child:
                                 state['shut'] = "in" if "in" in child else "out"
                             if "exposure" in child:
-                                print(child)
+                                #print(child)
                                 state['exposure'] = child.split()[1]
                             if "cover" in child:
                                 state['cover'] = "in" if "in" in child else "out"
