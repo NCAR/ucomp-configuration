@@ -40,7 +40,7 @@ jobs:
                             results2.append(results[i])
                 return results2
             def read_script(scriptname,parent,tab,state,darks,flat,summary,md,warning,childextension=".rcp"):
-                print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
+                #print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
                 script = open(scriptname,"r")
                 results = script.readlines()
                 script.close()
@@ -58,7 +58,7 @@ jobs:
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
                         else:
-                            print(f"{state} {darks} {flat} {parent} {child}")
+                            #print(f"{state} {darks} {flat} {parent} {child}")
                             
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             md.write(f"{child.split('#')[0]}\n")
@@ -68,7 +68,7 @@ jobs:
                                 state['shut'] = "in" if "in" in child else "out"
                             if "exposure" in child:
                                 state['exposure'] = child.split(" ")[1]
-                                print(state)
+                                #print(state)
                             if "cover" in child:
                                 state['cover'] = "in" if "in" in child else "out"
                             if "occ" in child:
@@ -87,7 +87,7 @@ jobs:
                                     if state['gain']+sums+cam+cont+wave not in flats:
                                         flats.append(state['gain']+sums+cam+cont+wave)
                                 if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
-                                    print(state)
+                                    #print(state)
                                     if state['exposure']+state['gain']+sums not in darks:
                                         warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
                                     if state['gain']+sums+cam+cont+wave not in flats:
