@@ -5,7 +5,7 @@
 ------------------> EXPOSURE 80
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
- ------------ > dark_2beam_16sum_both.rcp
+ ------------ > dark_01wave_1beam_16sums_10rep_both.rcp
 ------------------> SHUT	IN
 ------------------> DATA	RCAM	BOTH	656.28	16
 ------------------> DATA	RCAM	BOTH	656.28	16

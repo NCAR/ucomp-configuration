@@ -1,7 +1,7 @@
 <details><summary>All_Pol_Calibrate.menu</summary><blockquote><pre><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre>gain_high.rcp
 <details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>dark_2beam_16sum_both.rcp</summary><blockquote><pre>SHUT	IN
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_both.rcp</summary><blockquote><pre>SHUT	IN
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16

@@ -6,18 +6,8 @@ OCC		OUT
 SHUT	OUT
 CALIB	OUT
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>SHUT	IN
-</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+</pre></blockquote></details>dark_01wave_1beam_16sums_10rep_BOTH.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT

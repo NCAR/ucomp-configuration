@@ -11,18 +11,7 @@
 ------------------> CALIB	OUT
  ------------ > setupDark.rcp
 ------------------> SHUT	IN
- ------------ > dark_01wave_1beam_16sums_1rep_BOTH.rcp
-------------------> SHUT	IN
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
-------------------> DATA	RCAM	BOTH	656.28	16
+------------> dark_01wave_1beam_16sums_10rep_BOTH.rcp
  ------------ > setupFlat.rcp
 ------------------> DIFFUSER  IN
 ------------------> COVER OUT

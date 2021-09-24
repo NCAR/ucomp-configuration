@@ -1,17 +1,7 @@
 <details><summary>distortion.menu</summary><blockquote><pre><details><summary>distortion.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>EXPOSURE 80
 </pre></blockquote></details>setupdark.rcp
-<details><summary>dark_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>SHUT	IN
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-DATA	RCAM	BOTH	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+<details><summary>setupFlat.rcp</summary><blockquote><pre>DIFFUSER  IN
 COVER OUT
 OCC		OUT
 SHUT	OUT
