@@ -88,7 +88,7 @@ jobs:
                                         warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
                             pass
                 script.close()
-                f.write("</pre></blockquote></details>")
+                md.write("</pre></blockquote></details>")
             menus = glob.glob("*.menu")
             state = {}
             darks = []
