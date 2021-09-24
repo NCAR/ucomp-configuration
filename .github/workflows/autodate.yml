@@ -49,7 +49,7 @@ jobs:
                 md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
                 for child in results2:
-                    filename =child.split('#')[0]
+                    filename =child.split('#')[0].strip()
                     child=child.strip().lower()
                     if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("date") and not child.startswith("author") and not child.startswith("description"):
                         if childextension in child.split('#')[0]:
