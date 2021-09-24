@@ -56,7 +56,7 @@ jobs:
                             try:
                                 read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
                             except FileNotFoundError:
-                                warning.write(f"{parent} tried to call {child.split('#')[0]} which does not exist\n")
+                                warning.write(f"{parent} tried to call {filename} which does not exist\n")
                         else:
                             print(f"{state} {dark} {flat} {parent} {child}")
                             
