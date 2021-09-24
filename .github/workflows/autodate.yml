@@ -99,6 +99,9 @@ jobs:
             flats = []
             warning = open('warnings.txt',"w")
             for menu in menus:
+                state = {'exposure':"",'shut':"",'calib':"",'occ':"",'diffuser':"",'gain':""}
+                darks = []
+                flats = []
                 md = open(menu.split(".menu")[0]+".md","w")
                 summary = open(menu.split(".menu")[0]+".summary","w")
                 read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
