@@ -39,8 +39,8 @@ jobs:
                         else:
                             results2.append(results[i])
                 return results2
-            def read_script(scriptname,parent,tab,state,dark,flat,summary,md,warning,childextension=".rcp"):
-                print(f"{scriptname},{parent},{tab},{state},{dark},{flat},{summary},{md},{warning}")
+            def read_script(scriptname,parent,tab,state,darks,flat,summary,md,warning,childextension=".rcp"):
+                print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
                 script = open(scriptname,"r")
                 results = script.readlines()
                 script.close()
@@ -58,7 +58,7 @@ jobs:
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
                         else:
-                            print(f"{state} {dark} {flat} {parent} {child}")
+                            print(f"{state} {darks} {flat} {parent} {child}")
                             
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             md.write(f"{child.split('#')[0]}\n")
