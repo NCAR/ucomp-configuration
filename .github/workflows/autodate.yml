@@ -40,6 +40,7 @@ jobs:
                             results2.append(results[i])
                 return results2
             def read_script(scriptname,parent,tab,state,dark,flat,summary,md,warning,childextension=".rcp"):
+                print(f"{scriptname},{parent},{tab},{state},{dark},{flat},{summary},{md},{warning}")
                 script = open(scriptname,"r")
                 results = script.readlines()
                 script.close()
