@@ -2,7 +2,7 @@
 ###
 
 Exposure_80.rcp 
-setupdark.rcp
+setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 setupFlat.rcp
 setupFlat.rcp
@@ -20,7 +20,7 @@ setupFlat.rcp
 789_01wave_2beam_16sums_1rep_BOTH.rcp
 
 #Exposure_40.rcp
-#setupdark.rcp
+#setupDark.rcp
  
 #dark_01wave_1beam_16sums_10rep_BOTH.rcp
 #setupFlat.rcp
@@ -30,4 +30,4 @@ setupFlat.rcp
 1079_01wave_2beam_16sums_1rep_BOTH.rcp
 1083_FW.rcp
 1083_01wave_2beam_16sums_1rep_BOTH.rcp
-setupdark.rcp
+setupDark.rcp
