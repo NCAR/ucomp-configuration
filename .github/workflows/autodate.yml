@@ -56,7 +56,7 @@ jobs:
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call {child.split('#')[0]} which does not exist\n")
                         else:
-                            print(f"{state} {dark} {flat} {child}")
+                            print(f"{state} {dark} {flat} {parent} {child}")
                             
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             md.write(f"{child.split('#')[0]}\n")
