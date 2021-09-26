@@ -1,0 +1,8 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 706 nm
+
+
+706_FW.rcp
+setupCal.rcp
+706_Pol_Calibrate.rcp

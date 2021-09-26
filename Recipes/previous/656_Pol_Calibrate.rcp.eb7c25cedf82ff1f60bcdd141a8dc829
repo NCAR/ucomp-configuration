@@ -1,0 +1,24 @@
+DATE  Weds Apr 08 2020
+AUTHOR Tomczyk
+DESCRIPTION Perform polarization calibration at 656 nm
+
+CALRET	0
+CALPOL	0
+656_01wave_2beam_16sums_1rep_BOTH.rcp
+CALPOL	45
+656_01wave_2beam_16sums_1rep_BOTH.rcp
+CALPOL	90
+656_01wave_2beam_16sums_1rep_BOTH.rcp
+CALPOL	135
+656_01wave_2beam_16sums_1rep_BOTH.rcp
+CALRET	45
+CALPOL	0
+656_01wave_2beam_16sums_1rep_BOTH.rcp
+CALPOL	45
+656_01wave_2beam_16sums_1rep_BOTH.rcp
+CALPOL	90
+656_01wave_2beam_16sums_1rep_BOTH.rcp
+CALPOL	135
+656_01wave_2beam_16sums_1rep_BOTH.rcp
+CALIB	OUT
+656_01wave_2beam_16sums_1rep_BOTH.rcp

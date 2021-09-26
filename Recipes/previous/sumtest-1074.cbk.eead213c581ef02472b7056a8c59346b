@@ -1,0 +1,24 @@
+AUTHOR BERKEY
+DATE 9-2-2021
+DESCRIPTION Test Cookbook to take some frames with and without summing.  Data should look like the 1074 waves data (with poor cadiance).
+
+gain_high.rcp
+Exposure_80.rcp
+1074_FW.rcp
+setupDark.rcp
+sumframes.rcp
+dark_01wave_1beam_11sums_10rep_BOTH.rcp
+saveindividualframes.rcp
+dark_01wave_1beam_11sums_10rep_BOTH.rcp
+
+setupObserving.rcp
+
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+
+sumframes.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+1074_03wave_2beam_11sums_1_rep_BOTH.rcp
+setupDark.rcp
