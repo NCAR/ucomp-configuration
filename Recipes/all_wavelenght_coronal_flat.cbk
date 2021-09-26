@@ -11,9 +11,9 @@ setupFlat.rcp
 530_FW.rcp
 530_03wave_2beam_16sums_4rep_RED.rcp
 637_FW.rcp
-637_03wave_2beam_16sums_3rep_BOTH.rcp
+637_03wave_2beam_16sums_5rep_BOTH.rcp
 656_FW.rcp
-656_05wave_2beam_16sums_2rep_BOTH.rcp
+656_05wave_2beam_16sums_4rep_BOTH.rcp
 691_FW.rcp
 691_03wave_2beam_16sums_4rep_RED.rcp
 706_FW.rcp
@@ -35,7 +35,7 @@ setupFlat.rcp
 1083_05wave_2beam_16sums_2rep_BLUE.rcp
 656_FW.rcp
 setupFlat.rcp
-656_05wave_2beam_16sums_2rep_BOTH.rcp
+656_05wave_2beam_16sums_4rep_BOTH.rcp
 gain_high.rcp
 Exposure_80.rcp
 setupDark.rcp
