@@ -344,6 +344,30 @@ data	tcam	red	 530.24	   16
 data	tcam	red	 530.30	   16
 data	tcam	red	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>prefilterrange 656
 </pre></blockquote></details><details><summary>656_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 656.20	   16
 data	rcam	both	 656.25	   16
@@ -2851,6 +2875,30 @@ data	tcam	red	 530.24	   16
 data	tcam	red	 530.30	   16
 data	tcam	red	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>prefilterrange 656
 </pre></blockquote></details><details><summary>656_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 656.20	   16
 data	rcam	both	 656.25	   16
@@ -4891,6 +4939,30 @@ data	tcam	red	 530.24	   16
 data	tcam	red	 530.30	   16
 data	tcam	red	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>prefilterrange 656
 </pre></blockquote></details><details><summary>656_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 656.20	   16
 data	rcam	both	 656.25	   16
@@ -6931,6 +7003,30 @@ data	tcam	red	 530.24	   16
 data	tcam	red	 530.30	   16
 data	tcam	red	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>prefilterrange 656
 </pre></blockquote></details><details><summary>656_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 656.20	   16
 data	rcam	both	 656.25	   16
@@ -8971,6 +9067,30 @@ data	tcam	red	 530.24	   16
 data	tcam	red	 530.30	   16
 data	tcam	red	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>prefilterrange 656
 </pre></blockquote></details><details><summary>656_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 656.20	   16
 data	rcam	both	 656.25	   16
@@ -11060,6 +11180,30 @@ data	tcam	red	 530.24	   16
 data	tcam	red	 530.30	   16
 data	tcam	red	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>prefilterrange 656
 </pre></blockquote></details><details><summary>656_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 656.20	   16
 data	rcam	both	 656.25	   16
@@ -13100,6 +13244,30 @@ data	tcam	red	 530.24	   16
 data	tcam	red	 530.30	   16
 data	tcam	red	 530.36	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
+data	rcam	both	 637.33	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.47	   16
+data	tcam	both	 637.33	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.47	   16
 </pre></blockquote></details><details><summary>656_FW.rcp</summary><blockquote><pre>prefilterrange 656
 </pre></blockquote></details><details><summary>656_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 656.20	   16
 data	rcam	both	 656.25	   16
