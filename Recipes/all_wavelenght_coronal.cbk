@@ -18,7 +18,7 @@ setupObserving.rcp
 691_03wave_2beam_16sums_4rep_RED.rcp
 
 706_FW.rcp
-706_03wave_2beam_16sums_4rep_BOTH.rcp
+706_03wave_2beam_16sums_4rep_BLUE.rcp
 
 789_FW.rcp
 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -51,5 +51,5 @@ setupObserving.rcp
 
 gain_high.rcp
 Exposure_80.rcp
-
+    
 setupDark.rcp
