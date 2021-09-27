@@ -765,7 +765,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -793,7 +792,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -821,7 +819,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -849,7 +846,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -877,7 +873,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -901,7 +896,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -990,7 +984,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -1065,7 +1058,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -1130,7 +1122,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1158,7 +1149,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -1186,7 +1176,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1214,7 +1203,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1242,7 +1230,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -1266,7 +1253,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -1355,7 +1341,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -1430,7 +1415,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -3676,7 +3660,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3704,7 +3687,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -3732,7 +3714,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3760,7 +3741,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3788,7 +3768,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -3812,7 +3791,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -3901,7 +3879,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -3976,7 +3953,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -4041,7 +4017,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4069,7 +4044,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -4097,7 +4071,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4125,7 +4098,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4153,7 +4125,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -4177,7 +4148,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -4266,7 +4236,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -4341,7 +4310,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -4406,7 +4374,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4434,7 +4401,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -4462,7 +4428,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4490,7 +4455,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4518,7 +4482,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -4542,7 +4505,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -4631,7 +4593,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -4706,7 +4667,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -4771,7 +4731,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4799,7 +4758,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -4827,7 +4785,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4855,7 +4812,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4883,7 +4839,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -4907,7 +4862,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -4996,7 +4950,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -5071,7 +5024,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -5963,7 +5915,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5991,7 +5942,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -6019,7 +5969,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6047,7 +5996,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6075,7 +6023,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -6099,7 +6046,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -6188,7 +6134,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -6263,7 +6208,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -6328,7 +6272,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6356,7 +6299,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -6384,7 +6326,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6412,7 +6353,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6440,7 +6380,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -6464,7 +6403,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -6553,7 +6491,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -6628,7 +6565,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -6693,7 +6629,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6721,7 +6656,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -6749,7 +6683,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6777,7 +6710,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6805,7 +6737,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -6829,7 +6760,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -6918,7 +6848,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -6993,7 +6922,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -7058,7 +6986,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7086,7 +7013,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -7114,7 +7040,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7142,7 +7067,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7170,7 +7094,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -7194,7 +7117,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -7283,7 +7205,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -7358,7 +7279,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -8250,7 +8170,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8278,7 +8197,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -8306,7 +8224,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8334,7 +8251,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8362,7 +8278,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -8386,7 +8301,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -8475,7 +8389,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -8550,7 +8463,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -8615,7 +8527,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8643,7 +8554,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -8671,7 +8581,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8699,7 +8608,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8727,7 +8635,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -8751,7 +8658,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -8840,7 +8746,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -8915,7 +8820,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -8980,7 +8884,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9008,7 +8911,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -9036,7 +8938,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9064,7 +8965,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9092,7 +8992,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -9116,7 +9015,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -9205,7 +9103,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -9280,7 +9177,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -9345,7 +9241,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9373,7 +9268,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -9401,7 +9295,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9429,7 +9322,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9457,7 +9349,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -9481,7 +9372,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -9570,7 +9460,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -9645,7 +9534,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -10537,7 +10425,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10565,7 +10452,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -10593,7 +10479,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10621,7 +10506,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10649,7 +10533,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -10673,7 +10556,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -10762,7 +10644,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -10837,7 +10718,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -10902,7 +10782,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10930,7 +10809,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -10958,7 +10836,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10986,7 +10863,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11014,7 +10890,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -11038,7 +10913,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -11127,7 +11001,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -11202,7 +11075,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -11267,7 +11139,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11295,7 +11166,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -11323,7 +11193,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11351,7 +11220,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11379,7 +11247,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -11403,7 +11270,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -11492,7 +11358,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -11567,7 +11432,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -11632,7 +11496,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11660,7 +11523,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -11688,7 +11550,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11716,7 +11577,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11744,7 +11604,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -11768,7 +11627,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -11857,7 +11715,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -11932,7 +11789,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -12891,7 +12747,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -12919,7 +12774,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -12947,7 +12801,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -12975,7 +12828,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -13003,7 +12855,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -13027,7 +12878,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -13116,7 +12966,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -13191,7 +13040,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -13256,7 +13104,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -13284,7 +13131,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -13312,7 +13158,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -13340,7 +13185,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -13368,7 +13212,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -13392,7 +13235,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -13481,7 +13323,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -13556,7 +13397,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -13621,7 +13461,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -13649,7 +13488,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -13677,7 +13515,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -13705,7 +13542,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -13733,7 +13569,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -13757,7 +13592,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -13846,7 +13680,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -13921,7 +13754,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -13986,7 +13818,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -14014,7 +13845,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -14042,7 +13872,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -14070,7 +13899,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -14098,7 +13926,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -14122,7 +13949,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -14211,7 +14037,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -14286,7 +14111,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -15178,7 +15002,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -15206,7 +15029,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -15234,7 +15056,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -15262,7 +15083,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -15290,7 +15110,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -15314,7 +15133,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -15403,7 +15221,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -15478,7 +15295,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -15543,7 +15359,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -15571,7 +15386,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -15599,7 +15413,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -15627,7 +15440,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -15655,7 +15467,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -15679,7 +15490,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -15768,7 +15578,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -15843,7 +15652,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -15908,7 +15716,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -15936,7 +15743,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -15964,7 +15770,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -15992,7 +15797,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -16020,7 +15824,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -16044,7 +15847,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -16133,7 +15935,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -16208,7 +16009,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
@@ -16273,7 +16073,6 @@
 ------------------> data	tcam	red	 530.24	   16
 ------------------> data	tcam	red	 530.30	   16
 ------------------> data	tcam	red	 530.36	   16
-------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -16301,7 +16100,6 @@
 ------------------> data	tcam	both	 637.33	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.47	   16
-------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_03wave_2beam_16sums_4rep_RED.rcp
@@ -16329,7 +16127,6 @@
 ------------------> data	tcam	red	 691.73	   16
 ------------------> data	tcam	red	 691.80	   16
 ------------------> data	tcam	red	 691.87	   16
-------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -16357,7 +16154,6 @@
 ------------------> data	tcam	both	 706.13	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.27	   16
-------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -16385,7 +16181,6 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
-------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -16409,7 +16204,6 @@
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
 ------------------> data	tcam	both	1074.92	   16
-------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_05wave_2beam_16sums_2rep_BOTH.rcp
@@ -16498,7 +16292,6 @@
 ------------------> data	tcam	both	 656.30	   16
 ------------------> data	tcam	both	 656.35	   16
 ------------------> data	tcam	both	 656.40	   16
-------------> endfor
  ------------ > 1083_FW.rcp
 ------------------> prefilterrange 1083
  ------------ > 1083_05wave_2beam_16sums_2rep_BLUE.rcp
@@ -16573,7 +16366,6 @@
 ------------------> data	tcam	blue	1083.00	   16
 ------------------> data	tcam	blue	1083.09	   16
 ------------------> data	tcam	blue	1083.18	   16
-------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_80.rcp
