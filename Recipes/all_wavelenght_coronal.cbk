@@ -7,35 +7,25 @@ setupObserving.rcp   #doing setupobserving here to soak up extra time between ga
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
-
 setupObserving.rcp
 530_FW.rcp
-FOR 1
 530_03wave_2beam_16sums_4rep_RED.rcp
-ENDFOR
+
 637_FW.rcp
-FOR 1
 637_03wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
-
-
 
 691_FW.rcp
-FOR 1
 691_03wave_2beam_16sums_4rep_RED.rcp
-ENDFOR
+
 706_FW.rcp
-FOR 1
 706_03wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
+
 789_FW.rcp
-FOR 1
 789_03wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
+
 1074_FW.rcp
-FOR 1
 1074_05wave_2beam_16sums_2rep_BOTH.rcp
-ENDFOR
+
 1079_FW.rcp
 1079_05wave_2beam_16sums_2rep_BOTH.rcp
 
@@ -45,12 +35,9 @@ dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
 setupObserving.rcp
 656_FW.rcp
-FOR 1
 656_05wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
 
 1083_FW.rcp
-
 1083_05wave_2beam_16sums_2rep_BLUE.rcp
 
 gain_low.rcp
@@ -60,10 +47,7 @@ setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 setupObserving.rcp
 
-FOR 1
 1083_05wave_2beam_16sums_2rep_BLUE.rcp
-ENDFOR
-
 
 gain_high.rcp
 Exposure_80.rcp
