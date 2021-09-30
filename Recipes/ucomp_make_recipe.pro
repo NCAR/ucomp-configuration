@@ -8,7 +8,7 @@ cd,dir
 ;  the 9 wavelength regions observed by the ucomp
 
 regions=['530.3','637.4','656.3','691.8','706.2','789.4','1074.7', '1079.8', '1083.0']
-default_step = [0.06,0.07,0.05,0.07,0.07,0.07,0.11,0.11,0.09]         ;corresponding default step size
+default_step = [0.06,0.065,0.05,0.07,0.07,0.07,0.11,0.11,0.09]         ;corresponding default step size
 back_mode = ['BOTH', 'BLUE', 'RED','ALL']
 
 debug='yes'			;debug mode, 'yes' or 'no'
