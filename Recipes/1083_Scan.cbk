@@ -5,5 +5,5 @@ DESCRIPTION Perform 21 point wavelength scan
 Exposure_80.rcp
 1083_FW.rcp
 setupFlat.rcp
-1083_21wave_1beam_16sums_1rep_BOTH.rcp
+1083_13wave_1beam_16sums_1rep_BOTH.rcp
 setupDark.rcp
