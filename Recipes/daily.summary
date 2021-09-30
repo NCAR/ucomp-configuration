@@ -83,6 +83,20 @@
 ------------------> occ		out
 ------------------> shut	out
 ------------------> calib	out
+ ------------ > 789_13wave_1beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	 788.98	   16
+------------------> data	rcam	both	 789.05	   16
+------------------> data	rcam	both	 789.12	   16
+------------------> data	rcam	both	 789.19	   16
+------------------> data	rcam	both	 789.26	   16
+------------------> data	rcam	both	 789.33	   16
+------------------> data	rcam	both	 789.40	   16
+------------------> data	rcam	both	 789.47	   16
+------------------> data	rcam	both	 789.54	   16
+------------------> data	rcam	both	 789.61	   16
+------------------> data	rcam	both	 789.68	   16
+------------------> data	rcam	both	 789.75	   16
+------------------> data	rcam	both	 789.82	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > 1074_Scan.cbk
