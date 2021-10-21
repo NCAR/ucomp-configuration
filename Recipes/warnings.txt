@@ -1,3 +1,4 @@
 diffuser-calibration.menu,diffuser-calibration.cbk tried to call *706_RW.rcp* which does not exist
 diffuser-calibration.menu,diffuser-calibration.cbk tried to call *706_RW.rcp* which does not exist
 diffuser-calibration.menu,diffuser-calibration.cbk tried to call *706_RW.rcp* which does not exist
+find_focus.menu,find_focus.cbk tried to call *$530_focus-a.rcp* which does not exist
