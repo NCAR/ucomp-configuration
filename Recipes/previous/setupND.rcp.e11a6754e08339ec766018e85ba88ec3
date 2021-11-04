@@ -1,0 +1,11 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Setups the beam train for Flats
+
+SHUT IN
+DIFFUSER  OUT
+ND IN
+COVER OUT
+OCC		OUT
+CALIB	OUT
+SHUT	OUT
