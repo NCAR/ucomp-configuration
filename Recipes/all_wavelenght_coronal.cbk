@@ -31,7 +31,7 @@ ENDFOR
 
 1079_FW.rcp
 FOR 4
-1079_05wave_2beam_16sums_4rep_BOTH.rcp
+1079_05wave_2beam_16sums_4rep_BLUE.rcp
 ENDFOR
 
 Exposure_10.rcp
