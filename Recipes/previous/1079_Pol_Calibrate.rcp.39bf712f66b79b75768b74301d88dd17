@@ -1,0 +1,25 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 1079 nm
+
+CALRET	0
+CALPOL	0
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+CALPOL	45
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+CALPOL	90
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+CALPOL	135
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+CALRET	45
+CALPOL	0
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+CALPOL	45
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+CALPOL	90
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+CALPOL	135
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+CALIB	OUT
+1079_01wave_2beam_16sums_1rep_BLUE.rcp
+
