@@ -9,14 +9,29 @@ dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
 setupObserving.rcp
 
+530_FW.rcp
+FOR 4
+530_03wave_2beam_16sums_4rep_RED.rcp
+ENDFOR
+
 637_FW.rcp
 FOR 4
 637_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
-656_FW.rcp
+#656_FW.rcp
+#FOR 4
+#656_05wave_2beam_16sums_4rep_BOTH.rcp
+#ENDFOR
+
+691_FW.rcp
 FOR 4
-656_05wave_2beam_16sums_4rep_BOTH.rcp
+691_03wave_2beam_16sums_4rep_RED.rcp
+ENDFOR
+
+706_FW.rcp
+FOR 4
+706_03wave_2beam_16sums_4rep_BLUE.rcp
 ENDFOR
 
 789_FW.rcp
@@ -34,15 +49,15 @@ FOR 4
 1079_05wave_2beam_16sums_4rep_BLUE.rcp
 ENDFOR
 
-Exposure_10.rcp
-setupDark.rcp
-dark_01wave_1beam_16sums_10rep_BOTH.rcp
+#Exposure_10.rcp
+#setupDark.rcp
+#dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
-setupObserving.rcp
-656_FW.rcp
-FOR 4
-656_05wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
+#setupObserving.rcp
+#656_FW.rcp
+#FOR 4
+#656_05wave_2beam_16sums_4rep_BOTH.rcp
+#ENDFOR
 
 #1083_FW.rcp
 #FOR 4
@@ -59,7 +74,7 @@ ENDFOR
 #1083_05wave_2beam_16sums_2rep_BLUE.rcp
 #ENDFOR
 
-gain_high.rcp
-Exposure_80.rcp
+#gain_high.rcp
+#Exposure_80.rcp
     
 setupDark.rcp
