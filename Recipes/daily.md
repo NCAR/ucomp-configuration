@@ -12,8 +12,28 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
-</pre></blockquote></details></pre></blockquote></details>530_scan.ckb
-<details><summary>637_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>530_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange 530
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+cover out
+occ		out
+shut	out
+calib	out
+</pre></blockquote></details><details><summary>530_13wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 529.94	   16
+data	rcam	both	 530.00	   16
+data	rcam	both	 530.06	   16
+data	rcam	both	 530.12	   16
+data	rcam	both	 530.18	   16
+data	rcam	both	 530.24	   16
+data	rcam	both	 530.30	   16
+data	rcam	both	 530.36	   16
+data	rcam	both	 530.42	   16
+data	rcam	both	 530.48	   16
+data	rcam	both	 530.54	   16
+data	rcam	both	 530.60	   16
+data	rcam	both	 530.66	   16
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details></pre></blockquote></details><details><summary>637_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -1546,77 +1566,6 @@ data	tcam	blue	1079.91	   16
 data	tcam	blue	1080.02	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>no-occulter-flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
-</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
-cover out
-occ		out
-shut	out
-calib	out
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
-cover out
-occ		out
-shut	out
-calib	out
-</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
-data	rcam	both	1074.70	   16
-data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
-data	tcam	both	1074.59	   16
-data	tcam	both	1074.70	   16
-data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
-data	rcam	both	1074.70	   16
-data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
-data	tcam	both	1074.59	   16
-data	tcam	both	1074.70	   16
-data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-</pre></blockquote></details><details><summary>setupFlat-occulter.rcp</summary><blockquote><pre>diffuser  in
-cover out
-occ		in
-shut	out
-calib	out
-</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
-data	rcam	both	1074.70	   16
-data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
-data	tcam	both	1074.59	   16
-data	tcam	both	1074.70	   16
-data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
-data	rcam	both	1074.70	   16
-data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
-data	tcam	both	1074.59	   16
-data	tcam	both	1074.70	   16
-data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>dark_80ms_2beam_16sums_BOTH.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
@@ -5963,77 +5912,6 @@ data	tcam	blue	1079.69	   16
 data	tcam	blue	1079.80	   16
 data	tcam	blue	1079.91	   16
 data	tcam	blue	1080.02	   16
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>no-occulter-flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
-</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
-cover out
-occ		out
-shut	out
-calib	out
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-data	rcam	both	656.28	16
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
-cover out
-occ		out
-shut	out
-calib	out
-</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
-data	rcam	both	1074.70	   16
-data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
-data	tcam	both	1074.59	   16
-data	tcam	both	1074.70	   16
-data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
-data	rcam	both	1074.70	   16
-data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
-data	tcam	both	1074.59	   16
-data	tcam	both	1074.70	   16
-data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-</pre></blockquote></details><details><summary>setupFlat-occulter.rcp</summary><blockquote><pre>diffuser  in
-cover out
-occ		in
-shut	out
-calib	out
-</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
-data	rcam	both	1074.70	   16
-data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
-data	tcam	both	1074.59	   16
-data	tcam	both	1074.70	   16
-data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
-data	rcam	both	1074.70	   16
-data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
-data	tcam	both	1074.59	   16
-data	tcam	both	1074.70	   16
-data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
