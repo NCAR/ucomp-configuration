@@ -91,7 +91,7 @@ common recipe, wave_region, step, nwave, nsum, nbeam, nrep, mode, expose, ext_id
 
 wave_region = '530.3'
 step = 0.05
-nwave = 3l
+nwave = 5l
 nsum = 16l
 nbeam = 2l
 nrep = 4l
