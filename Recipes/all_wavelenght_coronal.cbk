@@ -16,7 +16,7 @@ ENDFOR
 
 637_FW.rcp
 FOR 4
-637_03wave_2beam_16sums_4rep_BOTH.rcp
+637_05wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
 691_FW.rcp
