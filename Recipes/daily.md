@@ -61,6 +61,19 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>691_13wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 691.38	   16
+data	rcam	both	 691.45	   16
+data	rcam	both	 691.52	   16
+data	rcam	both	 691.59	   16
+data	rcam	both	 691.66	   16
+data	rcam	both	 691.73	   16
+data	rcam	both	 691.80	   16
+data	rcam	both	 691.87	   16
+data	rcam	both	 691.94	   16
+data	rcam	both	 692.01	   16
+data	rcam	both	 692.08	   16
+data	rcam	both	 692.15	   16
+data	rcam	both	 692.22	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>706_Scan.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange 706
