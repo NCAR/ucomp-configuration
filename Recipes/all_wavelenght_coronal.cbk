@@ -9,39 +9,31 @@ dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
 setupObserving.rcp
 
-530_FW.rcp
-FOR 4
-530_11wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
 
 637_FW.rcp
 FOR 4
-637_05wave_2beam_16sums_4rep_BOTH.rcp
+637_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
-691_FW.rcp
-FOR 4
-691_11wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
 
 706_FW.rcp
 FOR 4
-706_11wave_2beam_16sums_4rep_BOTH.rcp
+706_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
 789_FW.rcp
 FOR 4 
-789_05wave_2beam_16sums_4rep_BOTH.rcp
+789_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
 1074_FW.rcp
 FOR 4
-1074_05wave_2beam_16sums_4rep_BOTH.rcp
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
 1079_FW.rcp
 FOR 4
-1079_05wave_2beam_16sums_4rep_BLUE.rcp
+1079_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
 
