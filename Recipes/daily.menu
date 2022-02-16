@@ -32,8 +32,8 @@ all_wavelenght_coronal.cbk
 waves_1074_1hour.cbk
 
 #For the rest of the day take coronal flats/images and some 1074 polarization calibrations 
-dark_200_1sums_80ms.cbk
-no-occulter-flat.cbk
+#dark_200_1sums_80ms.cbk
+#no-occulter-flat.cbk
 all_wavelenght_coronal_flat.cbk
 all_wavelenght_coronal.cbk
 all_wavelenght_coronal.cbk
