@@ -39,10 +39,10 @@ ENDFOR
 
 setupFlat.rcp
 1079_FW.rcp
-1079_03wave_2beam_16sums_4rep_BLUE.rcp
+1079_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
 FOR 4
-1079_03wave_2beam_16sums_4rep_BLUE.rcp
+1079_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
     
