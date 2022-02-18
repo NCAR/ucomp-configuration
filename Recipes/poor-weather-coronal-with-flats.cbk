@@ -1,68 +1,48 @@
 AUTHOR BERKEY
 DESCRIPTION Preform coronal scans with adjecnt flats for days with poor weather forcast
-
-gain_high.rcp
-Exposure_80.rcp
 setupFlat.rcp  
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
 
 setupFlat.rcp
-530_FW.rcp
-530_11wave_2beam_16sums_4rep_BOTH.rcp
-setupObserving.rcp
-FOR 4
-530_11wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
-
-setupFlat.rcp
 637_FW.rcp
-637_05wave_2beam_16sums_4rep_BOTH.rcp
+637_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
 FOR 4
-637_05wave_2beam_16sums_4rep_BOTH.rcp
+637_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
-
-setupFlat.rcp
-691_FW.rcp
-691_11wave_2beam_16sums_4rep_BOTH.rcp
-setupObserving.rcp
-FOR 4
-691_11wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
-
 
 setupFlat.rcp
 706_FW.rcp
-706_11wave_2beam_16sums_4rep_BOTH.rcp
+706_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
 FOR 4
-706_11wave_2beam_16sums_4rep_BOTH.rcp
+706_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
 setupFlat.rcp
 789_FW.rcp
-789_05wave_2beam_16sums_4rep_BOTH.rcp
+789_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
 FOR 4 
-789_05wave_2beam_16sums_4rep_BOTH.rcp
+789_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
 setupFlat.rcp
 1074_FW.rcp
-1074_05wave_2beam_16sums_4rep_BOTH.rcp
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
 FOR 4
-1074_05wave_2beam_16sums_4rep_BOTH.rcp
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
 setupFlat.rcp
 1079_FW.rcp
-1079_05wave_2beam_16sums_4rep_BLUE.rcp
+1079_03wave_2beam_16sums_4rep_BLUE.rcp
 setupObserving.rcp
 FOR 4
-1079_05wave_2beam_16sums_4rep_BLUE.rcp
+1079_03wave_2beam_16sums_4rep_BLUE.rcp
 ENDFOR
 
     
