@@ -211,6 +211,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -228,6 +229,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -359,6 +361,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -380,6 +383,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -397,6 +401,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -448,6 +453,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -470,6 +476,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -487,6 +494,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -618,6 +626,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -639,6 +648,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -656,6 +666,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -707,6 +718,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -729,6 +741,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -746,6 +759,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -877,6 +891,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -898,6 +913,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -915,6 +931,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -966,6 +983,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -988,6 +1006,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1005,6 +1024,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1136,6 +1156,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1157,6 +1178,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1174,6 +1196,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1225,6 +1248,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1457,6 +1481,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1474,6 +1499,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1605,6 +1631,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1626,6 +1653,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1643,6 +1671,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1694,6 +1723,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1716,6 +1746,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1733,6 +1764,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1864,6 +1896,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1885,6 +1918,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1902,6 +1936,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1953,6 +1988,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1975,6 +2011,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1992,6 +2029,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2123,6 +2161,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2144,6 +2183,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2161,6 +2201,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2212,6 +2253,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2234,6 +2276,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2251,6 +2294,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2382,6 +2426,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2403,6 +2448,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2420,6 +2466,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2471,6 +2518,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2703,6 +2751,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2720,6 +2769,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2851,6 +2901,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2872,6 +2923,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2889,6 +2941,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2940,6 +2993,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2962,6 +3016,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2979,6 +3034,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3110,6 +3166,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3131,6 +3188,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3148,6 +3206,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3199,6 +3258,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3221,6 +3281,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3238,6 +3299,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3369,6 +3431,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3390,6 +3453,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3407,6 +3471,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3458,6 +3523,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3480,6 +3546,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3497,6 +3564,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3628,6 +3696,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3649,6 +3718,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3666,6 +3736,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3717,6 +3788,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3949,6 +4021,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3966,6 +4039,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4097,6 +4171,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4118,6 +4193,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4135,6 +4211,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4186,6 +4263,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4208,6 +4286,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4225,6 +4304,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4356,6 +4436,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4377,6 +4458,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4394,6 +4476,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4445,6 +4528,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4467,6 +4551,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4484,6 +4569,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4615,6 +4701,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4636,6 +4723,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4653,6 +4741,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4704,6 +4793,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4726,6 +4816,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4743,6 +4834,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4874,6 +4966,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4895,6 +4988,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4912,6 +5006,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4963,6 +5058,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5195,6 +5291,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5212,6 +5309,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5343,6 +5441,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5364,6 +5463,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5381,6 +5481,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5432,6 +5533,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5454,6 +5556,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5471,6 +5574,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5602,6 +5706,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5623,6 +5728,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5640,6 +5746,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5691,6 +5798,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5713,6 +5821,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5730,6 +5839,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5861,6 +5971,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5882,6 +5993,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5899,6 +6011,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5950,6 +6063,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5972,6 +6086,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5989,6 +6104,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6120,6 +6236,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6141,6 +6258,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6158,6 +6276,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6209,6 +6328,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6441,6 +6561,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6458,6 +6579,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6589,6 +6711,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6610,6 +6733,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6627,6 +6751,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6678,6 +6803,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6700,6 +6826,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6717,6 +6844,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6848,6 +6976,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6869,6 +6998,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6886,6 +7016,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6937,6 +7068,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6959,6 +7091,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6976,6 +7109,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7107,6 +7241,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7128,6 +7263,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7145,6 +7281,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7196,6 +7333,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7218,6 +7356,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7235,6 +7374,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7366,6 +7506,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7387,6 +7528,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7404,6 +7546,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7455,6 +7598,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7687,6 +7831,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7704,6 +7849,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7835,6 +7981,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7856,6 +8003,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7873,6 +8021,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7924,6 +8073,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7946,6 +8096,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7963,6 +8114,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8094,6 +8246,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8115,6 +8268,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8132,6 +8286,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8183,6 +8338,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8205,6 +8361,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8222,6 +8379,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8353,6 +8511,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8374,6 +8533,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8391,6 +8551,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8442,6 +8603,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8464,6 +8626,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8481,6 +8644,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8612,6 +8776,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8633,6 +8798,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8650,6 +8816,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8701,6 +8868,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8933,6 +9101,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8950,6 +9119,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9081,6 +9251,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9102,6 +9273,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9119,6 +9291,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9170,6 +9343,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9192,6 +9366,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9209,6 +9384,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9340,6 +9516,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9361,6 +9538,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9378,6 +9556,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9429,6 +9608,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9451,6 +9631,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9468,6 +9649,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9599,6 +9781,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9620,6 +9803,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9637,6 +9821,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9688,6 +9873,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9710,6 +9896,7 @@ data	tcam	both	 656.66	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_coronal_7.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9727,6 +9914,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9858,6 +10046,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9879,6 +10068,7 @@ data	tcam	both	1083.36	16
 </pre></blockquote></details><details><summary>gain_low.rcp</summary><blockquote><pre>gain low
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9896,6 +10086,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9947,6 +10138,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out

@@ -147,6 +147,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -164,6 +165,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -420,6 +422,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -437,6 +440,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -693,6 +697,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -710,6 +715,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1138,6 +1144,7 @@ data tcam both 1074.59 14
 data tcam both 1074.81 14
 data tcam both 1074.70 14
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1864,6 +1871,7 @@ data tcam both 1074.81 14
 data tcam both 1074.70 14
 </pre></blockquote></details>endfor
 </pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -1881,6 +1889,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2285,6 +2294,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2302,6 +2312,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2558,6 +2569,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2575,6 +2587,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2831,6 +2844,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -2848,6 +2862,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3252,6 +3267,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3269,6 +3285,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3525,6 +3542,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3542,6 +3560,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3798,6 +3817,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -3815,6 +3835,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4219,6 +4240,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4236,6 +4258,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4492,6 +4515,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4509,6 +4533,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4765,6 +4790,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -4782,6 +4808,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5186,6 +5213,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5203,6 +5231,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5459,6 +5488,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5476,6 +5506,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5732,6 +5763,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -5749,6 +5781,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6153,6 +6186,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6170,6 +6204,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6426,6 +6461,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6443,6 +6479,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6699,6 +6736,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -6716,6 +6754,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7120,6 +7159,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7137,6 +7177,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7393,6 +7434,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7410,6 +7452,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7666,6 +7709,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -7683,6 +7727,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8087,6 +8132,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8104,6 +8150,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8360,6 +8407,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8377,6 +8425,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8633,6 +8682,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -8650,6 +8700,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9054,6 +9105,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9071,6 +9123,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9327,6 +9380,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9344,6 +9398,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9600,6 +9655,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -9617,6 +9673,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -10021,6 +10078,7 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -10038,6 +10096,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -10294,6 +10353,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -10311,6 +10371,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -10567,6 +10628,7 @@ data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
@@ -10584,6 +10646,7 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
 calib	out
 occ		in
 diffuser out
