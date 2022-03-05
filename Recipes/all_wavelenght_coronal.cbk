@@ -1,7 +1,7 @@
 AUTHOR BERKEY
 DESCRIPTION Perform scan for all 9 wavelengths
 
-#gain_high.rcp
+gain_high.rcp
 Exposure_80.rcp
 setupObserving.rcp   #doing setupobserving here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
 setupDark.rcp
