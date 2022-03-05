@@ -642,6 +642,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -938,6 +940,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -1234,6 +1238,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -2572,6 +2578,8 @@
 ------------------> data tcam both 1074.70 14
 ------------> endfor
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -3032,6 +3040,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -3328,6 +3338,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -3624,6 +3636,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -4084,6 +4098,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -4380,6 +4396,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -4676,6 +4694,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -5136,6 +5156,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -5432,6 +5454,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -5728,6 +5752,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -6188,6 +6214,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -6484,6 +6512,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -6780,6 +6810,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -7240,6 +7272,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -7536,6 +7570,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -7832,6 +7868,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -8292,6 +8330,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -8588,6 +8628,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -8884,6 +8926,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -9344,6 +9388,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -9640,6 +9686,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -9936,6 +9984,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -10396,6 +10446,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -10692,6 +10744,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -10988,6 +11042,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -11448,6 +11504,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -11744,6 +11802,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -12040,6 +12100,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
