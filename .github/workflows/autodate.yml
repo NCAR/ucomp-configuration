@@ -101,7 +101,7 @@ jobs:
             flats = []
             warning = open('warnings.txt',"w")
             for menu in menus:
-                state = {'exposure':"",'shut':"",'calib':"",'occ':"",'diffuser':"",'gain':""}
+                state = {'exposure':"80",'shut':"",'calib':"",'occ':"",'diffuser':"",'gain':"high"}
                 darks = []
                 flats = []
                 md = open(menu.split(".menu")[0]+".md","w")
