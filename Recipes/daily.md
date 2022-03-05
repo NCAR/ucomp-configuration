@@ -1,4 +1,6 @@
-<details><summary>daily.menu</summary><blockquote><pre><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+<details><summary>daily.menu</summary><blockquote><pre><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -146,7 +148,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -422,7 +425,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -698,7 +702,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -974,7 +979,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -1944,7 +1951,8 @@ data	tcam	both	1074.70	   16
 data	tcam	both	1074.81	   16
 data	tcam	both	1074.92	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -2220,7 +2228,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -2368,7 +2378,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -2644,7 +2655,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -2920,7 +2932,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -3196,7 +3209,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -3344,7 +3359,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -3620,7 +3636,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -3896,7 +3913,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -4172,7 +4190,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -4320,7 +4340,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -4596,7 +4617,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -4872,7 +4894,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -5148,7 +5171,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -5296,7 +5321,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -5572,7 +5598,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -5848,7 +5875,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -6124,7 +6152,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -6272,7 +6302,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -6548,7 +6579,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -6824,7 +6856,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -7100,7 +7133,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -7248,7 +7283,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -7524,7 +7560,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -7800,7 +7837,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -8076,7 +8114,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -8224,7 +8264,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -8500,7 +8541,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -8776,7 +8818,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -9052,7 +9095,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -9200,7 +9245,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -9476,7 +9522,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -9752,7 +9799,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -10028,7 +10076,9 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal_flat.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
@@ -10176,7 +10226,8 @@ data	tcam	both	1079.69	   16
 data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -10452,7 +10503,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out
@@ -10728,7 +10780,8 @@ data	tcam	both	1079.80	   16
 data	tcam	both	1079.91	   16
 </pre></blockquote></details>endfor
 <details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+</pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelenght_coronal.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
 calib	out

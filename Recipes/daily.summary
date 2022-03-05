@@ -1,5 +1,9 @@
   > daily.menu
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -164,6 +168,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -462,6 +468,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -760,6 +768,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -1058,6 +1068,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -2183,6 +2197,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -2481,6 +2497,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -2645,6 +2665,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -2943,6 +2965,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -3241,6 +3265,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -3539,6 +3565,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -3703,6 +3733,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4001,6 +4033,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4299,6 +4333,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -4597,6 +4633,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -4761,6 +4801,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5059,6 +5101,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5357,6 +5401,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -5655,6 +5701,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -5819,6 +5869,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6117,6 +6169,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6415,6 +6469,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -6713,6 +6769,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -6877,6 +6937,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7175,6 +7237,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7473,6 +7537,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -7771,6 +7837,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -7935,6 +8005,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8233,6 +8305,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8531,6 +8605,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -8829,6 +8905,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -8993,6 +9073,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9291,6 +9373,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9589,6 +9673,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -9887,6 +9973,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -10051,6 +10141,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -10349,6 +10441,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -10647,6 +10741,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -10945,6 +11041,10 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal_flat.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
+ ------------ > Exposure_80.rcp
+------------------> exposure 80
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -11109,6 +11209,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -11407,6 +11509,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
@@ -11705,6 +11809,8 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelenght_coronal.cbk
+ ------------ > gain_high.rcp
+------------------> gain high
  ------------ > Exposure_80.rcp
 ------------------> exposure 80
  ------------ > setupObserving.rcp
