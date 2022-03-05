@@ -252,6 +252,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -272,6 +273,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -422,6 +424,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -447,6 +450,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -467,6 +471,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -527,6 +532,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -555,6 +561,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -575,6 +582,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -725,6 +733,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -750,6 +759,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -770,6 +780,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -830,6 +841,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -858,6 +870,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -878,6 +891,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1028,6 +1042,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1053,6 +1068,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1073,6 +1089,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1133,6 +1150,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1161,6 +1179,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1181,6 +1200,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1331,6 +1351,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1356,6 +1377,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1376,6 +1398,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1436,6 +1459,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1710,6 +1734,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1730,6 +1755,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1880,6 +1906,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1905,6 +1932,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1925,6 +1953,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -1985,6 +2014,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2013,6 +2043,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2033,6 +2064,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2183,6 +2215,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2208,6 +2241,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2228,6 +2262,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2288,6 +2323,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2316,6 +2352,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2336,6 +2373,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2486,6 +2524,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2511,6 +2550,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2531,6 +2571,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2591,6 +2632,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2619,6 +2661,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2639,6 +2682,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2789,6 +2833,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2814,6 +2859,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2834,6 +2880,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -2894,6 +2941,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3168,6 +3216,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3188,6 +3237,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3338,6 +3388,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3363,6 +3414,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3383,6 +3435,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3443,6 +3496,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3471,6 +3525,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3491,6 +3546,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3641,6 +3697,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3666,6 +3723,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3686,6 +3744,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3746,6 +3805,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3774,6 +3834,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3794,6 +3855,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3944,6 +4006,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3969,6 +4032,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -3989,6 +4053,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4049,6 +4114,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4077,6 +4143,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4097,6 +4164,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4247,6 +4315,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4272,6 +4341,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4292,6 +4362,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4352,6 +4423,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4626,6 +4698,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4646,6 +4719,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4796,6 +4870,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4821,6 +4896,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4841,6 +4917,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4901,6 +4978,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4929,6 +5007,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -4949,6 +5028,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5099,6 +5179,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5124,6 +5205,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5144,6 +5226,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5204,6 +5287,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5232,6 +5316,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5252,6 +5337,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5402,6 +5488,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5427,6 +5514,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5447,6 +5535,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5507,6 +5596,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5535,6 +5625,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5555,6 +5646,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5705,6 +5797,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5730,6 +5823,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5750,6 +5844,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -5810,6 +5905,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6084,6 +6180,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6104,6 +6201,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6254,6 +6352,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6279,6 +6378,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6299,6 +6399,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6359,6 +6460,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6387,6 +6489,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6407,6 +6510,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6557,6 +6661,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6582,6 +6687,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6602,6 +6708,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6662,6 +6769,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6690,6 +6798,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6710,6 +6819,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6860,6 +6970,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6885,6 +6996,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6905,6 +7017,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6965,6 +7078,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -6993,6 +7107,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7013,6 +7128,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7163,6 +7279,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7188,6 +7305,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7208,6 +7326,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7268,6 +7387,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7542,6 +7662,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7562,6 +7683,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7712,6 +7834,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7737,6 +7860,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7757,6 +7881,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7817,6 +7942,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7845,6 +7971,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -7865,6 +7992,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8015,6 +8143,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8040,6 +8169,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8060,6 +8190,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8120,6 +8251,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8148,6 +8280,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8168,6 +8301,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8318,6 +8452,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8343,6 +8478,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8363,6 +8499,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8423,6 +8560,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8451,6 +8589,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8471,6 +8610,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8621,6 +8761,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8646,6 +8787,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8666,6 +8808,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -8726,6 +8869,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9000,6 +9144,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9020,6 +9165,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9170,6 +9316,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9195,6 +9342,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9215,6 +9363,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9275,6 +9424,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9303,6 +9453,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9323,6 +9474,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9473,6 +9625,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9498,6 +9651,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9518,6 +9672,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9578,6 +9733,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9606,6 +9762,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9626,6 +9783,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9776,6 +9934,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9801,6 +9960,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9821,6 +9981,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9881,6 +10042,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9909,6 +10071,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -9929,6 +10092,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10079,6 +10243,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10104,6 +10269,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10124,6 +10290,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10184,6 +10351,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10458,6 +10626,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10478,6 +10647,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10628,6 +10798,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10653,6 +10824,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10673,6 +10845,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10733,6 +10906,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10761,6 +10935,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10781,6 +10956,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10931,6 +11107,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10956,6 +11133,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -10976,6 +11154,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11036,6 +11215,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11064,6 +11244,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11084,6 +11265,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11234,6 +11416,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11259,6 +11442,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11279,6 +11463,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11339,6 +11524,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11367,6 +11553,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11387,6 +11574,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11537,6 +11725,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11562,6 +11751,7 @@
 ------------------> exposure 80
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11582,6 +11772,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
@@ -11642,6 +11833,7 @@
 ------------------> data	rcam	both	656.28	16
  ------------ > setupObserving.rcp
 ------------------> shut in
+------------------> cover out
 ------------------> calib	out
 ------------------> occ		in
 ------------------> diffuser out
