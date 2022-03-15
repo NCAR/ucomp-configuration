@@ -1,9 +1,5 @@
 PREFILTERRANGE 1079
 SHUT	OUT
-O1 59.25
-1079_01wave_2beam_16sums_4rep_BOTH.rcp
-O1 59.5
-1079_01wave_2beam_16sums_4rep_BOTH.rcp
 O1 59.75
 1079_01wave_2beam_16sums_4rep_BOTH.rcp
 O1 60
@@ -16,6 +12,10 @@ O1 60.75
 1079_01wave_2beam_16sums_4rep_BOTH.rcp
 O1 61
 1079_01wave_2beam_16sums_4rep_BOTH.rcp
-O1 61.26
+O1 61.25
+1079_01wave_2beam_16sums_4rep_BOTH.rcp
+O1 61.5
+1079_01wave_2beam_16sums_4rep_BOTH.rcp
+O1 61.75
 1079_01wave_2beam_16sums_4rep_BOTH.rcp
 SHUT IN
