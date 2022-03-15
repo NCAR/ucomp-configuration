@@ -566,25 +566,7 @@ data	tcam	both	1074.70	16
 </pre></blockquote></details>shut in
 </pre></blockquote></details><details><summary>1079_focus.rcp</summary><blockquote><pre>prefilterrange 1079
 shut	out
-o1 59.25
-<details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-</pre></blockquote></details>o1 59.5
-<details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-</pre></blockquote></details>o1 59.75
+o1 59.75
 <details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
@@ -638,7 +620,25 @@ data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
-</pre></blockquote></details>o1 61.26
+</pre></blockquote></details>o1 61.25
+<details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+</pre></blockquote></details>o1 61.5
+<details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+</pre></blockquote></details>o1 61.75
 <details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
