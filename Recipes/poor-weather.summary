@@ -725,56 +725,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -1021,56 +1021,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -1317,56 +1317,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -2655,56 +2655,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -3115,56 +3115,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -3411,56 +3411,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -3707,56 +3707,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -4167,56 +4167,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -4463,56 +4463,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -4759,56 +4759,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -5219,56 +5219,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -5515,56 +5515,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -5811,56 +5811,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -6271,56 +6271,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -6567,56 +6567,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -6863,56 +6863,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -7323,56 +7323,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -7619,56 +7619,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -7915,56 +7915,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -8375,56 +8375,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -8671,56 +8671,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -8967,56 +8967,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -9427,56 +9427,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -9723,56 +9723,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -10019,56 +10019,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -10479,56 +10479,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -10775,56 +10775,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -11071,56 +11071,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -11531,56 +11531,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -11827,56 +11827,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
@@ -12123,56 +12123,56 @@
 ------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
- ------------ > 706_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
-------------------> data	rcam	both	 706.15	   16
-------------------> data	rcam	both	 706.20	   16
-------------------> data	rcam	both	 706.25	   16
-------------------> data	tcam	both	 706.15	   16
-------------------> data	tcam	both	 706.20	   16
-------------------> data	tcam	both	 706.25	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+ ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
+------------------> data	rcam	blue	 706.13	   16
+------------------> data	rcam	blue	 706.20	   16
+------------------> data	rcam	blue	 706.27	   16
+------------------> data	tcam	blue	 706.13	   16
+------------------> data	tcam	blue	 706.20	   16
+------------------> data	tcam	blue	 706.27	   16
 ------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
