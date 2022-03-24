@@ -18,7 +18,7 @@ ENDFOR
 
 706_FW.rcp
 FOR 2
-706_03wave_2beam_16sums_4rep_BOTH.rcp
+706_03wave_2beam_16sums_4rep_BLUE.rcp
 ENDFOR
 
 789_FW.rcp
