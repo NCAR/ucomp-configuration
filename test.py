@@ -27,7 +27,7 @@ def read_script(scriptname,parent,tab,state,darks,flat,summary,md,warning,childe
     results = script.readlines()
     script.close()
     results2 = unroll_forloop(results)
-    print(results2)
+    #print(results2)
     summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
     md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
     tab = tab +1
@@ -89,7 +89,13 @@ for menu in menus:
     flats = []
     md = open(menu.split(".menu")[0]+".md","w")
     summary = open(menu.split(".menu")[0]+".summary","w")
-    read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
+    quick_menu = open(menu,"r")
+    qmenu = quick_menu.readlines()
+    quick_menu.close()
+    #print(qmenu)
+    if "NOWARNING" not in "".join(qmenu):
+        print(f"{menu} No warning")
+        read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
     md.close()
     summary.close()
 warning.close()

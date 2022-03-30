@@ -295,6 +295,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -312,6 +313,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -329,6 +331,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -346,6 +349,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -363,6 +367,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -380,6 +385,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -397,6 +403,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -486,6 +493,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -503,6 +511,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -595,6 +604,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -612,6 +622,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -629,6 +640,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -646,6 +658,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -663,6 +676,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -680,6 +694,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -697,6 +712,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -786,6 +802,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -803,6 +820,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -895,6 +913,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -912,6 +931,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -929,6 +949,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -946,6 +967,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -963,6 +985,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -980,6 +1003,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -997,6 +1021,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -1086,6 +1111,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1103,6 +1129,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -1195,6 +1222,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1212,6 +1240,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1229,6 +1258,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1246,6 +1276,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1263,6 +1294,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1280,6 +1312,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1297,6 +1330,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -1386,6 +1420,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1403,6 +1438,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -1741,6 +1777,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1758,6 +1795,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1775,6 +1813,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1792,6 +1831,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1809,6 +1849,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1826,6 +1867,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1843,6 +1885,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -1932,6 +1975,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -1949,6 +1993,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -2041,6 +2086,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2058,6 +2104,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2075,6 +2122,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2092,6 +2140,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2109,6 +2158,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2126,6 +2176,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2143,6 +2194,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -2232,6 +2284,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2249,6 +2302,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -2341,6 +2395,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2358,6 +2413,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2375,6 +2431,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2392,6 +2449,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2409,6 +2467,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2426,6 +2485,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2443,6 +2503,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -2532,6 +2593,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2549,6 +2611,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -2641,6 +2704,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2658,6 +2722,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2675,6 +2740,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2692,6 +2758,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2709,6 +2776,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2726,6 +2794,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2743,6 +2812,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -2832,6 +2902,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -2849,6 +2920,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -3187,6 +3259,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3204,6 +3277,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3221,6 +3295,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3238,6 +3313,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3255,6 +3331,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3272,6 +3349,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3289,6 +3367,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -3378,6 +3457,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3395,6 +3475,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -3487,6 +3568,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3504,6 +3586,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3521,6 +3604,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3538,6 +3622,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3555,6 +3640,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3572,6 +3658,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3589,6 +3676,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -3678,6 +3766,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3695,6 +3784,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -3787,6 +3877,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3804,6 +3895,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3821,6 +3913,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3838,6 +3931,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3855,6 +3949,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3872,6 +3967,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3889,6 +3985,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -3978,6 +4075,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -3995,6 +4093,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -4087,6 +4186,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4104,6 +4204,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4121,6 +4222,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4138,6 +4240,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4155,6 +4258,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4172,6 +4276,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4189,6 +4294,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -4278,6 +4384,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4295,6 +4402,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -4633,6 +4741,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4650,6 +4759,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4667,6 +4777,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4684,6 +4795,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4701,6 +4813,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4718,6 +4831,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4735,6 +4849,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -4824,6 +4939,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4841,6 +4957,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -4933,6 +5050,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4950,6 +5068,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4967,6 +5086,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -4984,6 +5104,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5001,6 +5122,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5018,6 +5140,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5035,6 +5158,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -5124,6 +5248,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5141,6 +5266,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -5233,6 +5359,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5250,6 +5377,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5267,6 +5395,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5284,6 +5413,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5301,6 +5431,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5318,6 +5449,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5335,6 +5467,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -5424,6 +5557,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5441,6 +5575,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -5533,6 +5668,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5550,6 +5686,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5567,6 +5704,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5584,6 +5722,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5601,6 +5740,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5618,6 +5758,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5635,6 +5776,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -5724,6 +5866,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -5741,6 +5884,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -6079,6 +6223,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6096,6 +6241,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6113,6 +6259,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6130,6 +6277,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6147,6 +6295,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6164,6 +6313,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6181,6 +6331,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -6270,6 +6421,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6287,6 +6439,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -6379,6 +6532,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6396,6 +6550,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6413,6 +6568,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6430,6 +6586,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6447,6 +6604,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6464,6 +6622,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6481,6 +6640,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -6570,6 +6730,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6587,6 +6748,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -6679,6 +6841,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6696,6 +6859,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6713,6 +6877,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6730,6 +6895,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6747,6 +6913,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6764,6 +6931,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6781,6 +6949,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -6870,6 +7039,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6887,6 +7057,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -6979,6 +7150,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -6996,6 +7168,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7013,6 +7186,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7030,6 +7204,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7047,6 +7222,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7064,6 +7240,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7081,6 +7258,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -7170,6 +7348,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7187,6 +7366,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -7525,6 +7705,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7542,6 +7723,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7559,6 +7741,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7576,6 +7759,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7593,6 +7777,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7610,6 +7795,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7627,6 +7813,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -7716,6 +7903,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7733,6 +7921,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -7825,6 +8014,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7842,6 +8032,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7859,6 +8050,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7876,6 +8068,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7893,6 +8086,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7910,6 +8104,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -7927,6 +8122,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -8016,6 +8212,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8033,6 +8230,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -8125,6 +8323,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8142,6 +8341,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8159,6 +8359,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8176,6 +8377,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8193,6 +8395,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8210,6 +8413,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8227,6 +8431,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -8316,6 +8521,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8333,6 +8539,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -8425,6 +8632,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8442,6 +8650,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8459,6 +8668,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8476,6 +8686,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8493,6 +8704,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8510,6 +8722,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8527,6 +8740,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -8616,6 +8830,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8633,6 +8848,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -8971,6 +9187,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -8988,6 +9205,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9005,6 +9223,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9022,6 +9241,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9039,6 +9259,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9056,6 +9277,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9073,6 +9295,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -9162,6 +9385,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9179,6 +9403,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -9271,6 +9496,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9288,6 +9514,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9305,6 +9532,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9322,6 +9550,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9339,6 +9568,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9356,6 +9586,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9373,6 +9604,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -9462,6 +9694,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9479,6 +9712,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -9571,6 +9805,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9588,6 +9823,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9605,6 +9841,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9622,6 +9859,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9639,6 +9877,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9656,6 +9895,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9673,6 +9913,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -9762,6 +10003,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9779,6 +10021,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -9871,6 +10114,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9888,6 +10132,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9905,6 +10150,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9922,6 +10168,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9939,6 +10186,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9956,6 +10204,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -9973,6 +10222,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -10062,6 +10312,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10079,6 +10330,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -10417,6 +10669,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10434,6 +10687,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10451,6 +10705,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10468,6 +10723,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10485,6 +10741,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10502,6 +10759,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10519,6 +10777,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -10608,6 +10867,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10625,6 +10885,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -10717,6 +10978,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10734,6 +10996,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10751,6 +11014,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10768,6 +11032,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10785,6 +11050,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10802,6 +11068,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10819,6 +11086,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -10908,6 +11176,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -10925,6 +11194,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -11017,6 +11287,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11034,6 +11305,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11051,6 +11323,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11068,6 +11341,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11085,6 +11359,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11102,6 +11377,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11119,6 +11395,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -11208,6 +11485,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11225,6 +11503,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp
@@ -11317,6 +11596,7 @@
 ------------------> data	tcam	both	 530.42	16
 ------------------> data	tcam	both	 530.54	16
 ------------------> data	tcam	both	 530.66	16
+------------> endfor
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11334,6 +11614,7 @@
 ------------------> data	tcam	both	 637.52	16
 ------------------> data	tcam	both	 637.64	16
 ------------------> data	tcam	both	 637.76	16
+------------> endfor
  ------------ > 691_FW.rcp
 ------------------> prefilterrange 691
  ------------ > 691_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11351,6 +11632,7 @@
 ------------------> data	tcam	both	 691.92	16
 ------------------> data	tcam	both	 692.04	16
 ------------------> data	tcam	both	 692.16	16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11368,6 +11650,7 @@
 ------------------> data	tcam	both	 706.32	16
 ------------------> data	tcam	both	 706.44	16
 ------------------> data	tcam	both	 706.56	16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11385,6 +11668,7 @@
 ------------------> data	tcam	both	 789.52	16
 ------------------> data	tcam	both	 789.64	16
 ------------------> data	tcam	both	 789.76	16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11402,6 +11686,7 @@
 ------------------> data	tcam	both	1074.82	16
 ------------------> data	tcam	both	1074.94	16
 ------------------> data	tcam	both	1075.06	16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11419,6 +11704,7 @@
 ------------------> data	tcam	both	1079.92	16
 ------------------> data	tcam	both	1080.04	16
 ------------------> data	tcam	both	1080.16	16
+------------> endfor
  ------------ > Exposure_10.rcp
 ------------------> exposure 10
  ------------ > 1083_FW.rcp
@@ -11508,6 +11794,7 @@
 ------------------> data	tcam	both	1083.12	16
 ------------------> data	tcam	both	1083.24	16
 ------------------> data	tcam	both	1083.36	16
+------------> endfor
  ------------ > 656_FW.rcp
 ------------------> prefilterrange 656
  ------------ > 656_07wave_2beam_16sums_1rep_BOTH.rcp
@@ -11525,6 +11812,7 @@
 ------------------> data	tcam	both	 656.42	16
 ------------------> data	tcam	both	 656.54	16
 ------------------> data	tcam	both	 656.66	16
+------------> endfor
  ------------ > gain_high.rcp
 ------------------> gain high
  ------------ > Exposure_10.rcp

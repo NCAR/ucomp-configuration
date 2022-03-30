@@ -110,6 +110,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -200,6 +201,7 @@
 ------------------> data	tcam	both	 706.15	   16
 ------------------> data	tcam	both	 706.20	   16
 ------------------> data	tcam	both	 706.25	   16
+------------> endfor
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -290,6 +292,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -380,6 +383,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -470,6 +474,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -717,6 +722,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -769,6 +775,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -821,6 +828,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -873,6 +881,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -925,6 +934,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -1008,6 +1018,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -1060,6 +1071,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1112,6 +1124,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1164,6 +1177,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1216,6 +1230,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -1299,6 +1314,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -1351,6 +1367,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1403,6 +1420,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1455,6 +1473,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -1507,6 +1526,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -2550,6 +2570,7 @@
 ------------------> data tcam both 1074.59 14
 ------------------> data tcam both 1074.81 14
 ------------------> data tcam both 1074.70 14
+------------> endfor
  ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
@@ -2631,6 +2652,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -2683,6 +2705,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -2735,6 +2758,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -2787,6 +2811,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -2839,6 +2864,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -3086,6 +3112,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -3138,6 +3165,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3190,6 +3218,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3242,6 +3271,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3294,6 +3324,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -3377,6 +3408,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -3429,6 +3461,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3481,6 +3514,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3533,6 +3567,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3585,6 +3620,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -3668,6 +3704,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -3720,6 +3757,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3772,6 +3810,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3824,6 +3863,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -3876,6 +3916,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -4123,6 +4164,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -4175,6 +4217,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4227,6 +4270,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4279,6 +4323,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4331,6 +4376,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -4414,6 +4460,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -4466,6 +4513,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4518,6 +4566,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4570,6 +4619,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4622,6 +4672,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -4705,6 +4756,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -4757,6 +4809,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4809,6 +4862,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4861,6 +4915,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -4913,6 +4968,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -5160,6 +5216,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -5212,6 +5269,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5264,6 +5322,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5316,6 +5375,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5368,6 +5428,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -5451,6 +5512,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -5503,6 +5565,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5555,6 +5618,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5607,6 +5671,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5659,6 +5724,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -5742,6 +5808,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -5794,6 +5861,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5846,6 +5914,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5898,6 +5967,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -5950,6 +6020,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -6197,6 +6268,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -6249,6 +6321,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6301,6 +6374,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6353,6 +6427,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6405,6 +6480,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -6488,6 +6564,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -6540,6 +6617,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6592,6 +6670,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6644,6 +6723,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6696,6 +6776,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -6779,6 +6860,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -6831,6 +6913,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6883,6 +6966,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6935,6 +7019,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -6987,6 +7072,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -7234,6 +7320,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -7286,6 +7373,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7338,6 +7426,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7390,6 +7479,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7442,6 +7532,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -7525,6 +7616,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -7577,6 +7669,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7629,6 +7722,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7681,6 +7775,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7733,6 +7828,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -7816,6 +7912,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -7868,6 +7965,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7920,6 +8018,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -7972,6 +8071,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8024,6 +8124,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -8271,6 +8372,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -8323,6 +8425,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8375,6 +8478,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8427,6 +8531,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8479,6 +8584,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -8562,6 +8668,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -8614,6 +8721,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8666,6 +8774,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8718,6 +8827,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8770,6 +8880,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -8853,6 +8964,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -8905,6 +9017,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -8957,6 +9070,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9009,6 +9123,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9061,6 +9176,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -9308,6 +9424,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -9360,6 +9477,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9412,6 +9530,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9464,6 +9583,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9516,6 +9636,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -9599,6 +9720,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -9651,6 +9773,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9703,6 +9826,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9755,6 +9879,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9807,6 +9932,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -9890,6 +10016,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -9942,6 +10069,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -9994,6 +10122,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10046,6 +10175,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10098,6 +10228,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -10345,6 +10476,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -10397,6 +10529,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10449,6 +10582,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10501,6 +10635,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10553,6 +10688,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -10636,6 +10772,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -10688,6 +10825,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10740,6 +10878,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10792,6 +10931,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -10844,6 +10984,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -10927,6 +11068,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -10979,6 +11121,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11031,6 +11174,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11083,6 +11227,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11135,6 +11280,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal_flat.cbk
@@ -11382,6 +11528,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -11434,6 +11581,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11486,6 +11634,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11538,6 +11687,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11590,6 +11740,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -11673,6 +11824,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -11725,6 +11877,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11777,6 +11930,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11829,6 +11983,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -11881,6 +12036,7 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > all_wavelength_coronal.cbk
@@ -11964,6 +12120,7 @@
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
 ------------------> data	tcam	both	 637.45	   16
+------------> endfor
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
  ------------ > 706_03wave_2beam_16sums_4rep_BLUE.rcp
@@ -12016,6 +12173,7 @@
 ------------------> data	tcam	blue	 706.13	   16
 ------------------> data	tcam	blue	 706.20	   16
 ------------------> data	tcam	blue	 706.27	   16
+------------> endfor
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
  ------------ > 789_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -12068,6 +12226,7 @@
 ------------------> data	tcam	both	 789.33	   16
 ------------------> data	tcam	both	 789.40	   16
 ------------------> data	tcam	both	 789.47	   16
+------------> endfor
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -12120,6 +12279,7 @@
 ------------------> data	tcam	both	1074.59	   16
 ------------------> data	tcam	both	1074.70	   16
 ------------------> data	tcam	both	1074.81	   16
+------------> endfor
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange 1079
  ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -12172,5 +12332,6 @@
 ------------------> data	tcam	both	1079.69	   16
 ------------------> data	tcam	both	1079.80	   16
 ------------------> data	tcam	both	1079.91	   16
+------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
