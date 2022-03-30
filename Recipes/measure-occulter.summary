@@ -10,6 +10,8 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> endfor
+ ------------ > setupNDShutterOut.rcp
+------------------> shut	out
  ------------ > 530_FW.rcp
 ------------------> prefilterrange 530
  ------------ > 530_01wave_2beam_16sums_16rep_BOTH.rcp
