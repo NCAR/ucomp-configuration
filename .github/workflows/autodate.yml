@@ -29,7 +29,7 @@ jobs:
                         for repeats in range(forCount):
                             for nextLine in range(len(results)-i):
                                 if "ENDFOR" in results[startLine+nextLine]:
-                                    endline = startLine+nextLine
+                                    endline = startLine+nextLine+1
                                     break
                                 else:
                                     results2.append(results[startLine+nextLine])
