@@ -1,5 +1,4 @@
-<details><summary>find_focus.menu</summary><blockquote><pre><details><summary>find_focus.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre>nd in
-</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
+<details><summary>find_focus.menu</summary><blockquote><pre><details><summary>find_focus.cbk</summary><blockquote><pre><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>shut	in
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
@@ -11,6 +10,13 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
+</pre></blockquote></details><details><summary>setupND.rcp</summary><blockquote><pre>shut in
+diffuser  out
+nd in
+cover out
+occ		out
+calib	out
+shut	out
 </pre></blockquote></details><details><summary>530_focus.rcp</summary><blockquote><pre>prefilterrange 530
 shut	out
 o1 1.25
@@ -566,11 +572,7 @@ data	tcam	both	1074.70	16
 </pre></blockquote></details>shut in
 </pre></blockquote></details><details><summary>1079_focus.rcp</summary><blockquote><pre>prefilterrange 1079
 shut	out
-<<<<<<< HEAD
 o1 59.75
-=======
-o1 59.25
->>>>>>> 086441c4812a071d987e2f4fb57766925535a70a
 <details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
@@ -579,11 +581,7 @@ data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
-<<<<<<< HEAD
 </pre></blockquote></details>o1 60
-=======
-</pre></blockquote></details>o1 59.5
->>>>>>> 086441c4812a071d987e2f4fb57766925535a70a
 <details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
@@ -592,37 +590,7 @@ data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
-<<<<<<< HEAD
 </pre></blockquote></details>o1 60.25
-=======
-</pre></blockquote></details>o1 59.75
->>>>>>> 086441c4812a071d987e2f4fb57766925535a70a
-<details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-<<<<<<< HEAD
-</pre></blockquote></details>o1 60.5
-=======
-</pre></blockquote></details>o1 60
->>>>>>> 086441c4812a071d987e2f4fb57766925535a70a
-<details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-data	rcam	both	1079.80	16
-data	tcam	both	1079.80	16
-<<<<<<< HEAD
-</pre></blockquote></details>o1 60.75
-=======
-</pre></blockquote></details>o1 60.25
->>>>>>> 086441c4812a071d987e2f4fb57766925535a70a
 <details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
@@ -640,11 +608,7 @@ data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
-<<<<<<< HEAD
-</pre></blockquote></details>o1 61.25
-=======
 </pre></blockquote></details>o1 60.75
->>>>>>> 086441c4812a071d987e2f4fb57766925535a70a
 <details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
@@ -653,11 +617,7 @@ data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
-<<<<<<< HEAD
-</pre></blockquote></details>o1 61.5
-=======
 </pre></blockquote></details>o1 61
->>>>>>> 086441c4812a071d987e2f4fb57766925535a70a
 <details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
@@ -666,11 +626,25 @@ data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
-<<<<<<< HEAD
+</pre></blockquote></details>o1 61.25
+<details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+</pre></blockquote></details>o1 61.5
+<details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
 </pre></blockquote></details>o1 61.75
-=======
-</pre></blockquote></details>o1 61.26
->>>>>>> 086441c4812a071d987e2f4fb57766925535a70a
 <details><summary>1079_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
@@ -680,5 +654,90 @@ data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 </pre></blockquote></details>shut in
+</pre></blockquote></details><details><summary>1083_focus.rcp</summary><blockquote><pre>prefilterrange 1083
+shut	out
+o1 60.25
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>o1 60.5
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>o1 60.75
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>o1 61
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>o1 61.25
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>o1 61.5
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>o1 61.75
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>o1 62
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>o1 62.25
+<details><summary>1083_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+</pre></blockquote></details>shut in
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre>nd out
 </pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>

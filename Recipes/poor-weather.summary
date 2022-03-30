@@ -477,7 +477,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -641,7 +641,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -937,7 +937,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -1233,7 +1233,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -1529,7 +1529,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -2571,7 +2571,7 @@
 ------------------> data tcam both 1074.81 14
 ------------------> data tcam both 1074.70 14
 ------------> endfor
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -2867,7 +2867,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -3031,7 +3031,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -3327,7 +3327,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -3623,7 +3623,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -3919,7 +3919,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -4083,7 +4083,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -4379,7 +4379,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -4675,7 +4675,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -4971,7 +4971,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -5135,7 +5135,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -5431,7 +5431,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -5727,7 +5727,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -6023,7 +6023,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -6187,7 +6187,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -6483,7 +6483,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -6779,7 +6779,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -7075,7 +7075,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -7239,7 +7239,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -7535,7 +7535,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -7831,7 +7831,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -8127,7 +8127,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -8291,7 +8291,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -8587,7 +8587,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -8883,7 +8883,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -9179,7 +9179,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -9343,7 +9343,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -9639,7 +9639,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -9935,7 +9935,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -10231,7 +10231,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -10395,7 +10395,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -10691,7 +10691,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -10987,7 +10987,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -11283,7 +11283,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal_flat.cbk
+ ------ > all_wavelength_coronal_flat.cbk
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -11447,7 +11447,7 @@
 ------------------> data	tcam	both	1079.91	   16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -11743,7 +11743,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -12039,7 +12039,7 @@
 ------------> endfor
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------ > all_wavelenght_coronal.cbk
+ ------ > all_wavelength_coronal.cbk
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
