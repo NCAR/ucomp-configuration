@@ -106,7 +106,9 @@ jobs:
                 flats = []
                 md = open(menu.split(".menu")[0]+".md","w")
                 summary = open(menu.split(".menu")[0]+".summary","w")
-                if "NOWARNING" not in summary:
+                quick_sum = summary.readlines()
+                summary.seak(0)
+                if "NOWARNING" not in quick_sum:
                   read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
                 md.close()
                 summary.close()
