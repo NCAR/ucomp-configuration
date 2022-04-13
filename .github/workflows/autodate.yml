@@ -29,7 +29,7 @@ jobs:
                         for repeats in range(forCount):
                             for nextLine in range(len(results)-i):
                                 if "ENDFOR" in results[startLine+nextLine]:
-                                    endline = startLine+nextLine
+                                    endline = startLine+nextLine+1
                                     break
                                 else:
                                     results2.append(results[startLine+nextLine])
@@ -106,7 +106,11 @@ jobs:
                 flats = []
                 md = open(menu.split(".menu")[0]+".md","w")
                 summary = open(menu.split(".menu")[0]+".summary","w")
-                read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
+                quick_menu = open(menu,"r")
+                qmenu = quick_menu.readlines()
+                quick_menu.close()
+                if "NOWARNING" not in "".join(qmenu):
+                  read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
                 md.close()
                 summary.close()
             warning.close()
