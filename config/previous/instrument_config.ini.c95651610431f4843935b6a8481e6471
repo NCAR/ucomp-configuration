@@ -102,8 +102,8 @@ winddir col = 8
 Cal Pol Rot = 0
 Cal Ret Rot = 0
 Cal Trans = 85
-Occ X = 59.88    
-Occ Y = 3.39
+Occ X = 60.08    
+Occ Y = 3.49
 Diffuser = 0
 Shutter = 1
 Cover = 1
@@ -145,52 +145,69 @@ Occ Y = 10283
 [O1 Config]
 counts2mm = 1290
 o1countlimit = 80302
-O1ID = O1#1
 
 [FILTER 530]
 Filter Pos = 1
-O1#2 Pos = 3.21
-O1#1 Pos = 2.24
+#O1 1 pos:
+#O1 Pos = 2.24
+#O1 2 pos 3.21
+O1 Pos = 2.24
 
 [FILTER 637]
 Filter Pos = 2
-O1#1 Pos = 21.36
-O1#2 Pos = 22.33
+#O1 1 pos:
+#O1 Pos = 
+#O1 2 pos22.33
+O1 Pos = 21.36
 
 [FILTER 656]
 Filter Pos = 3
-O1#1 Pos = 23.9
-O1#2 Pos = 24.87
+#O1 1 pos:
+#O1 Pos = 23.9
+#O1 2 pos 24.87
+O1 Pos = 23.9
 
 [FILTER 691]
 Filter Pos = 4
-O1#1 Pos = 28.1
-O1#2 Pos = 29.07
+#O1 1 pos:
+#O1 Pos = 28.1
+#O1 2 pos 29.07
+O1 Pos = 28.1
 
 [FILTER 706]
 Filter Pos = 5
-O1#1 Pos = 30.01
-O1#2 Pos = 30.98
+#O1 1 pos:
+#O1 Pos = 30.01
+#O1 2 pos 30.98
+O1 Pos = 30.01
 
 [FILTER 789]
 Filter Pos = 6
-O1#1 Pos = 38.74
-O1#2 Pos = 39.72
+#O1 1 pos:
+#O1 Pos = 38.74
+#O1 2 pos 39.72
+O1 Pos = 38.74
 
 [FILTER 1074]
 Filter Pos = 7
-O1#1 Pos = 60.23
-O1#2 Pos 61.20
+#O1 1 pos:
+#O1 Pos = 60.23
+#O1 2 pos 61.20
+O1 Pos = 60.23
 
 [FILTER 1079]
 Filter Pos = 8
-O1#1 Pos = 60.74
-O1#2 Pos = 61.71
+#O1 1 pos:
+#O1 Pos = 59.74
+#O1 2 pos : 61.71
+O1 Pos = 60.74
 
 [FILTER 1083]
 Filter Pos = 9
-O1#1 Pos = 61.31
-O1#2 Pos = 62.28
+#O1 1 pos:
+O1 Pos = 61.31
+#O1 2 pos 62.28
+#O1 Pos = 61.31
 
 [TEMP Sensor Names]
 #
