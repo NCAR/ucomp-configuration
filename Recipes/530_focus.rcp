@@ -1,23 +1,47 @@
 PREFILTERRANGE 530
 EXPOSURE 80
 SHUT	OUT
-O1 1.25
+O1 .5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 1
 530_01wave_2beam_16sums_1rep_BOTH.rcp
 O1 1.5
 530_01wave_2beam_16sums_1rep_BOTH.rcp
-O1 1.75
-530_01wave_2beam_16sums_1rep_BOTH.rcp
 O1 2
-530_01wave_2beam_16sums_1rep_BOTH.rcp
-O1 2.25
 530_01wave_2beam_16sums_1rep_BOTH.rcp
 O1 2.5
 530_01wave_2beam_16sums_1rep_BOTH.rcp
-O1 2.75
-530_01wave_2beam_16sums_1rep_BOTH.rcp
 O1 3
 530_01wave_2beam_16sums_1rep_BOTH.rcp
-O1 3.25
+O1 3.5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 4
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 4.5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 5.5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 6
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 6.5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 7
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 7.5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 8
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 8.5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 9
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 9.5
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 10
+530_01wave_2beam_16sums_1rep_BOTH.rcp
+O1 10.5
 530_01wave_2beam_16sums_1rep_BOTH.rcp
 
 
