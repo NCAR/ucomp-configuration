@@ -1879,51 +1879,59 @@ occ		out
 shut	out
 calib	out
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
+</pre></blockquote></details><details><summary>1074_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.59	   16
 data	rcam	both	1074.70	   16
 data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
 data	tcam	both	1074.59	   16
 data	tcam	both	1074.70	   16
 data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-data	rcam	both	1074.48	   16
 data	rcam	both	1074.59	   16
 data	rcam	both	1074.70	   16
 data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
 data	tcam	both	1074.59	   16
 data	tcam	both	1074.70	   16
 data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
+data	rcam	both	1074.59	   16
+data	rcam	both	1074.70	   16
+data	rcam	both	1074.81	   16
+data	tcam	both	1074.59	   16
+data	tcam	both	1074.70	   16
+data	tcam	both	1074.81	   16
+data	rcam	both	1074.59	   16
+data	rcam	both	1074.70	   16
+data	rcam	both	1074.81	   16
+data	tcam	both	1074.59	   16
+data	tcam	both	1074.70	   16
+data	tcam	both	1074.81	   16
 </pre></blockquote></details><details><summary>setupFlat-occulter.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		in
 shut	out
 calib	out
-</pre></blockquote></details><details><summary>1074_05wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.48	   16
-data	rcam	both	1074.59	   16
+</pre></blockquote></details><details><summary>1074_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.59	   16
 data	rcam	both	1074.70	   16
 data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
 data	tcam	both	1074.59	   16
 data	tcam	both	1074.70	   16
 data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
-data	rcam	both	1074.48	   16
 data	rcam	both	1074.59	   16
 data	rcam	both	1074.70	   16
 data	rcam	both	1074.81	   16
-data	rcam	both	1074.92	   16
-data	tcam	both	1074.48	   16
 data	tcam	both	1074.59	   16
 data	tcam	both	1074.70	   16
 data	tcam	both	1074.81	   16
-data	tcam	both	1074.92	   16
+data	rcam	both	1074.59	   16
+data	rcam	both	1074.70	   16
+data	rcam	both	1074.81	   16
+data	tcam	both	1074.59	   16
+data	tcam	both	1074.70	   16
+data	tcam	both	1074.81	   16
+data	rcam	both	1074.59	   16
+data	rcam	both	1074.70	   16
+data	rcam	both	1074.81	   16
+data	tcam	both	1074.59	   16
+data	tcam	both	1074.70	   16
+data	tcam	both	1074.81	   16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details></pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
 cover out
