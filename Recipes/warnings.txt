@@ -1,1 +1,0 @@
-bad.menu tried to call *not-a-cookbook.cbk* which does not exist
