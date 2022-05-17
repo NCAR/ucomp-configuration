@@ -102,8 +102,8 @@ winddir col = 8
 Cal Pol Rot = 0
 Cal Ret Rot = 0
 Cal Trans = 85
-Occ X = 59.90    
-Occ Y = 3.40
+Occ X = 60.40
+Occ Y = 2.77    
 Diffuser = 0
 Shutter = 1
 Cover = 1
@@ -190,7 +190,7 @@ O1#2 Pos = 62
 [FILTER 1083]
 Filter Pos = 9
 O1#1 Pos = 61.31
-O1#2 Pos = 62
+O1#2 Pos =62
 
 [TEMP Sensor Names]
 #
