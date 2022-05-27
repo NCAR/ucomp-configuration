@@ -1,7 +1,7 @@
 #Config for UCoMP
 
 [main]
-Data Dir = c:\data\obs-code
+Data Dir = d:\data\obs-code
 Server Data Dir = z:\ucomp
 #Server Data Dir = c:\data
 
@@ -102,8 +102,8 @@ winddir col = 8
 Cal Pol Rot = 0
 Cal Ret Rot = 0
 Cal Trans = 85
-Occ X = 59.95
-Occ Y = 3.45    
+Occ X = 59.90    
+Occ Y = 3.35
 Diffuser = 0
 Shutter = 1
 Cover = 1
