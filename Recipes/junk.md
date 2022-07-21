@@ -20,6 +20,35 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange 530
+</pre></blockquote></details><details><summary>530_07wave_2beam_16sums_2rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 530.15	   16
+data	rcam	both	 530.20	   16
+data	rcam	both	 530.25	   16
+data	rcam	both	 530.30	   16
+data	rcam	both	 530.35	   16
+data	rcam	both	 530.40	   16
+data	rcam	both	 530.45	   16
+data	tcam	both	 530.15	   16
+data	tcam	both	 530.20	   16
+data	tcam	both	 530.25	   16
+data	tcam	both	 530.30	   16
+data	tcam	both	 530.35	   16
+data	tcam	both	 530.40	   16
+data	tcam	both	 530.45	   16
+data	rcam	both	 530.15	   16
+data	rcam	both	 530.20	   16
+data	rcam	both	 530.25	   16
+data	rcam	both	 530.30	   16
+data	rcam	both	 530.35	   16
+data	rcam	both	 530.40	   16
+data	rcam	both	 530.45	   16
+data	tcam	both	 530.15	   16
+data	tcam	both	 530.20	   16
+data	tcam	both	 530.25	   16
+data	tcam	both	 530.30	   16
+data	tcam	both	 530.35	   16
+data	tcam	both	 530.40	   16
+data	tcam	both	 530.45	   16
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
 </pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
 data	rcam	both	 637.40	   16
