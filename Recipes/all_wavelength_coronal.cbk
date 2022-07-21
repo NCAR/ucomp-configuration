@@ -9,6 +9,11 @@ dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
 setupObserving.rcp
 
+530_FW.rcp
+FOR 2
+530_07wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
+
 
 637_FW.rcp
 FOR 2
