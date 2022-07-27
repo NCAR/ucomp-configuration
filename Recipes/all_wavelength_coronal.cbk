@@ -11,7 +11,7 @@ setupObserving.rcp
 
 530_FW.rcp
 FOR 2
-530_07wave_2beam_16sums_2rep_BOTH.rcp
+530_03wave_2beam_16sums_8rep_BOTH.rcp
 ENDFOR
 
 
