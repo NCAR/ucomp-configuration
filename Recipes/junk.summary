@@ -28,35 +28,55 @@
 ------------------> calib	out
  ------------ > 530_FW.rcp
 ------------------> prefilterrange 530
- ------------ > 530_07wave_2beam_16sums_2rep_BOTH.rcp
-------------------> data	rcam	both	 530.15	   16
-------------------> data	rcam	both	 530.20	   16
+ ------------ > 530_03wave_2beam_16sums_8rep_BOTH.rcp
 ------------------> data	rcam	both	 530.25	   16
 ------------------> data	rcam	both	 530.30	   16
 ------------------> data	rcam	both	 530.35	   16
-------------------> data	rcam	both	 530.40	   16
-------------------> data	rcam	both	 530.45	   16
-------------------> data	tcam	both	 530.15	   16
-------------------> data	tcam	both	 530.20	   16
 ------------------> data	tcam	both	 530.25	   16
 ------------------> data	tcam	both	 530.30	   16
 ------------------> data	tcam	both	 530.35	   16
-------------------> data	tcam	both	 530.40	   16
-------------------> data	tcam	both	 530.45	   16
-------------------> data	rcam	both	 530.15	   16
-------------------> data	rcam	both	 530.20	   16
 ------------------> data	rcam	both	 530.25	   16
 ------------------> data	rcam	both	 530.30	   16
 ------------------> data	rcam	both	 530.35	   16
-------------------> data	rcam	both	 530.40	   16
-------------------> data	rcam	both	 530.45	   16
-------------------> data	tcam	both	 530.15	   16
-------------------> data	tcam	both	 530.20	   16
 ------------------> data	tcam	both	 530.25	   16
 ------------------> data	tcam	both	 530.30	   16
 ------------------> data	tcam	both	 530.35	   16
-------------------> data	tcam	both	 530.40	   16
-------------------> data	tcam	both	 530.45	   16
+------------------> data	rcam	both	 530.25	   16
+------------------> data	rcam	both	 530.30	   16
+------------------> data	rcam	both	 530.35	   16
+------------------> data	tcam	both	 530.25	   16
+------------------> data	tcam	both	 530.30	   16
+------------------> data	tcam	both	 530.35	   16
+------------------> data	rcam	both	 530.25	   16
+------------------> data	rcam	both	 530.30	   16
+------------------> data	rcam	both	 530.35	   16
+------------------> data	tcam	both	 530.25	   16
+------------------> data	tcam	both	 530.30	   16
+------------------> data	tcam	both	 530.35	   16
+------------------> data	rcam	both	 530.25	   16
+------------------> data	rcam	both	 530.30	   16
+------------------> data	rcam	both	 530.35	   16
+------------------> data	tcam	both	 530.25	   16
+------------------> data	tcam	both	 530.30	   16
+------------------> data	tcam	both	 530.35	   16
+------------------> data	rcam	both	 530.25	   16
+------------------> data	rcam	both	 530.30	   16
+------------------> data	rcam	both	 530.35	   16
+------------------> data	tcam	both	 530.25	   16
+------------------> data	tcam	both	 530.30	   16
+------------------> data	tcam	both	 530.35	   16
+------------------> data	rcam	both	 530.25	   16
+------------------> data	rcam	both	 530.30	   16
+------------------> data	rcam	both	 530.35	   16
+------------------> data	tcam	both	 530.25	   16
+------------------> data	tcam	both	 530.30	   16
+------------------> data	tcam	both	 530.35	   16
+------------------> data	rcam	both	 530.25	   16
+------------------> data	rcam	both	 530.30	   16
+------------------> data	rcam	both	 530.35	   16
+------------------> data	tcam	both	 530.25	   16
+------------------> data	tcam	both	 530.30	   16
+------------------> data	tcam	both	 530.35	   16
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
