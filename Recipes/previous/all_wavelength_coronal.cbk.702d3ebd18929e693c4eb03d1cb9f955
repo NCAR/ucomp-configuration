@@ -1,29 +1,45 @@
 AUTHOR BERKEY
-DESCRIPTION Perform 7 point wavelength flats for all 9 wavelengths
+DESCRIPTION Perform scan for all 9 wavelengths
 
 #gain_high.rcp
 #Exposure_80.rcp
-setupFlat.rcp #doing setupflat here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
+setupObserving.rcp   #doing setupobserving here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
-setupFlat.rcp
+setupObserving.rcp
 
 530_FW.rcp
+FOR 2
 530_03wave_2beam_16sums_8rep_BOTH.rcp
+ENDFOR
+
+
 637_FW.rcp
+FOR 2
 637_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
+
 706_FW.rcp
+FOR 2
 706_03wave_2beam_16sums_4rep_BLUE.rcp
+ENDFOR
+
 789_FW.rcp
+FOR 2 
 789_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
 1074_FW.rcp
+FOR 2
 1074_03wave_2beam_16sums_4rep_BOTH.rcp
-1074_03wave_2beam_16sums_4rep_BOTH.rcp
-1074_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
 1079_FW.rcp
+FOR 2
 1079_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
 
 setupDark.rcp
-
-
