@@ -15,6 +15,7 @@ ENDFOR
 
 
 637_FW.rcp
+setupFlat.rcp
 637_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
 FOR 2
