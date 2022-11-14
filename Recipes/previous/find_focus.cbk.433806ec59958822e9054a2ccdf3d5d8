@@ -1,9 +1,8 @@
-#NOWARNING
 #ND_IN.rcp
 
-Exposure_80.rcp 
-setupDark.rcp
-dark_01wave_1beam_16sums_1rep_BOTH.rcp
+#Exposure_80.rcp 
+#setupDark.rcp
+#dark_01wave_1beam_16sums_1rep_BOTH.rcp
 setupND.rcp
 #530_focus.rcp
 #637_focus.rcp
@@ -12,16 +11,15 @@ setupND.rcp
 #691_focus.rcp
 #706_focus.rcp
 #761_focus.rcp
-#Exposure_60.rcp
-#setupDark.rcp
-#dark_01wave_1beam_16sums_1rep_BOTH.rcp
-#setupNDShutterOut.rcp
-#789_focus.rcp
-Exposure_20.rcp
+Exposure_60.rcp
 setupDark.rcp
 dark_01wave_1beam_16sums_1rep_BOTH.rcp
 setupNDShutterOut.rcp
-802_focus.rcp
+789_focus.rcp
+#Exposure_20.rcp
+#setupDark.rcp
+#dark_01wave_1beam_16sums_1rep_BOTH.rcp
+#setupNDShutterOut.rcp
 #991_focus.rcp
 #1074_focus.rcp
 #1079_focus.rcp

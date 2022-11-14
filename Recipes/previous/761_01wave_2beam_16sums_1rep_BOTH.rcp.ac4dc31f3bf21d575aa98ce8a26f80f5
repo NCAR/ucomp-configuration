@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+DATE  11-9-2022
+AUTHOR Berkey
+DESCRIPTION Perform single measurment at 761
+DATA	RCAM	BOTH	761.1	16
+DATA	TCAM	BOTH	761.1	16
+=======
+AUTHOR Berkey
+DESCRIPTION Perform polarization flat at 761 nm
+#SHUT OUT
+DATA	RCAM	BOTH	761.16	16
+DATA	TCAM	BOTH	761.16	16
+#SHUT IN
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
