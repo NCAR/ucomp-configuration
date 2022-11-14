@@ -79,7 +79,7 @@ O1 Focus = true
 Saftey Shutter = true
 Occ X = true
 Occ Y = true
-FilterWheel = false
+FilterWheel = true
 Cal Pol Rot = true
 Cal Ret Rot = true
 Cal Trans = true
@@ -151,9 +151,7 @@ O1ID = O1#1
 
 [FILTER 637]
 Filter Pos = 1
-
-  
-O1#1 Pos = 21.36  
+O1#1 Pos = 21.36
 O1#2 Pos = 22.89
 
 [FILTER 670]
