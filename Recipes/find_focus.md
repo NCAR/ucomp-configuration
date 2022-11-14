@@ -155,7 +155,7 @@ data	tcam	both	789.40	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupNDShutterOut.rcp</summary><blockquote><pre>shut	out
-</pre></blockquote></details><details><summary>1074_focus.rcp</summary><blockquote><pre>prefilterrange 991
+</pre></blockquote></details><details><summary>991_focus.rcp</summary><blockquote><pre>prefilterrange 991
 exposure 40
 shut	out
 o1 49
@@ -186,6 +186,26 @@ o1 49
 <details><summary>991_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
 </pre></blockquote></details>o1 62
 <details><summary>991_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+</pre></blockquote></details>shut in
+</pre></blockquote></details><details><summary>1074_focus.rcp</summary><blockquote><pre>prefilterrange 1074
+exposure 40
+shut	out
+o1 55
+<details><summary>1074_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+</pre></blockquote></details>o1 56
+<details><summary>1074_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+</pre></blockquote></details>o1 57
+<details><summary>1074_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+</pre></blockquote></details>o1 58
+<details><summary>1074_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+</pre></blockquote></details>o1 59
+<details><summary>1074_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+</pre></blockquote></details>o1 60
+<details><summary>1074_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+</pre></blockquote></details>o1 61
+<details><summary>1074_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+</pre></blockquote></details>o1 62
+<details><summary>1074_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
 </pre></blockquote></details>shut in
 </pre></blockquote></details><details><summary>1079_focus.rcp</summary><blockquote><pre>prefilterrange 1079
 exposure 40
