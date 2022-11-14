@@ -21,23 +21,23 @@ find_focus.menu,find_focus.cbk,670_focus.rcp,670_01wave_1beam_16sums_1rep_both.r
 find_focus.menu,find_focus.cbk,670_focus.rcp,670_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	656.28	16 missing flat for high16rcamboth656.28
 find_focus.menu,find_focus.cbk,670_focus.rcp,670_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	656.28	16 missing flat for high16rcamboth656.28
 find_focus.menu,find_focus.cbk,670_focus.rcp,670_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	656.28	16 missing flat for high16rcamboth656.28
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
-find_focus.menu,find_focus.cbk,761_focus.rcp tried to call *761_01wave_1beam_16sums_1rep_BOTH.rcp* which does not exist
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
+find_focus.menu,find_focus.cbk,761_focus.rcp,761_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	761.16	16 missing flat for high16rcamboth761.16
 find_focus.menu,find_focus.cbk,789_focus.rcp,789_01wave_2beam_16sums_1rep_both.rcp data	rcam	both	789.40	16 missing flat for high16rcamboth789.40
 find_focus.menu,find_focus.cbk,789_focus.rcp,789_01wave_2beam_16sums_1rep_both.rcp data	tcam	both	789.40	16 missing flat for high16tcamboth789.40
 find_focus.menu,find_focus.cbk,789_focus.rcp,789_01wave_1beam_16sums_1rep_both.rcp data	rcam	both	789.40	16 missing flat for high16rcamboth789.40

@@ -57,23 +57,40 @@ o1 19
 <details><summary>670_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	656.28	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>761_focus.rcp</summary><blockquote><pre>prefilterrange 761
 o1 26
-o1 27
-o1 28
-o1 29
-o1 30
-o1 31
-o1 32
-o1 33
-o1 34
-o1 35
-o1 36
-o1 37
-o1 38
-o1 39
-o1 40
-o1 41
-o1 42
-</pre></blockquote></details><details><summary>Exposure_60.rcp</summary><blockquote><pre>exposure 60
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 27
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 28
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 29
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 30
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 31
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 32
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 33
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 34
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 35
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 36
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 37
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 38
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 39
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 40
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 41
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details>o1 42
+<details><summary>761_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	761.16	16
+</pre></blockquote></details></pre></blockquote></details><details><summary>Exposure_60.rcp</summary><blockquote><pre>exposure 60
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	656.28	16
 </pre></blockquote></details><details><summary>setupNDShutterOut.rcp</summary><blockquote><pre>shut	out
