@@ -1,0 +1,18 @@
+AUTHOR BERKEY
+DESCRIPTION Take 10 flats
+
+setupFlat.rcp #doing setupflat here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+
+setupFlat.rcp
+
+1074_FW.rcp
+for 10
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
+endfor
+
+setupDark.rcp
+
+
+

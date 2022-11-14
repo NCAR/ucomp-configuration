@@ -1,4 +1,5 @@
 PREFILTERRANGE 802
+<<<<<<< HEAD
 O1 34
 802_01wave_2beam_16sums_1rep_BOTH.rcp
 O1 35
@@ -37,3 +38,42 @@ O1 46
 802_01wave_2beam_16sums_1rep_BOTH.rcp.rcp
 O1 47
 802_01wave_2beam_16sums_1rep_BOTH.rcp.rcp
+=======
+
+O1 34
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+O1 35
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 36
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 37
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 38
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 39
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 40
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 41
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 42
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 43
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 44
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+
+O1 45
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+O1 46
+802_01wave_1beam_16sums_1rep_BOTH.rcp
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b

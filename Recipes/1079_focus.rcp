@@ -1,6 +1,5 @@
 PREFILTERRANGE 1079
-EXPOSURE 40
-SHUT	OUT
+
 O1 55
 1079_01wave_1beam_16sums_1rep_BOTH.rcp
 O1 56
@@ -23,4 +22,3 @@ O1 61
 
 O1 62
 1079_01wave_1beam_16sums_1rep_BOTH.rcp
-SHUT IN

@@ -1,0 +1,4 @@
+AUTHOR Berkey
+DESCRIPTION Perform polarization flat at 761 nm
+
+DATA	RCAM	BOTH	761.16	16
