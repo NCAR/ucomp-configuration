@@ -1,12 +1,11 @@
 PREFILTERRANGE 706
-EXPOSURE 80
-SHUT	OUT
+
 O1 24
-706_01wave_2beam_16sums_1rep_BOTH.rcp
+706_01wave_1beam_16sums_1rep_BOTH.rcp
 O1 25
-706_01wave_2beam_16sums_1rep_BOTH.rcp
+706_01wave_1beam_16sums_1rep_BOTH.rcp
 O1 26
-706_01wave_2beam_16sums_1rep_BOTH.rcp
+706_01wave_1beam_16sums_1rep_BOTH.rcp
 O1 27
 706_01wave_1beam_16sums_1rep_BOTH.rcp
 
@@ -35,6 +34,6 @@ O1 35
 706_01wave_1beam_16sums_1rep_BOTH.rcp
 O1 36
 706_01wave_1beam_16sums_1rep_BOTH.rcp
-SHUT IN
+
 
 

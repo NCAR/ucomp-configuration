@@ -1,8 +1,7 @@
 PREFILTERRANGE 802
-EXPOSURE 60
-SHUT	OUT
+
 O1 34
-802_01wave_2beam_16sums_1rep_BOTH.rcp
+802_01wave_1beam_16sums_1rep_BOTH.rcp
 O1 35
 802_01wave_1beam_16sums_1rep_BOTH.rcp
 
@@ -37,4 +36,3 @@ O1 45
 802_01wave_1beam_16sums_1rep_BOTH.rcp
 O1 46
 802_01wave_1beam_16sums_1rep_BOTH.rcp
-SHUT IN

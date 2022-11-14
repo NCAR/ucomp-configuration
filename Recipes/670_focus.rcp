@@ -1,6 +1,5 @@
 PREFILTERRANGE 670
-EXPOSURE 80
-SHUT	OUT
+
 O1 19
 670_01wave_1beam_16sums_1rep_BOTH.rcp
 
@@ -34,6 +33,5 @@ O1 28
 O1 29
 670_01wave_1beam_16sums_1rep_BOTH.rcp
 
-SHUT IN
 
 

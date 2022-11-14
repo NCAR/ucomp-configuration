@@ -1,6 +1,4 @@
 PREFILTERRANGE 530
-EXPOSURE 80
-SHUT	OUT
 
 O1 1
 530_01wave_1beam_16sums_1rep_BOTH.rcp
@@ -26,11 +24,9 @@ O1 7
 O1 8
 
 530_01wave_1beam_16sums_1rep_BOTH.rcp
-O1 9
+O1 
 
 530_01wave_1beam_16sums_1rep_BOTH.rcp
 O1 10
 530_01wave_1beam_16sums_1rep_BOTH.rcp
 
-
-SHUT IN
