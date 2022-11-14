@@ -20,6 +20,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -3944,6 +3969,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -6570,6 +6620,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -10494,6 +10569,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -14418,6 +14518,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -18342,6 +18467,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -22266,6 +22416,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -26190,6 +26365,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -30114,6 +30314,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -34038,6 +34263,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
@@ -37962,6 +38212,31 @@ cover out
 occ		out
 shut	out
 calib	out
+</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
 </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
 </pre></blockquote></details><details><summary>670_13wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>dadate  wed sep 29 14:38:40 2021
 data	tcam	both	 669.81	   16
