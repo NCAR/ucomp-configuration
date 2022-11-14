@@ -252,52 +252,52 @@ data	tcam	both	789.40	16
 </pre></blockquote></details><details><summary>setupNDShutterOut.rcp</summary><blockquote><pre>shut	out
 </pre></blockquote></details><details><summary>991_focus.rcp</summary><blockquote><pre>prefilterrange 991
 o1 48
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 47
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 49
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 50
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 51
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 52
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 53
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 54
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 55
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 56
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 57
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 58
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 59
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 60
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 61
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details>o1 62
-<details><summary>991_01wave_2beam_16sums_1rep_BOTH .rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 </pre></blockquote></details></pre></blockquote></details><details><summary>1074_focus.rcp</summary><blockquote><pre>prefilterrange 1074
 o1 55
