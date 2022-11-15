@@ -7,8 +7,10 @@ cd,dir
 
 ;  the 9 wavelength regions observed by the ucomp
 
-regions=['530.3','637.4','656.3','691.8','706.2','789.4','1074.7', '1079.8', '1083.0']
-default_step = [0.05,0.05,0.05,0.05,0.05,0.07,0.11,0.11,0.09]         ;corresponding default step size
+;regions=['530.3','637.4','656.3','691.8','706.2','789.4','1074.7', '1079.8', '1083.0']       ;original UCoMP regions
+regions=['637.4','670.2','706.2','761.1','789.4','802.4','991.3','1074.7','1079.8' ]          ;updated UCoMP regions
+
+default_step = [0.05,0.05,0.05,0.06,0.07,0.07,0.09,0.11,0.11]         ;corresponding default step size
 back_mode = ['BOTH', 'BLUE', 'RED','ALL']
 
 debug='yes'			;debug mode, 'yes' or 'no'
@@ -89,12 +91,12 @@ common recipe, wave_region, step, nwave, nsum, nbeam, nrep, mode, expose, ext_id
 
 ;	set default values
 
-wave_region = '530.3'
-step = 0.05
+wave_region = '1074.7'
+step = 0.11
 nwave = 5l
 nsum = 16l
 nbeam = 2l
-nrep = 2l
+nrep = 4
 mode = 'BOTH'
 nmode = 1l
 expose = 80l
@@ -148,7 +150,7 @@ t1 = widget_button(b2, value="Write Recipe", uvalue = "Write")
 
 ;  create droplist for wavelength region
 
-regions = ['530.3','637.4','656.28','691.8','706.2','789.4','1074.7', '1079.8', '1083.0']
+regions = ['637.4','670.2','706.2','761.1','789.4','802.4','991.3','1074.7','1079.8']
 t2 = widget_droplist(b2,title='Wavelength Region',uvalue='Region', $
  value = regions)
 
