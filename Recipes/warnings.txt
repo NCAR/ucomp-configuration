@@ -1,2 +1,0 @@
-All_Pol_Calibrate.menu tried to call *691_Pol_Calibrate.cbk* which does not exist
-test-flats-with-occulter.menu tried to call *all_coronal_7_flats-withocculter.cbk* which does not exist
