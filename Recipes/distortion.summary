@@ -26,41 +26,6 @@
 ------------------> occ		out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > 530_FW.rcp
-------------------> prefilterrange 530
- ------------ > 530_01wave_2beam_16sums_16rep_BOTH.rcp
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
-------------------> data	rcam	both	530.30	16
-------------------> data	tcam	both	530.30	16
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_01wave_2beam_16sums_16rep_BOTH.rcp
@@ -96,43 +61,78 @@
 ------------------> data	tcam	both	637.40	16
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
- ------------ > 656_FW.rcp
-------------------> prefilterrange 656
- ------------ > 656_01wave_2beam_16sums_16rep_BOTH.rcp
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	tcam	both	656.28	16
+ ------------ > 670_FW.rcp
+------------------> prefilterrange 670
+ ------------ > 637_01wave_2beam_16sums_16rep_BOTH.rcp
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
+------------------> data	rcam	both	637.40	16
+------------------> data	tcam	both	637.40	16
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
+ ------------ > 706_01wave_2beam_16sums_16rep_BOTH.rcp
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+------------------> data	rcam	both	706.20	16
+------------------> data	tcam	both	706.20	16
+ ------------ > 761_FW.rcp
+------------------> prefilterrange 761
  ------------ > 706_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
@@ -201,6 +201,10 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	tcam	both	789.40	16
+ ------------ > 802_FW.rcp
+------------------> prefilterrange 802
+ ------------ > 991_FW.rcp
+------------------> prefilterrange 991
  ------------ > 1074_FW.rcp
 ------------------> prefilterrange 1074
  ------------ > 1074_01wave_2beam_16sums_16rep_BOTH.rcp
@@ -271,40 +275,5 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	tcam	both	1079.80	16
- ------------ > 1083_FW.rcp
-------------------> prefilterrange 1083
- ------------ > 1083_01wave_2beam_16sums_16rep_BOTH.rcp
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
-------------------> data	rcam	both	1083.00	16
-------------------> data	tcam	both	1083.00	16
  ------------ > setupDark.rcp
 ------------------> shut	in
