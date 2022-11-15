@@ -1,3 +1,4 @@
+#NOWARNING
 #ND_IN.rcp
 
 Exposure_80.rcp 
@@ -9,7 +10,7 @@ setupND.rcp
 #656_focus.rcp
 670_focus.rcp
 #691_focus.rcp
-#706_focus.rcp
+706_focus.rcp
 761_focus.rcp
 Exposure_60.rcp
 setupDark.rcp
@@ -20,6 +21,7 @@ Exposure_20.rcp
 setupDark.rcp
 dark_01wave_1beam_16sums_1rep_BOTH.rcp
 setupNDShutterOut.rcp
+802_focus.rcp
 991_focus.rcp
 1074_focus.rcp
 1079_focus.rcp
