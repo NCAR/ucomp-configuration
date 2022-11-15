@@ -5262,6 +5262,41 @@ data	tcam	both	637.40	16
 </pre></blockquote></details>calib	out
 <details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
 data	tcam	both	637.40	16
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>670_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
+cover out
+occ		out
+shut	out
+calib	in
+</pre></blockquote></details><details><summary>637_Pol_Calibrate.rcp</summary><blockquote><pre>calret	0
+calpol	0
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
+</pre></blockquote></details>calpol	45
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
+</pre></blockquote></details>calpol	90
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
+</pre></blockquote></details>calpol	135
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
+</pre></blockquote></details>calret	45
+calpol	0
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
+</pre></blockquote></details>calpol	45
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
+</pre></blockquote></details>calpol	90
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
+</pre></blockquote></details>calpol	135
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
+</pre></blockquote></details>calib	out
+<details><summary>637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+data	tcam	both	637.40	16
 </pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>706_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange 706
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -5297,6 +5332,86 @@ data	tcam	both	706.20	16
 </pre></blockquote></details>calib	out
 <details><summary>706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	706.20	16
 data	tcam	both	706.20	16
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>761_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>761_FW.rcp</summary><blockquote><pre>prefilterrange 761
+</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
+cover out
+occ		out
+shut	out
+calib	in
+</pre></blockquote></details><details><summary>761_Pol_Calibrate.rcp</summary><blockquote><pre>calret	0
+calpol	0
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
+</pre></blockquote></details>calpol	45
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
+</pre></blockquote></details>calpol	90
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
+</pre></blockquote></details>calpol	135
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
+</pre></blockquote></details>calret	45
+calpol	0
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
+</pre></blockquote></details>calpol	45
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
+</pre></blockquote></details>calpol	90
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
+</pre></blockquote></details>calpol	135
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
+</pre></blockquote></details>calib	out
+<details><summary>761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre><<<<<<< head
+data	rcam	both	761.1	16
+data	tcam	both	761.1	16
+=======
+data	rcam	both	761.16	16
+data	tcam	both	761.16	16
+>>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b
 </pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>789_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange 789
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -5332,6 +5447,76 @@ data	tcam	both	789.40	16
 </pre></blockquote></details>calib	out
 <details><summary>789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	789.40	16
 data	tcam	both	789.40	16
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>802_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>802_FW.rcp</summary><blockquote><pre>prefilterrange 802
+</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
+cover out
+occ		out
+shut	out
+calib	in
+</pre></blockquote></details><details><summary>802_Pol_Calibrate.rcp</summary><blockquote><pre>calret	0
+calpol	0
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details>calpol	45
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details>calpol	90
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details>calpol	135
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details>calret	45
+calpol	0
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details>calpol	45
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details>calpol	90
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details>calpol	135
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details>calib	out
+<details><summary>802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+data	tcam	both	802.41	16
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>991_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>991_FW.rcp</summary><blockquote><pre>prefilterrange 991
+</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
+cover out
+occ		out
+shut	out
+calib	in
+</pre></blockquote></details><details><summary>991_Pol_Calibrate.rcp</summary><blockquote><pre>calret	0
+calpol	0
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
+</pre></blockquote></details>calpol	45
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
+</pre></blockquote></details>calpol	90
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
+</pre></blockquote></details>calpol	135
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
+</pre></blockquote></details>calret	45
+calpol	0
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
+</pre></blockquote></details>calpol	45
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
+</pre></blockquote></details>calpol	90
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
+</pre></blockquote></details>calpol	135
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
+</pre></blockquote></details>calib	out
+<details><summary>991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+data	tcam	both	991.26	16
 </pre></blockquote></details></pre></blockquote></details></pre></blockquote></details><details><summary>1074_Pol_Calibrate.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre>diffuser  in
 cover out
