@@ -1,4 +1,2 @@
 All_Pol_Calibrate.menu tried to call *691_Pol_Calibrate.cbk* which does not exist
 test-flats-with-occulter.menu tried to call *all_coronal_7_flats-withocculter.cbk* which does not exist
-measure-occulter.menu,measure-occulter.cbk tried to call *691_FW.rcp* which does not exist
-measure-occulter.menu,measure-occulter.cbk tried to call *691_01wave_2beam_16sums_16rep_BOTH.rcp* which does not exist
