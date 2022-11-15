@@ -1,1 +1,0 @@
-<details><summary>test-flats-with-occulter.menu</summary><blockquote><pre></pre></blockquote></details>
