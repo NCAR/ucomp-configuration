@@ -15,35 +15,27 @@ FOR 2
 637_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
-670_FW.rcp
-FOR 2
-670_13wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
+#670_FW.rcp
+#FOR 1
+#670_13wave_2beam_16sums_2rep_BOTH.rcp
+#ENDFOR
 
 706_FW.rcp
 FOR 2
 706_03wave_2beam_16sums_4rep_BLUE.rcp
 ENDFOR
 
-761_FW.rcp
-FOR 2 
-761_13wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
+#761_FW.rcp
+#FOR 1 
+#761_13wave_2beam_16sums_2rep_BOTH.rcp
+#ENDFOR
 
 789_FW.rcp
 FOR 2 
 789_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
-802_FW.rcp
-FOR 2 
-802_13wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
 
-991_FW.rcp
-FOR 2 
-991_13wave_2beam_16sums_4rep_BOTH.rcp
-ENDFOR
 
 1074_FW.rcp
 FOR 2

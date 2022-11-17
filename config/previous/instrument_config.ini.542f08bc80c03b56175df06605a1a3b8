@@ -102,8 +102,8 @@ winddir col = 8
 Cal Pol Rot = 0
 Cal Ret Rot = 0
 Cal Trans = 85
-Occ X = -3.00    
-Occ Y = 4.30
+Occ X = 62.00    
+Occ Y = 4.32
 Diffuser = 0
 Shutter = 1
 Cover = 1
@@ -149,43 +149,43 @@ O1ID = O1#1
 
 [FILTER 637]
 Filter Pos = 1
-O1#1 Pos = 21.49
+O1#1 Pos = 21.36
 O1#2 Pos = 22.89
 
 [FILTER 670]
 Filter Pos = 2
-O1#1 Pos = 25.77
+O1#1 Pos = 27
 
 [FILTER 706]
 Filter Pos = 3
-O1#1 Pos = 30.28
+O1#1 Pos = 30.01
 O1#2 Pos = 31.7
 
 [FILTER 761]
 Filter Pos = 4
-O1#1 Pos = 36.54
+O1#1 Pos = 24
 
 [FILTER 789]
 Filter Pos = 5
-O1#1 Pos = 39.29
+O1#1 Pos = 38.74
 O1#2 Pos = 41.84
 
 [FILTER 802]
 Filter Pos = 6
-O1#1 Pos = 40.48
+O1#1 Pos = 39
 
 [FILTER 991]
 Filter Pos = 7
-O1#1 Pos = 55.01
+O1#1 Pos = 39
 
 [FILTER 1074]
 Filter Pos = 8
-O1#1 Pos = 61.22
+O1#1 Pos = 60.23
 O1#2 Pos = 61.5
 
 [FILTER 1079]
 Filter Pos = 9
-O1#1 Pos = 61.25
+O1#1 Pos = 60.74
 O1#2 Pos = 62
 
 [FILTER 656]

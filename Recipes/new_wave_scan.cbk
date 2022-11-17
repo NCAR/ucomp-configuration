@@ -1,0 +1,49 @@
+#gain_high.rcp
+#Exposure_80.rcp
+setupObserving.rcp   #doing setupobserving here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+
+setupFlat.rcp
+670_FW.rcp
+FOR 1
+670_13wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
+
+761_FW.rcp
+FOR 1 
+761_13wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
+
+802_FW.rcp
+FOR 1 
+802_13wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
+
+991_FW.rcp
+FOR 1 
+991_13wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
+
+
+
+setupObserving.rcp   #doing setupobserving here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
+670_FW.rcp
+FOR 1
+670_13wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
+
+761_FW.rcp
+FOR 1 
+761_13wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
+
+802_FW.rcp
+FOR 1 
+802_13wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
+
+991_FW.rcp
+FOR 1 
+991_13wave_2beam_16sums_2rep_BOTH.rcp
+ENDFOR
