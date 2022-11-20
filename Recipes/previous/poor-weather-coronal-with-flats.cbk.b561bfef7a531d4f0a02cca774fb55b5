@@ -5,6 +5,15 @@ setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
 
+setupFlat.rcp
+#530_FW.rcp
+#530_03wave_2beam_16sums_8rep_BOTH.rcp
+setupObserving.rcp
+#FOR 2
+#530_03wave_2beam_16sums_8rep_BOTH.rcp
+#ENDFOR
+
+
 637_FW.rcp
 setupFlat.rcp
 637_03wave_2beam_16sums_4rep_BOTH.rcp

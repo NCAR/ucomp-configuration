@@ -1,0 +1,8 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration at 802 nm
+
+
+802_FW.rcp
+setupCal.rcp
+802_Pol_Calibrate.rcp
