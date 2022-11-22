@@ -45,6 +45,31 @@ data	rcam	both	 637.45	   16
 data	tcam	both	 637.35	   16
 data	tcam	both	 637.40	   16
 data	tcam	both	 637.45	   16
+</pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
+</pre></blockquote></details><details><summary>670_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 670.10	   16
+data	rcam	both	 670.15	   16
+data	rcam	both	 670.20	   16
+data	tcam	both	 670.10	   16
+data	tcam	both	 670.15	   16
+data	tcam	both	 670.20	   16
+data	rcam	both	 670.10	   16
+data	rcam	both	 670.15	   16
+data	rcam	both	 670.20	   16
+data	tcam	both	 670.10	   16
+data	tcam	both	 670.15	   16
+data	tcam	both	 670.20	   16
+data	rcam	both	 670.10	   16
+data	rcam	both	 670.15	   16
+data	rcam	both	 670.20	   16
+data	tcam	both	 670.10	   16
+data	tcam	both	 670.15	   16
+data	tcam	both	 670.20	   16
+data	rcam	both	 670.10	   16
+data	rcam	both	 670.15	   16
+data	rcam	both	 670.20	   16
+data	tcam	both	 670.10	   16
+data	tcam	both	 670.15	   16
+data	tcam	both	 670.20	   16
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange 706
 </pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BLUE.rcp</summary><blockquote><pre>data	rcam	blue	 706.13	   16
 data	rcam	blue	 706.20	   16
@@ -95,6 +120,31 @@ data	rcam	both	 789.47	   16
 data	tcam	both	 789.33	   16
 data	tcam	both	 789.40	   16
 data	tcam	both	 789.47	   16
+</pre></blockquote></details><details><summary>991_FW.rcp</summary><blockquote><pre>prefilterrange 991
+</pre></blockquote></details><details><summary>991_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 991.12	   16
+data	rcam	both	 991.21	   16
+data	rcam	both	 991.30	   16
+data	tcam	both	 991.12	   16
+data	tcam	both	 991.21	   16
+data	tcam	both	 991.30	   16
+data	rcam	both	 991.12	   16
+data	rcam	both	 991.21	   16
+data	rcam	both	 991.30	   16
+data	tcam	both	 991.12	   16
+data	tcam	both	 991.21	   16
+data	tcam	both	 991.30	   16
+data	rcam	both	 991.12	   16
+data	rcam	both	 991.21	   16
+data	rcam	both	 991.30	   16
+data	tcam	both	 991.12	   16
+data	tcam	both	 991.21	   16
+data	tcam	both	 991.30	   16
+data	rcam	both	 991.12	   16
+data	rcam	both	 991.21	   16
+data	rcam	both	 991.30	   16
+data	tcam	both	 991.12	   16
+data	tcam	both	 991.21	   16
+data	tcam	both	 991.30	   16
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
 </pre></blockquote></details><details><summary>1074_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.59	   16
 data	rcam	both	1074.70	   16
