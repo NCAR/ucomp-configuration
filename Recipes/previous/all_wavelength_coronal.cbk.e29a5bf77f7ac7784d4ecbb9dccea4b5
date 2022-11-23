@@ -1,0 +1,54 @@
+AUTHOR BERKEY
+DESCRIPTION Perform scan for all 9 wavelengths
+
+#gain_high.rcp
+#Exposure_80.rcp
+setupObserving.rcp   #doing setupobserving here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+
+setupObserving.rcp
+
+
+637_FW.rcp
+FOR 2
+637_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
+670_FW.rcp
+FOR 2
+670_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
+706_FW.rcp
+FOR 2
+706_03wave_2beam_16sums_4rep_BLUE.rcp
+ENDFOR
+
+#761_FW.rcp
+#FOR 1 
+#761_13wave_2beam_16sums_2rep_BOTH.rcp
+#ENDFOR
+
+789_FW.rcp
+FOR 2 
+789_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
+991_FW.rcp
+FOR 2
+991_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
+1074_FW.rcp
+FOR 2
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
+1079_FW.rcp
+FOR 2
+1079_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
+
+setupDark.rcp
