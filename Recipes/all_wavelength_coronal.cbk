@@ -35,6 +35,11 @@ FOR 2
 789_03wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 
+802_FW.rcp
+FOR 2
+802_03wave_2beam_16sums_4rep_BOTH.rcp
+ENDFOR
+
 991_FW.rcp
 FOR 2
 991_03wave_2beam_16sums_4rep_BOTH.rcp
