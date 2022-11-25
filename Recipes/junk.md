@@ -145,6 +145,31 @@ data	rcam	both	 789.47	   16
 data	tcam	both	 789.33	   16
 data	tcam	both	 789.40	   16
 data	tcam	both	 789.47	   16
+</pre></blockquote></details><details><summary>802_FW.rcp</summary><blockquote><pre>prefilterrange 802
+</pre></blockquote></details><details><summary>802_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 802.35	   16
+data	rcam	both	 802.41	   16
+data	rcam	both	 802.47	   16
+data	tcam	both	 802.35	   16
+data	tcam	both	 802.41	   16
+data	tcam	both	 802.47	   16
+data	rcam	both	 802.35	   16
+data	rcam	both	 802.41	   16
+data	rcam	both	 802.47	   16
+data	tcam	both	 802.35	   16
+data	tcam	both	 802.41	   16
+data	tcam	both	 802.47	   16
+data	rcam	both	 802.35	   16
+data	rcam	both	 802.41	   16
+data	rcam	both	 802.47	   16
+data	tcam	both	 802.35	   16
+data	tcam	both	 802.41	   16
+data	tcam	both	 802.47	   16
+data	rcam	both	 802.35	   16
+data	rcam	both	 802.41	   16
+data	rcam	both	 802.47	   16
+data	tcam	both	 802.35	   16
+data	tcam	both	 802.41	   16
+data	tcam	both	 802.47	   16
 </pre></blockquote></details><details><summary>991_FW.rcp</summary><blockquote><pre>prefilterrange 991
 </pre></blockquote></details><details><summary>991_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 991.17	   16
 data	rcam	both	 991.26	   16
