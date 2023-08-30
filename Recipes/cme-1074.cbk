@@ -1,0 +1,15 @@
+#gain_high.rcp
+#Exposure_80.rcp
+1074_FW.rcp
+setupDark.rcp
+1074_05wave_2beam_16sums_1rep_BOTH.rcp
+setupFlat.rcp 
+1074_05wave_2beam_16sums_1rep_BOTH.rcp
+setupObserving.rcp
+FOR 90
+1074_05wave_2beam_16sums_1rep_BOTH.rcp
+ENDFOR
+setupFlat.rcp 
+1074_05wave_2beam_16sums_1rep_BOTH.rcp
+setupDark.rcp
+1074_05wave_2beam_16sums_1rep_BOTH.rcp
