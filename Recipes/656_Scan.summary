@@ -1,0 +1,27 @@
+  > 656_Scan.cbk
+ ------ > Exposure_80.rcp
+------------> exposure 80
+ ------ > 656_FW.rcp
+------------> prefilterrange 656
+ ------ > setupFlat.rcp
+------------> diffuser  in
+------------> cover out
+------------> occ		out
+------------> shut	out
+------------> calib	out
+ ------ > 656_13wave_1beam_16sums_1rep_BOTH.rcp
+------------> data	rcam	both	 656.00	   16
+------------> data	rcam	both	 656.05	   16
+------------> data	rcam	both	 656.10	   16
+------------> data	rcam	both	 656.15	   16
+------------> data	rcam	both	 656.20	   16
+------------> data	rcam	both	 656.25	   16
+------------> data	rcam	both	 656.30	   16
+------------> data	rcam	both	 656.35	   16
+------------> data	rcam	both	 656.40	   16
+------------> data	rcam	both	 656.45	   16
+------------> data	rcam	both	 656.50	   16
+------------> data	rcam	both	 656.55	   16
+------------> data	rcam	both	 656.60	   16
+ ------ > setupDark.rcp
+------------> shut	in

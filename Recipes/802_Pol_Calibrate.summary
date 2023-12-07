@@ -1,0 +1,48 @@
+  > 802_Pol_Calibrate.cbk
+ ------ > 802_FW.rcp
+------------> prefilterrange 802
+ ------ > setupCal.rcp
+------------> diffuser  in
+------------> cover out
+------------> occ		out
+------------> shut	out
+------------> calib	in
+ ------ > 802_Pol_Calibrate.rcp
+------------> calret	0
+------------> calpol	0
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
+------------> calpol	45
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
+------------> calpol	90
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
+------------> calpol	135
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
+------------> calret	45
+------------> calpol	0
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
+------------> calpol	45
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
+------------> calpol	90
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
+------------> calpol	135
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
+------------> calib	out
+ ------------ > 802_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16

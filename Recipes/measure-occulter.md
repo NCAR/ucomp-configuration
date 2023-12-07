@@ -1,4 +1,4 @@
-<details><summary>measure-occulter.menu</summary><blockquote><pre><details><summary>measure-occulter.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre>nd in
+<details><summary>measure-occulter.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre>nd in
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>shut	in
 for 16
@@ -271,4 +271,8 @@ data	tcam	both	1083.00	16
 data	rcam	both	1083.00	16
 data	tcam	both	1083.00	16
 </pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre>nd out
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>
+</pre></blockquote></details></pre></blockquote></details><h3>Runtime for: measure-occulter.cbk     </h3>
+
+  science: 0.00s  polcal: 0.00s  flat: 0.00s  hardware: 2.67m  dark: 12.59s
+
+  Total: 2.88m

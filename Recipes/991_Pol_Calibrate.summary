@@ -1,0 +1,48 @@
+  > 991_Pol_Calibrate.cbk
+ ------ > 991_FW.rcp
+------------> prefilterrange 991
+ ------ > setupCal.rcp
+------------> diffuser  in
+------------> cover out
+------------> occ		out
+------------> shut	out
+------------> calib	in
+ ------ > 991_Pol_Calibrate.rcp
+------------> calret	0
+------------> calpol	0
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16
+------------> calpol	45
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16
+------------> calpol	90
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16
+------------> calpol	135
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16
+------------> calret	45
+------------> calpol	0
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16
+------------> calpol	45
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16
+------------> calpol	90
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16
+------------> calpol	135
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16
+------------> calib	out
+ ------------ > 991_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	991.26	16
+------------------> data	tcam	both	991.26	16

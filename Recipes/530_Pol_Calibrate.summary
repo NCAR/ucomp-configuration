@@ -1,0 +1,48 @@
+  > 530_Pol_Calibrate.cbk
+ ------ > 530_FW.rcp
+------------> prefilterrange 530
+ ------ > setupCal.rcp
+------------> diffuser  in
+------------> cover out
+------------> occ		out
+------------> shut	out
+------------> calib	in
+ ------ > 530_Pol_Calibrate.rcp
+------------> calret	0
+------------> calpol	0
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
+------------> calpol	45
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
+------------> calpol	90
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
+------------> calpol	135
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
+------------> calret	45
+------------> calpol	0
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
+------------> calpol	45
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
+------------> calpol	90
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
+------------> calpol	135
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
+------------> calib	out
+ ------------ > 530_01wave_2beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	530.30	16
+------------------> data	tcam	both	530.30	16
