@@ -1,4 +1,4 @@
-<details><summary>distortion.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+<details><summary>distortion.menu</summary><blockquote><pre><details><summary>distortion.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
@@ -318,8 +318,4 @@ data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><h3>Runtime for: distortion.cbk           </h3>
-
-  science: 0.00s  polcal: 0.00s  flat: 30.22m  hardware: 3.67m  dark: 1.05m
-
-  Total: 34.94m
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>

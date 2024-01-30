@@ -1,4 +1,4 @@
-<details><summary>diffuser-calibration.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
+<details><summary>diffuser-calibration.menu</summary><blockquote><pre><details><summary>diffuser-calibration.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre>gain high
 </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure 80
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
@@ -277,8 +277,4 @@ data	tcam	both	1083.00	16
 data	rcam	both	1083.00	16
 data	tcam	both	1083.00	16
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-</pre></blockquote></details></pre></blockquote></details><h3>Runtime for: diffuser-calibration.cbk </h3>
-
-  science: 13.43m  polcal: 0.00s  flat: 6.72m  hardware: 8.67m  dark: 3.15m
-
-  Total: 31.96m
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>

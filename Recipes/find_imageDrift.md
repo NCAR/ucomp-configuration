@@ -1,4 +1,4 @@
-<details><summary>find_imageDrift.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre>nd in
+<details><summary>find_imageDrift.menu</summary><blockquote><pre><details><summary>find_imageDrift.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre>nd in
 </pre></blockquote></details><details><summary>1083_imageDrift.rcp</summary><blockquote><pre>shut	out
 o1 62.75
 data	tcam	both	1083.00	4
@@ -29,8 +29,4 @@ data	tcam	both	1083.00	4
 o1 0
 shut in
 </pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre>nd out
-</pre></blockquote></details></pre></blockquote></details><h3>Runtime for: find_imageDrift.cbk      </h3>
-
-  science: 0.00s  polcal: 0.00s  flat: 0.00s  hardware: 0.00s  dark: 0.00s
-
-  Total: 0.00s
+</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>
