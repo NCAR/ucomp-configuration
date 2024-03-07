@@ -11,4 +11,4 @@ data	rcam	both	1080.13	   16
 data	rcam	both	1080.24	   16
 data	rcam	both	1080.35	   16
 data	rcam	both	1080.46	   16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>
+Recipe includes:70.46 seconds of data collection</pre></blockquote></details>Recipe includes:0.0 seconds of data collection</pre></blockquote></details>Recipe includes:0.0 seconds of data collection</pre></blockquote></details>
