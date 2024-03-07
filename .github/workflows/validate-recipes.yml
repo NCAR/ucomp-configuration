@@ -55,10 +55,10 @@ jobs:
                     if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("date") and not child.startswith("author") and not child.startswith("description"):
                         if childextension in child.split('#')[0]:
                             try:
-                                runTime2 =  0
-                                read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning,runTime2)
-                                md.write(f"read_script out {runTime} {runTime2}")
+                                runTime2 = read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning,runTime2)
                                 runTime = runTime+runTime2
+                                md.write(f"read_script out {runTime} {runTime2}")
+                                
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
                         else:
@@ -101,6 +101,7 @@ jobs:
                 script.close()
                 md.write(f"The above script included:{runTime/1000} seconds of data collection")
                 md.write("</pre></blockquote></details>")
+                return runTime
             menus = glob.glob("*.menu")
             state = {}
             darks = []
