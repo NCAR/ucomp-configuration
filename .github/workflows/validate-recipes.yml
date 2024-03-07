@@ -101,7 +101,7 @@ jobs:
                             pass
                 script.close()
                 if "rcp" in childextension: 
-                  md.write(f"The above script included:{runTime/1000} seconds of data collection")
+                  md.write(f"The above script included:{runTime/1000/60} minutes of data collection")
                 md.write("</pre></blockquote></details>")
                 return runTime
             menus = glob.glob("*.menu")
