@@ -282,6 +282,63 @@
 ------------------> data tcam	1079.98	both	16
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
+ ------------ > 789_07wave_0.05step_2beam_16sums_4reps.rcp
+------------------> data rcam	789.25	both	16
+------------------> data rcam	789.30	both	16
+------------------> data rcam	789.35	both	16
+------------------> data rcam	789.40	both	16
+------------------> data rcam	789.45	both	16
+------------------> data rcam	789.50	both	16
+------------------> data rcam	789.55	both	16
+------------------> data tcam	789.25	both	16
+------------------> data tcam	789.30	both	16
+------------------> data tcam	789.35	both	16
+------------------> data tcam	789.40	both	16
+------------------> data tcam	789.45	both	16
+------------------> data tcam	789.50	both	16
+------------------> data tcam	789.55	both	16
+------------------> data rcam	789.25	both	16
+------------------> data rcam	789.30	both	16
+------------------> data rcam	789.35	both	16
+------------------> data rcam	789.40	both	16
+------------------> data rcam	789.45	both	16
+------------------> data rcam	789.50	both	16
+------------------> data rcam	789.55	both	16
+------------------> data tcam	789.25	both	16
+------------------> data tcam	789.30	both	16
+------------------> data tcam	789.35	both	16
+------------------> data tcam	789.40	both	16
+------------------> data tcam	789.45	both	16
+------------------> data tcam	789.50	both	16
+------------------> data tcam	789.55	both	16
+------------------> data rcam	789.25	both	16
+------------------> data rcam	789.30	both	16
+------------------> data rcam	789.35	both	16
+------------------> data rcam	789.40	both	16
+------------------> data rcam	789.45	both	16
+------------------> data rcam	789.50	both	16
+------------------> data rcam	789.55	both	16
+------------------> data tcam	789.25	both	16
+------------------> data tcam	789.30	both	16
+------------------> data tcam	789.35	both	16
+------------------> data tcam	789.40	both	16
+------------------> data tcam	789.45	both	16
+------------------> data tcam	789.50	both	16
+------------------> data tcam	789.55	both	16
+------------------> data rcam	789.25	both	16
+------------------> data rcam	789.30	both	16
+------------------> data rcam	789.35	both	16
+------------------> data rcam	789.40	both	16
+------------------> data rcam	789.45	both	16
+------------------> data rcam	789.50	both	16
+------------------> data rcam	789.55	both	16
+------------------> data tcam	789.25	both	16
+------------------> data tcam	789.30	both	16
+------------------> data tcam	789.35	both	16
+------------------> data tcam	789.40	both	16
+------------------> data tcam	789.45	both	16
+------------------> data tcam	789.50	both	16
+------------------> data tcam	789.55	both	16
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -289,6 +346,63 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
+ ------------ > 789_07wave_0.05step_2beam_16sums_4reps.rcp
+------------------> data rcam	789.25	both	16
+------------------> data rcam	789.30	both	16
+------------------> data rcam	789.35	both	16
+------------------> data rcam	789.40	both	16
+------------------> data rcam	789.45	both	16
+------------------> data rcam	789.50	both	16
+------------------> data rcam	789.55	both	16
+------------------> data tcam	789.25	both	16
+------------------> data tcam	789.30	both	16
+------------------> data tcam	789.35	both	16
+------------------> data tcam	789.40	both	16
+------------------> data tcam	789.45	both	16
+------------------> data tcam	789.50	both	16
+------------------> data tcam	789.55	both	16
+------------------> data rcam	789.25	both	16
+------------------> data rcam	789.30	both	16
+------------------> data rcam	789.35	both	16
+------------------> data rcam	789.40	both	16
+------------------> data rcam	789.45	both	16
+------------------> data rcam	789.50	both	16
+------------------> data rcam	789.55	both	16
+------------------> data tcam	789.25	both	16
+------------------> data tcam	789.30	both	16
+------------------> data tcam	789.35	both	16
+------------------> data tcam	789.40	both	16
+------------------> data tcam	789.45	both	16
+------------------> data tcam	789.50	both	16
+------------------> data tcam	789.55	both	16
+------------------> data rcam	789.25	both	16
+------------------> data rcam	789.30	both	16
+------------------> data rcam	789.35	both	16
+------------------> data rcam	789.40	both	16
+------------------> data rcam	789.45	both	16
+------------------> data rcam	789.50	both	16
+------------------> data rcam	789.55	both	16
+------------------> data tcam	789.25	both	16
+------------------> data tcam	789.30	both	16
+------------------> data tcam	789.35	both	16
+------------------> data tcam	789.40	both	16
+------------------> data tcam	789.45	both	16
+------------------> data tcam	789.50	both	16
+------------------> data tcam	789.55	both	16
+------------------> data rcam	789.25	both	16
+------------------> data rcam	789.30	both	16
+------------------> data rcam	789.35	both	16
+------------------> data rcam	789.40	both	16
+------------------> data rcam	789.45	both	16
+------------------> data rcam	789.50	both	16
+------------------> data rcam	789.55	both	16
+------------------> data tcam	789.25	both	16
+------------------> data tcam	789.30	both	16
+------------------> data tcam	789.35	both	16
+------------------> data tcam	789.40	both	16
+------------------> data tcam	789.45	both	16
+------------------> data tcam	789.50	both	16
+------------------> data tcam	789.55	both	16
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
