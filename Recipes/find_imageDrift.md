@@ -1,5 +1,5 @@
 read_script in:0<details><summary>find_imageDrift.menu</summary><blockquote><pre>read_script in:0<details><summary>find_imageDrift.cbk</summary><blockquote><pre>read_script in:0<details><summary>ND_IN.rcp</summary><blockquote><pre>nd in
-The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script in:0<details><summary>1083_imageDrift.rcp</summary><blockquote><pre>shut	out
+The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}read_script in:0<details><summary>1083_imageDrift.rcp</summary><blockquote><pre>shut	out
 o1 62.75
 data	tcam	both	1083.00	4
 o1 60
@@ -28,5 +28,5 @@ o1 5
 data	tcam	both	1083.00	4
 o1 0
 shut in
-The above script included:20.54 seconds of data collection</pre></blockquote></details>read_script in:0<details><summary>ND_OUT.rcp</summary><blockquote><pre>nd out
-The above script included:0.0 seconds of data collection</pre></blockquote></details>The above script included:0.0 seconds of data collection</pre></blockquote></details>The above script included:0.0 seconds of data collection</pre></blockquote></details>
+The above script included:20.54 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}read_script in:0<details><summary>ND_OUT.rcp</summary><blockquote><pre>nd out
+The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}The above script included:0.0 seconds of data collection</pre></blockquote></details>

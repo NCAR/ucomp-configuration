@@ -3,8 +3,8 @@ cover out
 occ		out
 shut	out
 calib	out
-The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script in:0<details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script in:0<details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}read_script in:0<details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}read_script in:0<details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
@@ -15,13 +15,13 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
-The above script included:54.2 seconds of data collection</pre></blockquote></details>read_script in:0<details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+The above script included:54.2 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}read_script in:0<details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
 calib	out
-The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script in:0<details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above script included:0.0 seconds of data collection</pre></blockquote></details>for 10
+The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}read_script in:0<details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
+The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}for 10
 read_script in:0<details><summary>1074_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.59	   16
 data	rcam	both	1074.70	   16
 data	rcam	both	1074.81	   16
@@ -46,6 +46,6 @@ data	rcam	both	1074.81	   16
 data	tcam	both	1074.59	   16
 data	tcam	both	1074.70	   16
 data	tcam	both	1074.81	   16
-The above script included:130.08 seconds of data collection</pre></blockquote></details>endfor
+The above script included:130.08 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}endfor
 read_script in:0<details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-The above script included:0.0 seconds of data collection</pre></blockquote></details>The above script included:0.0 seconds of data collection</pre></blockquote></details>The above script included:0.0 seconds of data collection</pre></blockquote></details>
+The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}The above script included:0.0 seconds of data collection</pre></blockquote></details>read_script out {runTime} {runTime2}The above script included:0.0 seconds of data collection</pre></blockquote></details>
