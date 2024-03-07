@@ -54,7 +54,9 @@ jobs:
                     if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("date") and not child.startswith("author") and not child.startswith("description"):
                         if childextension in child.split('#')[0]:
                             try:
-                                read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning,runTime)
+                                runTime2 = 0
+                                read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning,runTime2)
+                                runTime = runTime+runTime2
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
                         else:
