@@ -81,7 +81,7 @@ jobs:
                             if "data" in child:
                                 #print(child)
                                 data,cam,cont,wave,sums = child.split()
-                                runTime += 300+state['exposure']*4*sums
+                                runTime += 300+int(state['exposure'])*4*int(sums)
                                 if state['shut'] == "in":
                                     if state['exposure']+state['gain']+sums not in darks:
                                         darks.append(state['exposure']+state['gain']+sums)
