@@ -1,10 +1,10 @@
-DATE  Thurs Aug 20 2020
-AUTHOR Tomczyk
-DESCRIPTION Perform 21 point wavelength scan
-
-
-Exposure_80.rcp
+AUTHOR Berkey
+DESCRIPTION Preform a 7 point scan to find filter drift in 1074.7
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
 1074_FW.rcp
 setupFlat.rcp
-1074_13wave_1beam_16sums_1rep_BOTH.rcp
+1074_07wave_0.12step_2beam_16_1reps.rcp
+setupObserving.rcp
+1074_07wave_0.12step_2beam_16_1reps.rcp
 setupDark.rcp
