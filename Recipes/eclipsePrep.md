@@ -1,4 +1,57 @@
-<details><summary>eclipsePrep.menu</summary><blockquote><pre><details><summary>fainterLineScans.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+<details><summary>eclipsePrep.menu</summary><blockquote><pre><details><summary>1074_Scan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
+</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+cover out
+occ		out
+shut	out
+calib	out
+</pre></blockquote></details><details><summary>1074_07wave_0.12step_2beam_16_1reps.rcp</summary><blockquote><pre>data rcam	1074.34	both	16
+data rcam	1074.46	both	16
+data rcam	1074.58	both	16
+data rcam	1074.70	both	16
+data rcam	1074.82	both	16
+data rcam	1074.94	both	16
+data rcam	1075.06	both	16
+data tcam	1074.34	both	16
+data tcam	1074.46	both	16
+data tcam	1074.58	both	16
+data tcam	1074.70	both	16
+data tcam	1074.82	both	16
+data tcam	1074.94	both	16
+data tcam	1075.06	both	16
+</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
+calib	out
+occ		in
+diffuser out
+shut	out
+</pre></blockquote></details><details><summary>1074_07wave_0.12step_2beam_16_1reps.rcp</summary><blockquote><pre>data rcam	1074.34	both	16
+data rcam	1074.46	both	16
+data rcam	1074.58	both	16
+data rcam	1074.70	both	16
+data rcam	1074.82	both	16
+data rcam	1074.94	both	16
+data rcam	1075.06	both	16
+data tcam	1074.34	both	16
+data tcam	1074.46	both	16
+data tcam	1074.58	both	16
+data tcam	1074.70	both	16
+data tcam	1074.82	both	16
+data tcam	1074.94	both	16
+data tcam	1075.06	both	16
+</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+</pre></blockquote></details></pre></blockquote></details><details><summary>fainterLineScans.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
