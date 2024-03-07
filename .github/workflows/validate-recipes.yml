@@ -19,6 +19,7 @@ jobs:
             import os
             os.chdir("Recipes")
             import glob
+            import numpy as np
             def unroll_forloop(results):
                 results2 = []
                 endline =0
@@ -99,7 +100,7 @@ jobs:
                                         warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
                             pass
                 script.close()
-                md.write(f"The above script included:{runTime/1000} seconds of data collection")
+                md.write(f"The above script included:{runTime} {np.float(runTime)/1000} seconds of data collection")
                 md.write("</pre></blockquote></details>")
                 return runTime
             menus = glob.glob("*.menu")
