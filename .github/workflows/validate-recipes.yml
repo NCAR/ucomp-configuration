@@ -40,7 +40,7 @@ jobs:
                         else:
                             results2.append(results[i])
                 return results2
-            def read_script(scriptname,parent,tab,state,darks,flat,summary,md,warning,runTime,childextension=".rcp"):
+            def read_script(scriptname,parent,tab,state,darks,flat,summary,md,warning,childextension=".rcp"):
                 #print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
                 script = open(scriptname,"r")
                 results = script.readlines()
@@ -48,6 +48,7 @@ jobs:
                 results2 = unroll_forloop(results)
                 summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
                 md.write(f"read_script in:{runTime}")
+                runTime = 0
                 md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
                 for child in results2:
@@ -56,8 +57,8 @@ jobs:
                     if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("date") and not child.startswith("author") and not child.startswith("description"):
                         if childextension in child.split('#')[0]:
                             try:
-                                runTime2 = read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning,runTime)
-                                runTime = runTime+runTime2
+                                runTime += read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
+                               # runTime = runTime+runTime2
                                 md.write(f"read_script out {runTime} {runTime2}")
                                 
                             except FileNotFoundError:
@@ -118,7 +119,7 @@ jobs:
                 qmenu = quick_menu.readlines()
                 quick_menu.close()
                 if "NOWARNING" not in "".join(qmenu):
-                  read_script(menu,menu,0,state,darks,flats,summary,md,warning,0,".cbk")
+                  read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
                 md.close()
                 summary.close()
             warning.close()
