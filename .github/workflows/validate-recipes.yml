@@ -48,6 +48,7 @@ jobs:
                 summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
                 md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
+                runTime = 0
                 for child in results2:
                     filename =child.split('#')[0].strip()
                     child=child.strip().lower()
@@ -80,6 +81,7 @@ jobs:
                             if "data" in child:
                                 #print(child)
                                 data,cam,cont,wave,sums = child.split()
+                                runTime += 300+state['exposure']*4*sums
                                 if state['shut'] == "in":
                                     if state['exposure']+state['gain']+sums not in darks:
                                         darks.append(state['exposure']+state['gain']+sums)
@@ -94,6 +96,7 @@ jobs:
                                         warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
                             pass
                 script.close()
+                md.write(runTime/1000)
                 md.write("</pre></blockquote></details>")
             menus = glob.glob("*.menu")
             state = {}
