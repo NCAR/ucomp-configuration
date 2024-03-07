@@ -58,7 +58,7 @@ jobs:
                             try:
                                 runTime += read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
                                # runTime = runTime+runTime2
-                                md.write(f"read_script out {runTime} {runTime2}")
+                                md.write(f"read_script out {runTime}")
                                 
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
