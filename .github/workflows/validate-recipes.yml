@@ -47,7 +47,6 @@ jobs:
                 script.close()
                 results2 = unroll_forloop(results)
                 summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
-                md.write(f"read_script in:{runTime}")
                 runTime = 0
                 md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
