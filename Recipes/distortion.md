@@ -1,5 +1,5 @@
-read_script in:0<details><summary>distortion.menu</summary><blockquote><pre>read_script in:0<details><summary>distortion.cbk</summary><blockquote><pre>read_script in:0<details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 0 0read_script in:0<details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+<details><summary>distortion.menu</summary><blockquote><pre><details><summary>distortion.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 0<details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
@@ -10,18 +10,18 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
-The above script included:54200 seconds of data collection</pre></blockquote></details>read_script out 54200 54200read_script in:54200<details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+The above script included:54200 seconds of data collection</pre></blockquote></details>read_script out 54200<details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
 calib	out
-The above script included:54200 seconds of data collection</pre></blockquote></details>read_script out 108400 54200read_script in:108400<details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 54200<details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
 cover out
 occ		out
 shut	out
 calib	out
-The above script included:108400 seconds of data collection</pre></blockquote></details>read_script out 216800 108400read_script in:216800<details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
-The above script included:216800 seconds of data collection</pre></blockquote></details>read_script out 433600 216800read_script in:433600<details><summary>637_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 54200<details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 54200<details><summary>637_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
 data	tcam	both	637.40	16
 data	rcam	both	637.40	16
 data	tcam	both	637.40	16
@@ -53,8 +53,8 @@ data	rcam	both	637.40	16
 data	tcam	both	637.40	16
 data	rcam	both	637.40	16
 data	tcam	both	637.40	16
-The above script included:607040 seconds of data collection</pre></blockquote></details>read_script out 1040640 607040read_script in:1040640<details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
-The above script included:1040640 seconds of data collection</pre></blockquote></details>read_script out 2081280 1040640read_script in:2081280<details><summary>637_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 227640<details><summary>670_FW.rcp</summary><blockquote><pre>prefilterrange 670
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 227640<details><summary>637_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	637.40	16
 data	tcam	both	637.40	16
 data	rcam	both	637.40	16
 data	tcam	both	637.40	16
@@ -86,8 +86,8 @@ data	rcam	both	637.40	16
 data	tcam	both	637.40	16
 data	rcam	both	637.40	16
 data	tcam	both	637.40	16
-The above script included:2254720 seconds of data collection</pre></blockquote></details>read_script out 4336000 2254720read_script in:4336000<details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange 706
-The above script included:4336000 seconds of data collection</pre></blockquote></details>read_script out 8672000 4336000read_script in:8672000<details><summary>706_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	706.20	16
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 401080<details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange 706
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 401080<details><summary>706_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	706.20	16
 data	tcam	both	706.20	16
 data	rcam	both	706.20	16
 data	tcam	both	706.20	16
@@ -119,8 +119,8 @@ data	rcam	both	706.20	16
 data	tcam	both	706.20	16
 data	rcam	both	706.20	16
 data	tcam	both	706.20	16
-The above script included:8845440 seconds of data collection</pre></blockquote></details>read_script out 17517440 8845440read_script in:17517440<details><summary>761_FW.rcp</summary><blockquote><pre>prefilterrange 761
-The above script included:17517440 seconds of data collection</pre></blockquote></details>read_script out 35034880 17517440read_script in:35034880<details><summary>706_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	706.20	16
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 574520<details><summary>761_FW.rcp</summary><blockquote><pre>prefilterrange 761
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 574520<details><summary>706_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	706.20	16
 data	tcam	both	706.20	16
 data	rcam	both	706.20	16
 data	tcam	both	706.20	16
@@ -152,8 +152,8 @@ data	rcam	both	706.20	16
 data	tcam	both	706.20	16
 data	rcam	both	706.20	16
 data	tcam	both	706.20	16
-The above script included:35208320 seconds of data collection</pre></blockquote></details>read_script out 70243200 35208320read_script in:70243200<details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange 789
-The above script included:70243200 seconds of data collection</pre></blockquote></details>read_script out 140486400 70243200read_script in:140486400<details><summary>789_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	789.40	16
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 747960<details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange 789
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 747960<details><summary>789_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	789.40	16
 data	tcam	both	789.40	16
 data	rcam	both	789.40	16
 data	tcam	both	789.40	16
@@ -185,8 +185,8 @@ data	rcam	both	789.40	16
 data	tcam	both	789.40	16
 data	rcam	both	789.40	16
 data	tcam	both	789.40	16
-The above script included:140659840 seconds of data collection</pre></blockquote></details>read_script out 281146240 140659840read_script in:281146240<details><summary>802_FW.rcp</summary><blockquote><pre>prefilterrange 802
-The above script included:281146240 seconds of data collection</pre></blockquote></details>read_script out 562292480 281146240read_script in:562292480<details><summary>802_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 921400<details><summary>802_FW.rcp</summary><blockquote><pre>prefilterrange 802
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 921400<details><summary>802_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	802.41	16
 data	tcam	both	802.41	16
 data	rcam	both	802.41	16
 data	tcam	both	802.41	16
@@ -218,8 +218,8 @@ data	rcam	both	802.41	16
 data	tcam	both	802.41	16
 data	rcam	both	802.41	16
 data	tcam	both	802.41	16
-The above script included:562465920 seconds of data collection</pre></blockquote></details>read_script out 1124758400 562465920read_script in:1124758400<details><summary>991_FW.rcp</summary><blockquote><pre>prefilterrange 991
-The above script included:1124758400 seconds of data collection</pre></blockquote></details>read_script out 2249516800 1124758400read_script in:2249516800<details><summary>991_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 1094840<details><summary>991_FW.rcp</summary><blockquote><pre>prefilterrange 991
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 1094840<details><summary>991_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 data	rcam	both	991.26	16
 data	tcam	both	991.26	16
@@ -251,8 +251,8 @@ data	rcam	both	991.26	16
 data	tcam	both	991.26	16
 data	rcam	both	991.26	16
 data	tcam	both	991.26	16
-The above script included:2249690240 seconds of data collection</pre></blockquote></details>read_script out 4499207040 2249690240read_script in:4499207040<details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above script included:4499207040 seconds of data collection</pre></blockquote></details>read_script out 8998414080 4499207040read_script in:8998414080<details><summary>1074_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 1268280<details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 1268280<details><summary>1074_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.70	16
 data	tcam	both	1074.70	16
 data	rcam	both	1074.70	16
 data	tcam	both	1074.70	16
@@ -284,8 +284,8 @@ data	rcam	both	1074.70	16
 data	tcam	both	1074.70	16
 data	rcam	both	1074.70	16
 data	tcam	both	1074.70	16
-The above script included:8998587520 seconds of data collection</pre></blockquote></details>read_script out 17997001600 8998587520read_script in:17997001600<details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above script included:17997001600 seconds of data collection</pre></blockquote></details>read_script out 35994003200 17997001600read_script in:35994003200<details><summary>1079_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 1441720<details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 1441720<details><summary>1079_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
@@ -317,5 +317,5 @@ data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
-The above script included:35994176640 seconds of data collection</pre></blockquote></details>read_script out 71988179840 35994176640read_script in:71988179840<details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-The above script included:71988179840 seconds of data collection</pre></blockquote></details>read_script out 143976359680 71988179840The above script included:143976359680 seconds of data collection</pre></blockquote></details>read_script out 143976359680 143976359680The above script included:143976359680 seconds of data collection</pre></blockquote></details>
+The above script included:173440 seconds of data collection</pre></blockquote></details>read_script out 1615160<details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+The above script included:0 seconds of data collection</pre></blockquote></details>read_script out 1615160The above script included:1615160 seconds of data collection</pre></blockquote></details>read_script out 1615160The above script included:1615160 seconds of data collection</pre></blockquote></details>
