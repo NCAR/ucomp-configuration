@@ -39,7 +39,7 @@ jobs:
                         else:
                             results2.append(results[i])
                 return results2
-            def read_script(scriptname,parent,tab,state,darks,flat,summary,md,warning,childextension=".rcp"):
+            def read_script(scriptname,parent,tab,state,darks,flat,summary,md,warning,childextension=".rcp",runTime):
                 #print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
                 script = open(scriptname,"r")
                 results = script.readlines()
@@ -48,7 +48,6 @@ jobs:
                 summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
                 md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
-                runTime = 0
                 for child in results2:
                     filename =child.split('#')[0].strip()
                     child=child.strip().lower()
@@ -96,7 +95,7 @@ jobs:
                                         warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
                             pass
                 script.close()
-                md.write(f"Recipe includes:{runTime/1000} seconds of data collection")
+                md.write(f"The above script included:{runTime/1000} seconds of data collection")
                 md.write("</pre></blockquote></details>")
             menus = glob.glob("*.menu")
             state = {}
@@ -113,7 +112,7 @@ jobs:
                 qmenu = quick_menu.readlines()
                 quick_menu.close()
                 if "NOWARNING" not in "".join(qmenu):
-                  read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk")
+                  read_script(menu,menu,0,state,darks,flats,summary,md,warning,".cbk",0)
                 md.close()
                 summary.close()
             warning.close()
