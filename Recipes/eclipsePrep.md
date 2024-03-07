@@ -1137,4 +1137,4 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
-The above script included:54.2 seconds of data collection</pre></blockquote></details>The above script included:5268.24 seconds of data collection</pre></blockquote></details>The above script included:5528.4 seconds of data collection</pre></blockquote></details>
+The above script included:54.2 seconds of data collection</pre></blockquote></details>The above script included:5268.24 seconds of data collection</pre></blockquote></details></pre></blockquote></details>

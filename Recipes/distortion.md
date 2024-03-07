@@ -318,4 +318,4 @@ data	tcam	both	1079.80	16
 data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
 The above script included:173.44 seconds of data collection</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
-The above script included:0.0 seconds of data collection</pre></blockquote></details>The above script included:1615.16 seconds of data collection</pre></blockquote></details>The above script included:1615.16 seconds of data collection</pre></blockquote></details>
+The above script included:0.0 seconds of data collection</pre></blockquote></details>The above script included:1615.16 seconds of data collection</pre></blockquote></details></pre></blockquote></details>

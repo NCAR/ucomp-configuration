@@ -29,4 +29,4 @@ data	tcam	both	1083.00	4
 o1 0
 shut in
 The above script included:20.54 seconds of data collection</pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre>nd out
-The above script included:0.0 seconds of data collection</pre></blockquote></details>The above script included:20.54 seconds of data collection</pre></blockquote></details>The above script included:20.54 seconds of data collection</pre></blockquote></details>
+The above script included:0.0 seconds of data collection</pre></blockquote></details>The above script included:20.54 seconds of data collection</pre></blockquote></details></pre></blockquote></details>

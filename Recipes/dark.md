@@ -16,4 +16,4 @@ data	rcam	both	656.28	1
 data	rcam	both	656.28	1
 data	rcam	both	656.28	1
 The above script included:9.92 seconds of data collection</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	656.28	16
-The above script included:5.42 seconds of data collection</pre></blockquote></details>The above script included:15.34 seconds of data collection</pre></blockquote></details>The above script included:15.34 seconds of data collection</pre></blockquote></details>
+The above script included:5.42 seconds of data collection</pre></blockquote></details>The above script included:15.34 seconds of data collection</pre></blockquote></details></pre></blockquote></details>
