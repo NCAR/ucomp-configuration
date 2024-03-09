@@ -29,14 +29,6 @@ setupObserving.rcp
 802_FW.rcp
 802_03wave_2beam_16sums_4rep_BOTH.rcp
 
-setupFlat.rcp
-802_03wave_2beam_16sums_4rep_BOTH.rcp
-991_FW.rcp
-991_03wave_2beam_16sums_4rep_BOTH.rcp
-670_FW.rcp
-670_03wave_2beam_16sums_4rep_BOTH.rcp
-761_FW.rcp
-761_03wave_2beam_16sums_4rep_BOTH.rcp
 
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
