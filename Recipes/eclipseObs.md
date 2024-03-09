@@ -16,7 +16,7 @@ occ		out
 shut	out
 calib	out
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_07wave_0.06step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.69	both	16
 data rcam	1079.74	both	16
 data rcam	1079.80	both	16
@@ -73,7 +73,7 @@ data tcam	1079.86	both	16
 data tcam	1079.91	both	16
 data tcam	1079.96	both	16
 The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_07wave_0.06step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.59	both	16
 data rcam	1074.64	both	16
 data rcam	1074.70	both	16
@@ -135,7 +135,7 @@ calib	out
 occ		in
 diffuser out
 shut	out
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_07wave_0.06step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.59	both	16
 data rcam	1074.64	both	16
 data rcam	1074.70	both	16
@@ -192,7 +192,7 @@ data tcam	1074.76	both	16
 data tcam	1074.81	both	16
 data tcam	1074.86	both	16
 The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_07wave_0.06step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.69	both	16
 data rcam	1079.74	both	16
 data rcam	1079.80	both	16
@@ -249,7 +249,7 @@ data tcam	1079.86	both	16
 data tcam	1079.91	both	16
 data tcam	1079.96	both	16
 The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_07wave_0.06step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.59	both	16
 data rcam	1074.64	both	16
 data rcam	1074.70	both	16
@@ -306,7 +306,7 @@ data tcam	1074.76	both	16
 data tcam	1074.81	both	16
 data tcam	1074.86	both	16
 The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_07wave_0.06step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.69	both	16
 data rcam	1079.74	both	16
 data rcam	1079.80	both	16
@@ -367,7 +367,7 @@ cover out
 occ		out
 shut	out
 calib	out
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_07wave_0.06step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.69	both	16
 data rcam	1079.74	both	16
 data rcam	1079.80	both	16
@@ -424,7 +424,7 @@ data tcam	1079.86	both	16
 data tcam	1079.91	both	16
 data tcam	1079.96	both	16
 The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_07wave_0.06step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.59	both	16
 data rcam	1074.64	both	16
 data rcam	1074.70	both	16
@@ -1271,7 +1271,7 @@ occ		out
 shut	out
 calib	out
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -1312,7 +1312,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -1458,7 +1458,7 @@ data	tcam	both	 706.15	   16
 data	tcam	both	 706.20	   16
 data	tcam	both	 706.25	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -1499,7 +1499,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -1744,7 +1744,7 @@ data	tcam	both	 789.33	   16
 data	tcam	both	 789.40	   16
 data	tcam	both	 789.47	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -1785,7 +1785,591 @@ data tcam	1074.70	both	16
 data tcam	1074.80	both	16
 data tcam	1074.86	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:49.50 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+cover out
+occ		out
+shut	out
+calib	out
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange 789
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange 706
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut in
+cover out
+calib	out
+occ		in
+diffuser out
+shut	out
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+data rcam	1079.64	both	16
+data rcam	1079.70	both	16
+data rcam	1079.80	both	16
+data rcam	1079.90	both	16
+data rcam	1079.96	both	16
+data tcam	1079.64	both	16
+data tcam	1079.70	both	16
+data tcam	1079.80	both	16
+data tcam	1079.90	both	16
+data tcam	1079.96	both	16
+The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange 789
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange 706
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange 789
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange 637
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser  in
+cover out
+occ		out
+shut	out
+calib	out
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>637_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+data	rcam	both	 637.35	   16
+data	rcam	both	 637.40	   16
+data	rcam	both	 637.45	   16
+data	tcam	both	 637.35	   16
+data	tcam	both	 637.40	   16
+data	tcam	both	 637.45	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange 706
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>706_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+data	rcam	both	 706.15	   16
+data	rcam	both	 706.20	   16
+data	rcam	both	 706.25	   16
+data	tcam	both	 706.15	   16
+data	tcam	both	 706.20	   16
+data	tcam	both	 706.25	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange 789
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+data	rcam	both	 789.33	   16
+data	rcam	both	 789.40	   16
+data	rcam	both	 789.47	   16
+data	tcam	both	 789.33	   16
+data	tcam	both	 789.40	   16
+data	tcam	both	 789.47	   16
+The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+data rcam	1074.54	both	16
+data rcam	1074.60	both	16
+data rcam	1074.70	both	16
+data rcam	1074.80	both	16
+data rcam	1074.86	both	16
+data tcam	1074.54	both	16
+data tcam	1074.60	both	16
+data tcam	1074.70	both	16
+data tcam	1074.80	both	16
+data tcam	1074.86	both	16
+The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -2293,7 +2877,7 @@ occ		out
 shut	out
 calib	out
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -2334,7 +2918,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -2480,7 +3064,7 @@ data	tcam	both	 706.15	   16
 data	tcam	both	 706.20	   16
 data	tcam	both	 706.25	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -2521,7 +3105,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -2766,7 +3350,7 @@ data	tcam	both	 789.33	   16
 data	tcam	both	 789.40	   16
 data	tcam	both	 789.47	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -2807,7 +3391,7 @@ data tcam	1074.70	both	16
 data tcam	1074.80	both	16
 data tcam	1074.86	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -2877,7 +3461,7 @@ occ		out
 shut	out
 calib	out
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -2918,7 +3502,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -3064,7 +3648,7 @@ data	tcam	both	 706.15	   16
 data	tcam	both	 706.20	   16
 data	tcam	both	 706.25	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -3105,7 +3689,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -3350,7 +3934,7 @@ data	tcam	both	 789.33	   16
 data	tcam	both	 789.40	   16
 data	tcam	both	 789.47	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -3391,7 +3975,7 @@ data tcam	1074.70	both	16
 data tcam	1074.80	both	16
 data tcam	1074.86	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -3461,7 +4045,7 @@ occ		out
 shut	out
 calib	out
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -3502,7 +4086,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -3648,7 +4232,7 @@ data	tcam	both	 706.15	   16
 data	tcam	both	 706.20	   16
 data	tcam	both	 706.25	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -3689,7 +4273,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -3934,7 +4518,7 @@ data	tcam	both	 789.33	   16
 data	tcam	both	 789.40	   16
 data	tcam	both	 789.47	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -3975,7 +4559,7 @@ data tcam	1074.70	both	16
 data tcam	1074.80	both	16
 data tcam	1074.86	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -4045,7 +4629,7 @@ occ		out
 shut	out
 calib	out
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -4086,7 +4670,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -4232,7 +4816,7 @@ data	tcam	both	 706.15	   16
 data	tcam	both	 706.20	   16
 data	tcam	both	 706.25	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
@@ -4273,7 +4857,7 @@ data tcam	1079.80	both	16
 data tcam	1079.90	both	16
 data tcam	1079.96	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -4518,7 +5102,7 @@ data	tcam	both	 789.33	   16
 data	tcam	both	 789.40	   16
 data	tcam	both	 789.47	   16
 The above code block covers:2.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange 1074
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1074.54	both	16
 data rcam	1074.60	both	16
 data rcam	1074.70	both	16
 data rcam	1074.80	both	16
@@ -4559,7 +5143,7 @@ data tcam	1074.70	both	16
 data tcam	1074.80	both	16
 data tcam	1074.86	both	16
 The above code block covers:3.61 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange 1079
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>data rcam	1079.64	both	16
 data rcam	1079.70	both	16
 data rcam	1079.80	both	16
 data rcam	1079.90	both	16
