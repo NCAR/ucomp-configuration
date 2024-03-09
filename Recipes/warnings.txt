@@ -1,4 +1,0 @@
-eclipseObs.menu tried to call *synoptic-old-faint.cbk* which does not exist
-eclipseObs.menu tried to call *synoptic-new-faint.cbk* which does not exist
-eclipseObs.menu tried to call *synoptic-old-faint.cbk* which does not exist
-eclipseObs.menu tried to call *synoptic-new-faint.cbk* which does not exist

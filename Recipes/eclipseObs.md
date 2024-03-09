@@ -1253,9 +1253,7 @@ data rcam both 1074.70 14
 data tcam both 1074.59 14
 data tcam both 1074.81 14
 data tcam both 1074.70 14
-The above code block covers:0.48 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:59.11 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><<<<<<< head
-<<<<<<< head
-<details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+The above code block covers:0.48 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:59.11 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
@@ -2277,8 +2275,4 @@ data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
 data	rcam	both	656.28	16
-The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:36.49 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>=======
->>>>>>> 2f5e420a2ed88f81f652ff744089ee291a901ccd
-=======
->>>>>>> 309a76c31c6b04d629d0d91b270596ac65c367aa
-</pre></blockquote></details>
+The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:36.49 minutes of camera integration + hardware moves and overhead</pre></blockquote></details></pre></blockquote></details>
