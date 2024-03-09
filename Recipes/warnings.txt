@@ -6,8 +6,6 @@ eclipsePrep.menu,fainterlinescans.cbk,1074_07wave_0.06step_2beam_16sums_1reps_bo
 eclipsePrep.menu,fainterlinescans.cbk,1074_07wave_0.06step_2beam_16sums_1reps_both.rcp   data tcam	1074.64	both	16 missing flat for high16tcam1074.64both
 eclipsePrep.menu,fainterlinescans.cbk,1074_07wave_0.06step_2beam_16sums_1reps_both.rcp   data tcam	1074.76	both	16 missing flat for high16tcam1074.76both
 eclipsePrep.menu,fainterlinescans.cbk,1074_07wave_0.06step_2beam_16sums_1reps_both.rcp   data tcam	1074.88	both	16 missing flat for high16tcam1074.88both
-eclipsePrep.menu,fainterlinescans.cbk tried to call *1079_07wave_0.06step_2beam_16sums_1reps_BOTH.rcp* which does not exist
-eclipsePrep.menu,fainterlinescans.cbk tried to call *1079_07wave_0.06step_2beam_16sums_1reps_BOTH.rcp* which does not exist
 eclipsePrep.menu,fainterlinescans.cbk,789_07wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	789.25	both	16 missing flat for high16rcam789.25both
 eclipsePrep.menu,fainterlinescans.cbk,789_07wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	789.30	both	16 missing flat for high16rcam789.30both
 eclipsePrep.menu,fainterlinescans.cbk,789_07wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	789.35	both	16 missing flat for high16rcam789.35both
