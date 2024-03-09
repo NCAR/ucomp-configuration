@@ -22,6 +22,21 @@
 ------------------> occ		out
 ------------------> shut	out
 ------------------> calib	out
+ ------------ > 1074_07wave_0.12step_2beam_16sums_1reps_BOTH.rcp
+------------------> data rcam	1074.34	both	16
+------------------> data rcam	1074.46	both	16
+------------------> data rcam	1074.58	both	16
+------------------> data rcam	1074.70	both	16
+------------------> data rcam	1074.82	both	16
+------------------> data rcam	1074.94	both	16
+------------------> data rcam	1075.06	both	16
+------------------> data tcam	1074.34	both	16
+------------------> data tcam	1074.46	both	16
+------------------> data tcam	1074.58	both	16
+------------------> data tcam	1074.70	both	16
+------------------> data tcam	1074.82	both	16
+------------------> data tcam	1074.94	both	16
+------------------> data tcam	1075.06	both	16
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -29,6 +44,21 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
+ ------------ > 1074_07wave_0.12step_2beam_16sums_1reps_BOTH.rcp
+------------------> data rcam	1074.34	both	16
+------------------> data rcam	1074.46	both	16
+------------------> data rcam	1074.58	both	16
+------------------> data rcam	1074.70	both	16
+------------------> data rcam	1074.82	both	16
+------------------> data rcam	1074.94	both	16
+------------------> data rcam	1075.06	both	16
+------------------> data tcam	1074.34	both	16
+------------------> data tcam	1074.46	both	16
+------------------> data tcam	1074.58	both	16
+------------------> data tcam	1074.70	both	16
+------------------> data tcam	1074.82	both	16
+------------------> data tcam	1074.94	both	16
+------------------> data tcam	1075.06	both	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
