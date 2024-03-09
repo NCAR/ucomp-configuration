@@ -22,21 +22,6 @@
 ------------------> occ		out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > 1074_07wave_0.12step_2beam_16sums_1reps.rcp
-------------------> data rcam	1074.34	both	16
-------------------> data rcam	1074.46	both	16
-------------------> data rcam	1074.58	both	16
-------------------> data rcam	1074.70	both	16
-------------------> data rcam	1074.82	both	16
-------------------> data rcam	1074.94	both	16
-------------------> data rcam	1075.06	both	16
-------------------> data tcam	1074.34	both	16
-------------------> data tcam	1074.46	both	16
-------------------> data tcam	1074.58	both	16
-------------------> data tcam	1074.70	both	16
-------------------> data tcam	1074.82	both	16
-------------------> data tcam	1074.94	both	16
-------------------> data tcam	1075.06	both	16
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -44,21 +29,6 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
- ------------ > 1074_07wave_0.12step_2beam_16sums_1reps.rcp
-------------------> data rcam	1074.34	both	16
-------------------> data rcam	1074.46	both	16
-------------------> data rcam	1074.58	both	16
-------------------> data rcam	1074.70	both	16
-------------------> data rcam	1074.82	both	16
-------------------> data rcam	1074.94	both	16
-------------------> data rcam	1075.06	both	16
-------------------> data tcam	1074.34	both	16
-------------------> data tcam	1074.46	both	16
-------------------> data tcam	1074.58	both	16
-------------------> data tcam	1074.70	both	16
-------------------> data tcam	1074.82	both	16
-------------------> data tcam	1074.94	both	16
-------------------> data tcam	1075.06	both	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
@@ -96,6 +66,63 @@
 ------------------> occ		out
 ------------------> shut	out
 ------------------> calib	out
+ ------------ > 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
  ------------ > setupObserving.rcp
 ------------------> shut in
 ------------------> cover out
@@ -103,15 +130,129 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
+ ------------ > 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
 ------------------> occ		out
 ------------------> shut	out
 ------------------> calib	out
+ ------------ > 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
+------------------> data rcam	1079.64	both	16
+------------------> data rcam	1079.69	both	16
+------------------> data rcam	1079.74	both	16
+------------------> data rcam	1079.80	both	16
+------------------> data rcam	1079.86	both	16
+------------------> data rcam	1079.91	both	16
+------------------> data rcam	1079.96	both	16
+------------------> data tcam	1079.64	both	16
+------------------> data tcam	1079.69	both	16
+------------------> data tcam	1079.74	both	16
+------------------> data tcam	1079.80	both	16
+------------------> data tcam	1079.86	both	16
+------------------> data tcam	1079.91	both	16
+------------------> data tcam	1079.96	both	16
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
- ------------ > 789_07wave_0.05step_2beam_16sums_4reps.rcp
+ ------------ > 789_07wave_0.05step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	789.25	both	16
 ------------------> data rcam	789.30	both	16
 ------------------> data rcam	789.35	both	16
@@ -175,7 +316,7 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
- ------------ > 789_07wave_0.05step_2beam_16sums_4reps.rcp
+ ------------ > 789_07wave_0.05step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	789.25	both	16
 ------------------> data rcam	789.30	both	16
 ------------------> data rcam	789.35	both	16
@@ -240,7 +381,7 @@
 ------------------> calib	out
  ------------ > 706_FW.rcp
 ------------------> prefilterrange 706
- ------------ > 706_07wave_0.04step_2beam_16sums_4reps.rcp
+ ------------ > 706_07wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	706.08	both	16
 ------------------> data rcam	706.12	both	16
 ------------------> data rcam	706.16	both	16
@@ -304,7 +445,7 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
- ------------ > 706_07wave_0.04step_2beam_16sums_4reps.rcp
+ ------------ > 706_07wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	706.08	both	16
 ------------------> data rcam	706.12	both	16
 ------------------> data rcam	706.16	both	16
@@ -369,7 +510,7 @@
 ------------------> calib	out
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
- ------------ > 637_07wave_0.03step_2beam_16sums_4reps.rcp
+ ------------ > 637_07wave_0.03step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	637.31	both	16
 ------------------> data rcam	637.34	both	16
 ------------------> data rcam	637.37	both	16
@@ -433,7 +574,7 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
- ------------ > 637_07wave_0.03step_2beam_16sums_4reps.rcp
+ ------------ > 637_07wave_0.03step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	637.31	both	16
 ------------------> data rcam	637.34	both	16
 ------------------> data rcam	637.37	both	16
@@ -498,7 +639,7 @@
 ------------------> calib	out
  ------------ > 670_FW.rcp
 ------------------> prefilterrange 670
- ------------ > 670_07wave_0.03step_2beam_16sums_4reps.rcp
+ ------------ > 670_07wave_0.03step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	670.07	both	16
 ------------------> data rcam	670.10	both	16
 ------------------> data rcam	670.13	both	16
@@ -562,7 +703,7 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
- ------------ > 670_07wave_0.03step_2beam_16sums_4reps.rcp
+ ------------ > 670_07wave_0.03step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	670.07	both	16
 ------------------> data rcam	670.10	both	16
 ------------------> data rcam	670.13	both	16
@@ -625,7 +766,7 @@
 ------------------> occ		out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > 761_07wave_0.04step_2beam_16sums_4reps.rcp
+ ------------ > 761_07wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	760.98	both	16
 ------------------> data rcam	761.02	both	16
 ------------------> data rcam	761.06	both	16
@@ -689,7 +830,7 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
- ------------ > 761_07wave_0.04step_2beam_16sums_4reps.rcp
+ ------------ > 761_07wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	760.98	both	16
 ------------------> data rcam	761.02	both	16
 ------------------> data rcam	761.06	both	16
@@ -752,7 +893,7 @@
 ------------------> occ		out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > 802_07wave_0.06step_2beam_16sums_4reps.rcp
+ ------------ > 802_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	802.23	both	16
 ------------------> data rcam	802.29	both	16
 ------------------> data rcam	802.35	both	16
@@ -816,7 +957,7 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
- ------------ > 802_07wave_0.06step_2beam_16sums_4reps.rcp
+ ------------ > 802_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	802.23	both	16
 ------------------> data rcam	802.29	both	16
 ------------------> data rcam	802.35	both	16
@@ -881,7 +1022,7 @@
 ------------------> calib	out
  ------------ > 991_FW.rcp
 ------------------> prefilterrange 991
- ------------ > 991_07wave_0.08step_2beam_16sums_4reps.rcp
+ ------------ > 991_07wave_0.08step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	991.02	both	16
 ------------------> data rcam	991.10	both	16
 ------------------> data rcam	991.18	both	16
@@ -945,7 +1086,7 @@
 ------------------> occ		in
 ------------------> diffuser out
 ------------------> shut	out
- ------------ > 991_07wave_0.08step_2beam_16sums_4reps.rcp
+ ------------ > 991_07wave_0.08step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	991.02	both	16
 ------------------> data rcam	991.10	both	16
 ------------------> data rcam	991.18	both	16
