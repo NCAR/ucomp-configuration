@@ -2,16 +2,27 @@
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
-789_FW.rcp
 setupFlat.rcp
+1079_FW.rcp
+1079_05wave_0.1step_2beam_16sums_4reps.rcp
+1074_FW.rcp
+1074_05wave_0.1step_2beam_16sums_4reps.rcp
+789_FW.rcp
+
 789_03wave_2beam_16sums_4rep_BOTH.rcp
 637_FW.rcp
 637_03wave_2beam_16sums_4rep_BOTH.rcp
 706_FW.rcp
 706_03wave_2beam_16sums_4rep_BOTH.rcp
+
+
 setupObserving.rcp
 
 706_03wave_2beam_16sums_4rep_BOTH.rcp
+1079_FW.rcp
+1079_05wave_0.1step_2beam_16sums_4reps.rcp
+1074_FW.rcp
+1074_05wave_0.1step_2beam_16sums_4reps.rcp
 789_FW.rcp
 789_03wave_2beam_16sums_4rep_BOTH.rcp
 637_FW.rcp
@@ -23,6 +34,9 @@ setupObserving.rcp
 789_03wave_2beam_16sums_4rep_BOTH.rcp
 637_FW.rcp
 637_03wave_2beam_16sums_4rep_BOTH.rcp
+
+
+
 
 setupFlat.rcp
 637_03wave_2beam_16sums_4rep_BOTH.rcp
@@ -30,6 +44,11 @@ setupFlat.rcp
 706_03wave_2beam_16sums_4rep_BOTH.rcp
 789_FW.rcp
 789_03wave_2beam_16sums_4rep_BOTH.rcp
+1074_FW.rcp
+1074_05wave_0.1step_2beam_16sums_4reps.rcp
+1079_FW.rcp
+1079_05wave_0.1step_2beam_16sums_4reps.rcp
+
 
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
