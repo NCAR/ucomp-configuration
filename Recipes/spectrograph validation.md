@@ -11,4 +11,4 @@ data	rcam	both	1080.13	   16
 data	rcam	both	1080.24	   16
 data	rcam	both	1080.35	   16
 data	rcam	both	1080.46	   16
-</pre></blockquote></details></pre></blockquote></details></pre></blockquote></details>
+The above code block covers:1.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:1.17 minutes of camera integration + hardware moves and overhead</pre></blockquote></details></pre></blockquote></details>
