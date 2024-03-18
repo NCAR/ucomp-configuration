@@ -280,7 +280,7 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > fainterLineScans.cbk
+ ------ > oldLineFineScan.cbk
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
@@ -992,8 +992,43 @@
 ------------------> data tcam	706.26	both	16
 ------------------> data tcam	706.29	both	16
 ------------------> data tcam	706.32	both	16
+ ------------ > setupDark.rcp
+------------------> shut	in
+ ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------ > newLineFineScan.cbk
+ ------------ > setupDark.rcp
+------------------> shut	in
+ ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > 670_FW.rcp
 ------------------> prefilterrange 670
+ ------------ > setupFlat.rcp
+------------------> diffuser  in
+------------------> cover out
+------------------> occ		out
+------------------> shut	out
+------------------> calib	out
  ------------ > 670_09wave_0.03step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	670.04	both	16
 ------------------> data rcam	670.07	both	16

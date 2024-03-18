@@ -35,7 +35,5 @@ setupFlat.rcp
 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  #706 flat
 setupObserving.rcp
 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp #706 corona 
-
-
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
