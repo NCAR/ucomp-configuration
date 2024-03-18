@@ -50,40 +50,22 @@ jobs:
                 runTime = 0
                      
                 color = "black"
-                if "gain" in child:
-                    state['gain'] = "low" if "low" in child else "high"
-                if "shut" in child:
-                    state['shut'] = "in" if "in" in child else "out"
-                if "exposure" in child:
-                    state['exposure'] = child.split(" ")[1]
+                
+                if state['shut'] == "in":
+                    color = "red"
+                    if state['exposure']+state['gain']+sums not in darks:
+                        darks.append(state['exposure']+state['gain']+sums)
+                if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
+                    color = "blue"
+                    if state['gain']+sums+cam+cont+wave not in flats:
+                        flats.append(state['gain']+sums+cam+cont+wave)
+                if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
                     #print(state)
-                if "cover" in child:
-                    state['cover'] = "in" if "in" in child else "out"
-                if "occ" in child:
-                    state['occ'] = "in" if "in" in child else "out"
-                if "calib" in child:
-                    state['calib'] = "in" if "in" in child else "out"
-                if "diffuser" in child:
-                    state['diffuser'] = "in" if "in" in child else "out"
-                if "data" in child:
-                    #print(child)
-                    data,cam,cont,wave,sums = child.split()
-                    runTime += 300+int(state['exposure'])*4*int(sums)
-                    if state['shut'] == "in":
-                        color = "red"
-                        if state['exposure']+state['gain']+sums not in darks:
-                            darks.append(state['exposure']+state['gain']+sums)
-                    if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
-                        color = "blue"
-                        if state['gain']+sums+cam+cont+wave not in flats:
-                            flats.append(state['gain']+sums+cam+cont+wave)
-                    if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
-                        #print(state)
-                        color = "green"
-                        if state['exposure']+state['gain']+sums not in darks:
-                            warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
-                        if state['gain']+sums+cam+cont+wave not in flats:
-                            warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
+                    color = "green"
+                    if state['exposure']+state['gain']+sums not in darks:
+                        warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
+                    if state['gain']+sums+cam+cont+wave not in flats:
+                        warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
 
                 summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                 if color == "red":
