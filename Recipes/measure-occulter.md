@@ -2,8 +2,8 @@
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre> exposure 80 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre> shut	in 
  for 16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
  endfor 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupNDShutterOut.rcp</summary><blockquote><pre> shut	out 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre> prefilterrange 530 

@@ -1,15 +1,15 @@
 <details><summary>eclipsePrep.menu</summary><blockquote><pre><details><summary>1074_Scan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
 The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre> prefilterrange 1074 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
@@ -239,28 +239,28 @@ The above code block covers:0.00 minutes of camera integration + hardware moves 
  data tcam	1076.98	both	16 
 The above code block covers:1.26 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
 The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:16.26 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>oldLineFineScan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
 The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre> prefilterrange 1074 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
@@ -738,28 +738,28 @@ The above code block covers:0.00 minutes of camera integration + hardware moves 
  data tcam	706.36	both	16 
 The above code block covers:6.50 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
 The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:40.83 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>newLineFineScan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
 The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre> prefilterrange 670 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
@@ -1367,28 +1367,28 @@ The above code block covers:0.00 minutes of camera integration + hardware moves 
  data tcam	991.46	both	16 
 The above code block covers:6.50 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
 The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:53.84 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>distortion-1074.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
- data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
+&#x1F4D7;  data	rcam	both	656.28	16 
 The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
