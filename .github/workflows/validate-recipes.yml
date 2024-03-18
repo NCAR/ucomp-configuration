@@ -53,19 +53,11 @@ jobs:
                 
                 if state['shut'] == "in":
                     color = "red"
-                    if state['exposure']+state['gain']+sums not in darks:
-                        darks.append(state['exposure']+state['gain']+sums)
                 if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
                     color = "blue"
-                    if state['gain']+sums+cam+cont+wave not in flats:
-                        flats.append(state['gain']+sums+cam+cont+wave)
                 if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
                     #print(state)
                     color = "green"
-                    if state['exposure']+state['gain']+sums not in darks:
-                        warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
-                    if state['gain']+sums+cam+cont+wave not in flats:
-                        warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
                 if color == "red":
                   md.write("&#x1F4D9; ") 
                 if color == "black":
