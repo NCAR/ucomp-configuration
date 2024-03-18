@@ -65,8 +65,7 @@ jobs:
                         else:
                             #print(f"{state} {darks} {flat} {parent} {child}")
                             
-                            summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
-                            md.write(f"{child.split('#')[0]}\n")
+                            color = "black"
                             if "gain" in child:
                                 state['gain'] = "low" if "low" in child else "high"
                             if "shut" in child:
@@ -87,17 +86,24 @@ jobs:
                                 data,cam,cont,wave,sums = child.split()
                                 runTime += 300+int(state['exposure'])*4*int(sums)
                                 if state['shut'] == "in":
+                                    color = "red"
                                     if state['exposure']+state['gain']+sums not in darks:
                                         darks.append(state['exposure']+state['gain']+sums)
                                 if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
+                                    color = "blue"
                                     if state['gain']+sums+cam+cont+wave not in flats:
                                         flats.append(state['gain']+sums+cam+cont+wave)
                                 if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
                                     #print(state)
+                                    color = "green"
                                     if state['exposure']+state['gain']+sums not in darks:
                                         warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
                                     if state['gain']+sums+cam+cont+wave not in flats:
                                         warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
+ 
+                            summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
+                            md.write(f"$${{\\color{{{color}}} {child.split('#')[0]}\n $$") 
+ 
                             pass
                 script.close()
                 if "rcp" in childextension: 
