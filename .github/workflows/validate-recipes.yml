@@ -103,7 +103,7 @@ jobs:
  
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             if color == "red":
-                              md.write(f" {&#x1F4D7;} ") 
+                              md.write("&#x1F4D7; ") 
                             md.write(f" {child.split('#')[0]} \n") 
  
                             pass
