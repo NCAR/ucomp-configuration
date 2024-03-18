@@ -103,7 +103,7 @@ jobs:
  
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             md.write("$${\\color{red} ")
-                            md.write(f" {child.split('#')[0]}\n") 
+                            md.write(f" {child.split('#')[0]} ") 
                             md.write("}$$\n")
  
                             pass
