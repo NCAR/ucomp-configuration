@@ -66,8 +66,6 @@ jobs:
                         warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
                     if state['gain']+sums+cam+cont+wave not in flats:
                         warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
-
-                summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                 if color == "red":
                   md.write("&#x1F4D9; ") 
                 if color == "black":
