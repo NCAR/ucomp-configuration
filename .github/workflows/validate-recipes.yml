@@ -120,14 +120,16 @@ jobs:
                                         warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
  
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
-                            if color == "red":
-                              md.write("&#x1F4D9; ") 
-                            if color == "black":
-                              md.write("&#x1F4D5; ") 
-                            if color == "blue":
-                              md.write("&#x1F4D8; ") 
-                            if color == "green":
-                              md.write("&#x1F4D7; ") 
+                            rcpName = child.split('#')[0]
+                            if "_FW" not in rcpName and "setup" not in rcpName:
+                              if color == "red":
+                                md.write("&#x1F4D9; ") 
+                              if color == "black":
+                                md.write("&#x1F4D5; ") 
+                              if color == "blue":
+                                md.write("&#x1F4D8; ") 
+                              if color == "green":
+                                md.write("&#x1F4D7; ") 
                             md.write(f" {child.split('#')[0]} \n") 
  
                             pass
