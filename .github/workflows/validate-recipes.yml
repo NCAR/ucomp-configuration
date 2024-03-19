@@ -110,7 +110,7 @@ jobs:
                                 state['cover'] = "in" if "in" in child else "out"
                             if "occ" in child:
                                 if 'occ' not in state or state['occ'] not in child:
-                                  print(state['occ'],child)
+                                  md.write(f"{state['occ']} , {child} \n")
                                   hardwareTime = hardwareTime + 21
                                 state['occ'] = "in" if "in" in child else "out"
                             if "prefilterrange " in child:
