@@ -1813,8 +1813,20 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > Pol_Cal_All_Filters.cbk
-------------> setupdark
-------------> dark_80ms_2beam_16sums_both.cbk
+ ------------ > setupDark.rcp
+------------------> shut	in
+ ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupCal.rcp
 ------------------> diffuser  in
 ------------------> cover out
