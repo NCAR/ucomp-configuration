@@ -51,21 +51,23 @@ jobs:
                      
                 color = "black"
                 md.write("read_Script write")
-                if state['shut'] == "in":
-                    color = "red"
-                if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
-                    color = "blue"
-                if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
-                    #print(state)
-                    color = "green"
-                if color == "red":
-                  md.write("&#x1F4D9; ") 
-                if color == "black":
-                  md.write("&#x1F4D5; ") 
-                if color == "blue":
-                  md.write("&#x1F4D8; ") 
-                if color == "green":
-                  md.write("&#x1F4D7; ") 
+
+                if "_FW" not in scriptname and "setup" not in scriptname and "cbk" not in scriptname and "menu" not in scriptname:
+                  if state['shut'] == "in":
+                      color = "red"
+                  if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
+                      color = "blue"
+                  if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
+                      #print(state)
+                      color = "green"
+                  if color == "red":
+                    md.write("&#x1F4D9; ") 
+                  if color == "black":
+                    md.write("&#x1F4D5; ") 
+                  if color == "blue":
+                    md.write("&#x1F4D8; ") 
+                  if color == "green":
+                    md.write("&#x1F4D7; ") 
                 md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
                 for child in results2:
