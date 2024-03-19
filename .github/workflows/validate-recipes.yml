@@ -112,7 +112,7 @@ jobs:
                                 if state['occ'] != child.split(" ")[1]:
                                   hardwareTime = hardwareTime + 20
                                 state['occ'] = "in" if "in" in child else "out"
-                             if "prefilterrange " in child:
+                            if "prefilterrange " in child:
                                 if state['filter'] != child.split(" ")[1]:
                                   hardwareTime = hardwareTime + 25
                                 state['filter'] = child.split(" ")[1]
