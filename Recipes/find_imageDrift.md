@@ -2,7 +2,7 @@
                 &#x1F4D5; =calib  
                 &#x1F4D8; =flat  
                 &#x1F4D7; =data <details><summary>find_imageDrift.menu</summary><blockquote><pre><details><summary>find_imageDrift.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre> nd in 
-The above code block covers:0.00 minutes of camera integration and 0.00 minutes of hardware overhead</pre></blockquote></details><details><summary>1083_imageDrift.rcp</summary><blockquote><pre> shut	out 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>1083_imageDrift.rcp</summary><blockquote><pre> shut	out 
  o1 62.75 
  data	tcam	both	1083.00	4 
  o1 60 
@@ -31,5 +31,5 @@ The above code block covers:0.00 minutes of camera integration and 0.00 minutes 
  data	tcam	both	1083.00	4 
  o1 0 
  shut in 
-The above code block covers:0.34 minutes of camera integration and 0.00 minutes of hardware overhead</pre></blockquote></details><details><summary>&#x1F4D9; ND_OUT.rcp</summary><blockquote><pre> nd out 
-The above code block covers:0.00 minutes of camera integration and 0.00 minutes of hardware overhead</pre></blockquote></details>The above code block covers:0.34 minutes of camera integration and 0.00 minutes of hardware overhead</pre></blockquote></details></pre></blockquote></details>
+ Integration:0.34 minutes.  Hardware:0.00 minutes. total:0.34 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; ND_OUT.rcp</summary><blockquote><pre> nd out 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:0.34 minutes.  Hardware:0.00 minutes. total:0.34 minutes  </pre></blockquote></details></pre></blockquote></details>
