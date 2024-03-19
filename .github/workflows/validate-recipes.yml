@@ -51,7 +51,7 @@ jobs:
                      
                 color = "black"
                 emoji = None
-                if "_FW" not in scriptname and "setup" not in scriptname and "cbk" not in scriptname and "menu" not in scriptname:
+                if "_FW" not in scriptname and "setup" not in scriptname and "cbk" not in scriptname and "menu" not in scriptname and "_in" not in scriptname and "_out" not in scriptname:
                   if state['shut'] == "in":
                       color = "red"
                   if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
