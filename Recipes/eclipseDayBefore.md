@@ -1617,7 +1617,7 @@ The above code block covers:0.18 minutes of camera integration and 0.0 minutes o
 The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	1074.70	16 
 &#x1F4D8;  data	tcam	both	1074.70	16 
-The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 4.5 minutes of hardware overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
+The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 1.1666666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
 The above code block covers:0.00 minutes of camera integration and 0.4166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
@@ -1652,7 +1652,7 @@ The above code block covers:0.18 minutes of camera integration and 0.0 minutes o
 The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 1079_01wave_2beam_16sums_1rep_BLUE.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	blue	1079.80	16 
 &#x1F4D8;  data	tcam	blue	1079.80	16 
-The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 4.5 minutes of hardware overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 1.1666666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
 The above code block covers:0.00 minutes of camera integration and 0.4166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
@@ -1687,7 +1687,7 @@ The above code block covers:0.18 minutes of camera integration and 0.0 minutes o
 The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.40	16 
 &#x1F4D8;  data	tcam	both	789.40	16 
-The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 4.5 minutes of hardware overhead</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre> prefilterrange 637 
+The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 1.1666666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre> prefilterrange 637 
 The above code block covers:0.00 minutes of camera integration and 0.4166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
@@ -1722,7 +1722,7 @@ The above code block covers:0.18 minutes of camera integration and 0.0 minutes o
 The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	637.40	16 
 &#x1F4D8;  data	tcam	both	637.40	16 
-The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 4.5 minutes of hardware overhead</pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre> prefilterrange 670 
+The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 1.1666666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre> prefilterrange 670 
 The above code block covers:0.00 minutes of camera integration and 0.4166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
@@ -1757,7 +1757,7 @@ The above code block covers:0.18 minutes of camera integration and 0.0 minutes o
 The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 670_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	670.16	16 
 &#x1F4D8;  data	tcam	both	670.16	16 
-The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 4.5 minutes of hardware overhead</pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre> prefilterrange 706 
+The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 1.1666666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre> prefilterrange 706 
 The above code block covers:0.00 minutes of camera integration and 0.4166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
@@ -1792,7 +1792,7 @@ The above code block covers:0.18 minutes of camera integration and 0.0 minutes o
 The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	706.20	16 
 &#x1F4D8;  data	tcam	both	706.20	16 
-The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 4.5 minutes of hardware overhead</pre></blockquote></details><details><summary>761_FW.rcp</summary><blockquote><pre> prefilterrange 761 
+The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 1.1666666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>761_FW.rcp</summary><blockquote><pre> prefilterrange 761 
 The above code block covers:0.00 minutes of camera integration and 0.4166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
@@ -1872,7 +1872,7 @@ The above code block covers:0.36 minutes of camera integration and 0.0 minutes o
 &#x1F4D8;  data	rcam	both	761.16	16 
 &#x1F4D8;  data	tcam	both	761.16	16 
  >>>>>>> c8caa955903d9a7770de42c956093fa1c1f9ea7b 
-The above code block covers:0.36 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:3.25 minutes of camera integration and 4.5 minutes of hardware overhead</pre></blockquote></details><details><summary>802_FW.rcp</summary><blockquote><pre> prefilterrange 802 
+The above code block covers:0.36 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:3.25 minutes of camera integration and 1.1666666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>802_FW.rcp</summary><blockquote><pre> prefilterrange 802 
 The above code block covers:0.00 minutes of camera integration and 0.4166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
@@ -1907,7 +1907,7 @@ The above code block covers:0.18 minutes of camera integration and 0.0 minutes o
 The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	802.41	16 
 &#x1F4D8;  data	tcam	both	802.41	16 
-The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 4.5 minutes of hardware overhead</pre></blockquote></details><details><summary>991_FW.rcp</summary><blockquote><pre> prefilterrange 991 
+The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 1.1666666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>991_FW.rcp</summary><blockquote><pre> prefilterrange 991 
 The above code block covers:0.00 minutes of camera integration and 0.4166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>&#x1F4D8; 991_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
@@ -1937,12 +1937,12 @@ The above code block covers:0.18 minutes of camera integration and 0.0 minutes o
 The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
 &#x1F4D8;  data	tcam	both	991.26	16 
-The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 4.166666666666667 minutes of hardware overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+The above code block covers:0.18 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration and 0.8333333333333334 minutes of hardware overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
  calib	out 
-The above code block covers:0.00 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:17.16 minutes of camera integration and 47.25 minutes of hardware overhead</pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+The above code block covers:0.00 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details>The above code block covers:17.16 minutes of camera integration and 17.25 minutes of hardware overhead</pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
 The above code block covers:0.00 minutes of camera integration and 0.0 minutes of hardware overhead</pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
