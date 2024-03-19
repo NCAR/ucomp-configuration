@@ -144,6 +144,7 @@
  Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -295,6 +296,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
  Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -415,6 +417,7 @@
  Integration:5.06 minutes.  Hardware:0.00 minutes. total:5.06 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -660,6 +663,7 @@
 &#x1F4D9;  data	rcam	both	656.28	14 
  Integration:0.80 minutes.  Hardware:0.00 minutes. total:0.80 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -672,6 +676,7 @@
  Integration:0.48 minutes.  Hardware:0.00 minutes. total:0.48 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -1397,6 +1402,7 @@
 &#x1F4D7;  data tcam both 1074.70 14 
  Integration:0.48 minutes.  Hardware:0.00 minutes. total:0.48 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -1631,6 +1637,7 @@
  Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -1864,6 +1871,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
  Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -2075,6 +2083,7 @@
  Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -2308,6 +2317,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
  Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -2414,6 +2424,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -2642,6 +2653,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
  Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -2853,6 +2865,7 @@
  Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -3086,6 +3099,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
  Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -3297,6 +3311,7 @@
  Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -3530,6 +3545,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
  Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -3741,6 +3757,7 @@
  Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -3974,6 +3991,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
  Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -4185,6 +4203,7 @@
  Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 

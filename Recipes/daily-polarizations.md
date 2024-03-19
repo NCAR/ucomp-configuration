@@ -252,6 +252,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:285.00 minutes. total:25.17 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -1577,6 +1578,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -1850,6 +1852,7 @@
  Integration:0.48 minutes.  Hardware:0.00 minutes. total:0.48 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -2575,6 +2578,7 @@
 &#x1F4D7;  data tcam both 1074.70 14 
  Integration:0.48 minutes.  Hardware:0.00 minutes. total:0.48 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -2822,6 +2826,7 @@
 &#x1F4D8;  data	tcam	both	1074.81	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupFlat-occulter.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+out , occ		in 
  occ		in 
  shut	out 
  calib	out 
@@ -3294,6 +3299,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:249.00 minutes. total:41.91 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -3543,6 +3549,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -4868,6 +4875,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -5117,6 +5125,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -6442,6 +6451,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -6691,6 +6701,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -8016,6 +8027,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -8265,6 +8277,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -9590,6 +9603,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -9839,6 +9853,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -11164,6 +11179,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -11413,6 +11429,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -12738,6 +12755,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -12987,6 +13005,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -14312,6 +14331,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -14561,6 +14581,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
@@ -15886,6 +15907,7 @@
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:225.00 minutes. total:41.51 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
+in , occ		out 
  occ		out 
  shut	out 
  calib	out 
@@ -16135,6 +16157,7 @@
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
+out , occ		in 
  occ		in 
  diffuser out 
  shut	out 
