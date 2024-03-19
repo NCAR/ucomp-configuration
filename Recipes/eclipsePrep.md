@@ -268,24 +268,248 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	1074.54	both	16&#x1F4D7;  data rcam	1074.54	both	16 
+rcpname data rcam	1074.59	both	16&#x1F4D7;  data rcam	1074.59	both	16 
+rcpname data rcam	1074.64	both	16&#x1F4D7;  data rcam	1074.64	both	16 
+rcpname data rcam	1074.70	both	16&#x1F4D7;  data rcam	1074.70	both	16 
+rcpname data rcam	1074.76	both	16&#x1F4D7;  data rcam	1074.76	both	16 
+rcpname data rcam	1074.81	both	16&#x1F4D7;  data rcam	1074.81	both	16 
+rcpname data rcam	1074.86	both	16&#x1F4D7;  data rcam	1074.86	both	16 
+rcpname data tcam	1074.54	both	16&#x1F4D7;  data tcam	1074.54	both	16 
+rcpname data tcam	1074.59	both	16&#x1F4D7;  data tcam	1074.59	both	16 
+rcpname data tcam	1074.64	both	16&#x1F4D7;  data tcam	1074.64	both	16 
+rcpname data tcam	1074.70	both	16&#x1F4D7;  data tcam	1074.70	both	16 
+rcpname data tcam	1074.76	both	16&#x1F4D7;  data tcam	1074.76	both	16 
+rcpname data tcam	1074.81	both	16&#x1F4D7;  data tcam	1074.81	both	16 
+rcpname data tcam	1074.86	both	16&#x1F4D7;  data tcam	1074.86	both	16 
+rcpname data rcam	1074.54	both	16&#x1F4D7;  data rcam	1074.54	both	16 
+rcpname data rcam	1074.59	both	16&#x1F4D7;  data rcam	1074.59	both	16 
+rcpname data rcam	1074.64	both	16&#x1F4D7;  data rcam	1074.64	both	16 
+rcpname data rcam	1074.70	both	16&#x1F4D7;  data rcam	1074.70	both	16 
+rcpname data rcam	1074.76	both	16&#x1F4D7;  data rcam	1074.76	both	16 
+rcpname data rcam	1074.81	both	16&#x1F4D7;  data rcam	1074.81	both	16 
+rcpname data rcam	1074.86	both	16&#x1F4D7;  data rcam	1074.86	both	16 
+rcpname data tcam	1074.54	both	16&#x1F4D7;  data tcam	1074.54	both	16 
+rcpname data tcam	1074.59	both	16&#x1F4D7;  data tcam	1074.59	both	16 
+rcpname data tcam	1074.64	both	16&#x1F4D7;  data tcam	1074.64	both	16 
+rcpname data tcam	1074.70	both	16&#x1F4D7;  data tcam	1074.70	both	16 
+rcpname data tcam	1074.76	both	16&#x1F4D7;  data tcam	1074.76	both	16 
+rcpname data tcam	1074.81	both	16&#x1F4D7;  data tcam	1074.81	both	16 
+rcpname data tcam	1074.86	both	16&#x1F4D7;  data tcam	1074.86	both	16 
+rcpname data rcam	1074.54	both	16&#x1F4D7;  data rcam	1074.54	both	16 
+rcpname data rcam	1074.59	both	16&#x1F4D7;  data rcam	1074.59	both	16 
+rcpname data rcam	1074.64	both	16&#x1F4D7;  data rcam	1074.64	both	16 
+rcpname data rcam	1074.70	both	16&#x1F4D7;  data rcam	1074.70	both	16 
+rcpname data rcam	1074.76	both	16&#x1F4D7;  data rcam	1074.76	both	16 
+rcpname data rcam	1074.81	both	16&#x1F4D7;  data rcam	1074.81	both	16 
+rcpname data rcam	1074.86	both	16&#x1F4D7;  data rcam	1074.86	both	16 
+rcpname data tcam	1074.54	both	16&#x1F4D7;  data tcam	1074.54	both	16 
+rcpname data tcam	1074.59	both	16&#x1F4D7;  data tcam	1074.59	both	16 
+rcpname data tcam	1074.64	both	16&#x1F4D7;  data tcam	1074.64	both	16 
+rcpname data tcam	1074.70	both	16&#x1F4D7;  data tcam	1074.70	both	16 
+rcpname data tcam	1074.76	both	16&#x1F4D7;  data tcam	1074.76	both	16 
+rcpname data tcam	1074.81	both	16&#x1F4D7;  data tcam	1074.81	both	16 
+rcpname data tcam	1074.86	both	16&#x1F4D7;  data tcam	1074.86	both	16 
+rcpname data rcam	1074.54	both	16&#x1F4D7;  data rcam	1074.54	both	16 
+rcpname data rcam	1074.59	both	16&#x1F4D7;  data rcam	1074.59	both	16 
+rcpname data rcam	1074.64	both	16&#x1F4D7;  data rcam	1074.64	both	16 
+rcpname data rcam	1074.70	both	16&#x1F4D7;  data rcam	1074.70	both	16 
+rcpname data rcam	1074.76	both	16&#x1F4D7;  data rcam	1074.76	both	16 
+rcpname data rcam	1074.81	both	16&#x1F4D7;  data rcam	1074.81	both	16 
+rcpname data rcam	1074.86	both	16&#x1F4D7;  data rcam	1074.86	both	16 
+rcpname data tcam	1074.54	both	16&#x1F4D7;  data tcam	1074.54	both	16 
+rcpname data tcam	1074.59	both	16&#x1F4D7;  data tcam	1074.59	both	16 
+rcpname data tcam	1074.64	both	16&#x1F4D7;  data tcam	1074.64	both	16 
+rcpname data tcam	1074.70	both	16&#x1F4D7;  data tcam	1074.70	both	16 
+rcpname data tcam	1074.76	both	16&#x1F4D7;  data tcam	1074.76	both	16 
+rcpname data tcam	1074.81	both	16&#x1F4D7;  data tcam	1074.81	both	16 
+rcpname data tcam	1074.86	both	16&#x1F4D7;  data tcam	1074.86	both	16 
+The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>rcpname diffuser  in&#x1F4D5;  diffuser  in 
+rcpname cover out&#x1F4D5;  cover out 
+rcpname occ		out&#x1F4D5;  occ		out 
+rcpname shut	out&#x1F4D5;  shut	out 
+rcpname calib	out&#x1F4D5;  calib	out 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D8; 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	1074.54	both	16&#x1F4D8;  data rcam	1074.54	both	16 
+rcpname data rcam	1074.59	both	16&#x1F4D8;  data rcam	1074.59	both	16 
+rcpname data rcam	1074.64	both	16&#x1F4D8;  data rcam	1074.64	both	16 
+rcpname data rcam	1074.70	both	16&#x1F4D8;  data rcam	1074.70	both	16 
+rcpname data rcam	1074.76	both	16&#x1F4D8;  data rcam	1074.76	both	16 
+rcpname data rcam	1074.81	both	16&#x1F4D8;  data rcam	1074.81	both	16 
+rcpname data rcam	1074.86	both	16&#x1F4D8;  data rcam	1074.86	both	16 
+rcpname data tcam	1074.54	both	16&#x1F4D8;  data tcam	1074.54	both	16 
+rcpname data tcam	1074.59	both	16&#x1F4D8;  data tcam	1074.59	both	16 
+rcpname data tcam	1074.64	both	16&#x1F4D8;  data tcam	1074.64	both	16 
+rcpname data tcam	1074.70	both	16&#x1F4D8;  data tcam	1074.70	both	16 
+rcpname data tcam	1074.76	both	16&#x1F4D8;  data tcam	1074.76	both	16 
+rcpname data tcam	1074.81	both	16&#x1F4D8;  data tcam	1074.81	both	16 
+rcpname data tcam	1074.86	both	16&#x1F4D8;  data tcam	1074.86	both	16 
+rcpname data rcam	1074.54	both	16&#x1F4D8;  data rcam	1074.54	both	16 
+rcpname data rcam	1074.59	both	16&#x1F4D8;  data rcam	1074.59	both	16 
+rcpname data rcam	1074.64	both	16&#x1F4D8;  data rcam	1074.64	both	16 
+rcpname data rcam	1074.70	both	16&#x1F4D8;  data rcam	1074.70	both	16 
+rcpname data rcam	1074.76	both	16&#x1F4D8;  data rcam	1074.76	both	16 
+rcpname data rcam	1074.81	both	16&#x1F4D8;  data rcam	1074.81	both	16 
+rcpname data rcam	1074.86	both	16&#x1F4D8;  data rcam	1074.86	both	16 
+rcpname data tcam	1074.54	both	16&#x1F4D8;  data tcam	1074.54	both	16 
+rcpname data tcam	1074.59	both	16&#x1F4D8;  data tcam	1074.59	both	16 
+rcpname data tcam	1074.64	both	16&#x1F4D8;  data tcam	1074.64	both	16 
+rcpname data tcam	1074.70	both	16&#x1F4D8;  data tcam	1074.70	both	16 
+rcpname data tcam	1074.76	both	16&#x1F4D8;  data tcam	1074.76	both	16 
+rcpname data tcam	1074.81	both	16&#x1F4D8;  data tcam	1074.81	both	16 
+rcpname data tcam	1074.86	both	16&#x1F4D8;  data tcam	1074.86	both	16 
+rcpname data rcam	1074.54	both	16&#x1F4D8;  data rcam	1074.54	both	16 
+rcpname data rcam	1074.59	both	16&#x1F4D8;  data rcam	1074.59	both	16 
+rcpname data rcam	1074.64	both	16&#x1F4D8;  data rcam	1074.64	both	16 
+rcpname data rcam	1074.70	both	16&#x1F4D8;  data rcam	1074.70	both	16 
+rcpname data rcam	1074.76	both	16&#x1F4D8;  data rcam	1074.76	both	16 
+rcpname data rcam	1074.81	both	16&#x1F4D8;  data rcam	1074.81	both	16 
+rcpname data rcam	1074.86	both	16&#x1F4D8;  data rcam	1074.86	both	16 
+rcpname data tcam	1074.54	both	16&#x1F4D8;  data tcam	1074.54	both	16 
+rcpname data tcam	1074.59	both	16&#x1F4D8;  data tcam	1074.59	both	16 
+rcpname data tcam	1074.64	both	16&#x1F4D8;  data tcam	1074.64	both	16 
+rcpname data tcam	1074.70	both	16&#x1F4D8;  data tcam	1074.70	both	16 
+rcpname data tcam	1074.76	both	16&#x1F4D8;  data tcam	1074.76	both	16 
+rcpname data tcam	1074.81	both	16&#x1F4D8;  data tcam	1074.81	both	16 
+rcpname data tcam	1074.86	both	16&#x1F4D8;  data tcam	1074.86	both	16 
+rcpname data rcam	1074.54	both	16&#x1F4D8;  data rcam	1074.54	both	16 
+rcpname data rcam	1074.59	both	16&#x1F4D8;  data rcam	1074.59	both	16 
+rcpname data rcam	1074.64	both	16&#x1F4D8;  data rcam	1074.64	both	16 
+rcpname data rcam	1074.70	both	16&#x1F4D8;  data rcam	1074.70	both	16 
+rcpname data rcam	1074.76	both	16&#x1F4D8;  data rcam	1074.76	both	16 
+rcpname data rcam	1074.81	both	16&#x1F4D8;  data rcam	1074.81	both	16 
+rcpname data rcam	1074.86	both	16&#x1F4D8;  data rcam	1074.86	both	16 
+rcpname data tcam	1074.54	both	16&#x1F4D8;  data tcam	1074.54	both	16 
+rcpname data tcam	1074.59	both	16&#x1F4D8;  data tcam	1074.59	both	16 
+rcpname data tcam	1074.64	both	16&#x1F4D8;  data tcam	1074.64	both	16 
+rcpname data tcam	1074.70	both	16&#x1F4D8;  data tcam	1074.70	both	16 
+rcpname data tcam	1074.76	both	16&#x1F4D8;  data tcam	1074.76	both	16 
+rcpname data tcam	1074.81	both	16&#x1F4D8;  data tcam	1074.81	both	16 
+rcpname data tcam	1074.86	both	16&#x1F4D8;  data tcam	1074.86	both	16 
+The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>rcpname prefilterrange 1079&#x1F4D5;  prefilterrange 1079 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>rcpname diffuser  in&#x1F4D5;  diffuser  in 
 rcpname cover out&#x1F4D5;  cover out 
 rcpname occ		out&#x1F4D5;  occ		out 
 rcpname shut	out&#x1F4D5;  shut	out 
 rcpname calib	out&#x1F4D5;  calib	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>rcpname prefilterrange 1079&#x1F4D5;  prefilterrange 1079 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>rcpname diffuser  in&#x1F4D5;  diffuser  in 
-rcpname cover out&#x1F4D5;  cover out 
-rcpname occ		out&#x1F4D5;  occ		out 
-rcpname shut	out&#x1F4D5;  shut	out 
-rcpname calib	out&#x1F4D5;  calib	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>rcpname shut in&#x1F4D5;  shut in 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D8; 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	1079.62	both	16&#x1F4D8;  data rcam	1079.62	both	16 
+rcpname data rcam	1079.68	both	16&#x1F4D8;  data rcam	1079.68	both	16 
+rcpname data rcam	1079.74	both	16&#x1F4D8;  data rcam	1079.74	both	16 
+rcpname data rcam	1079.80	both	16&#x1F4D8;  data rcam	1079.80	both	16 
+rcpname data rcam	1079.86	both	16&#x1F4D8;  data rcam	1079.86	both	16 
+rcpname data rcam	1079.92	both	16&#x1F4D8;  data rcam	1079.92	both	16 
+rcpname data rcam	1079.98	both	16&#x1F4D8;  data rcam	1079.98	both	16 
+rcpname data tcam	1079.62	both	16&#x1F4D8;  data tcam	1079.62	both	16 
+rcpname data tcam	1079.68	both	16&#x1F4D8;  data tcam	1079.68	both	16 
+rcpname data tcam	1079.74	both	16&#x1F4D8;  data tcam	1079.74	both	16 
+rcpname data tcam	1079.80	both	16&#x1F4D8;  data tcam	1079.80	both	16 
+rcpname data tcam	1079.86	both	16&#x1F4D8;  data tcam	1079.86	both	16 
+rcpname data tcam	1079.92	both	16&#x1F4D8;  data tcam	1079.92	both	16 
+rcpname data tcam	1079.98	both	16&#x1F4D8;  data tcam	1079.98	both	16 
+rcpname data rcam	1079.62	both	16&#x1F4D8;  data rcam	1079.62	both	16 
+rcpname data rcam	1079.68	both	16&#x1F4D8;  data rcam	1079.68	both	16 
+rcpname data rcam	1079.74	both	16&#x1F4D8;  data rcam	1079.74	both	16 
+rcpname data rcam	1079.80	both	16&#x1F4D8;  data rcam	1079.80	both	16 
+rcpname data rcam	1079.86	both	16&#x1F4D8;  data rcam	1079.86	both	16 
+rcpname data rcam	1079.92	both	16&#x1F4D8;  data rcam	1079.92	both	16 
+rcpname data rcam	1079.98	both	16&#x1F4D8;  data rcam	1079.98	both	16 
+rcpname data tcam	1079.62	both	16&#x1F4D8;  data tcam	1079.62	both	16 
+rcpname data tcam	1079.68	both	16&#x1F4D8;  data tcam	1079.68	both	16 
+rcpname data tcam	1079.74	both	16&#x1F4D8;  data tcam	1079.74	both	16 
+rcpname data tcam	1079.80	both	16&#x1F4D8;  data tcam	1079.80	both	16 
+rcpname data tcam	1079.86	both	16&#x1F4D8;  data tcam	1079.86	both	16 
+rcpname data tcam	1079.92	both	16&#x1F4D8;  data tcam	1079.92	both	16 
+rcpname data tcam	1079.98	both	16&#x1F4D8;  data tcam	1079.98	both	16 
+rcpname data rcam	1079.62	both	16&#x1F4D8;  data rcam	1079.62	both	16 
+rcpname data rcam	1079.68	both	16&#x1F4D8;  data rcam	1079.68	both	16 
+rcpname data rcam	1079.74	both	16&#x1F4D8;  data rcam	1079.74	both	16 
+rcpname data rcam	1079.80	both	16&#x1F4D8;  data rcam	1079.80	both	16 
+rcpname data rcam	1079.86	both	16&#x1F4D8;  data rcam	1079.86	both	16 
+rcpname data rcam	1079.92	both	16&#x1F4D8;  data rcam	1079.92	both	16 
+rcpname data rcam	1079.98	both	16&#x1F4D8;  data rcam	1079.98	both	16 
+rcpname data tcam	1079.62	both	16&#x1F4D8;  data tcam	1079.62	both	16 
+rcpname data tcam	1079.68	both	16&#x1F4D8;  data tcam	1079.68	both	16 
+rcpname data tcam	1079.74	both	16&#x1F4D8;  data tcam	1079.74	both	16 
+rcpname data tcam	1079.80	both	16&#x1F4D8;  data tcam	1079.80	both	16 
+rcpname data tcam	1079.86	both	16&#x1F4D8;  data tcam	1079.86	both	16 
+rcpname data tcam	1079.92	both	16&#x1F4D8;  data tcam	1079.92	both	16 
+rcpname data tcam	1079.98	both	16&#x1F4D8;  data tcam	1079.98	both	16 
+rcpname data rcam	1079.62	both	16&#x1F4D8;  data rcam	1079.62	both	16 
+rcpname data rcam	1079.68	both	16&#x1F4D8;  data rcam	1079.68	both	16 
+rcpname data rcam	1079.74	both	16&#x1F4D8;  data rcam	1079.74	both	16 
+rcpname data rcam	1079.80	both	16&#x1F4D8;  data rcam	1079.80	both	16 
+rcpname data rcam	1079.86	both	16&#x1F4D8;  data rcam	1079.86	both	16 
+rcpname data rcam	1079.92	both	16&#x1F4D8;  data rcam	1079.92	both	16 
+rcpname data rcam	1079.98	both	16&#x1F4D8;  data rcam	1079.98	both	16 
+rcpname data tcam	1079.62	both	16&#x1F4D8;  data tcam	1079.62	both	16 
+rcpname data tcam	1079.68	both	16&#x1F4D8;  data tcam	1079.68	both	16 
+rcpname data tcam	1079.74	both	16&#x1F4D8;  data tcam	1079.74	both	16 
+rcpname data tcam	1079.80	both	16&#x1F4D8;  data tcam	1079.80	both	16 
+rcpname data tcam	1079.86	both	16&#x1F4D8;  data tcam	1079.86	both	16 
+rcpname data tcam	1079.92	both	16&#x1F4D8;  data tcam	1079.92	both	16 
+rcpname data tcam	1079.98	both	16&#x1F4D8;  data tcam	1079.98	both	16 
+The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>rcpname shut in&#x1F4D5;  shut in 
 rcpname cover out&#x1F4D5;  cover out 
 rcpname calib	out&#x1F4D5;  calib	out 
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>rcpname prefilterrange 789&#x1F4D5;  prefilterrange 789 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	1079.62	both	16&#x1F4D7;  data rcam	1079.62	both	16 
+rcpname data rcam	1079.68	both	16&#x1F4D7;  data rcam	1079.68	both	16 
+rcpname data rcam	1079.74	both	16&#x1F4D7;  data rcam	1079.74	both	16 
+rcpname data rcam	1079.80	both	16&#x1F4D7;  data rcam	1079.80	both	16 
+rcpname data rcam	1079.86	both	16&#x1F4D7;  data rcam	1079.86	both	16 
+rcpname data rcam	1079.92	both	16&#x1F4D7;  data rcam	1079.92	both	16 
+rcpname data rcam	1079.98	both	16&#x1F4D7;  data rcam	1079.98	both	16 
+rcpname data tcam	1079.62	both	16&#x1F4D7;  data tcam	1079.62	both	16 
+rcpname data tcam	1079.68	both	16&#x1F4D7;  data tcam	1079.68	both	16 
+rcpname data tcam	1079.74	both	16&#x1F4D7;  data tcam	1079.74	both	16 
+rcpname data tcam	1079.80	both	16&#x1F4D7;  data tcam	1079.80	both	16 
+rcpname data tcam	1079.86	both	16&#x1F4D7;  data tcam	1079.86	both	16 
+rcpname data tcam	1079.92	both	16&#x1F4D7;  data tcam	1079.92	both	16 
+rcpname data tcam	1079.98	both	16&#x1F4D7;  data tcam	1079.98	both	16 
+rcpname data rcam	1079.62	both	16&#x1F4D7;  data rcam	1079.62	both	16 
+rcpname data rcam	1079.68	both	16&#x1F4D7;  data rcam	1079.68	both	16 
+rcpname data rcam	1079.74	both	16&#x1F4D7;  data rcam	1079.74	both	16 
+rcpname data rcam	1079.80	both	16&#x1F4D7;  data rcam	1079.80	both	16 
+rcpname data rcam	1079.86	both	16&#x1F4D7;  data rcam	1079.86	both	16 
+rcpname data rcam	1079.92	both	16&#x1F4D7;  data rcam	1079.92	both	16 
+rcpname data rcam	1079.98	both	16&#x1F4D7;  data rcam	1079.98	both	16 
+rcpname data tcam	1079.62	both	16&#x1F4D7;  data tcam	1079.62	both	16 
+rcpname data tcam	1079.68	both	16&#x1F4D7;  data tcam	1079.68	both	16 
+rcpname data tcam	1079.74	both	16&#x1F4D7;  data tcam	1079.74	both	16 
+rcpname data tcam	1079.80	both	16&#x1F4D7;  data tcam	1079.80	both	16 
+rcpname data tcam	1079.86	both	16&#x1F4D7;  data tcam	1079.86	both	16 
+rcpname data tcam	1079.92	both	16&#x1F4D7;  data tcam	1079.92	both	16 
+rcpname data tcam	1079.98	both	16&#x1F4D7;  data tcam	1079.98	both	16 
+rcpname data rcam	1079.62	both	16&#x1F4D7;  data rcam	1079.62	both	16 
+rcpname data rcam	1079.68	both	16&#x1F4D7;  data rcam	1079.68	both	16 
+rcpname data rcam	1079.74	both	16&#x1F4D7;  data rcam	1079.74	both	16 
+rcpname data rcam	1079.80	both	16&#x1F4D7;  data rcam	1079.80	both	16 
+rcpname data rcam	1079.86	both	16&#x1F4D7;  data rcam	1079.86	both	16 
+rcpname data rcam	1079.92	both	16&#x1F4D7;  data rcam	1079.92	both	16 
+rcpname data rcam	1079.98	both	16&#x1F4D7;  data rcam	1079.98	both	16 
+rcpname data tcam	1079.62	both	16&#x1F4D7;  data tcam	1079.62	both	16 
+rcpname data tcam	1079.68	both	16&#x1F4D7;  data tcam	1079.68	both	16 
+rcpname data tcam	1079.74	both	16&#x1F4D7;  data tcam	1079.74	both	16 
+rcpname data tcam	1079.80	both	16&#x1F4D7;  data tcam	1079.80	both	16 
+rcpname data tcam	1079.86	both	16&#x1F4D7;  data tcam	1079.86	both	16 
+rcpname data tcam	1079.92	both	16&#x1F4D7;  data tcam	1079.92	both	16 
+rcpname data tcam	1079.98	both	16&#x1F4D7;  data tcam	1079.98	both	16 
+rcpname data rcam	1079.62	both	16&#x1F4D7;  data rcam	1079.62	both	16 
+rcpname data rcam	1079.68	both	16&#x1F4D7;  data rcam	1079.68	both	16 
+rcpname data rcam	1079.74	both	16&#x1F4D7;  data rcam	1079.74	both	16 
+rcpname data rcam	1079.80	both	16&#x1F4D7;  data rcam	1079.80	both	16 
+rcpname data rcam	1079.86	both	16&#x1F4D7;  data rcam	1079.86	both	16 
+rcpname data rcam	1079.92	both	16&#x1F4D7;  data rcam	1079.92	both	16 
+rcpname data rcam	1079.98	both	16&#x1F4D7;  data rcam	1079.98	both	16 
+rcpname data tcam	1079.62	both	16&#x1F4D7;  data tcam	1079.62	both	16 
+rcpname data tcam	1079.68	both	16&#x1F4D7;  data tcam	1079.68	both	16 
+rcpname data tcam	1079.74	both	16&#x1F4D7;  data tcam	1079.74	both	16 
+rcpname data tcam	1079.80	both	16&#x1F4D7;  data tcam	1079.80	both	16 
+rcpname data tcam	1079.86	both	16&#x1F4D7;  data tcam	1079.86	both	16 
+rcpname data tcam	1079.92	both	16&#x1F4D7;  data tcam	1079.92	both	16 
+rcpname data tcam	1079.98	both	16&#x1F4D7;  data tcam	1079.98	both	16 
+The above code block covers:5.06 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>rcpname prefilterrange 789&#x1F4D5;  prefilterrange 789 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	789.20	both	16&#x1F4D7;  data rcam	789.20	both	16 
 rcpname data rcam	789.25	both	16&#x1F4D7;  data rcam	789.25	both	16 
 rcpname data rcam	789.30	both	16&#x1F4D7;  data rcam	789.30	both	16 
@@ -748,7 +972,7 @@ rcpname data	rcam	both	656.28	16&#x1F4D9;  data	rcam	both	656.28	16
 rcpname data	rcam	both	656.28	16&#x1F4D9;  data	rcam	both	656.28	16 
 rcpname data	rcam	both	656.28	16&#x1F4D9;  data	rcam	both	656.28	16 
 rcpname data	rcam	both	656.28	16&#x1F4D9;  data	rcam	both	656.28	16 
-The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:40.83 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>newLineFineScan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>rcpname shut	in&#x1F4D5;  shut	in 
+The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:61.07 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>newLineFineScan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>rcpname shut	in&#x1F4D5;  shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>rcpname shut	in&#x1F4D5;  shut	in 
 rcpname data	rcam	both	656.28	16&#x1F4D9;  data	rcam	both	656.28	16 
 rcpname data	rcam	both	656.28	16&#x1F4D9;  data	rcam	both	656.28	16 
