@@ -50,7 +50,7 @@ jobs:
                 runTime = 0
                      
                 color = "black"
-                
+                md.write("read_Script write")
                 if state['shut'] == "in":
                     color = "red"
                 if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
@@ -122,7 +122,7 @@ jobs:
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             rcpName = child.split('#')[0]
                             if "_FW" not in rcpName and "setup" not in rcpName and "cbk" not in rcpName and "menu" not in rcpName:
-                              md.write(rcpName)
+                              md.write(f"rcpname {rcpName}")
                               if color == "red": 
                                 md.write("&#x1F4D9; ") 
                               if color == "black":
