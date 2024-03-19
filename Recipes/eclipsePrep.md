@@ -1618,7 +1618,7 @@ rcpname cover out&#x1F4D5;  cover out
 rcpname occ		out&#x1F4D5;  occ		out 
 rcpname shut	out&#x1F4D5;  shut	out 
 rcpname calib	out&#x1F4D5;  calib	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D8; distortion_in.rcp</summary><blockquote><pre>rcpname distortiongrid in&#x1F4D5;  distortiongrid in 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>distortion_in.rcp</summary><blockquote><pre>rcpname distortiongrid in&#x1F4D5;  distortiongrid in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>rcpname diffuser  in&#x1F4D5;  diffuser  in 
 rcpname cover out&#x1F4D5;  cover out 
 rcpname occ		out&#x1F4D5;  occ		out 
@@ -1657,7 +1657,7 @@ rcpname data	rcam	both	1074.70	16&#x1F4D8;  data	rcam	both	1074.70	16
 rcpname data	tcam	both	1074.70	16&#x1F4D8;  data	tcam	both	1074.70	16 
 rcpname data	rcam	both	1074.70	16&#x1F4D8;  data	rcam	both	1074.70	16 
 rcpname data	tcam	both	1074.70	16&#x1F4D8;  data	tcam	both	1074.70	16 
-The above code block covers:2.89 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D8; distortion_out.rcp</summary><blockquote><pre>rcpname distortiongrid out&#x1F4D5;  distortiongrid out 
+The above code block covers:2.89 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>distortion_out.rcp</summary><blockquote><pre>rcpname distortiongrid out&#x1F4D5;  distortiongrid out 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>rcpname shut	in&#x1F4D5;  shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>rcpname diffuser  in&#x1F4D5;  diffuser  in 
 rcpname cover out&#x1F4D5;  cover out 
