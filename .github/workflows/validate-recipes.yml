@@ -125,7 +125,7 @@ jobs:
                                   hardwareTime = hardwareTime + 5
                                 state['calpol'] = child.split()[1]    
                             if "calib" in child:
-                                if 'calib' not in state or state['caliber] not in child:
+                                if 'calib' not in state or state['calib] not in child:
                                   hardwareTime = hardwareTime + 20
                                 state['calib'] = "in" if "in" in child else "out"
                             if "diffuser" in child:
