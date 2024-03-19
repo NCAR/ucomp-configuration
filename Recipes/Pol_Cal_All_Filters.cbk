@@ -1,7 +1,8 @@
 DATE  Weds Apr 28 2020
 AUTHOR Berkey
 DESCRIPTION Perform polarization calibration at 1079 nm
-
+setupDark
+dark_80ms_2beam_16sums_BOTH.cbk
 setupCal.rcp
 1074_FW.rcp
 1074_Pol_Calibrate.rcp
