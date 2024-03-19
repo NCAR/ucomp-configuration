@@ -138,7 +138,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	1074.54	both	16 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	1074.54	both	16 
 &#x1F4D7;  data rcam	1074.59	both	16 
 &#x1F4D7;  data rcam	1074.64	both	16 
 &#x1F4D7;  data rcam	1074.70	both	16 
@@ -365,7 +365,7 @@
 &#x1F4D7;  data tcam	1079.86	both	16 
 &#x1F4D7;  data tcam	1079.92	both	16 
 &#x1F4D7;  data tcam	1079.98	both	16 
- Integration:5.06 minutes.  Hardware:0.00 minutes. total:5.06 minutes  </pre></blockquote></details> Integration:31.26 minutes.  Hardware:298.00 minutes. total:36.22 minutes  </pre></blockquote></details><details><summary>waves_1074_1hour.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre> prefilterrange 1074 
+ Integration:5.06 minutes.  Hardware:0.00 minutes. total:5.06 minutes  </pre></blockquote></details> Integration:31.26 minutes.  Hardware:274.00 minutes. total:35.82 minutes  </pre></blockquote></details><details><summary>waves_1074_1hour.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre> prefilterrange 1074 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_14sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	14 
@@ -383,7 +383,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam both 1074.59 14 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam both 1074.59 14 
 &#x1F4D8;  data rcam both 1074.81 14 
 &#x1F4D8;  data rcam both 1074.70 14 
 &#x1F4D8;  data tcam both 1074.59 14 
@@ -395,7 +395,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam both 1074.59 14 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam both 1074.59 14 
 &#x1F4D7;  data rcam both 1074.81 14 
 &#x1F4D7;  data rcam both 1074.70 14 
 &#x1F4D7;  data tcam both 1074.59 14 
@@ -1120,13 +1120,13 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam both 1074.59 14 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam both 1074.59 14 
 &#x1F4D8;  data rcam both 1074.81 14 
 &#x1F4D8;  data rcam both 1074.70 14 
 &#x1F4D8;  data tcam both 1074.59 14 
 &#x1F4D8;  data tcam both 1074.81 14 
 &#x1F4D8;  data tcam both 1074.70 14 
- Integration:0.48 minutes.  Hardware:0.00 minutes. total:0.48 minutes  </pre></blockquote></details> Integration:59.11 minutes.  Hardware:163.00 minutes. total:61.83 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.48 minutes.  Hardware:0.00 minutes. total:0.48 minutes  </pre></blockquote></details> Integration:59.11 minutes.  Hardware:91.00 minutes. total:60.63 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -1143,7 +1143,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
+ Integration:0.00 minutes.  Hardware:24.00 minutes. total:0.40 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam	1079.64	both	16 
 &#x1F4D8;  data rcam	1079.70	both	16 
 &#x1F4D8;  data rcam	1079.80	both	16 
@@ -1354,7 +1354,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
 &#x1F4D7;  data rcam	706.18	both	16 
 &#x1F4D7;  data rcam	706.20	both	16 
 &#x1F4D7;  data rcam	706.23	both	16 
@@ -1587,7 +1587,7 @@
  occ		out 
  shut	out 
  calib	in 
- Integration:0.00 minutes.  Hardware:67.00 minutes. total:1.12 minutes  </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre> prefilterrange 1074 
+ Integration:0.00 minutes.  Hardware:43.00 minutes. total:0.72 minutes  </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre> prefilterrange 1074 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 1074_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D5; 1074_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	1074.70	16 
@@ -1623,7 +1623,7 @@
  occ		out 
  shut	out 
  calib	in 
- Integration:0.00 minutes.  Hardware:21.00 minutes. total:0.35 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 1079_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 1079_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D5; 1079_01wave_2beam_16sums_1rep_BLUE.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	blue	1079.80	16 
 &#x1F4D5;  data	tcam	blue	1079.80	16 
@@ -1658,7 +1658,7 @@
  occ		out 
  shut	out 
  calib	in 
- Integration:0.00 minutes.  Hardware:21.00 minutes. total:0.35 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 789_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 789_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D5; 789_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	789.40	16 
 &#x1F4D5;  data	tcam	both	789.40	16 
@@ -1693,7 +1693,7 @@
  occ		out 
  shut	out 
  calib	in 
- Integration:0.00 minutes.  Hardware:21.00 minutes. total:0.35 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 637_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 637_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D5; 637_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	637.40	16 
 &#x1F4D5;  data	tcam	both	637.40	16 
@@ -1728,7 +1728,7 @@
  occ		out 
  shut	out 
  calib	in 
- Integration:0.00 minutes.  Hardware:21.00 minutes. total:0.35 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 670_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 670_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D5; 670_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	670.16	16 
 &#x1F4D5;  data	tcam	both	670.16	16 
@@ -1763,7 +1763,7 @@
  occ		out 
  shut	out 
  calib	in 
- Integration:0.00 minutes.  Hardware:21.00 minutes. total:0.35 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 706_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 706_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D5; 706_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	706.20	16 
 &#x1F4D5;  data	tcam	both	706.20	16 
@@ -1798,7 +1798,7 @@
  occ		out 
  shut	out 
  calib	in 
- Integration:0.00 minutes.  Hardware:21.00 minutes. total:0.35 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 761_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 761_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D5; 761_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre> <<<<<<< head 
 &#x1F4D5;  data	rcam	both	761.1	16 
@@ -1878,7 +1878,7 @@
  occ		out 
  shut	out 
  calib	in 
- Integration:0.00 minutes.  Hardware:21.00 minutes. total:0.35 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 802_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D5; 802_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
 <details><summary>&#x1F4D5; 802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	802.41	16 
 &#x1F4D5;  data	tcam	both	802.41	16 
@@ -1942,7 +1942,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:17.16 minutes.  Hardware:1057.00 minutes. total:34.78 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:24.00 minutes. total:0.40 minutes  </pre></blockquote></details> Integration:17.16 minutes.  Hardware:1225.00 minutes. total:37.58 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -1959,7 +1959,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
+ Integration:0.00 minutes.  Hardware:24.00 minutes. total:0.40 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam	1079.64	both	16 
 &#x1F4D8;  data rcam	1079.70	both	16 
 &#x1F4D8;  data rcam	1079.80	both	16 
@@ -2170,7 +2170,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
 &#x1F4D7;  data rcam	706.18	both	16 
 &#x1F4D7;  data rcam	706.20	both	16 
 &#x1F4D7;  data rcam	706.23	both	16 
@@ -2403,7 +2403,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre> prefilterrange 670 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>670_FW.rcp</summary><blockquote><pre> prefilterrange 670 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 670_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	 670.11	   16 
 &#x1F4D8;  data	rcam	both	 670.16	   16 
 &#x1F4D8;  data	rcam	both	 670.21	   16 
@@ -2509,7 +2509,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 991_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	 991.17	   16 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 991_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	 991.17	   16 
 &#x1F4D7;  data	rcam	both	 991.26	   16 
 &#x1F4D7;  data	rcam	both	 991.35	   16 
 &#x1F4D7;  data	tcam	both	 991.17	   16 
@@ -2720,7 +2720,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:27.82 minutes.  Hardware:367.00 minutes. total:33.94 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:27.82 minutes.  Hardware:319.00 minutes. total:33.14 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -2737,7 +2737,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam	1079.64	both	16 
 &#x1F4D8;  data rcam	1079.70	both	16 
 &#x1F4D8;  data rcam	1079.80	both	16 
@@ -2948,7 +2948,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
 &#x1F4D7;  data rcam	706.18	both	16 
 &#x1F4D7;  data rcam	706.20	both	16 
 &#x1F4D7;  data rcam	706.23	both	16 
@@ -3164,7 +3164,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:37.94 minutes.  Hardware:317.00 minutes. total:43.22 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:37.94 minutes.  Hardware:269.00 minutes. total:42.42 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -3181,7 +3181,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam	1079.64	both	16 
 &#x1F4D8;  data rcam	1079.70	both	16 
 &#x1F4D8;  data rcam	1079.80	both	16 
@@ -3392,7 +3392,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
 &#x1F4D7;  data rcam	706.18	both	16 
 &#x1F4D7;  data rcam	706.20	both	16 
 &#x1F4D7;  data rcam	706.23	both	16 
@@ -3608,7 +3608,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:37.94 minutes.  Hardware:317.00 minutes. total:43.22 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:37.94 minutes.  Hardware:269.00 minutes. total:42.42 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -3625,7 +3625,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam	1079.64	both	16 
 &#x1F4D8;  data rcam	1079.70	both	16 
 &#x1F4D8;  data rcam	1079.80	both	16 
@@ -3836,7 +3836,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
 &#x1F4D7;  data rcam	706.18	both	16 
 &#x1F4D7;  data rcam	706.20	both	16 
 &#x1F4D7;  data rcam	706.23	both	16 
@@ -4052,7 +4052,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:37.94 minutes.  Hardware:317.00 minutes. total:43.22 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:37.94 minutes.  Hardware:269.00 minutes. total:42.42 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -4069,7 +4069,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam	1079.64	both	16 
 &#x1F4D8;  data rcam	1079.70	both	16 
 &#x1F4D8;  data rcam	1079.80	both	16 
@@ -4280,7 +4280,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:46.00 minutes. total:0.77 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
+ Integration:0.00 minutes.  Hardware:22.00 minutes. total:0.37 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam	706.15	both	16 
 &#x1F4D7;  data rcam	706.18	both	16 
 &#x1F4D7;  data rcam	706.20	both	16 
 &#x1F4D7;  data rcam	706.23	both	16 
@@ -4496,4 +4496,4 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:37.94 minutes.  Hardware:317.00 minutes. total:43.22 minutes  </pre></blockquote></details></pre></blockquote></details>
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:37.94 minutes.  Hardware:269.00 minutes. total:42.42 minutes  </pre></blockquote></details></pre></blockquote></details>

@@ -23,7 +23,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre> prefilterrange 637 
+ Integration:0.00 minutes.  Hardware:24.00 minutes. total:0.40 minutes  </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre> prefilterrange 637 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 637_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	637.40	16 
 &#x1F4D8;  data	tcam	both	637.40	16 
 &#x1F4D8;  data	rcam	both	637.40	16 
@@ -321,4 +321,4 @@
 &#x1F4D8;  data	rcam	both	1079.80	16 
 &#x1F4D8;  data	tcam	both	1079.80	16 
  Integration:2.89 minutes.  Hardware:0.00 minutes. total:2.89 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:26.92 minutes.  Hardware:352.00 minutes. total:32.79 minutes  </pre></blockquote></details></pre></blockquote></details>
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:26.92 minutes.  Hardware:376.00 minutes. total:33.19 minutes  </pre></blockquote></details></pre></blockquote></details>
