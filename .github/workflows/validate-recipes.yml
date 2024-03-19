@@ -60,7 +60,7 @@ jobs:
                       #print(state)
                       color = "green"
                   if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
-                      color = "black
+                      color = "black"
                   if color == "red":
                     #md.write("&#x1F4D9; ") 
                     emoji = "&#x1F4D9; "
