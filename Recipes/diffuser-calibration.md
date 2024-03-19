@@ -116,7 +116,7 @@
  occ		out 
  calib	out 
  shut	out 
- Integration:0.00 minutes.  Hardware:20.00 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre> prefilterrange 530 
+ Integration:0.00 minutes.  Hardware:24.00 minutes. total:0.40 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre> prefilterrange 530 
  Integration:0.00 minutes.  Hardware:25.00 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 530_01wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	530.30	16 
 &#x1F4D7;  data	tcam	both	530.30	16 
 &#x1F4D7;  data	rcam	both	530.30	16 
@@ -280,4 +280,4 @@
 &#x1F4D7;  data	rcam	both	1083.00	16 
 &#x1F4D7;  data	tcam	both	1083.00	16 
  Integration:0.72 minutes.  Hardware:0.00 minutes. total:0.72 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.05 minutes.  Hardware:655.00 minutes. total:30.97 minutes  </pre></blockquote></details></pre></blockquote></details>
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.05 minutes.  Hardware:659.00 minutes. total:31.04 minutes  </pre></blockquote></details></pre></blockquote></details>

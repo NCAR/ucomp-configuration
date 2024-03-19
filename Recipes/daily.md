@@ -255,7 +255,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -691,7 +691,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -1151,7 +1151,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam both 1074.59 14 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam both 1074.59 14 
 &#x1F4D8;  data rcam both 1074.81 14 
 &#x1F4D8;  data rcam both 1074.70 14 
 &#x1F4D8;  data tcam both 1074.59 14 
@@ -1163,7 +1163,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam both 1074.59 14 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data rcam both 1074.59 14 
 &#x1F4D7;  data rcam both 1074.81 14 
 &#x1F4D7;  data rcam both 1074.70 14 
 &#x1F4D7;  data tcam both 1074.59 14 
@@ -1888,19 +1888,19 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam both 1074.59 14 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data rcam both 1074.59 14 
 &#x1F4D8;  data rcam both 1074.81 14 
 &#x1F4D8;  data rcam both 1074.70 14 
 &#x1F4D8;  data tcam both 1074.59 14 
 &#x1F4D8;  data tcam both 1074.81 14 
 &#x1F4D8;  data tcam both 1074.70 14 
- Integration:0.48 minutes.  Hardware:0.00 minutes. total:0.48 minutes  </pre></blockquote></details> Integration:59.11 minutes.  Hardware:145.00 minutes. total:61.53 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.48 minutes.  Hardware:0.00 minutes. total:0.48 minutes  </pre></blockquote></details> Integration:59.11 minutes.  Hardware:160.00 minutes. total:61.78 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -2336,12 +2336,12 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal_flat.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -2584,13 +2584,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -3026,7 +3026,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -3915,7 +3915,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -4158,13 +4158,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -4600,7 +4600,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -5489,7 +5489,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -5732,13 +5732,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -6174,7 +6174,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -7063,7 +7063,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -7306,13 +7306,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -7748,7 +7748,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -8637,7 +8637,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -8880,13 +8880,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -9322,7 +9322,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -10211,7 +10211,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -10454,13 +10454,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -10896,7 +10896,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -11785,7 +11785,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -12028,13 +12028,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -12470,7 +12470,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -13359,7 +13359,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -13602,13 +13602,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -14044,7 +14044,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -14933,7 +14933,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -15176,13 +15176,13 @@
 &#x1F4D8;  data	tcam	both	1079.80	   16 
 &#x1F4D8;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:265.00 minutes. total:24.83 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:20.42 minutes.  Hardware:270.00 minutes. total:24.92 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:40.00 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.00 minutes.  Hardware:45.00 minutes. total:0.75 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -15618,7 +15618,7 @@
 &#x1F4D7;  data	tcam	both	1079.80	   16 
 &#x1F4D7;  data	tcam	both	1079.91	   16 
  Integration:2.17 minutes.  Hardware:0.00 minutes. total:2.17 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:265.00 minutes. total:42.18 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:37.76 minutes.  Hardware:270.00 minutes. total:42.26 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
