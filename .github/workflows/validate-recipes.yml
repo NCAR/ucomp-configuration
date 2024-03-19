@@ -171,7 +171,7 @@ jobs:
                             pass
                 script.close()
                 if "rcp" in childextension: 
-                  md.write(f"The above code block covers:{runTime/1000/60:.2f} minutes of camera integration and {hardwareTime/60} minutes of hardware overhead")
+                  md.write(f"The above code block covers:{runTime/1000/60:.2f} minutes of camera integration and {hardwareTime/60:.2f} minutes of hardware overhead")
                 md.write("</pre></blockquote></details>")
                 return runTime,hardwareTime
             menus = glob.glob("*.menu")
