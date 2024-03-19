@@ -49,7 +49,7 @@ jobs:
                 summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
                 runTime = 0
                      
-                color = "black"
+                color = None
                 emoji = None
                 if "_FW" not in scriptname and "setup" not in scriptname and "cbk" not in scriptname and "menu" not in scriptname and "_in" not in scriptname and "_out" not in scriptname:
                   if state['shut'] == "in":
@@ -126,6 +126,8 @@ jobs:
                                         warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
                                     if state['gain']+sums+cam+cont+wave not in flats:
                                         warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
+                                if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
+                                  color = "black"
  
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             rcpName = child.split('#')[0]
