@@ -118,11 +118,11 @@ jobs:
                                 state['filter'] = child.split()[1]
                             if "calret" in child:
                                 if 'calret' not in state or state['calret'] != child.split()[1]:
-                                  hardwareTime = hardwareTime + 25
+                                  hardwareTime = hardwareTime + 5
                                 state['calret'] = child.split()[1]
                             if "calpol" in child:
                                 if 'calpol' not in state or state['calpol'] != child.split()[1]:
-                                  hardwareTime = hardwareTime + 25
+                                  hardwareTime = hardwareTime + 5
                                 state['calpol'] = child.split()[1]    
                             if "calib" in child:
                                 if 'calib' not in state or state['calib'] != child.split()[1]:
