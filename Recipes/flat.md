@@ -1,7 +1,7 @@
-&#x1F4D9; =dark \ 
-                &#x1F4D5; =calib \ 
-                &#x1F4D8; =Flat \ 
-                &#x1F4D7; =Data <details><summary>flat.menu</summary><blockquote><pre><details><summary>1074-multi-flats.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+&#x1F4D9; =dark  
+                &#x1F4D5; =calib  
+                &#x1F4D8; =flat  
+                &#x1F4D7; =data <details><summary>flat.menu</summary><blockquote><pre><details><summary>1074-multi-flats.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
