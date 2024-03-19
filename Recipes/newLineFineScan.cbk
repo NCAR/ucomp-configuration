@@ -7,28 +7,28 @@ dark_01wave_1beam_16sums_10rep_BOTH.rcp
 #670
 670_FW.rcp
 setupFlat.rcp
-670_09wave_0.03step_2beam_16sums_4reps_BOTH.rcp  # 670 flat
+670_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  # 670 flat
 setupObserving.rcp
-670_09wave_0.03step_2beam_16sums_4reps_BOTH.rcp # 670 corona
+670_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp # 670 corona
 
 #761
-761_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  #761 corona 
+761_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp  #761 corona 
 setupFlat.rcp
-761_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  #761 flat
+761_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp  #761 flat
 
 
 #802
-802_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  #802 flat
+802_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp  #802 flat
 setupObserving.rcp
-802_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  #802 corona
+802_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp  #802 corona
 
 
 
 #991
 991_FW.rcp
-991_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp  #991 corona
+991_09wave_0.06step_2beam_16sums_4reps_BOTH.rcp  #991 corona
 setupFlat.rcp
-991_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp  #991 flat
+991_09wave_0.06step_2beam_16sums_4reps_BOTH.rcp  #991 flat
 
 
 setupDark.rcp
