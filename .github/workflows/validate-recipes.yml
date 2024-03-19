@@ -91,7 +91,7 @@ jobs:
                         else:
                             #print(f"{state} {darks} {flat} {parent} {child}")
                             
-                            color = "black"
+                            color = None
                             if "gain" in child:
                                 state['gain'] = "low" if "low" in child else "high"
                             if "shut" in child:
@@ -130,7 +130,7 @@ jobs:
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             rcpName = child.split('#')[0]
                             if "_FW" not in rcpName and "setup" not in rcpName and "cbk" not in rcpName and "menu" not in rcpName:
-                              md.write(f"rcpname {rcpName}")
+                              #md.write(f"rcpname {rcpName}")
                               if color == "red": 
                                 md.write("&#x1F4D9; ") 
                               if color == "black":
