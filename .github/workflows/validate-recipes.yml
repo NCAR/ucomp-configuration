@@ -105,7 +105,7 @@ jobs:
                                 state['exposure'] = child.split(" ")[1]
                                 #print(state)
                             if "cover" in child:
-                                if state['cover'] != child.split(" ")[1]:
+                                if 'cover' not in state or state['cover'] != child.split(" ")[1]:
                                   hardwareTime = hardwareTime + 60
                                 state['cover'] = "in" if "in" in child else "out"
                             if "occ" in child:
