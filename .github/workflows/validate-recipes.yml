@@ -50,7 +50,7 @@ jobs:
                 runTime = 0
                      
                 color = "black"
-
+                emoji = None
                 if "_FW" not in scriptname and "setup" not in scriptname and "cbk" not in scriptname and "menu" not in scriptname:
                   if state['shut'] == "in":
                       color = "red"
@@ -60,14 +60,18 @@ jobs:
                       #print(state)
                       color = "green"
                   if color == "red":
-                    md.write("&#x1F4D9; ") 
+                    #md.write("&#x1F4D9; ") 
+                    emoji = "&#x1F4D9; "
                   if color == "black":
-                    md.write("&#x1F4D5; ") 
+                   # md.write("&#x1F4D5; ") 
+                    emoji = "&#x1F4D5; "
                   if color == "blue":
-                    md.write("&#x1F4D8; ") 
+                    #md.write("&#x1F4D8; ")
+                    emoji = "&#x1F4D8; "
                   if color == "green":
-                    md.write("&#x1F4D7; ") 
-                md.write(f"<details><summary>{scriptname}</summary><blockquote><pre>")
+                    #md.write("&#x1F4D7; ") 
+                    emoji = "&#x1F47; "
+                md.write(f"<details><summary>{emoji}{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
                 for child in results2:
                     filename =child.split('#')[0].strip()
