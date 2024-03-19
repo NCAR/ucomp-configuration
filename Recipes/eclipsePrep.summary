@@ -782,12 +782,13 @@
 ------------------> data tcam	637.48	both	16
 ------------------> data tcam	637.52	both	16
 ------------------> data tcam	637.56	both	16
- ------------ > setupFlat.rcp
-------------------> diffuser  in
+ ------------ > setupObserving.rcp
+------------------> shut in
 ------------------> cover out
-------------------> occ		out
-------------------> shut	out
 ------------------> calib	out
+------------------> occ		in
+------------------> diffuser out
+------------------> shut	out
  ------------ > 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	637.24	both	16
 ------------------> data rcam	637.28	both	16
@@ -936,13 +937,12 @@
 ------------------> data tcam	706.28	both	16
 ------------------> data tcam	706.32	both	16
 ------------------> data tcam	706.36	both	16
- ------------ > setupObserving.rcp
-------------------> shut in
+ ------------ > setupFlat.rcp
+------------------> diffuser  in
 ------------------> cover out
-------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ		out
 ------------------> shut	out
+------------------> calib	out
  ------------ > 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data rcam	706.04	both	16
 ------------------> data rcam	706.08	both	16
