@@ -72,7 +72,7 @@ jobs:
                     #md.write("&#x1F4D7; ") 
                     emoji = "&#x1F47; "
                 md.write(f"<details><summary>")
-                if emoji is not None:
+                if emoji is not None: 
                   md.write(emoji)
                 md.write(f"{scriptname}</summary><blockquote><pre>")
                 tab = tab +1
