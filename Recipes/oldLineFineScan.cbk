@@ -27,13 +27,13 @@ setupFlat.rcp
 #637
 637_FW.rcp
 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp 
-setupFlat.rcp
+setupObserving.rcp
 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  
 
 #706
 706_FW.rcp
 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  
-setupObserving.rcp
+setupFlat.rcp
 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp 
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
