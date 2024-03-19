@@ -1,8 +1,7 @@
-&#x1F4D9; =dark 
- &#x1F4D5; =calib 
- &#x1F4D8; =Flat 
- &#x1F4D7; =Data 
-<details><summary>measure-occulter.menu</summary><blockquote><pre><details><summary>measure-occulter.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre> nd in 
+&#x1F4D9; =dark \ 
+                &#x1F4D5; =calib \ 
+                &#x1F4D8; =Flat \ 
+                &#x1F4D7; =Data <details><summary>measure-occulter.menu</summary><blockquote><pre><details><summary>measure-occulter.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre> nd in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre> exposure 80 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre> shut	in 
  for 16 
