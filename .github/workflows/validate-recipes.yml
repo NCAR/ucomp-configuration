@@ -110,7 +110,7 @@ jobs:
                                 state['cover'] = "in" if "in" in child else "out"
                             if "occ" in child:
                                 if 'occ' not in state or state['occ'] not in child:
-                                  hardwareTime = hardwareTime + 20
+                                  hardwareTime = hardwareTime + 21
                                 state['occ'] = "in" if "in" in child else "out"
                             if "prefilterrange " in child:
                                 if 'filter' not in state or state['filter'] != child.split()[1]:
@@ -126,11 +126,11 @@ jobs:
                                 state['calpol'] = child.split()[1]    
                             if "calib" in child:
                                 if 'calib' not in state or state['calib'] not in child:
-                                  hardwareTime = hardwareTime + 20
+                                  hardwareTime = hardwareTime + 22
                                 state['calib'] = "in" if "in" in child else "out"
                             if "diffuser" in child:
                                 if 'diffuser' not in state or state['diffuser'] not in child:
-                                  hardwareTime = hardwareTime + 20
+                                  hardwareTime = hardwareTime + 24
                                 state['diffuser'] = "in" if "in" in child else "out"
                             if "data" in child:
                                 #print(child)
