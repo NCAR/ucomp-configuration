@@ -1,0 +1,25 @@
+
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+
+setupFlat.rcp
+789_FW.rcp
+
+789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp  #Flat
+637_FW.rcp
+637_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp  #Flat
+706_FW.rcp
+706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp  #Flat
+
+setupObserving.rcp
+
+706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp
+789_FW.rcp
+789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp
+637_FW.rcp
+637_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp
+
+
+
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
