@@ -1811,6 +1811,8 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
  ------ > Pol_Cal_All_Filters.cbk
+------------> setupdark
+------------> dark_80ms_2beam_16sums_both.cbk
  ------------ > setupCal.rcp
 ------------------> diffuser  in
 ------------------> cover out

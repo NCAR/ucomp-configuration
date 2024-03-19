@@ -1628,7 +1628,9 @@ The above code block covers:0.00 minutes of camera integration + hardware moves 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
-The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:43.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>Pol_Cal_All_Filters.cbk</summary><blockquote><pre><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
+The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:43.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>Pol_Cal_All_Filters.cbk</summary><blockquote><pre> setupdark 
+ dark_80ms_2beam_16sums_both.cbk 
+<details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
