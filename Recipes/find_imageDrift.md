@@ -1,5 +1,5 @@
-<details><summary>find_imageDrift.menu</summary><blockquote><pre><details><summary>find_imageDrift.cbk</summary><blockquote><pre><details><summary>&#x1F4D5; ND_IN.rcp</summary><blockquote><pre> nd in 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D5; 1083_imageDrift.rcp</summary><blockquote><pre> shut	out 
+<details><summary>find_imageDrift.menu</summary><blockquote><pre><details><summary>find_imageDrift.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre> nd in 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1083_imageDrift.rcp</summary><blockquote><pre> shut	out 
  o1 62.75 
  data	tcam	both	1083.00	4 
  o1 60 
