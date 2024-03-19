@@ -17,7 +17,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	1074.22	both	16&#x1F4D7;  data rcam	1074.22	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	1074.22	both	16&#x1F4D7;  data rcam	1074.22	both	16 
 rcpname data rcam	1074.34	both	16&#x1F4D7;  data rcam	1074.34	both	16 
 rcpname data rcam	1074.46	both	16&#x1F4D7;  data rcam	1074.46	both	16 
 rcpname data rcam	1074.58	both	16&#x1F4D7;  data rcam	1074.58	both	16 
@@ -64,7 +64,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer1.rcp</summary><blockquote><pre>rcpname data rcam	1073.50	both	16&#x1F4D7;  data rcam	1073.50	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer1.rcp</summary><blockquote><pre>rcpname data rcam	1073.50	both	16&#x1F4D7;  data rcam	1073.50	both	16 
 rcpname data rcam	1073.62	both	16&#x1F4D7;  data rcam	1073.62	both	16 
 rcpname data rcam	1073.74	both	16&#x1F4D7;  data rcam	1073.74	both	16 
 rcpname data rcam	1075.66	both	16&#x1F4D7;  data rcam	1075.66	both	16 
@@ -99,7 +99,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer2.rcp</summary><blockquote><pre>rcpname data rcam	1073.86	both	16&#x1F4D7;  data rcam	1073.86	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer2.rcp</summary><blockquote><pre>rcpname data rcam	1073.86	both	16&#x1F4D7;  data rcam	1073.86	both	16 
 rcpname data rcam	1073.98	both	16&#x1F4D7;  data rcam	1073.98	both	16 
 rcpname data rcam	1074.10	both	16&#x1F4D7;  data rcam	1074.10	both	16 
 rcpname data rcam	1075.30	both	16&#x1F4D7;  data rcam	1075.30	both	16 
@@ -134,7 +134,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer3.rcp</summary><blockquote><pre>rcpname data rcam	1073.14	both	16&#x1F4D7;  data rcam	1073.14	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer3.rcp</summary><blockquote><pre>rcpname data rcam	1073.14	both	16&#x1F4D7;  data rcam	1073.14	both	16 
 rcpname data rcam	1073.26	both	16&#x1F4D7;  data rcam	1073.26	both	16 
 rcpname data rcam	1073.38	both	16&#x1F4D7;  data rcam	1073.38	both	16 
 rcpname data rcam	1076.02	both	16&#x1F4D7;  data rcam	1076.02	both	16 
@@ -169,7 +169,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer4.rcp</summary><blockquote><pre>rcpname data rcam	1072.78	both	16&#x1F4D7;  data rcam	1072.78	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer4.rcp</summary><blockquote><pre>rcpname data rcam	1072.78	both	16&#x1F4D7;  data rcam	1072.78	both	16 
 rcpname data rcam	1072.90	both	16&#x1F4D7;  data rcam	1072.90	both	16 
 rcpname data rcam	1073.02	both	16&#x1F4D7;  data rcam	1073.02	both	16 
 rcpname data rcam	1076.38	both	16&#x1F4D7;  data rcam	1076.38	both	16 
@@ -204,7 +204,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer5.rcp</summary><blockquote><pre>rcpname data rcam	1072.30	both	16&#x1F4D7;  data rcam	1072.30	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer5.rcp</summary><blockquote><pre>rcpname data rcam	1072.30	both	16&#x1F4D7;  data rcam	1072.30	both	16 
 rcpname data rcam	1072.42	both	16&#x1F4D7;  data rcam	1072.42	both	16 
 rcpname data rcam	1072.54	both	16&#x1F4D7;  data rcam	1072.54	both	16 
 rcpname data rcam	1072.66	both	16&#x1F4D7;  data rcam	1072.66	both	16 
@@ -286,7 +286,7 @@ rcpname occ		in&#x1F4D5;  occ		in
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>rcpname prefilterrange 789&#x1F4D5;  prefilterrange 789 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	789.20	both	16&#x1F4D7;  data rcam	789.20	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	789.20	both	16&#x1F4D7;  data rcam	789.20	both	16 
 rcpname data rcam	789.25	both	16&#x1F4D7;  data rcam	789.25	both	16 
 rcpname data rcam	789.30	both	16&#x1F4D7;  data rcam	789.30	both	16 
 rcpname data rcam	789.35	both	16&#x1F4D7;  data rcam	789.35	both	16 
@@ -664,7 +664,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	706.04	both	16&#x1F4D7;  data rcam	706.04	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	706.04	both	16&#x1F4D7;  data rcam	706.04	both	16 
 rcpname data rcam	706.08	both	16&#x1F4D7;  data rcam	706.08	both	16 
 rcpname data rcam	706.12	both	16&#x1F4D7;  data rcam	706.12	both	16 
 rcpname data rcam	706.16	both	16&#x1F4D7;  data rcam	706.16	both	16 
@@ -844,7 +844,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 670_09wave_0.03step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	670.04	both	16&#x1F4D7;  data rcam	670.04	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 670_09wave_0.03step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	670.04	both	16&#x1F4D7;  data rcam	670.04	both	16 
 rcpname data rcam	670.07	both	16&#x1F4D7;  data rcam	670.07	both	16 
 rcpname data rcam	670.10	both	16&#x1F4D7;  data rcam	670.10	both	16 
 rcpname data rcam	670.13	both	16&#x1F4D7;  data rcam	670.13	both	16 
@@ -916,7 +916,7 @@ rcpname data tcam	670.19	both	16&#x1F4D7;  data tcam	670.19	both	16
 rcpname data tcam	670.22	both	16&#x1F4D7;  data tcam	670.22	both	16 
 rcpname data tcam	670.25	both	16&#x1F4D7;  data tcam	670.25	both	16 
 rcpname data tcam	670.28	both	16&#x1F4D7;  data tcam	670.28	both	16 
-The above code block covers:6.50 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 761_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	760.94	both	16&#x1F4D7;  data rcam	760.94	both	16 
+The above code block covers:6.50 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 761_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	760.94	both	16&#x1F4D7;  data rcam	760.94	both	16 
 rcpname data rcam	760.98	both	16&#x1F4D7;  data rcam	760.98	both	16 
 rcpname data rcam	761.02	both	16&#x1F4D7;  data rcam	761.02	both	16 
 rcpname data rcam	761.06	both	16&#x1F4D7;  data rcam	761.06	both	16 
@@ -1143,7 +1143,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 802_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	802.25	both	16&#x1F4D7;  data rcam	802.25	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 802_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	802.25	both	16&#x1F4D7;  data rcam	802.25	both	16 
 rcpname data rcam	802.29	both	16&#x1F4D7;  data rcam	802.29	both	16 
 rcpname data rcam	802.33	both	16&#x1F4D7;  data rcam	802.33	both	16 
 rcpname data rcam	802.37	both	16&#x1F4D7;  data rcam	802.37	both	16 
@@ -1216,7 +1216,7 @@ rcpname data tcam	802.49	both	16&#x1F4D7;  data tcam	802.49	both	16
 rcpname data tcam	802.53	both	16&#x1F4D7;  data tcam	802.53	both	16 
 rcpname data tcam	802.57	both	16&#x1F4D7;  data tcam	802.57	both	16 
 The above code block covers:6.50 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>991_FW.rcp</summary><blockquote><pre>rcpname prefilterrange 991&#x1F4D5;  prefilterrange 991 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 991_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	991.06	both	16&#x1F4D7;  data rcam	991.06	both	16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 991_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>rcpname data rcam	991.06	both	16&#x1F4D7;  data rcam	991.06	both	16 
 rcpname data rcam	991.11	both	16&#x1F4D7;  data rcam	991.11	both	16 
 rcpname data rcam	991.16	both	16&#x1F4D7;  data rcam	991.16	both	16 
 rcpname data rcam	991.21	both	16&#x1F4D7;  data rcam	991.21	both	16 
@@ -1470,7 +1470,7 @@ rcpname calib	out&#x1F4D5;  calib	out
 rcpname occ		in&#x1F4D5;  occ		in 
 rcpname diffuser out&#x1F4D5;  diffuser out 
 rcpname shut	out&#x1F4D5;  shut	out 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F47; 1074_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>rcpname data	rcam	both	1074.59	   16&#x1F4D7;  data	rcam	both	1074.59	   16 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D7; 1074_03wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>rcpname data	rcam	both	1074.59	   16&#x1F4D7;  data	rcam	both	1074.59	   16 
 rcpname data	rcam	both	1074.70	   16&#x1F4D7;  data	rcam	both	1074.70	   16 
 rcpname data	rcam	both	1074.81	   16&#x1F4D7;  data	rcam	both	1074.81	   16 
 rcpname data	tcam	both	1074.59	   16&#x1F4D7;  data	tcam	both	1074.59	   16 
