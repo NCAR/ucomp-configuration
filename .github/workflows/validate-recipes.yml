@@ -70,7 +70,7 @@ jobs:
                     emoji = "&#x1F4D8; "
                   if color == "green":
                     #md.write("&#x1F4D7; ") 
-                    emoji = "&#x1F47; "
+                    emoji = "&#x1F4D7; "
                 md.write(f"<details><summary>")
                 if emoji is not None: 
                   md.write(emoji)
