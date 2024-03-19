@@ -105,7 +105,7 @@ jobs:
                                 state['exposure'] = child.split(" ")[1]
                                 #print(state)
                             if "cover" in child:
-                                if 'cover' not in state or state['cover'] != child.split(" ")[1]:
+                                if 'cover' not in state or state['cover'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 60
                                 state['cover'] = "in" if "in" in child else "out"
                             if "occ" in child:
@@ -113,23 +113,23 @@ jobs:
                                   hardwareTime = hardwareTime + 20
                                 state['occ'] = "in" if "in" in child else "out"
                             if "prefilterrange " in child:
-                                if 'filter' not in state or state['filter'] != child.split(" ")[1]:
+                                if 'filter' not in state or state['filter'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 25
                                 state['filter'] = child.split(" ")[1]
                             if "calret" in child:
-                                if 'calret' not in state or state['calret'] != child.split(" ")[1]:
+                                if 'calret' not in state or state['calret'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 25
                                 state['filter'] = child.split(" ")[1]
                             if "calpol" in child:
-                                if 'calpol' not in state or state['calpol'] != child.split(" ")[1]:
+                                if 'calpol' not in state or state['calpol'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 25
                                 state['filter'] = child.split(" ")[1]    
                             if "calib" in child:
-                                if 'calib' not in state or state['calib'] != child.split(" ")[1]:
+                                if 'calib' not in state or state['calib'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 20
                                 state['calib'] = "in" if "in" in child else "out"
                             if "diffuser" in child:
-                                if 'diffuser' not in state or state['diffuser'] != child.split(" ")[1]:
+                                if 'diffuser' not in state or state['diffuser'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 20
                                 state['diffuser'] = "in" if "in" in child else "out"
                             if "data" in child:
