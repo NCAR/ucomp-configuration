@@ -1,4 +1,4 @@
-read_Script write&#x1F4D5; <details><summary>dark.menu</summary><blockquote><pre>read_Script write&#x1F4D5; <details><summary>dark.cbk</summary><blockquote><pre>read_Script write&#x1F4D5; <details><summary>setupDark.rcp</summary><blockquote><pre>rcpname shut	in&#x1F4D5;  shut	in 
+read_Script write<details><summary>dark.menu</summary><blockquote><pre>read_Script write<details><summary>dark.cbk</summary><blockquote><pre>read_Script write<details><summary>setupDark.rcp</summary><blockquote><pre>rcpname shut	in&#x1F4D5;  shut	in 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>read_Script write&#x1F4D9; <details><summary>dark_01wave_1beam_1sums_16rep_BOTH.rcp</summary><blockquote><pre>rcpname data	rcam	both	656.28	1&#x1F4D9;  data	rcam	both	656.28	1 
 rcpname data	rcam	both	656.28	1&#x1F4D9;  data	rcam	both	656.28	1 
 rcpname data	rcam	both	656.28	1&#x1F4D9;  data	rcam	both	656.28	1 
