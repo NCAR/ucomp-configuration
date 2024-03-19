@@ -2060,37 +2060,32 @@ The above code block covers:0.18 minutes of camera integration + hardware moves 
 <details><summary>&#x1F4D8; 802_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	802.41	16 
 &#x1F4D8;  data	tcam	both	802.41	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details>The above code block covers:1.63 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>991_FW.rcp</summary><blockquote><pre> prefilterrange 991 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupCal.rcp</summary><blockquote><pre> diffuser  in 
- cover out 
- occ		out 
- shut	out 
- calib	in 
-The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D5; 991_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
+The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>&#x1F4D8; 991_Pol_Calibrate.rcp</summary><blockquote><pre> calret	0 
  calpol	0 
-<details><summary>&#x1F4D5; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	991.26	16 
-&#x1F4D5;  data	tcam	both	991.26	16 
+<details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
+&#x1F4D8;  data	tcam	both	991.26	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details> calpol	45 
-<details><summary>&#x1F4D5; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	991.26	16 
-&#x1F4D5;  data	tcam	both	991.26	16 
+<details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
+&#x1F4D8;  data	tcam	both	991.26	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details> calpol	90 
-<details><summary>&#x1F4D5; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	991.26	16 
-&#x1F4D5;  data	tcam	both	991.26	16 
+<details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
+&#x1F4D8;  data	tcam	both	991.26	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details> calpol	135 
-<details><summary>&#x1F4D5; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	991.26	16 
-&#x1F4D5;  data	tcam	both	991.26	16 
+<details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
+&#x1F4D8;  data	tcam	both	991.26	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details> calret	45 
  calpol	0 
-<details><summary>&#x1F4D5; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	991.26	16 
-&#x1F4D5;  data	tcam	both	991.26	16 
+<details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
+&#x1F4D8;  data	tcam	both	991.26	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details> calpol	45 
-<details><summary>&#x1F4D5; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	991.26	16 
-&#x1F4D5;  data	tcam	both	991.26	16 
+<details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
+&#x1F4D8;  data	tcam	both	991.26	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details> calpol	90 
-<details><summary>&#x1F4D5; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	991.26	16 
-&#x1F4D5;  data	tcam	both	991.26	16 
+<details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
+&#x1F4D8;  data	tcam	both	991.26	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details> calpol	135 
-<details><summary>&#x1F4D5; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D5;  data	rcam	both	991.26	16 
-&#x1F4D5;  data	tcam	both	991.26	16 
+<details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
+&#x1F4D8;  data	tcam	both	991.26	16 
 The above code block covers:0.18 minutes of camera integration + hardware moves and overhead</pre></blockquote></details> calib	out 
 <details><summary>&#x1F4D8; 991_01wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	991.26	16 
 &#x1F4D8;  data	tcam	both	991.26	16 

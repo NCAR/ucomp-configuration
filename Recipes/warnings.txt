@@ -1,3 +1,4 @@
+eclipseDayBefore.menu,pol_cal_all_filters.cbk tried to call *setupCal.rcps* which does not exist
 eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.22	both	16 missing flat for high16rcam1074.22both
 eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.34	both	16 missing flat for high16rcam1074.34both
 eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.46	both	16 missing flat for high16rcam1074.46both
@@ -414,3 +415,4 @@ eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both
 eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.38	both	16 missing flat for high16tcam991.38both
 eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.44	both	16 missing flat for high16tcam991.44both
 eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.50	both	16 missing flat for high16tcam991.50both
+eclipsePrep.menu,pol_cal_all_filters.cbk tried to call *setupCal.rcps* which does not exist
