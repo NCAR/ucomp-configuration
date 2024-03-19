@@ -18,7 +18,7 @@
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:120.00 minutes. total:2.00 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:0.00 minutes.  Hardware:127.00 minutes. total:2.12 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
@@ -321,4 +321,4 @@
 &#x1F4D8;  data	rcam	both	1079.80	16 
 &#x1F4D8;  data	tcam	both	1079.80	16 
  Integration:2.89 minutes.  Hardware:0.00 minutes. total:2.89 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:26.92 minutes.  Hardware:345.00 minutes. total:32.67 minutes  </pre></blockquote></details></pre></blockquote></details>
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:26.92 minutes.  Hardware:352.00 minutes. total:32.79 minutes  </pre></blockquote></details></pre></blockquote></details>
