@@ -1,6 +1,6 @@
 &#x1F4D9; =dark 
  &#x1F4D5; =calib 
- #x1F4D8; =Flat 
+ &#x1F4D8; =Flat 
  &#x1F4D7; =Data 
 <details><summary>poor-weather.menu</summary><blockquote><pre><details><summary>poor-weather-coronal-with-flats.cbk</summary><blockquote><pre><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 

@@ -1,6 +1,6 @@
 &#x1F4D9; =dark 
  &#x1F4D5; =calib 
- #x1F4D8; =Flat 
+ &#x1F4D8; =Flat 
  &#x1F4D7; =Data 
 <details><summary>diffuser-calibration.menu</summary><blockquote><pre><details><summary>diffuser-calibration.cbk</summary><blockquote><pre><details><summary>gain_high.rcp</summary><blockquote><pre> gain high 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre> exposure 80 
