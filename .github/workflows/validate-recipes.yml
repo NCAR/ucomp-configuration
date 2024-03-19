@@ -109,7 +109,7 @@ jobs:
                                   hardwareTime = hardwareTime + 60
                                 state['cover'] = "in" if "in" in child else "out"
                             if "occ" in child:
-                                if 'occ' not in state or state['occ'] != child.split()[1]:
+                                if 'occ' not in state or state['occ'] in child:
                                   hardwareTime = hardwareTime + 24
                                 state['occ'] = "in" if "in" in child else "out"
                             if "prefilterrange " in child:
