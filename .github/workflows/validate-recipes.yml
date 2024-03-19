@@ -122,7 +122,7 @@ jobs:
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             rcpName = child.split('#')[0]
                             if "_FW" not in rcpName and "setup" not in rcpName and "cbk" not in rcpName and "menu" not in rcpName:
-                              print(rcpName)
+                              md.write(rcpName)
                               if color == "red": 
                                 md.write("&#x1F4D9; ") 
                               if color == "black":
