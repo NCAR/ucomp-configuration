@@ -50,7 +50,6 @@ jobs:
                 runTime = 0
                      
                 color = "black"
-                md.write("read_Script write")
 
                 if "_FW" not in scriptname and "setup" not in scriptname and "cbk" not in scriptname and "menu" not in scriptname:
                   if state['shut'] == "in":
