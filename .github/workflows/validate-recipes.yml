@@ -48,6 +48,7 @@ jobs:
                 results2 = unroll_forloop(results)
                 summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
                 runTime = 0
+                hardwareTime = 0
                      
                 color = None
                 emoji = None
@@ -84,7 +85,9 @@ jobs:
                     if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("date") and not child.startswith("author") and not child.startswith("description"):
                         if childextension in child.split('#')[0]:
                             try:
-                                runTime += read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
+                                (tTime,hTime) = read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,summary,md,warning)
+                                runTime += tTime
+                                hardwareTime += hTime
                                # runTime = runTime+runTime2
                                 #md.write(f"read_script out {runTime}")
                                 
@@ -92,7 +95,7 @@ jobs:
                                 warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
                         else:
                             #print(f"{state} {darks} {flat} {parent} {child}")
-                            
+      
                             color = None
                             if "gain" in child:
                                 state['gain'] = "low" if "low" in child else "high"
@@ -102,12 +105,32 @@ jobs:
                                 state['exposure'] = child.split(" ")[1]
                                 #print(state)
                             if "cover" in child:
+                                if 'cover' not in state or state['cover'] != child.split()[1]:
+                                  hardwareTime = hardwareTime + 60
                                 state['cover'] = "in" if "in" in child else "out"
                             if "occ" in child:
+                                if 'occ' not in state or state['occ'] not in child:
+                                  hardwareTime = hardwareTime + 20
                                 state['occ'] = "in" if "in" in child else "out"
+                            if "prefilterrange " in child:
+                                if 'filter' not in state or state['filter'] != child.split()[1]:
+                                  hardwareTime = hardwareTime + 25
+                                state['filter'] = child.split()[1]
+                            if "calret" in child:
+                                if 'calret' not in state or state['calret'] != child.split()[1]:
+                                  hardwareTime = hardwareTime + 5
+                                state['calret'] = child.split()[1]
+                            if "calpol" in child:
+                                if 'calpol' not in state or state['calpol'] not in  child:
+                                  hardwareTime = hardwareTime + 5
+                                state['calpol'] = child.split()[1]    
                             if "calib" in child:
+                                if 'calib' not in state or state['calib'] not in child:
+                                  hardwareTime = hardwareTime + 20
                                 state['calib'] = "in" if "in" in child else "out"
                             if "diffuser" in child:
+                                if 'diffuser' not in state or state['diffuser'] not in child:
+                                  hardwareTime = hardwareTime + 20
                                 state['diffuser'] = "in" if "in" in child else "out"
                             if "data" in child:
                                 #print(child)
@@ -148,9 +171,9 @@ jobs:
                             pass
                 script.close()
                 if "rcp" in childextension: 
-                  md.write(f"The above code block covers:{runTime/1000/60:.2f} minutes of camera integration + hardware moves and overhead")
+                  md.write(f" Integration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes  ")
                 md.write("</pre></blockquote></details>")
-                return runTime
+                return runTime,hardwareTime
             menus = glob.glob("*.menu")
             state = {}
             darks = []
