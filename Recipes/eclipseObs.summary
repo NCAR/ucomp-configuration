@@ -1946,47 +1946,47 @@
 ------------------> data tcam	706.26	both	16
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
- ------------ > 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+ ------------ > 789_05wave_0.04step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_05wave_0.03step_2beam_16sums_4reps_BOTH.rcp
@@ -2423,47 +2423,47 @@
 ------------------> data tcam	706.26	both	16
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
- ------------ > 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+ ------------ > 789_05wave_0.04step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_05wave_0.03step_2beam_16sums_4reps_BOTH.rcp
@@ -3264,47 +3264,47 @@
 ------------------> data tcam	706.26	both	16
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
- ------------ > 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+ ------------ > 789_05wave_0.04step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_05wave_0.03step_2beam_16sums_4reps_BOTH.rcp
@@ -3741,47 +3741,47 @@
 ------------------> data tcam	706.26	both	16
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
- ------------ > 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+ ------------ > 789_05wave_0.04step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_05wave_0.03step_2beam_16sums_4reps_BOTH.rcp
@@ -4218,47 +4218,47 @@
 ------------------> data tcam	706.26	both	16
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
- ------------ > 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+ ------------ > 789_05wave_0.04step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_05wave_0.03step_2beam_16sums_4reps_BOTH.rcp
@@ -4695,47 +4695,47 @@
 ------------------> data tcam	706.26	both	16
  ------------ > 789_FW.rcp
 ------------------> prefilterrange 789
- ------------ > 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+ ------------ > 789_05wave_0.04step_2beam_16sums_4reps_BOTH.rcp
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
-------------------> data rcam	789.33	both	16
-------------------> data rcam	789.37	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
+------------------> data rcam	789.32	both	16
+------------------> data rcam	789.36	both	16
 ------------------> data rcam	789.40	both	16
-------------------> data rcam	789.43	both	16
-------------------> data rcam	789.47	both	16
-------------------> data tcam	789.33	both	16
-------------------> data tcam	789.37	both	16
+------------------> data rcam	789.44	both	16
+------------------> data rcam	789.48	both	16
+------------------> data tcam	789.32	both	16
+------------------> data tcam	789.36	both	16
 ------------------> data tcam	789.40	both	16
-------------------> data tcam	789.43	both	16
-------------------> data tcam	789.47	both	16
+------------------> data tcam	789.44	both	16
+------------------> data tcam	789.48	both	16
  ------------ > 637_FW.rcp
 ------------------> prefilterrange 637
  ------------ > 637_05wave_0.03step_2beam_16sums_4reps_BOTH.rcp
