@@ -185,9 +185,9 @@ jobs:
                   md.write(f" Integration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes  ")
                 else:
                   for corona in coronal:
-                    if corona not in dark:
+                    if corona not in darks:
                       warning.write(f"{parent} missing dark for {corona}\n")
-                    if corona not in flat:
+                    if corona not in flats:
                       warning.write(f"{parent} missing flat for {corona}\n")
                     
                 md.write("</pre></blockquote></details>")
