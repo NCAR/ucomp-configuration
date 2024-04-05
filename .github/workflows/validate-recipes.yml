@@ -136,6 +136,12 @@ jobs:
                                 #print(child)
                                 data,cam,cont,wave,sums = child.split()
                                 runTime += 300+int(state['exposure'])*4*int(sums)
+                                if cam not in ["rcam","tcam"]:
+                                        warning.write(f"{parent} {child} has invalid camera\n")
+                                if cont not in ["both", "red," "blue"]:
+                                        warning.write(f"{parent} {child} has invalid continumm\n")
+                                if not wave.isnumeric():
+                                       warning.write(f"{parent} {child} wavelength is not a number\n")
                                 if state['shut'] == "in":
                                     color = "red"
                                     if state['exposure']+state['gain']+sums not in darks:
