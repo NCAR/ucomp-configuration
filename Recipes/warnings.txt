@@ -1,10 +1,2 @@
-eclipseDayBefore.menu,fexiii_cross_calibration.cbk tried to call *1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp* which does not exist
-eclipseDayBefore.menu,fexiii_cross_calibration.cbk tried to call *1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp* which does not exist
-eclipseDayBefore.menu,fexiii_cross_calibration.cbk tried to call *1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp* which does not exist
 eclipseDayBefore.menu,pol_cal_all_filters.cbk tried to call *setupCal.rcps* which does not exist
-eclipsePrep.menu,oldlinefinescan.cbk tried to call *1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp* which does not exist
-eclipsePrep.menu,oldlinefinescan.cbk tried to call *1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp* which does not exist
 eclipsePrep.menu,pol_cal_all_filters.cbk tried to call *setupCal.rcps* which does not exist
-eclipseObs.menu,fexiii_cross_calibration.cbk tried to call *1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp* which does not exist
-eclipseObs.menu,fexiii_cross_calibration.cbk tried to call *1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp* which does not exist
-eclipseObs.menu,fexiii_cross_calibration.cbk tried to call *1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp* which does not exist
