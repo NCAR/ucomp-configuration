@@ -140,7 +140,9 @@ jobs:
                                         warning.write(f"{parent} {child} has invalid camera\n")
                                 if cont not in ["both", "red," "blue"]:
                                         warning.write(f"{parent} {child} has invalid continumm\n")
-                                if not wave.isnumeric():
+                                try:
+                                      float(wave)   # Type-casting the string to `float`.
+                                except ValueError:
                                        warning.write(f"{parent} {child} wavelength is not a number\n")
                                 if state['shut'] == "in":
                                     color = "red"
