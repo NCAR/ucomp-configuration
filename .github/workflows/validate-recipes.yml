@@ -138,7 +138,7 @@ jobs:
                                 runTime += 300+int(state['exposure'])*4*int(sums)
                                 if cam not in ["rcam","tcam"]:
                                         warning.write(f"{parent} {child} has invalid camera\n")
-                                if cont not in ["both", "red," "blue"]:
+                                if cont not in ["both", "red,", "blue"]:
                                         warning.write(f"{parent} {child} has invalid continumm\n")
                                 try:
                                       float(wave)   # Type-casting the string to `float`.
