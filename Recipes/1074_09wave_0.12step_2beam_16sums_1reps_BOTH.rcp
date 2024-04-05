@@ -1,23 +1,23 @@
-DATE Wed Mar 13 13:26:56 2024
-AUTHOR: rcp GeneratorExpected execution time 97.6
-#DATATYPE BEAM  WAVELENGTH  NUMSUMS
-DATA RCAM	1074.22	BOTH	16
-DATA RCAM	1074.34	BOTH	16
-DATA RCAM	1074.46	BOTH	16
-DATA RCAM	1074.58	BOTH	16
-DATA RCAM	1074.70	BOTH	16
-DATA RCAM	1074.82	BOTH	16
-DATA RCAM	1074.94	BOTH	16
-DATA RCAM	1075.06	BOTH	16
-DATA RCAM	1075.18	BOTH	16
-
-DATA TCAM	1074.22	BOTH	16
-DATA TCAM	1074.34	BOTH	16
-DATA TCAM	1074.46	BOTH	16
-DATA TCAM	1074.58	BOTH	16
-DATA TCAM	1074.70	BOTH	16
-DATA TCAM	1074.82	BOTH	16
-DATA TCAM	1074.94	BOTH	16
-DATA TCAM	1075.06	BOTH	16
-DATA TCAM	1075.18	BOTH	16
-
+data	tcam	both	1074.88	16
+data	tcam	both	1074.88	16
+data	tcam	both	1074.88	16
+data	rcam	both	1074.22	16
+data	rcam	both	1074.34	16
+data	rcam	both	1074.46	16
+data	rcam	both	1074.58	16
+data	rcam	both	1074.70	16
+data	rcam	both	1074.82	16
+data	rcam	both	1074.94	16
+data	rcam	both	1075.06	16
+data	rcam	both	1075.18	16
+data	rcam	both	1075.18	16
+data	tcam	both	1074.22	16
+data	tcam	both	1074.34	16
+data	tcam	both	1074.46	16
+data	tcam	both	1074.58	16
+data	tcam	both	1074.70	16
+data	tcam	both	1074.82	16
+data	tcam	both	1074.94	16
+data	tcam	both	1075.06	16
+data	tcam	both	1075.18	16
+data	tcam	both	1075.18	16

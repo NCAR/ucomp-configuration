@@ -1,51 +1,51 @@
-DATE Wed Mar 20 11:57:10 2024
-AUTHOR: rcp GeneratorExpected execution time 216.8
-#DATATYPE BEAM  WAVELENGTH  NUMSUMS
-DATA RCAM	706.14	BOTH	16
-DATA RCAM	706.17	BOTH	16
-DATA RCAM	706.20	BOTH	16
-DATA RCAM	706.23	BOTH	16
-DATA RCAM	706.26	BOTH	16
-
-DATA TCAM	706.14	BOTH	16
-DATA TCAM	706.17	BOTH	16
-DATA TCAM	706.20	BOTH	16
-DATA TCAM	706.23	BOTH	16
-DATA TCAM	706.26	BOTH	16
-
-DATA RCAM	706.14	BOTH	16
-DATA RCAM	706.17	BOTH	16
-DATA RCAM	706.20	BOTH	16
-DATA RCAM	706.23	BOTH	16
-DATA RCAM	706.26	BOTH	16
-
-DATA TCAM	706.14	BOTH	16
-DATA TCAM	706.17	BOTH	16
-DATA TCAM	706.20	BOTH	16
-DATA TCAM	706.23	BOTH	16
-DATA TCAM	706.26	BOTH	16
-
-DATA RCAM	706.14	BOTH	16
-DATA RCAM	706.17	BOTH	16
-DATA RCAM	706.20	BOTH	16
-DATA RCAM	706.23	BOTH	16
-DATA RCAM	706.26	BOTH	16
-
-DATA TCAM	706.14	BOTH	16
-DATA TCAM	706.17	BOTH	16
-DATA TCAM	706.20	BOTH	16
-DATA TCAM	706.23	BOTH	16
-DATA TCAM	706.26	BOTH	16
-
-DATA RCAM	706.14	BOTH	16
-DATA RCAM	706.17	BOTH	16
-DATA RCAM	706.20	BOTH	16
-DATA RCAM	706.23	BOTH	16
-DATA RCAM	706.26	BOTH	16
-
-DATA TCAM	706.14	BOTH	16
-DATA TCAM	706.17	BOTH	16
-DATA TCAM	706.20	BOTH	16
-DATA TCAM	706.23	BOTH	16
-DATA TCAM	706.26	BOTH	16
-
+data	tcam	both	706.270	16
+data	tcam	both	706.270	16
+data	tcam	both	706.270	16
+data	rcam	both	706.14	16
+data	rcam	both	706.17	16
+data	rcam	both	706.20	16
+data	rcam	both	706.23	16
+data	rcam	both	706.26	16
+data	rcam	both	706.26	16
+data	tcam	both	706.14	16
+data	tcam	both	706.17	16
+data	tcam	both	706.20	16
+data	tcam	both	706.23	16
+data	tcam	both	706.26	16
+data	tcam	both	706.26	16
+data	rcam	both	706.14	16
+data	rcam	both	706.17	16
+data	rcam	both	706.20	16
+data	rcam	both	706.23	16
+data	rcam	both	706.26	16
+data	rcam	both	706.26	16
+data	tcam	both	706.14	16
+data	tcam	both	706.17	16
+data	tcam	both	706.20	16
+data	tcam	both	706.23	16
+data	tcam	both	706.26	16
+data	tcam	both	706.26	16
+data	rcam	both	706.14	16
+data	rcam	both	706.17	16
+data	rcam	both	706.20	16
+data	rcam	both	706.23	16
+data	rcam	both	706.26	16
+data	rcam	both	706.26	16
+data	tcam	both	706.14	16
+data	tcam	both	706.17	16
+data	tcam	both	706.20	16
+data	tcam	both	706.23	16
+data	tcam	both	706.26	16
+data	tcam	both	706.26	16
+data	rcam	both	706.14	16
+data	rcam	both	706.17	16
+data	rcam	both	706.20	16
+data	rcam	both	706.23	16
+data	rcam	both	706.26	16
+data	rcam	both	706.26	16
+data	tcam	both	706.14	16
+data	tcam	both	706.17	16
+data	tcam	both	706.20	16
+data	tcam	both	706.23	16
+data	tcam	both	706.26	16
+data	tcam	both	706.26	16

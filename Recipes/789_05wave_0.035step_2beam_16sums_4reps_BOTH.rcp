@@ -1,51 +1,51 @@
-DATE Mon Mar 18 16:30:58 2024
-AUTHOR: rcp GeneratorExpected execution time 216.8
-#DATATYPE BEAM  WAVELENGTH  NUMSUMS
-DATA RCAM	789.33	BOTH	16
-DATA RCAM	789.37	BOTH	16
-DATA RCAM	789.40	BOTH	16
-DATA RCAM	789.43	BOTH	16
-DATA RCAM	789.47	BOTH	16
-
-DATA TCAM	789.33	BOTH	16
-DATA TCAM	789.37	BOTH	16
-DATA TCAM	789.40	BOTH	16
-DATA TCAM	789.43	BOTH	16
-DATA TCAM	789.47	BOTH	16
-
-DATA RCAM	789.33	BOTH	16
-DATA RCAM	789.37	BOTH	16
-DATA RCAM	789.40	BOTH	16
-DATA RCAM	789.43	BOTH	16
-DATA RCAM	789.47	BOTH	16
-
-DATA TCAM	789.33	BOTH	16
-DATA TCAM	789.37	BOTH	16
-DATA TCAM	789.40	BOTH	16
-DATA TCAM	789.43	BOTH	16
-DATA TCAM	789.47	BOTH	16
-
-DATA RCAM	789.33	BOTH	16
-DATA RCAM	789.37	BOTH	16
-DATA RCAM	789.40	BOTH	16
-DATA RCAM	789.43	BOTH	16
-DATA RCAM	789.47	BOTH	16
-
-DATA TCAM	789.33	BOTH	16
-DATA TCAM	789.37	BOTH	16
-DATA TCAM	789.40	BOTH	16
-DATA TCAM	789.43	BOTH	16
-DATA TCAM	789.47	BOTH	16
-
-DATA RCAM	789.33	BOTH	16
-DATA RCAM	789.37	BOTH	16
-DATA RCAM	789.40	BOTH	16
-DATA RCAM	789.43	BOTH	16
-DATA RCAM	789.47	BOTH	16
-
-DATA TCAM	789.33	BOTH	16
-DATA TCAM	789.37	BOTH	16
-DATA TCAM	789.40	BOTH	16
-DATA TCAM	789.43	BOTH	16
-DATA TCAM	789.47	BOTH	16
-
+data	tcam	both	789.47	16
+data	tcam	both	789.47	16
+data	tcam	both	789.47	16
+data	rcam	both	789.33	16
+data	rcam	both	789.37	16
+data	rcam	both	789.40	16
+data	rcam	both	789.43	16
+data	rcam	both	789.47	16
+data	rcam	both	789.47	16
+data	tcam	both	789.33	16
+data	tcam	both	789.37	16
+data	tcam	both	789.40	16
+data	tcam	both	789.43	16
+data	tcam	both	789.47	16
+data	tcam	both	789.47	16
+data	rcam	both	789.33	16
+data	rcam	both	789.37	16
+data	rcam	both	789.40	16
+data	rcam	both	789.43	16
+data	rcam	both	789.47	16
+data	rcam	both	789.47	16
+data	tcam	both	789.33	16
+data	tcam	both	789.37	16
+data	tcam	both	789.40	16
+data	tcam	both	789.43	16
+data	tcam	both	789.47	16
+data	tcam	both	789.47	16
+data	rcam	both	789.33	16
+data	rcam	both	789.37	16
+data	rcam	both	789.40	16
+data	rcam	both	789.43	16
+data	rcam	both	789.47	16
+data	rcam	both	789.47	16
+data	tcam	both	789.33	16
+data	tcam	both	789.37	16
+data	tcam	both	789.40	16
+data	tcam	both	789.43	16
+data	tcam	both	789.47	16
+data	tcam	both	789.47	16
+data	rcam	both	789.33	16
+data	rcam	both	789.37	16
+data	rcam	both	789.40	16
+data	rcam	both	789.43	16
+data	rcam	both	789.47	16
+data	rcam	both	789.47	16
+data	tcam	both	789.33	16
+data	tcam	both	789.37	16
+data	tcam	both	789.40	16
+data	tcam	both	789.43	16
+data	tcam	both	789.47	16
+data	tcam	both	789.47	16
