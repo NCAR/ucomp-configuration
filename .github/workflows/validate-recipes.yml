@@ -186,7 +186,7 @@ jobs:
                 else:
                   for corona in coronal:
                     #c1 = corona.replace("tcam","rcam")
-                    if corona.replace("tcam","rcam").split("rcam") not in darks:
+                    if corona.replace("tcam","rcam").split("rcam")[0] not in darks:
                     
                       warning.write(f"{parent} missing dark for {corona}\n")
                     if corona not in flats:
