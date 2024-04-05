@@ -20,10 +20,7 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	tcam	both	1074.88	16 
-&#x1F4D7;  data	tcam	both	1074.88	16 
-&#x1F4D7;  data	tcam	both	1074.88	16 
-&#x1F4D7;  data	rcam	both	1074.22	16 
+ Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	1074.22	16 
 &#x1F4D7;  data	rcam	both	1074.34	16 
 &#x1F4D7;  data	rcam	both	1074.46	16 
 &#x1F4D7;  data	rcam	both	1074.58	16 
@@ -31,7 +28,6 @@
 &#x1F4D7;  data	rcam	both	1074.82	16 
 &#x1F4D7;  data	rcam	both	1074.94	16 
 &#x1F4D7;  data	rcam	both	1075.06	16 
-&#x1F4D7;  data	rcam	both	1075.18	16 
 &#x1F4D7;  data	rcam	both	1075.18	16 
 &#x1F4D7;  data	tcam	both	1074.22	16 
 &#x1F4D7;  data	tcam	both	1074.34	16 
@@ -42,16 +38,12 @@
 &#x1F4D7;  data	tcam	both	1074.94	16 
 &#x1F4D7;  data	tcam	both	1075.06	16 
 &#x1F4D7;  data	tcam	both	1075.18	16 
-&#x1F4D7;  data	tcam	both	1075.18	16 
- Integration:2.08 minutes.  Hardware:0.00 minutes. total:2.08 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:1.63 minutes.  Hardware:0.00 minutes. total:1.63 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	tcam	both	1074.88	16 
-&#x1F4D8;  data	tcam	both	1074.88	16 
-&#x1F4D8;  data	tcam	both	1074.88	16 
-&#x1F4D8;  data	rcam	both	1074.22	16 
+ Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	1074.22	16 
 &#x1F4D8;  data	rcam	both	1074.34	16 
 &#x1F4D8;  data	rcam	both	1074.46	16 
 &#x1F4D8;  data	rcam	both	1074.58	16 
@@ -59,7 +51,6 @@
 &#x1F4D8;  data	rcam	both	1074.82	16 
 &#x1F4D8;  data	rcam	both	1074.94	16 
 &#x1F4D8;  data	rcam	both	1075.06	16 
-&#x1F4D8;  data	rcam	both	1075.18	16 
 &#x1F4D8;  data	rcam	both	1075.18	16 
 &#x1F4D8;  data	tcam	both	1074.22	16 
 &#x1F4D8;  data	tcam	both	1074.34	16 
@@ -70,8 +61,7 @@
 &#x1F4D8;  data	tcam	both	1074.94	16 
 &#x1F4D8;  data	tcam	both	1075.06	16 
 &#x1F4D8;  data	tcam	both	1075.18	16 
-&#x1F4D8;  data	tcam	both	1075.18	16 
- Integration:2.08 minutes.  Hardware:0.00 minutes. total:2.08 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:1.63 minutes.  Hardware:0.00 minutes. total:1.63 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -324,7 +314,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:22.76 minutes.  Hardware:8.75 minutes. total:31.51 minutes  </pre></blockquote></details><details><summary>oldLineFineScan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:21.86 minutes.  Hardware:8.75 minutes. total:30.61 minutes  </pre></blockquote></details><details><summary>oldLineFineScan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -343,16 +333,12 @@
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	tcam	both	1074.88	16 
-&#x1F4D7;  data	tcam	both	1074.88	16 
-&#x1F4D7;  data	tcam	both	1074.88	16 
-&#x1F4D7;  data	rcam	both	1074.54	16 
+ Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	1074.54	16 
 &#x1F4D7;  data	rcam	both	1074.59	16 
 &#x1F4D7;  data	rcam	both	1074.64	16 
 &#x1F4D7;  data	rcam	both	1074.70	16 
 &#x1F4D7;  data	rcam	both	1074.76	16 
 &#x1F4D7;  data	rcam	both	1074.81	16 
-&#x1F4D7;  data	rcam	both	1074.86	16 
 &#x1F4D7;  data	rcam	both	1074.86	16 
 &#x1F4D7;  data	tcam	both	1074.54	16 
 &#x1F4D7;  data	tcam	both	1074.59	16 
@@ -361,14 +347,12 @@
 &#x1F4D7;  data	tcam	both	1074.76	16 
 &#x1F4D7;  data	tcam	both	1074.81	16 
 &#x1F4D7;  data	tcam	both	1074.86	16 
-&#x1F4D7;  data	tcam	both	1074.86	16 
 &#x1F4D7;  data	rcam	both	1074.54	16 
 &#x1F4D7;  data	rcam	both	1074.59	16 
 &#x1F4D7;  data	rcam	both	1074.64	16 
 &#x1F4D7;  data	rcam	both	1074.70	16 
 &#x1F4D7;  data	rcam	both	1074.76	16 
 &#x1F4D7;  data	rcam	both	1074.81	16 
-&#x1F4D7;  data	rcam	both	1074.86	16 
 &#x1F4D7;  data	rcam	both	1074.86	16 
 &#x1F4D7;  data	tcam	both	1074.54	16 
 &#x1F4D7;  data	tcam	both	1074.59	16 
@@ -377,14 +361,12 @@
 &#x1F4D7;  data	tcam	both	1074.76	16 
 &#x1F4D7;  data	tcam	both	1074.81	16 
 &#x1F4D7;  data	tcam	both	1074.86	16 
-&#x1F4D7;  data	tcam	both	1074.86	16 
 &#x1F4D7;  data	rcam	both	1074.54	16 
 &#x1F4D7;  data	rcam	both	1074.59	16 
 &#x1F4D7;  data	rcam	both	1074.64	16 
 &#x1F4D7;  data	rcam	both	1074.70	16 
 &#x1F4D7;  data	rcam	both	1074.76	16 
 &#x1F4D7;  data	rcam	both	1074.81	16 
-&#x1F4D7;  data	rcam	both	1074.86	16 
 &#x1F4D7;  data	rcam	both	1074.86	16 
 &#x1F4D7;  data	tcam	both	1074.54	16 
 &#x1F4D7;  data	tcam	both	1074.59	16 
@@ -393,14 +375,12 @@
 &#x1F4D7;  data	tcam	both	1074.76	16 
 &#x1F4D7;  data	tcam	both	1074.81	16 
 &#x1F4D7;  data	tcam	both	1074.86	16 
-&#x1F4D7;  data	tcam	both	1074.86	16 
 &#x1F4D7;  data	rcam	both	1074.54	16 
 &#x1F4D7;  data	rcam	both	1074.59	16 
 &#x1F4D7;  data	rcam	both	1074.64	16 
 &#x1F4D7;  data	rcam	both	1074.70	16 
 &#x1F4D7;  data	rcam	both	1074.76	16 
 &#x1F4D7;  data	rcam	both	1074.81	16 
-&#x1F4D7;  data	rcam	both	1074.86	16 
 &#x1F4D7;  data	rcam	both	1074.86	16 
 &#x1F4D7;  data	tcam	both	1074.54	16 
 &#x1F4D7;  data	tcam	both	1074.59	16 
@@ -409,22 +389,17 @@
 &#x1F4D7;  data	tcam	both	1074.76	16 
 &#x1F4D7;  data	tcam	both	1074.81	16 
 &#x1F4D7;  data	tcam	both	1074.86	16 
-&#x1F4D7;  data	tcam	both	1074.86	16 
- Integration:6.05 minutes.  Hardware:0.00 minutes. total:6.05 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:5.06 minutes.  Hardware:0.00 minutes. total:5.06 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	tcam	both	1074.88	16 
-&#x1F4D8;  data	tcam	both	1074.88	16 
-&#x1F4D8;  data	tcam	both	1074.88	16 
-&#x1F4D8;  data	rcam	both	1074.54	16 
+ Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	1074.54	16 
 &#x1F4D8;  data	rcam	both	1074.59	16 
 &#x1F4D8;  data	rcam	both	1074.64	16 
 &#x1F4D8;  data	rcam	both	1074.70	16 
 &#x1F4D8;  data	rcam	both	1074.76	16 
 &#x1F4D8;  data	rcam	both	1074.81	16 
-&#x1F4D8;  data	rcam	both	1074.86	16 
 &#x1F4D8;  data	rcam	both	1074.86	16 
 &#x1F4D8;  data	tcam	both	1074.54	16 
 &#x1F4D8;  data	tcam	both	1074.59	16 
@@ -433,14 +408,12 @@
 &#x1F4D8;  data	tcam	both	1074.76	16 
 &#x1F4D8;  data	tcam	both	1074.81	16 
 &#x1F4D8;  data	tcam	both	1074.86	16 
-&#x1F4D8;  data	tcam	both	1074.86	16 
 &#x1F4D8;  data	rcam	both	1074.54	16 
 &#x1F4D8;  data	rcam	both	1074.59	16 
 &#x1F4D8;  data	rcam	both	1074.64	16 
 &#x1F4D8;  data	rcam	both	1074.70	16 
 &#x1F4D8;  data	rcam	both	1074.76	16 
 &#x1F4D8;  data	rcam	both	1074.81	16 
-&#x1F4D8;  data	rcam	both	1074.86	16 
 &#x1F4D8;  data	rcam	both	1074.86	16 
 &#x1F4D8;  data	tcam	both	1074.54	16 
 &#x1F4D8;  data	tcam	both	1074.59	16 
@@ -449,14 +422,12 @@
 &#x1F4D8;  data	tcam	both	1074.76	16 
 &#x1F4D8;  data	tcam	both	1074.81	16 
 &#x1F4D8;  data	tcam	both	1074.86	16 
-&#x1F4D8;  data	tcam	both	1074.86	16 
 &#x1F4D8;  data	rcam	both	1074.54	16 
 &#x1F4D8;  data	rcam	both	1074.59	16 
 &#x1F4D8;  data	rcam	both	1074.64	16 
 &#x1F4D8;  data	rcam	both	1074.70	16 
 &#x1F4D8;  data	rcam	both	1074.76	16 
 &#x1F4D8;  data	rcam	both	1074.81	16 
-&#x1F4D8;  data	rcam	both	1074.86	16 
 &#x1F4D8;  data	rcam	both	1074.86	16 
 &#x1F4D8;  data	tcam	both	1074.54	16 
 &#x1F4D8;  data	tcam	both	1074.59	16 
@@ -465,14 +436,12 @@
 &#x1F4D8;  data	tcam	both	1074.76	16 
 &#x1F4D8;  data	tcam	both	1074.81	16 
 &#x1F4D8;  data	tcam	both	1074.86	16 
-&#x1F4D8;  data	tcam	both	1074.86	16 
 &#x1F4D8;  data	rcam	both	1074.54	16 
 &#x1F4D8;  data	rcam	both	1074.59	16 
 &#x1F4D8;  data	rcam	both	1074.64	16 
 &#x1F4D8;  data	rcam	both	1074.70	16 
 &#x1F4D8;  data	rcam	both	1074.76	16 
 &#x1F4D8;  data	rcam	both	1074.81	16 
-&#x1F4D8;  data	rcam	both	1074.86	16 
 &#x1F4D8;  data	rcam	both	1074.86	16 
 &#x1F4D8;  data	tcam	both	1074.54	16 
 &#x1F4D8;  data	tcam	both	1074.59	16 
@@ -481,24 +450,20 @@
 &#x1F4D8;  data	tcam	both	1074.76	16 
 &#x1F4D8;  data	tcam	both	1074.81	16 
 &#x1F4D8;  data	tcam	both	1074.86	16 
-&#x1F4D8;  data	tcam	both	1074.86	16 
- Integration:6.05 minutes.  Hardware:0.00 minutes. total:6.05 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
+ Integration:5.06 minutes.  Hardware:0.00 minutes. total:5.06 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre> prefilterrange 1079 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	rcam	both	1079.64	16 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	1079.64	16 
 &#x1F4D8;  data	rcam	both	1079.69	16 
 &#x1F4D8;  data	rcam	both	1079.74	16 
 &#x1F4D8;  data	rcam	both	1079.80	16 
 &#x1F4D8;  data	rcam	both	1079.86	16 
 &#x1F4D8;  data	rcam	both	1079.91	16 
 &#x1F4D8;  data	rcam	both	1079.96	16 
-&#x1F4D8;  data	rcam	both	1079.96	16 
+&#x1F4D8;  data	rcam	both	1079.98	16 
 &#x1F4D8;  data	tcam	both	1079.64	16 
 &#x1F4D8;  data	tcam	both	1079.69	16 
 &#x1F4D8;  data	tcam	both	1079.74	16 
@@ -507,8 +472,6 @@
 &#x1F4D8;  data	tcam	both	1079.91	16 
 &#x1F4D8;  data	tcam	both	1079.96	16 
 &#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	tcam	both	1079.98	16 
 &#x1F4D8;  data	rcam	both	1079.64	16 
 &#x1F4D8;  data	rcam	both	1079.69	16 
 &#x1F4D8;  data	rcam	both	1079.74	16 
@@ -516,7 +479,7 @@
 &#x1F4D8;  data	rcam	both	1079.86	16 
 &#x1F4D8;  data	rcam	both	1079.91	16 
 &#x1F4D8;  data	rcam	both	1079.96	16 
-&#x1F4D8;  data	rcam	both	1079.96	16 
+&#x1F4D8;  data	rcam	both	1079.98	16 
 &#x1F4D8;  data	tcam	both	1079.64	16 
 &#x1F4D8;  data	tcam	both	1079.69	16 
 &#x1F4D8;  data	tcam	both	1079.74	16 
@@ -525,8 +488,6 @@
 &#x1F4D8;  data	tcam	both	1079.91	16 
 &#x1F4D8;  data	tcam	both	1079.96	16 
 &#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	tcam	both	1079.98	16 
 &#x1F4D8;  data	rcam	both	1079.64	16 
 &#x1F4D8;  data	rcam	both	1079.69	16 
 &#x1F4D8;  data	rcam	both	1079.74	16 
@@ -534,7 +495,7 @@
 &#x1F4D8;  data	rcam	both	1079.86	16 
 &#x1F4D8;  data	rcam	both	1079.91	16 
 &#x1F4D8;  data	rcam	both	1079.96	16 
-&#x1F4D8;  data	rcam	both	1079.96	16 
+&#x1F4D8;  data	rcam	both	1079.98	16 
 &#x1F4D8;  data	tcam	both	1079.64	16 
 &#x1F4D8;  data	tcam	both	1079.69	16 
 &#x1F4D8;  data	tcam	both	1079.74	16 
@@ -543,8 +504,6 @@
 &#x1F4D8;  data	tcam	both	1079.91	16 
 &#x1F4D8;  data	tcam	both	1079.96	16 
 &#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	tcam	both	1079.98	16 
-&#x1F4D8;  data	tcam	both	1079.98	16 
 &#x1F4D8;  data	rcam	both	1079.64	16 
 &#x1F4D8;  data	rcam	both	1079.69	16 
 &#x1F4D8;  data	rcam	both	1079.74	16 
@@ -552,7 +511,7 @@
 &#x1F4D8;  data	rcam	both	1079.86	16 
 &#x1F4D8;  data	rcam	both	1079.91	16 
 &#x1F4D8;  data	rcam	both	1079.96	16 
-&#x1F4D8;  data	rcam	both	1079.96	16 
+&#x1F4D8;  data	rcam	both	1079.98	16 
 &#x1F4D8;  data	tcam	both	1079.64	16 
 &#x1F4D8;  data	tcam	both	1079.69	16 
 &#x1F4D8;  data	tcam	both	1079.74	16 
@@ -560,522 +519,457 @@
 &#x1F4D8;  data	tcam	both	1079.86	16 
 &#x1F4D8;  data	tcam	both	1079.91	16 
 &#x1F4D8;  data	tcam	both	1079.96	16 
+&#x1F4D8;  data	tcam	both	1079.98	16 
+ Integration:5.78 minutes.  Hardware:0.00 minutes. total:5.78 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ cover out 
+ calib	out 
+ occ		in 
+ diffuser out 
+ shut	out 
+ Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	1079.64	16 
+&#x1F4D7;  data	rcam	both	1079.69	16 
+&#x1F4D7;  data	rcam	both	1079.74	16 
+&#x1F4D7;  data	rcam	both	1079.80	16 
+&#x1F4D7;  data	rcam	both	1079.86	16 
+&#x1F4D7;  data	rcam	both	1079.91	16 
+&#x1F4D7;  data	rcam	both	1079.96	16 
+&#x1F4D7;  data	rcam	both	1079.98	16 
+&#x1F4D7;  data	tcam	both	1079.64	16 
+&#x1F4D7;  data	tcam	both	1079.69	16 
+&#x1F4D7;  data	tcam	both	1079.74	16 
+&#x1F4D7;  data	tcam	both	1079.80	16 
+&#x1F4D7;  data	tcam	both	1079.86	16 
+&#x1F4D7;  data	tcam	both	1079.91	16 
+&#x1F4D7;  data	tcam	both	1079.96	16 
+&#x1F4D7;  data	tcam	both	1079.98	16 
+&#x1F4D7;  data	rcam	both	1079.64	16 
+&#x1F4D7;  data	rcam	both	1079.69	16 
+&#x1F4D7;  data	rcam	both	1079.74	16 
+&#x1F4D7;  data	rcam	both	1079.80	16 
+&#x1F4D7;  data	rcam	both	1079.86	16 
+&#x1F4D7;  data	rcam	both	1079.91	16 
+&#x1F4D7;  data	rcam	both	1079.96	16 
+&#x1F4D7;  data	rcam	both	1079.98	16 
+&#x1F4D7;  data	tcam	both	1079.64	16 
+&#x1F4D7;  data	tcam	both	1079.69	16 
+&#x1F4D7;  data	tcam	both	1079.74	16 
+&#x1F4D7;  data	tcam	both	1079.80	16 
+&#x1F4D7;  data	tcam	both	1079.86	16 
+&#x1F4D7;  data	tcam	both	1079.91	16 
+&#x1F4D7;  data	tcam	both	1079.96	16 
+&#x1F4D7;  data	tcam	both	1079.98	16 
+&#x1F4D7;  data	rcam	both	1079.64	16 
+&#x1F4D7;  data	rcam	both	1079.69	16 
+&#x1F4D7;  data	rcam	both	1079.74	16 
+&#x1F4D7;  data	rcam	both	1079.80	16 
+&#x1F4D7;  data	rcam	both	1079.86	16 
+&#x1F4D7;  data	rcam	both	1079.91	16 
+&#x1F4D7;  data	rcam	both	1079.96	16 
+&#x1F4D7;  data	rcam	both	1079.98	16 
+&#x1F4D7;  data	tcam	both	1079.64	16 
+&#x1F4D7;  data	tcam	both	1079.69	16 
+&#x1F4D7;  data	tcam	both	1079.74	16 
+&#x1F4D7;  data	tcam	both	1079.80	16 
+&#x1F4D7;  data	tcam	both	1079.86	16 
+&#x1F4D7;  data	tcam	both	1079.91	16 
+&#x1F4D7;  data	tcam	both	1079.96	16 
+&#x1F4D7;  data	tcam	both	1079.98	16 
+&#x1F4D7;  data	rcam	both	1079.64	16 
+&#x1F4D7;  data	rcam	both	1079.69	16 
+&#x1F4D7;  data	rcam	both	1079.74	16 
+&#x1F4D7;  data	rcam	both	1079.80	16 
+&#x1F4D7;  data	rcam	both	1079.86	16 
+&#x1F4D7;  data	rcam	both	1079.91	16 
+&#x1F4D7;  data	rcam	both	1079.96	16 
+&#x1F4D7;  data	rcam	both	1079.98	16 
+&#x1F4D7;  data	tcam	both	1079.64	16 
+&#x1F4D7;  data	tcam	both	1079.69	16 
+&#x1F4D7;  data	tcam	both	1079.74	16 
+&#x1F4D7;  data	tcam	both	1079.80	16 
+&#x1F4D7;  data	tcam	both	1079.86	16 
+&#x1F4D7;  data	tcam	both	1079.91	16 
+&#x1F4D7;  data	tcam	both	1079.96	16 
+&#x1F4D7;  data	tcam	both	1079.98	16 
+ Integration:5.78 minutes.  Hardware:0.00 minutes. total:5.78 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	789.20	16 
+&#x1F4D7;  data	rcam	both	789.25	16 
+&#x1F4D7;  data	rcam	both	789.30	16 
+&#x1F4D7;  data	rcam	both	789.35	16 
+&#x1F4D7;  data	rcam	both	789.40	16 
+&#x1F4D7;  data	rcam	both	789.45	16 
+&#x1F4D7;  data	rcam	both	789.50	16 
+&#x1F4D7;  data	rcam	both	789.55	16 
+&#x1F4D7;  data	rcam	both	789.60	16 
+&#x1F4D7;  data	tcam	both	789.20	16 
+&#x1F4D7;  data	tcam	both	789.25	16 
+&#x1F4D7;  data	tcam	both	789.30	16 
+&#x1F4D7;  data	tcam	both	789.35	16 
+&#x1F4D7;  data	tcam	both	789.40	16 
+&#x1F4D7;  data	tcam	both	789.45	16 
+&#x1F4D7;  data	tcam	both	789.50	16 
+&#x1F4D7;  data	tcam	both	789.55	16 
+&#x1F4D7;  data	tcam	both	789.60	16 
+&#x1F4D7;  data	rcam	both	789.20	16 
+&#x1F4D7;  data	rcam	both	789.25	16 
+&#x1F4D7;  data	rcam	both	789.30	16 
+&#x1F4D7;  data	rcam	both	789.35	16 
+&#x1F4D7;  data	rcam	both	789.40	16 
+&#x1F4D7;  data	rcam	both	789.45	16 
+&#x1F4D7;  data	rcam	both	789.50	16 
+&#x1F4D7;  data	rcam	both	789.55	16 
+&#x1F4D7;  data	rcam	both	789.60	16 
+&#x1F4D7;  data	tcam	both	789.20	16 
+&#x1F4D7;  data	tcam	both	789.25	16 
+&#x1F4D7;  data	tcam	both	789.30	16 
+&#x1F4D7;  data	tcam	both	789.35	16 
+&#x1F4D7;  data	tcam	both	789.40	16 
+&#x1F4D7;  data	tcam	both	789.45	16 
+&#x1F4D7;  data	tcam	both	789.50	16 
+&#x1F4D7;  data	tcam	both	789.55	16 
+&#x1F4D7;  data	tcam	both	789.60	16 
+&#x1F4D7;  data	rcam	both	789.20	16 
+&#x1F4D7;  data	rcam	both	789.25	16 
+&#x1F4D7;  data	rcam	both	789.30	16 
+&#x1F4D7;  data	rcam	both	789.35	16 
+&#x1F4D7;  data	rcam	both	789.40	16 
+&#x1F4D7;  data	rcam	both	789.45	16 
+&#x1F4D7;  data	rcam	both	789.50	16 
+&#x1F4D7;  data	rcam	both	789.55	16 
+&#x1F4D7;  data	rcam	both	789.60	16 
+&#x1F4D7;  data	tcam	both	789.20	16 
+&#x1F4D7;  data	tcam	both	789.25	16 
+&#x1F4D7;  data	tcam	both	789.30	16 
+&#x1F4D7;  data	tcam	both	789.35	16 
+&#x1F4D7;  data	tcam	both	789.40	16 
+&#x1F4D7;  data	tcam	both	789.45	16 
+&#x1F4D7;  data	tcam	both	789.50	16 
+&#x1F4D7;  data	tcam	both	789.55	16 
+&#x1F4D7;  data	tcam	both	789.60	16 
+&#x1F4D7;  data	rcam	both	789.20	16 
+&#x1F4D7;  data	rcam	both	789.25	16 
+&#x1F4D7;  data	rcam	both	789.30	16 
+&#x1F4D7;  data	rcam	both	789.35	16 
+&#x1F4D7;  data	rcam	both	789.40	16 
+&#x1F4D7;  data	rcam	both	789.45	16 
+&#x1F4D7;  data	rcam	both	789.50	16 
+&#x1F4D7;  data	rcam	both	789.55	16 
+&#x1F4D7;  data	rcam	both	789.60	16 
+&#x1F4D7;  data	tcam	both	789.20	16 
+&#x1F4D7;  data	tcam	both	789.25	16 
+&#x1F4D7;  data	tcam	both	789.30	16 
+&#x1F4D7;  data	tcam	both	789.35	16 
+&#x1F4D7;  data	tcam	both	789.40	16 
+&#x1F4D7;  data	tcam	both	789.45	16 
+&#x1F4D7;  data	tcam	both	789.50	16 
+&#x1F4D7;  data	tcam	both	789.55	16 
+&#x1F4D7;  data	tcam	both	789.60	16 
+ Integration:6.50 minutes.  Hardware:0.00 minutes. total:6.50 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ cover out 
+ occ		out 
+ shut	out 
+ calib	out 
+ Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.20	16 
+&#x1F4D8;  data	rcam	both	789.25	16 
+&#x1F4D8;  data	rcam	both	789.30	16 
+&#x1F4D8;  data	rcam	both	789.35	16 
+&#x1F4D8;  data	rcam	both	789.40	16 
+&#x1F4D8;  data	rcam	both	789.45	16 
+&#x1F4D8;  data	rcam	both	789.50	16 
+&#x1F4D8;  data	rcam	both	789.55	16 
+&#x1F4D8;  data	rcam	both	789.60	16 
+&#x1F4D8;  data	tcam	both	789.20	16 
+&#x1F4D8;  data	tcam	both	789.25	16 
+&#x1F4D8;  data	tcam	both	789.30	16 
+&#x1F4D8;  data	tcam	both	789.35	16 
+&#x1F4D8;  data	tcam	both	789.40	16 
+&#x1F4D8;  data	tcam	both	789.45	16 
+&#x1F4D8;  data	tcam	both	789.50	16 
+&#x1F4D8;  data	tcam	both	789.55	16 
+&#x1F4D8;  data	tcam	both	789.60	16 
+&#x1F4D8;  data	rcam	both	789.20	16 
+&#x1F4D8;  data	rcam	both	789.25	16 
+&#x1F4D8;  data	rcam	both	789.30	16 
+&#x1F4D8;  data	rcam	both	789.35	16 
+&#x1F4D8;  data	rcam	both	789.40	16 
+&#x1F4D8;  data	rcam	both	789.45	16 
+&#x1F4D8;  data	rcam	both	789.50	16 
+&#x1F4D8;  data	rcam	both	789.55	16 
+&#x1F4D8;  data	rcam	both	789.60	16 
+&#x1F4D8;  data	tcam	both	789.20	16 
+&#x1F4D8;  data	tcam	both	789.25	16 
+&#x1F4D8;  data	tcam	both	789.30	16 
+&#x1F4D8;  data	tcam	both	789.35	16 
+&#x1F4D8;  data	tcam	both	789.40	16 
+&#x1F4D8;  data	tcam	both	789.45	16 
+&#x1F4D8;  data	tcam	both	789.50	16 
+&#x1F4D8;  data	tcam	both	789.55	16 
+&#x1F4D8;  data	tcam	both	789.60	16 
+&#x1F4D8;  data	rcam	both	789.20	16 
+&#x1F4D8;  data	rcam	both	789.25	16 
+&#x1F4D8;  data	rcam	both	789.30	16 
+&#x1F4D8;  data	rcam	both	789.35	16 
+&#x1F4D8;  data	rcam	both	789.40	16 
+&#x1F4D8;  data	rcam	both	789.45	16 
+&#x1F4D8;  data	rcam	both	789.50	16 
+&#x1F4D8;  data	rcam	both	789.55	16 
+&#x1F4D8;  data	rcam	both	789.60	16 
+&#x1F4D8;  data	tcam	both	789.20	16 
+&#x1F4D8;  data	tcam	both	789.25	16 
+&#x1F4D8;  data	tcam	both	789.30	16 
+&#x1F4D8;  data	tcam	both	789.35	16 
+&#x1F4D8;  data	tcam	both	789.40	16 
+&#x1F4D8;  data	tcam	both	789.45	16 
+&#x1F4D8;  data	tcam	both	789.50	16 
+&#x1F4D8;  data	tcam	both	789.55	16 
+&#x1F4D8;  data	tcam	both	789.60	16 
+&#x1F4D8;  data	rcam	both	789.20	16 
+&#x1F4D8;  data	rcam	both	789.25	16 
+&#x1F4D8;  data	rcam	both	789.30	16 
+&#x1F4D8;  data	rcam	both	789.35	16 
+&#x1F4D8;  data	rcam	both	789.40	16 
+&#x1F4D8;  data	rcam	both	789.45	16 
+&#x1F4D8;  data	rcam	both	789.50	16 
+&#x1F4D8;  data	rcam	both	789.55	16 
+&#x1F4D8;  data	rcam	both	789.60	16 
+&#x1F4D8;  data	tcam	both	789.20	16 
+&#x1F4D8;  data	tcam	both	789.25	16 
+&#x1F4D8;  data	tcam	both	789.30	16 
+&#x1F4D8;  data	tcam	both	789.35	16 
+&#x1F4D8;  data	tcam	both	789.40	16 
+&#x1F4D8;  data	tcam	both	789.45	16 
+&#x1F4D8;  data	tcam	both	789.50	16 
+&#x1F4D8;  data	tcam	both	789.55	16 
+&#x1F4D8;  data	tcam	both	789.60	16 
+ Integration:6.50 minutes.  Hardware:0.00 minutes. total:6.50 minutes  </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre> prefilterrange 637 
+ Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	637.24	16 
+&#x1F4D8;  data	rcam	both	637.28	16 
+&#x1F4D8;  data	rcam	both	637.32	16 
+&#x1F4D8;  data	rcam	both	637.36	16 
+&#x1F4D8;  data	rcam	both	637.40	16 
+&#x1F4D8;  data	rcam	both	637.44	16 
+&#x1F4D8;  data	rcam	both	637.48	16 
+&#x1F4D8;  data	rcam	both	637.52	16 
+&#x1F4D8;  data	rcam	both	637.56	16 
+&#x1F4D8;  data	tcam	both	637.24	16 
+&#x1F4D8;  data	tcam	both	637.28	16 
+&#x1F4D8;  data	tcam	both	637.32	16 
+&#x1F4D8;  data	tcam	both	637.36	16 
+&#x1F4D8;  data	tcam	both	637.40	16 
+&#x1F4D8;  data	tcam	both	637.44	16 
+&#x1F4D8;  data	tcam	both	637.48	16 
+&#x1F4D8;  data	tcam	both	637.52	16 
+&#x1F4D8;  data	tcam	both	637.56	16 
+&#x1F4D8;  data	rcam	both	637.24	16 
+&#x1F4D8;  data	rcam	both	637.28	16 
+&#x1F4D8;  data	rcam	both	637.32	16 
+&#x1F4D8;  data	rcam	both	637.36	16 
+&#x1F4D8;  data	rcam	both	637.40	16 
+&#x1F4D8;  data	rcam	both	637.44	16 
+&#x1F4D8;  data	rcam	both	637.48	16 
+&#x1F4D8;  data	rcam	both	637.52	16 
+&#x1F4D8;  data	rcam	both	637.56	16 
+&#x1F4D8;  data	tcam	both	637.24	16 
+&#x1F4D8;  data	tcam	both	637.28	16 
+&#x1F4D8;  data	tcam	both	637.32	16 
+&#x1F4D8;  data	tcam	both	637.36	16 
+&#x1F4D8;  data	tcam	both	637.40	16 
+&#x1F4D8;  data	tcam	both	637.44	16 
+&#x1F4D8;  data	tcam	both	637.48	16 
+&#x1F4D8;  data	tcam	both	637.52	16 
+&#x1F4D8;  data	tcam	both	637.56	16 
+&#x1F4D8;  data	rcam	both	637.24	16 
+&#x1F4D8;  data	rcam	both	637.28	16 
+&#x1F4D8;  data	rcam	both	637.32	16 
+&#x1F4D8;  data	rcam	both	637.36	16 
+&#x1F4D8;  data	rcam	both	637.40	16 
+&#x1F4D8;  data	rcam	both	637.44	16 
+&#x1F4D8;  data	rcam	both	637.48	16 
+&#x1F4D8;  data	rcam	both	637.52	16 
+&#x1F4D8;  data	rcam	both	637.56	16 
+&#x1F4D8;  data	tcam	both	637.24	16 
+&#x1F4D8;  data	tcam	both	637.28	16 
+&#x1F4D8;  data	tcam	both	637.32	16 
+&#x1F4D8;  data	tcam	both	637.36	16 
+&#x1F4D8;  data	tcam	both	637.40	16 
+&#x1F4D8;  data	tcam	both	637.44	16 
+&#x1F4D8;  data	tcam	both	637.48	16 
+&#x1F4D8;  data	tcam	both	637.52	16 
+&#x1F4D8;  data	tcam	both	637.56	16 
+&#x1F4D8;  data	rcam	both	637.24	16 
+&#x1F4D8;  data	rcam	both	637.28	16 
+&#x1F4D8;  data	rcam	both	637.32	16 
+&#x1F4D8;  data	rcam	both	637.36	16 
+&#x1F4D8;  data	rcam	both	637.40	16 
+&#x1F4D8;  data	rcam	both	637.44	16 
+&#x1F4D8;  data	rcam	both	637.48	16 
+&#x1F4D8;  data	rcam	both	637.52	16 
+&#x1F4D8;  data	rcam	both	637.56	16 
+&#x1F4D8;  data	tcam	both	637.24	16 
+&#x1F4D8;  data	tcam	both	637.28	16 
+&#x1F4D8;  data	tcam	both	637.32	16 
+&#x1F4D8;  data	tcam	both	637.36	16 
+&#x1F4D8;  data	tcam	both	637.40	16 
+&#x1F4D8;  data	tcam	both	637.44	16 
+&#x1F4D8;  data	tcam	both	637.48	16 
+&#x1F4D8;  data	tcam	both	637.52	16 
+&#x1F4D8;  data	tcam	both	637.56	16 
  Integration:6.50 minutes.  Hardware:0.00 minutes. total:6.50 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
  diffuser out 
  shut	out 
- Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	rcam	both	1079.64	16 
-&#x1F4D7;  data	rcam	both	1079.69	16 
-&#x1F4D7;  data	rcam	both	1079.74	16 
-&#x1F4D7;  data	rcam	both	1079.80	16 
-&#x1F4D7;  data	rcam	both	1079.86	16 
-&#x1F4D7;  data	rcam	both	1079.91	16 
-&#x1F4D7;  data	rcam	both	1079.96	16 
-&#x1F4D7;  data	rcam	both	1079.96	16 
-&#x1F4D7;  data	tcam	both	1079.64	16 
-&#x1F4D7;  data	tcam	both	1079.69	16 
-&#x1F4D7;  data	tcam	both	1079.74	16 
-&#x1F4D7;  data	tcam	both	1079.80	16 
-&#x1F4D7;  data	tcam	both	1079.86	16 
-&#x1F4D7;  data	tcam	both	1079.91	16 
-&#x1F4D7;  data	tcam	both	1079.96	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	rcam	both	1079.64	16 
-&#x1F4D7;  data	rcam	both	1079.69	16 
-&#x1F4D7;  data	rcam	both	1079.74	16 
-&#x1F4D7;  data	rcam	both	1079.80	16 
-&#x1F4D7;  data	rcam	both	1079.86	16 
-&#x1F4D7;  data	rcam	both	1079.91	16 
-&#x1F4D7;  data	rcam	both	1079.96	16 
-&#x1F4D7;  data	rcam	both	1079.96	16 
-&#x1F4D7;  data	tcam	both	1079.64	16 
-&#x1F4D7;  data	tcam	both	1079.69	16 
-&#x1F4D7;  data	tcam	both	1079.74	16 
-&#x1F4D7;  data	tcam	both	1079.80	16 
-&#x1F4D7;  data	tcam	both	1079.86	16 
-&#x1F4D7;  data	tcam	both	1079.91	16 
-&#x1F4D7;  data	tcam	both	1079.96	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	rcam	both	1079.64	16 
-&#x1F4D7;  data	rcam	both	1079.69	16 
-&#x1F4D7;  data	rcam	both	1079.74	16 
-&#x1F4D7;  data	rcam	both	1079.80	16 
-&#x1F4D7;  data	rcam	both	1079.86	16 
-&#x1F4D7;  data	rcam	both	1079.91	16 
-&#x1F4D7;  data	rcam	both	1079.96	16 
-&#x1F4D7;  data	rcam	both	1079.96	16 
-&#x1F4D7;  data	tcam	both	1079.64	16 
-&#x1F4D7;  data	tcam	both	1079.69	16 
-&#x1F4D7;  data	tcam	both	1079.74	16 
-&#x1F4D7;  data	tcam	both	1079.80	16 
-&#x1F4D7;  data	tcam	both	1079.86	16 
-&#x1F4D7;  data	tcam	both	1079.91	16 
-&#x1F4D7;  data	tcam	both	1079.96	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	tcam	both	1079.98	16 
-&#x1F4D7;  data	rcam	both	1079.64	16 
-&#x1F4D7;  data	rcam	both	1079.69	16 
-&#x1F4D7;  data	rcam	both	1079.74	16 
-&#x1F4D7;  data	rcam	both	1079.80	16 
-&#x1F4D7;  data	rcam	both	1079.86	16 
-&#x1F4D7;  data	rcam	both	1079.91	16 
-&#x1F4D7;  data	rcam	both	1079.96	16 
-&#x1F4D7;  data	rcam	both	1079.96	16 
-&#x1F4D7;  data	tcam	both	1079.64	16 
-&#x1F4D7;  data	tcam	both	1079.69	16 
-&#x1F4D7;  data	tcam	both	1079.74	16 
-&#x1F4D7;  data	tcam	both	1079.80	16 
-&#x1F4D7;  data	tcam	both	1079.86	16 
-&#x1F4D7;  data	tcam	both	1079.91	16 
-&#x1F4D7;  data	tcam	both	1079.96	16 
- Integration:6.50 minutes.  Hardware:0.00 minutes. total:6.50 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
- Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	tcam	both	789.56	16 
-&#x1F4D7;  data	tcam	both	789.56	16 
-&#x1F4D7;  data	tcam	both	789.56	16 
-&#x1F4D7;  data	rcam	both	789.20	16 
-&#x1F4D7;  data	rcam	both	789.25	16 
-&#x1F4D7;  data	rcam	both	789.30	16 
-&#x1F4D7;  data	rcam	both	789.35	16 
-&#x1F4D7;  data	rcam	both	789.40	16 
-&#x1F4D7;  data	rcam	both	789.45	16 
-&#x1F4D7;  data	rcam	both	789.50	16 
-&#x1F4D7;  data	rcam	both	789.55	16 
-&#x1F4D7;  data	rcam	both	789.60	16 
-&#x1F4D7;  data	rcam	both	789.60	16 
-&#x1F4D7;  data	tcam	both	789.20	16 
-&#x1F4D7;  data	tcam	both	789.25	16 
-&#x1F4D7;  data	tcam	both	789.30	16 
-&#x1F4D7;  data	tcam	both	789.35	16 
-&#x1F4D7;  data	tcam	both	789.40	16 
-&#x1F4D7;  data	tcam	both	789.45	16 
-&#x1F4D7;  data	tcam	both	789.50	16 
-&#x1F4D7;  data	tcam	both	789.55	16 
-&#x1F4D7;  data	tcam	both	789.60	16 
-&#x1F4D7;  data	tcam	both	789.60	16 
-&#x1F4D7;  data	rcam	both	789.20	16 
-&#x1F4D7;  data	rcam	both	789.25	16 
-&#x1F4D7;  data	rcam	both	789.30	16 
-&#x1F4D7;  data	rcam	both	789.35	16 
-&#x1F4D7;  data	rcam	both	789.40	16 
-&#x1F4D7;  data	rcam	both	789.45	16 
-&#x1F4D7;  data	rcam	both	789.50	16 
-&#x1F4D7;  data	rcam	both	789.55	16 
-&#x1F4D7;  data	rcam	both	789.60	16 
-&#x1F4D7;  data	rcam	both	789.60	16 
-&#x1F4D7;  data	tcam	both	789.20	16 
-&#x1F4D7;  data	tcam	both	789.25	16 
-&#x1F4D7;  data	tcam	both	789.30	16 
-&#x1F4D7;  data	tcam	both	789.35	16 
-&#x1F4D7;  data	tcam	both	789.40	16 
-&#x1F4D7;  data	tcam	both	789.45	16 
-&#x1F4D7;  data	tcam	both	789.50	16 
-&#x1F4D7;  data	tcam	both	789.55	16 
-&#x1F4D7;  data	tcam	both	789.60	16 
-&#x1F4D7;  data	tcam	both	789.60	16 
-&#x1F4D7;  data	rcam	both	789.20	16 
-&#x1F4D7;  data	rcam	both	789.25	16 
-&#x1F4D7;  data	rcam	both	789.30	16 
-&#x1F4D7;  data	rcam	both	789.35	16 
-&#x1F4D7;  data	rcam	both	789.40	16 
-&#x1F4D7;  data	rcam	both	789.45	16 
-&#x1F4D7;  data	rcam	both	789.50	16 
-&#x1F4D7;  data	rcam	both	789.55	16 
-&#x1F4D7;  data	rcam	both	789.60	16 
-&#x1F4D7;  data	rcam	both	789.60	16 
-&#x1F4D7;  data	tcam	both	789.20	16 
-&#x1F4D7;  data	tcam	both	789.25	16 
-&#x1F4D7;  data	tcam	both	789.30	16 
-&#x1F4D7;  data	tcam	both	789.35	16 
-&#x1F4D7;  data	tcam	both	789.40	16 
-&#x1F4D7;  data	tcam	both	789.45	16 
-&#x1F4D7;  data	tcam	both	789.50	16 
-&#x1F4D7;  data	tcam	both	789.55	16 
-&#x1F4D7;  data	tcam	both	789.60	16 
-&#x1F4D7;  data	tcam	both	789.60	16 
-&#x1F4D7;  data	rcam	both	789.20	16 
-&#x1F4D7;  data	rcam	both	789.25	16 
-&#x1F4D7;  data	rcam	both	789.30	16 
-&#x1F4D7;  data	rcam	both	789.35	16 
-&#x1F4D7;  data	rcam	both	789.40	16 
-&#x1F4D7;  data	rcam	both	789.45	16 
-&#x1F4D7;  data	rcam	both	789.50	16 
-&#x1F4D7;  data	rcam	both	789.55	16 
-&#x1F4D7;  data	rcam	both	789.60	16 
-&#x1F4D7;  data	rcam	both	789.60	16 
-&#x1F4D7;  data	tcam	both	789.20	16 
-&#x1F4D7;  data	tcam	both	789.25	16 
-&#x1F4D7;  data	tcam	both	789.30	16 
-&#x1F4D7;  data	tcam	both	789.35	16 
-&#x1F4D7;  data	tcam	both	789.40	16 
-&#x1F4D7;  data	tcam	both	789.45	16 
-&#x1F4D7;  data	tcam	both	789.50	16 
-&#x1F4D7;  data	tcam	both	789.55	16 
-&#x1F4D7;  data	tcam	both	789.60	16 
-&#x1F4D7;  data	tcam	both	789.60	16 
- Integration:7.50 minutes.  Hardware:0.00 minutes. total:7.50 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	637.24	16 
+&#x1F4D7;  data	rcam	both	637.28	16 
+&#x1F4D7;  data	rcam	both	637.32	16 
+&#x1F4D7;  data	rcam	both	637.36	16 
+&#x1F4D7;  data	rcam	both	637.40	16 
+&#x1F4D7;  data	rcam	both	637.44	16 
+&#x1F4D7;  data	rcam	both	637.48	16 
+&#x1F4D7;  data	rcam	both	637.52	16 
+&#x1F4D7;  data	rcam	both	637.56	16 
+&#x1F4D7;  data	tcam	both	637.24	16 
+&#x1F4D7;  data	tcam	both	637.28	16 
+&#x1F4D7;  data	tcam	both	637.32	16 
+&#x1F4D7;  data	tcam	both	637.36	16 
+&#x1F4D7;  data	tcam	both	637.40	16 
+&#x1F4D7;  data	tcam	both	637.44	16 
+&#x1F4D7;  data	tcam	both	637.48	16 
+&#x1F4D7;  data	tcam	both	637.52	16 
+&#x1F4D7;  data	tcam	both	637.56	16 
+&#x1F4D7;  data	rcam	both	637.24	16 
+&#x1F4D7;  data	rcam	both	637.28	16 
+&#x1F4D7;  data	rcam	both	637.32	16 
+&#x1F4D7;  data	rcam	both	637.36	16 
+&#x1F4D7;  data	rcam	both	637.40	16 
+&#x1F4D7;  data	rcam	both	637.44	16 
+&#x1F4D7;  data	rcam	both	637.48	16 
+&#x1F4D7;  data	rcam	both	637.52	16 
+&#x1F4D7;  data	rcam	both	637.56	16 
+&#x1F4D7;  data	tcam	both	637.24	16 
+&#x1F4D7;  data	tcam	both	637.28	16 
+&#x1F4D7;  data	tcam	both	637.32	16 
+&#x1F4D7;  data	tcam	both	637.36	16 
+&#x1F4D7;  data	tcam	both	637.40	16 
+&#x1F4D7;  data	tcam	both	637.44	16 
+&#x1F4D7;  data	tcam	both	637.48	16 
+&#x1F4D7;  data	tcam	both	637.52	16 
+&#x1F4D7;  data	tcam	both	637.56	16 
+&#x1F4D7;  data	rcam	both	637.24	16 
+&#x1F4D7;  data	rcam	both	637.28	16 
+&#x1F4D7;  data	rcam	both	637.32	16 
+&#x1F4D7;  data	rcam	both	637.36	16 
+&#x1F4D7;  data	rcam	both	637.40	16 
+&#x1F4D7;  data	rcam	both	637.44	16 
+&#x1F4D7;  data	rcam	both	637.48	16 
+&#x1F4D7;  data	rcam	both	637.52	16 
+&#x1F4D7;  data	rcam	both	637.56	16 
+&#x1F4D7;  data	tcam	both	637.24	16 
+&#x1F4D7;  data	tcam	both	637.28	16 
+&#x1F4D7;  data	tcam	both	637.32	16 
+&#x1F4D7;  data	tcam	both	637.36	16 
+&#x1F4D7;  data	tcam	both	637.40	16 
+&#x1F4D7;  data	tcam	both	637.44	16 
+&#x1F4D7;  data	tcam	both	637.48	16 
+&#x1F4D7;  data	tcam	both	637.52	16 
+&#x1F4D7;  data	tcam	both	637.56	16 
+&#x1F4D7;  data	rcam	both	637.24	16 
+&#x1F4D7;  data	rcam	both	637.28	16 
+&#x1F4D7;  data	rcam	both	637.32	16 
+&#x1F4D7;  data	rcam	both	637.36	16 
+&#x1F4D7;  data	rcam	both	637.40	16 
+&#x1F4D7;  data	rcam	both	637.44	16 
+&#x1F4D7;  data	rcam	both	637.48	16 
+&#x1F4D7;  data	rcam	both	637.52	16 
+&#x1F4D7;  data	rcam	both	637.56	16 
+&#x1F4D7;  data	tcam	both	637.24	16 
+&#x1F4D7;  data	tcam	both	637.28	16 
+&#x1F4D7;  data	tcam	both	637.32	16 
+&#x1F4D7;  data	tcam	both	637.36	16 
+&#x1F4D7;  data	tcam	both	637.40	16 
+&#x1F4D7;  data	tcam	both	637.44	16 
+&#x1F4D7;  data	tcam	both	637.48	16 
+&#x1F4D7;  data	tcam	both	637.52	16 
+&#x1F4D7;  data	tcam	both	637.56	16 
+ Integration:6.50 minutes.  Hardware:0.00 minutes. total:6.50 minutes  </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre> prefilterrange 706 
+ Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	706.04	16 
+&#x1F4D7;  data	rcam	both	706.08	16 
+&#x1F4D7;  data	rcam	both	706.12	16 
+&#x1F4D7;  data	rcam	both	706.16	16 
+&#x1F4D7;  data	rcam	both	706.20	16 
+&#x1F4D7;  data	rcam	both	706.24	16 
+&#x1F4D7;  data	rcam	both	706.28	16 
+&#x1F4D7;  data	rcam	both	706.32	16 
+&#x1F4D7;  data	rcam	both	706.36	16 
+&#x1F4D7;  data	tcam	both	706.04	16 
+&#x1F4D7;  data	tcam	both	706.08	16 
+&#x1F4D7;  data	tcam	both	706.12	16 
+&#x1F4D7;  data	tcam	both	706.16	16 
+&#x1F4D7;  data	tcam	both	706.20	16 
+&#x1F4D7;  data	tcam	both	706.24	16 
+&#x1F4D7;  data	tcam	both	706.28	16 
+&#x1F4D7;  data	tcam	both	706.32	16 
+&#x1F4D7;  data	tcam	both	706.36	16 
+&#x1F4D7;  data	rcam	both	706.04	16 
+&#x1F4D7;  data	rcam	both	706.08	16 
+&#x1F4D7;  data	rcam	both	706.12	16 
+&#x1F4D7;  data	rcam	both	706.16	16 
+&#x1F4D7;  data	rcam	both	706.20	16 
+&#x1F4D7;  data	rcam	both	706.24	16 
+&#x1F4D7;  data	rcam	both	706.28	16 
+&#x1F4D7;  data	rcam	both	706.32	16 
+&#x1F4D7;  data	rcam	both	706.36	16 
+&#x1F4D7;  data	tcam	both	706.04	16 
+&#x1F4D7;  data	tcam	both	706.08	16 
+&#x1F4D7;  data	tcam	both	706.12	16 
+&#x1F4D7;  data	tcam	both	706.16	16 
+&#x1F4D7;  data	tcam	both	706.20	16 
+&#x1F4D7;  data	tcam	both	706.24	16 
+&#x1F4D7;  data	tcam	both	706.28	16 
+&#x1F4D7;  data	tcam	both	706.32	16 
+&#x1F4D7;  data	tcam	both	706.36	16 
+&#x1F4D7;  data	rcam	both	706.04	16 
+&#x1F4D7;  data	rcam	both	706.08	16 
+&#x1F4D7;  data	rcam	both	706.12	16 
+&#x1F4D7;  data	rcam	both	706.16	16 
+&#x1F4D7;  data	rcam	both	706.20	16 
+&#x1F4D7;  data	rcam	both	706.24	16 
+&#x1F4D7;  data	rcam	both	706.28	16 
+&#x1F4D7;  data	rcam	both	706.32	16 
+&#x1F4D7;  data	rcam	both	706.36	16 
+&#x1F4D7;  data	tcam	both	706.04	16 
+&#x1F4D7;  data	tcam	both	706.08	16 
+&#x1F4D7;  data	tcam	both	706.12	16 
+&#x1F4D7;  data	tcam	both	706.16	16 
+&#x1F4D7;  data	tcam	both	706.20	16 
+&#x1F4D7;  data	tcam	both	706.24	16 
+&#x1F4D7;  data	tcam	both	706.28	16 
+&#x1F4D7;  data	tcam	both	706.32	16 
+&#x1F4D7;  data	tcam	both	706.36	16 
+&#x1F4D7;  data	rcam	both	706.04	16 
+&#x1F4D7;  data	rcam	both	706.08	16 
+&#x1F4D7;  data	rcam	both	706.12	16 
+&#x1F4D7;  data	rcam	both	706.16	16 
+&#x1F4D7;  data	rcam	both	706.20	16 
+&#x1F4D7;  data	rcam	both	706.24	16 
+&#x1F4D7;  data	rcam	both	706.28	16 
+&#x1F4D7;  data	rcam	both	706.32	16 
+&#x1F4D7;  data	rcam	both	706.36	16 
+&#x1F4D7;  data	tcam	both	706.04	16 
+&#x1F4D7;  data	tcam	both	706.08	16 
+&#x1F4D7;  data	tcam	both	706.12	16 
+&#x1F4D7;  data	tcam	both	706.16	16 
+&#x1F4D7;  data	tcam	both	706.20	16 
+&#x1F4D7;  data	tcam	both	706.24	16 
+&#x1F4D7;  data	tcam	both	706.28	16 
+&#x1F4D7;  data	tcam	both	706.32	16 
+&#x1F4D7;  data	tcam	both	706.36	16 
+ Integration:6.50 minutes.  Hardware:0.00 minutes. total:6.50 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
  calib	out 
- Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	tcam	both	789.56	16 
-&#x1F4D8;  data	tcam	both	789.56	16 
-&#x1F4D8;  data	tcam	both	789.56	16 
-&#x1F4D8;  data	rcam	both	789.20	16 
-&#x1F4D8;  data	rcam	both	789.25	16 
-&#x1F4D8;  data	rcam	both	789.30	16 
-&#x1F4D8;  data	rcam	both	789.35	16 
-&#x1F4D8;  data	rcam	both	789.40	16 
-&#x1F4D8;  data	rcam	both	789.45	16 
-&#x1F4D8;  data	rcam	both	789.50	16 
-&#x1F4D8;  data	rcam	both	789.55	16 
-&#x1F4D8;  data	rcam	both	789.60	16 
-&#x1F4D8;  data	rcam	both	789.60	16 
-&#x1F4D8;  data	tcam	both	789.20	16 
-&#x1F4D8;  data	tcam	both	789.25	16 
-&#x1F4D8;  data	tcam	both	789.30	16 
-&#x1F4D8;  data	tcam	both	789.35	16 
-&#x1F4D8;  data	tcam	both	789.40	16 
-&#x1F4D8;  data	tcam	both	789.45	16 
-&#x1F4D8;  data	tcam	both	789.50	16 
-&#x1F4D8;  data	tcam	both	789.55	16 
-&#x1F4D8;  data	tcam	both	789.60	16 
-&#x1F4D8;  data	tcam	both	789.60	16 
-&#x1F4D8;  data	rcam	both	789.20	16 
-&#x1F4D8;  data	rcam	both	789.25	16 
-&#x1F4D8;  data	rcam	both	789.30	16 
-&#x1F4D8;  data	rcam	both	789.35	16 
-&#x1F4D8;  data	rcam	both	789.40	16 
-&#x1F4D8;  data	rcam	both	789.45	16 
-&#x1F4D8;  data	rcam	both	789.50	16 
-&#x1F4D8;  data	rcam	both	789.55	16 
-&#x1F4D8;  data	rcam	both	789.60	16 
-&#x1F4D8;  data	rcam	both	789.60	16 
-&#x1F4D8;  data	tcam	both	789.20	16 
-&#x1F4D8;  data	tcam	both	789.25	16 
-&#x1F4D8;  data	tcam	both	789.30	16 
-&#x1F4D8;  data	tcam	both	789.35	16 
-&#x1F4D8;  data	tcam	both	789.40	16 
-&#x1F4D8;  data	tcam	both	789.45	16 
-&#x1F4D8;  data	tcam	both	789.50	16 
-&#x1F4D8;  data	tcam	both	789.55	16 
-&#x1F4D8;  data	tcam	both	789.60	16 
-&#x1F4D8;  data	tcam	both	789.60	16 
-&#x1F4D8;  data	rcam	both	789.20	16 
-&#x1F4D8;  data	rcam	both	789.25	16 
-&#x1F4D8;  data	rcam	both	789.30	16 
-&#x1F4D8;  data	rcam	both	789.35	16 
-&#x1F4D8;  data	rcam	both	789.40	16 
-&#x1F4D8;  data	rcam	both	789.45	16 
-&#x1F4D8;  data	rcam	both	789.50	16 
-&#x1F4D8;  data	rcam	both	789.55	16 
-&#x1F4D8;  data	rcam	both	789.60	16 
-&#x1F4D8;  data	rcam	both	789.60	16 
-&#x1F4D8;  data	tcam	both	789.20	16 
-&#x1F4D8;  data	tcam	both	789.25	16 
-&#x1F4D8;  data	tcam	both	789.30	16 
-&#x1F4D8;  data	tcam	both	789.35	16 
-&#x1F4D8;  data	tcam	both	789.40	16 
-&#x1F4D8;  data	tcam	both	789.45	16 
-&#x1F4D8;  data	tcam	both	789.50	16 
-&#x1F4D8;  data	tcam	both	789.55	16 
-&#x1F4D8;  data	tcam	both	789.60	16 
-&#x1F4D8;  data	tcam	both	789.60	16 
-&#x1F4D8;  data	rcam	both	789.20	16 
-&#x1F4D8;  data	rcam	both	789.25	16 
-&#x1F4D8;  data	rcam	both	789.30	16 
-&#x1F4D8;  data	rcam	both	789.35	16 
-&#x1F4D8;  data	rcam	both	789.40	16 
-&#x1F4D8;  data	rcam	both	789.45	16 
-&#x1F4D8;  data	rcam	both	789.50	16 
-&#x1F4D8;  data	rcam	both	789.55	16 
-&#x1F4D8;  data	rcam	both	789.60	16 
-&#x1F4D8;  data	rcam	both	789.60	16 
-&#x1F4D8;  data	tcam	both	789.20	16 
-&#x1F4D8;  data	tcam	both	789.25	16 
-&#x1F4D8;  data	tcam	both	789.30	16 
-&#x1F4D8;  data	tcam	both	789.35	16 
-&#x1F4D8;  data	tcam	both	789.40	16 
-&#x1F4D8;  data	tcam	both	789.45	16 
-&#x1F4D8;  data	tcam	both	789.50	16 
-&#x1F4D8;  data	tcam	both	789.55	16 
-&#x1F4D8;  data	tcam	both	789.60	16 
-&#x1F4D8;  data	tcam	both	789.60	16 
- Integration:7.50 minutes.  Hardware:0.00 minutes. total:7.50 minutes  </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre> prefilterrange 637 
- Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	tcam	both	637.52	16 
-&#x1F4D8;  data	tcam	both	637.52	16 
-&#x1F4D8;  data	tcam	both	637.52	16 
-&#x1F4D8;  data	rcam	both	637.24	16 
-&#x1F4D8;  data	rcam	both	637.28	16 
-&#x1F4D8;  data	rcam	both	637.32	16 
-&#x1F4D8;  data	rcam	both	637.36	16 
-&#x1F4D8;  data	rcam	both	637.40	16 
-&#x1F4D8;  data	rcam	both	637.44	16 
-&#x1F4D8;  data	rcam	both	637.48	16 
-&#x1F4D8;  data	rcam	both	637.52	16 
-&#x1F4D8;  data	rcam	both	637.56	16 
-&#x1F4D8;  data	rcam	both	637.56	16 
-&#x1F4D8;  data	tcam	both	637.24	16 
-&#x1F4D8;  data	tcam	both	637.28	16 
-&#x1F4D8;  data	tcam	both	637.32	16 
-&#x1F4D8;  data	tcam	both	637.36	16 
-&#x1F4D8;  data	tcam	both	637.40	16 
-&#x1F4D8;  data	tcam	both	637.44	16 
-&#x1F4D8;  data	tcam	both	637.48	16 
-&#x1F4D8;  data	tcam	both	637.52	16 
-&#x1F4D8;  data	tcam	both	637.56	16 
-&#x1F4D8;  data	tcam	both	637.56	16 
-&#x1F4D8;  data	rcam	both	637.24	16 
-&#x1F4D8;  data	rcam	both	637.28	16 
-&#x1F4D8;  data	rcam	both	637.32	16 
-&#x1F4D8;  data	rcam	both	637.36	16 
-&#x1F4D8;  data	rcam	both	637.40	16 
-&#x1F4D8;  data	rcam	both	637.44	16 
-&#x1F4D8;  data	rcam	both	637.48	16 
-&#x1F4D8;  data	rcam	both	637.52	16 
-&#x1F4D8;  data	rcam	both	637.56	16 
-&#x1F4D8;  data	rcam	both	637.56	16 
-&#x1F4D8;  data	tcam	both	637.24	16 
-&#x1F4D8;  data	tcam	both	637.28	16 
-&#x1F4D8;  data	tcam	both	637.32	16 
-&#x1F4D8;  data	tcam	both	637.36	16 
-&#x1F4D8;  data	tcam	both	637.40	16 
-&#x1F4D8;  data	tcam	both	637.44	16 
-&#x1F4D8;  data	tcam	both	637.48	16 
-&#x1F4D8;  data	tcam	both	637.52	16 
-&#x1F4D8;  data	tcam	both	637.56	16 
-&#x1F4D8;  data	tcam	both	637.56	16 
-&#x1F4D8;  data	rcam	both	637.24	16 
-&#x1F4D8;  data	rcam	both	637.28	16 
-&#x1F4D8;  data	rcam	both	637.32	16 
-&#x1F4D8;  data	rcam	both	637.36	16 
-&#x1F4D8;  data	rcam	both	637.40	16 
-&#x1F4D8;  data	rcam	both	637.44	16 
-&#x1F4D8;  data	rcam	both	637.48	16 
-&#x1F4D8;  data	rcam	both	637.52	16 
-&#x1F4D8;  data	rcam	both	637.56	16 
-&#x1F4D8;  data	rcam	both	637.56	16 
-&#x1F4D8;  data	tcam	both	637.24	16 
-&#x1F4D8;  data	tcam	both	637.28	16 
-&#x1F4D8;  data	tcam	both	637.32	16 
-&#x1F4D8;  data	tcam	both	637.36	16 
-&#x1F4D8;  data	tcam	both	637.40	16 
-&#x1F4D8;  data	tcam	both	637.44	16 
-&#x1F4D8;  data	tcam	both	637.48	16 
-&#x1F4D8;  data	tcam	both	637.52	16 
-&#x1F4D8;  data	tcam	both	637.56	16 
-&#x1F4D8;  data	tcam	both	637.56	16 
-&#x1F4D8;  data	rcam	both	637.24	16 
-&#x1F4D8;  data	rcam	both	637.28	16 
-&#x1F4D8;  data	rcam	both	637.32	16 
-&#x1F4D8;  data	rcam	both	637.36	16 
-&#x1F4D8;  data	rcam	both	637.40	16 
-&#x1F4D8;  data	rcam	both	637.44	16 
-&#x1F4D8;  data	rcam	both	637.48	16 
-&#x1F4D8;  data	rcam	both	637.52	16 
-&#x1F4D8;  data	rcam	both	637.56	16 
-&#x1F4D8;  data	rcam	both	637.56	16 
-&#x1F4D8;  data	tcam	both	637.24	16 
-&#x1F4D8;  data	tcam	both	637.28	16 
-&#x1F4D8;  data	tcam	both	637.32	16 
-&#x1F4D8;  data	tcam	both	637.36	16 
-&#x1F4D8;  data	tcam	both	637.40	16 
-&#x1F4D8;  data	tcam	both	637.44	16 
-&#x1F4D8;  data	tcam	both	637.48	16 
-&#x1F4D8;  data	tcam	both	637.52	16 
-&#x1F4D8;  data	tcam	both	637.56	16 
-&#x1F4D8;  data	tcam	both	637.56	16 
- Integration:7.50 minutes.  Hardware:0.00 minutes. total:7.50 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
- cover out 
- calib	out 
- occ		in 
- diffuser out 
- shut	out 
- Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	tcam	both	637.52	16 
-&#x1F4D7;  data	tcam	both	637.52	16 
-&#x1F4D7;  data	tcam	both	637.52	16 
-&#x1F4D7;  data	rcam	both	637.24	16 
-&#x1F4D7;  data	rcam	both	637.28	16 
-&#x1F4D7;  data	rcam	both	637.32	16 
-&#x1F4D7;  data	rcam	both	637.36	16 
-&#x1F4D7;  data	rcam	both	637.40	16 
-&#x1F4D7;  data	rcam	both	637.44	16 
-&#x1F4D7;  data	rcam	both	637.48	16 
-&#x1F4D7;  data	rcam	both	637.52	16 
-&#x1F4D7;  data	rcam	both	637.56	16 
-&#x1F4D7;  data	rcam	both	637.56	16 
-&#x1F4D7;  data	tcam	both	637.24	16 
-&#x1F4D7;  data	tcam	both	637.28	16 
-&#x1F4D7;  data	tcam	both	637.32	16 
-&#x1F4D7;  data	tcam	both	637.36	16 
-&#x1F4D7;  data	tcam	both	637.40	16 
-&#x1F4D7;  data	tcam	both	637.44	16 
-&#x1F4D7;  data	tcam	both	637.48	16 
-&#x1F4D7;  data	tcam	both	637.52	16 
-&#x1F4D7;  data	tcam	both	637.56	16 
-&#x1F4D7;  data	tcam	both	637.56	16 
-&#x1F4D7;  data	rcam	both	637.24	16 
-&#x1F4D7;  data	rcam	both	637.28	16 
-&#x1F4D7;  data	rcam	both	637.32	16 
-&#x1F4D7;  data	rcam	both	637.36	16 
-&#x1F4D7;  data	rcam	both	637.40	16 
-&#x1F4D7;  data	rcam	both	637.44	16 
-&#x1F4D7;  data	rcam	both	637.48	16 
-&#x1F4D7;  data	rcam	both	637.52	16 
-&#x1F4D7;  data	rcam	both	637.56	16 
-&#x1F4D7;  data	rcam	both	637.56	16 
-&#x1F4D7;  data	tcam	both	637.24	16 
-&#x1F4D7;  data	tcam	both	637.28	16 
-&#x1F4D7;  data	tcam	both	637.32	16 
-&#x1F4D7;  data	tcam	both	637.36	16 
-&#x1F4D7;  data	tcam	both	637.40	16 
-&#x1F4D7;  data	tcam	both	637.44	16 
-&#x1F4D7;  data	tcam	both	637.48	16 
-&#x1F4D7;  data	tcam	both	637.52	16 
-&#x1F4D7;  data	tcam	both	637.56	16 
-&#x1F4D7;  data	tcam	both	637.56	16 
-&#x1F4D7;  data	rcam	both	637.24	16 
-&#x1F4D7;  data	rcam	both	637.28	16 
-&#x1F4D7;  data	rcam	both	637.32	16 
-&#x1F4D7;  data	rcam	both	637.36	16 
-&#x1F4D7;  data	rcam	both	637.40	16 
-&#x1F4D7;  data	rcam	both	637.44	16 
-&#x1F4D7;  data	rcam	both	637.48	16 
-&#x1F4D7;  data	rcam	both	637.52	16 
-&#x1F4D7;  data	rcam	both	637.56	16 
-&#x1F4D7;  data	rcam	both	637.56	16 
-&#x1F4D7;  data	tcam	both	637.24	16 
-&#x1F4D7;  data	tcam	both	637.28	16 
-&#x1F4D7;  data	tcam	both	637.32	16 
-&#x1F4D7;  data	tcam	both	637.36	16 
-&#x1F4D7;  data	tcam	both	637.40	16 
-&#x1F4D7;  data	tcam	both	637.44	16 
-&#x1F4D7;  data	tcam	both	637.48	16 
-&#x1F4D7;  data	tcam	both	637.52	16 
-&#x1F4D7;  data	tcam	both	637.56	16 
-&#x1F4D7;  data	tcam	both	637.56	16 
-&#x1F4D7;  data	rcam	both	637.24	16 
-&#x1F4D7;  data	rcam	both	637.28	16 
-&#x1F4D7;  data	rcam	both	637.32	16 
-&#x1F4D7;  data	rcam	both	637.36	16 
-&#x1F4D7;  data	rcam	both	637.40	16 
-&#x1F4D7;  data	rcam	both	637.44	16 
-&#x1F4D7;  data	rcam	both	637.48	16 
-&#x1F4D7;  data	rcam	both	637.52	16 
-&#x1F4D7;  data	rcam	both	637.56	16 
-&#x1F4D7;  data	rcam	both	637.56	16 
-&#x1F4D7;  data	tcam	both	637.24	16 
-&#x1F4D7;  data	tcam	both	637.28	16 
-&#x1F4D7;  data	tcam	both	637.32	16 
-&#x1F4D7;  data	tcam	both	637.36	16 
-&#x1F4D7;  data	tcam	both	637.40	16 
-&#x1F4D7;  data	tcam	both	637.44	16 
-&#x1F4D7;  data	tcam	both	637.48	16 
-&#x1F4D7;  data	tcam	both	637.52	16 
-&#x1F4D7;  data	tcam	both	637.56	16 
-&#x1F4D7;  data	tcam	both	637.56	16 
- Integration:7.50 minutes.  Hardware:0.00 minutes. total:7.50 minutes  </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre> prefilterrange 706 
- Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	tcam	both	706.32	16 
-&#x1F4D7;  data	tcam	both	706.32	16 
-&#x1F4D7;  data	tcam	both	706.32	16 
-&#x1F4D7;  data	rcam	both	706.04	16 
-&#x1F4D7;  data	rcam	both	706.08	16 
-&#x1F4D7;  data	rcam	both	706.12	16 
-&#x1F4D7;  data	rcam	both	706.16	16 
-&#x1F4D7;  data	rcam	both	706.20	16 
-&#x1F4D7;  data	rcam	both	706.24	16 
-&#x1F4D7;  data	rcam	both	706.28	16 
-&#x1F4D7;  data	rcam	both	706.32	16 
-&#x1F4D7;  data	rcam	both	706.36	16 
-&#x1F4D7;  data	rcam	both	706.36	16 
-&#x1F4D7;  data	tcam	both	706.04	16 
-&#x1F4D7;  data	tcam	both	706.08	16 
-&#x1F4D7;  data	tcam	both	706.12	16 
-&#x1F4D7;  data	tcam	both	706.16	16 
-&#x1F4D7;  data	tcam	both	706.20	16 
-&#x1F4D7;  data	tcam	both	706.24	16 
-&#x1F4D7;  data	tcam	both	706.28	16 
-&#x1F4D7;  data	tcam	both	706.32	16 
-&#x1F4D7;  data	tcam	both	706.36	16 
-&#x1F4D7;  data	tcam	both	706.36	16 
-&#x1F4D7;  data	rcam	both	706.04	16 
-&#x1F4D7;  data	rcam	both	706.08	16 
-&#x1F4D7;  data	rcam	both	706.12	16 
-&#x1F4D7;  data	rcam	both	706.16	16 
-&#x1F4D7;  data	rcam	both	706.20	16 
-&#x1F4D7;  data	rcam	both	706.24	16 
-&#x1F4D7;  data	rcam	both	706.28	16 
-&#x1F4D7;  data	rcam	both	706.32	16 
-&#x1F4D7;  data	rcam	both	706.36	16 
-&#x1F4D7;  data	rcam	both	706.36	16 
-&#x1F4D7;  data	tcam	both	706.04	16 
-&#x1F4D7;  data	tcam	both	706.08	16 
-&#x1F4D7;  data	tcam	both	706.12	16 
-&#x1F4D7;  data	tcam	both	706.16	16 
-&#x1F4D7;  data	tcam	both	706.20	16 
-&#x1F4D7;  data	tcam	both	706.24	16 
-&#x1F4D7;  data	tcam	both	706.28	16 
-&#x1F4D7;  data	tcam	both	706.32	16 
-&#x1F4D7;  data	tcam	both	706.36	16 
-&#x1F4D7;  data	tcam	both	706.36	16 
-&#x1F4D7;  data	rcam	both	706.04	16 
-&#x1F4D7;  data	rcam	both	706.08	16 
-&#x1F4D7;  data	rcam	both	706.12	16 
-&#x1F4D7;  data	rcam	both	706.16	16 
-&#x1F4D7;  data	rcam	both	706.20	16 
-&#x1F4D7;  data	rcam	both	706.24	16 
-&#x1F4D7;  data	rcam	both	706.28	16 
-&#x1F4D7;  data	rcam	both	706.32	16 
-&#x1F4D7;  data	rcam	both	706.36	16 
-&#x1F4D7;  data	rcam	both	706.36	16 
-&#x1F4D7;  data	tcam	both	706.04	16 
-&#x1F4D7;  data	tcam	both	706.08	16 
-&#x1F4D7;  data	tcam	both	706.12	16 
-&#x1F4D7;  data	tcam	both	706.16	16 
-&#x1F4D7;  data	tcam	both	706.20	16 
-&#x1F4D7;  data	tcam	both	706.24	16 
-&#x1F4D7;  data	tcam	both	706.28	16 
-&#x1F4D7;  data	tcam	both	706.32	16 
-&#x1F4D7;  data	tcam	both	706.36	16 
-&#x1F4D7;  data	tcam	both	706.36	16 
-&#x1F4D7;  data	rcam	both	706.04	16 
-&#x1F4D7;  data	rcam	both	706.08	16 
-&#x1F4D7;  data	rcam	both	706.12	16 
-&#x1F4D7;  data	rcam	both	706.16	16 
-&#x1F4D7;  data	rcam	both	706.20	16 
-&#x1F4D7;  data	rcam	both	706.24	16 
-&#x1F4D7;  data	rcam	both	706.28	16 
-&#x1F4D7;  data	rcam	both	706.32	16 
-&#x1F4D7;  data	rcam	both	706.36	16 
-&#x1F4D7;  data	rcam	both	706.36	16 
-&#x1F4D7;  data	tcam	both	706.04	16 
-&#x1F4D7;  data	tcam	both	706.08	16 
-&#x1F4D7;  data	tcam	both	706.12	16 
-&#x1F4D7;  data	tcam	both	706.16	16 
-&#x1F4D7;  data	tcam	both	706.20	16 
-&#x1F4D7;  data	tcam	both	706.24	16 
-&#x1F4D7;  data	tcam	both	706.28	16 
-&#x1F4D7;  data	tcam	both	706.32	16 
-&#x1F4D7;  data	tcam	both	706.36	16 
-&#x1F4D7;  data	tcam	both	706.36	16 
- Integration:7.50 minutes.  Hardware:0.00 minutes. total:7.50 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
- cover out 
- occ		out 
- shut	out 
- calib	out 
- Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	tcam	both	706.32	16 
-&#x1F4D8;  data	tcam	both	706.32	16 
-&#x1F4D8;  data	tcam	both	706.32	16 
-&#x1F4D8;  data	rcam	both	706.04	16 
+ Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	706.04	16 
 &#x1F4D8;  data	rcam	both	706.08	16 
 &#x1F4D8;  data	rcam	both	706.12	16 
 &#x1F4D8;  data	rcam	both	706.16	16 
@@ -1083,7 +977,6 @@
 &#x1F4D8;  data	rcam	both	706.24	16 
 &#x1F4D8;  data	rcam	both	706.28	16 
 &#x1F4D8;  data	rcam	both	706.32	16 
-&#x1F4D8;  data	rcam	both	706.36	16 
 &#x1F4D8;  data	rcam	both	706.36	16 
 &#x1F4D8;  data	tcam	both	706.04	16 
 &#x1F4D8;  data	tcam	both	706.08	16 
@@ -1094,7 +987,6 @@
 &#x1F4D8;  data	tcam	both	706.28	16 
 &#x1F4D8;  data	tcam	both	706.32	16 
 &#x1F4D8;  data	tcam	both	706.36	16 
-&#x1F4D8;  data	tcam	both	706.36	16 
 &#x1F4D8;  data	rcam	both	706.04	16 
 &#x1F4D8;  data	rcam	both	706.08	16 
 &#x1F4D8;  data	rcam	both	706.12	16 
@@ -1103,7 +995,6 @@
 &#x1F4D8;  data	rcam	both	706.24	16 
 &#x1F4D8;  data	rcam	both	706.28	16 
 &#x1F4D8;  data	rcam	both	706.32	16 
-&#x1F4D8;  data	rcam	both	706.36	16 
 &#x1F4D8;  data	rcam	both	706.36	16 
 &#x1F4D8;  data	tcam	both	706.04	16 
 &#x1F4D8;  data	tcam	both	706.08	16 
@@ -1114,7 +1005,6 @@
 &#x1F4D8;  data	tcam	both	706.28	16 
 &#x1F4D8;  data	tcam	both	706.32	16 
 &#x1F4D8;  data	tcam	both	706.36	16 
-&#x1F4D8;  data	tcam	both	706.36	16 
 &#x1F4D8;  data	rcam	both	706.04	16 
 &#x1F4D8;  data	rcam	both	706.08	16 
 &#x1F4D8;  data	rcam	both	706.12	16 
@@ -1123,7 +1013,6 @@
 &#x1F4D8;  data	rcam	both	706.24	16 
 &#x1F4D8;  data	rcam	both	706.28	16 
 &#x1F4D8;  data	rcam	both	706.32	16 
-&#x1F4D8;  data	rcam	both	706.36	16 
 &#x1F4D8;  data	rcam	both	706.36	16 
 &#x1F4D8;  data	tcam	both	706.04	16 
 &#x1F4D8;  data	tcam	both	706.08	16 
@@ -1134,7 +1023,6 @@
 &#x1F4D8;  data	tcam	both	706.28	16 
 &#x1F4D8;  data	tcam	both	706.32	16 
 &#x1F4D8;  data	tcam	both	706.36	16 
-&#x1F4D8;  data	tcam	both	706.36	16 
 &#x1F4D8;  data	rcam	both	706.04	16 
 &#x1F4D8;  data	rcam	both	706.08	16 
 &#x1F4D8;  data	rcam	both	706.12	16 
@@ -1143,7 +1031,6 @@
 &#x1F4D8;  data	rcam	both	706.24	16 
 &#x1F4D8;  data	rcam	both	706.28	16 
 &#x1F4D8;  data	rcam	both	706.32	16 
-&#x1F4D8;  data	rcam	both	706.36	16 
 &#x1F4D8;  data	rcam	both	706.36	16 
 &#x1F4D8;  data	tcam	both	706.04	16 
 &#x1F4D8;  data	tcam	both	706.08	16 
@@ -1154,8 +1041,7 @@
 &#x1F4D8;  data	tcam	both	706.28	16 
 &#x1F4D8;  data	tcam	both	706.32	16 
 &#x1F4D8;  data	tcam	both	706.36	16 
-&#x1F4D8;  data	tcam	both	706.36	16 
- Integration:7.50 minutes.  Hardware:0.00 minutes. total:7.50 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:6.50 minutes.  Hardware:0.00 minutes. total:6.50 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -1167,7 +1053,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:71.91 minutes.  Hardware:5.67 minutes. total:77.57 minutes  </pre></blockquote></details><details><summary>newLineFineScan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:62.51 minutes.  Hardware:5.67 minutes. total:68.18 minutes  </pre></blockquote></details><details><summary>newLineFineScan.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
