@@ -41,7 +41,7 @@ jobs:
                             results2.append(results[i])
                 return results2
             def read_script(scriptname,parent,tab,state,darks,flat,coronal,summary,md,warning,childextension=".rcp"):
-                if childextension != ".rcp"
+                if childextension != ".rcp":
                   coronal = []
                 #print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
                 script = open(scriptname,"r")
