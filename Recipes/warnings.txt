@@ -1,482 +1,240 @@
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.64	both	16 missing flat for high16rcam1079.64both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.69	both	16 missing flat for high16rcam1079.69both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.91	both	16 missing flat for high16rcam1079.91both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.96	both	16 missing flat for high16rcam1079.96both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.64	both	16 missing flat for high16tcam1079.64both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.69	both	16 missing flat for high16tcam1079.69both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.91	both	16 missing flat for high16tcam1079.91both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.96	both	16 missing flat for high16tcam1079.96both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.64	both	16 missing flat for high16rcam1079.64both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.69	both	16 missing flat for high16rcam1079.69both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.91	both	16 missing flat for high16rcam1079.91both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.96	both	16 missing flat for high16rcam1079.96both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.64	both	16 missing flat for high16tcam1079.64both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.69	both	16 missing flat for high16tcam1079.69both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.91	both	16 missing flat for high16tcam1079.91both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.96	both	16 missing flat for high16tcam1079.96both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.64	both	16 missing flat for high16rcam1079.64both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.69	both	16 missing flat for high16rcam1079.69both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.91	both	16 missing flat for high16rcam1079.91both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.96	both	16 missing flat for high16rcam1079.96both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.64	both	16 missing flat for high16tcam1079.64both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.69	both	16 missing flat for high16tcam1079.69both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.91	both	16 missing flat for high16tcam1079.91both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.96	both	16 missing flat for high16tcam1079.96both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.64	both	16 missing flat for high16rcam1079.64both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.69	both	16 missing flat for high16rcam1079.69both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.91	both	16 missing flat for high16rcam1079.91both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.96	both	16 missing flat for high16rcam1079.96both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.64	both	16 missing flat for high16tcam1079.64both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.69	both	16 missing flat for high16tcam1079.69both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.91	both	16 missing flat for high16tcam1079.91both
-eclipseDayBefore.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.96	both	16 missing flat for high16tcam1079.96both
-eclipseDayBefore.menu,pol_cal_all_filters.cbk tried to call *setupCal.rcps* which does not exist
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.22	both	16 missing flat for high16rcam1074.22both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.34	both	16 missing flat for high16rcam1074.34both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.46	both	16 missing flat for high16rcam1074.46both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.58	both	16 missing flat for high16rcam1074.58both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.70	both	16 missing flat for high16rcam1074.70both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.82	both	16 missing flat for high16rcam1074.82both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1074.94	both	16 missing flat for high16rcam1074.94both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1075.06	both	16 missing flat for high16rcam1075.06both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data rcam	1075.18	both	16 missing flat for high16rcam1075.18both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1074.22	both	16 missing flat for high16tcam1074.22both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1074.34	both	16 missing flat for high16tcam1074.34both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1074.46	both	16 missing flat for high16tcam1074.46both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1074.58	both	16 missing flat for high16tcam1074.58both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1074.70	both	16 missing flat for high16tcam1074.70both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1074.82	both	16 missing flat for high16tcam1074.82both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1074.94	both	16 missing flat for high16tcam1074.94both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1075.06	both	16 missing flat for high16tcam1075.06both
-eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp data tcam	1075.18	both	16 missing flat for high16tcam1075.18both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data rcam	1073.50	both	16 missing flat for high16rcam1073.50both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data rcam	1073.62	both	16 missing flat for high16rcam1073.62both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data rcam	1073.74	both	16 missing flat for high16rcam1073.74both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data rcam	1075.66	both	16 missing flat for high16rcam1075.66both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data rcam	1075.78	both	16 missing flat for high16rcam1075.78both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data rcam	1075.90	both	16 missing flat for high16rcam1075.90both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data tcam	1073.50	both	16 missing flat for high16tcam1073.50both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data tcam	1073.62	both	16 missing flat for high16tcam1073.62both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data tcam	1073.74	both	16 missing flat for high16tcam1073.74both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data tcam	1075.66	both	16 missing flat for high16tcam1075.66both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data tcam	1075.78	both	16 missing flat for high16tcam1075.78both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp data tcam	1075.90	both	16 missing flat for high16tcam1075.90both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data rcam	1073.86	both	16 missing flat for high16rcam1073.86both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data rcam	1073.98	both	16 missing flat for high16rcam1073.98both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data rcam	1074.10	both	16 missing flat for high16rcam1074.10both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data rcam	1075.30	both	16 missing flat for high16rcam1075.30both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data rcam	1075.42	both	16 missing flat for high16rcam1075.42both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data rcam	1075.54	both	16 missing flat for high16rcam1075.54both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data tcam	1073.86	both	16 missing flat for high16tcam1073.86both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data tcam	1073.98	both	16 missing flat for high16tcam1073.98both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data tcam	1074.10	both	16 missing flat for high16tcam1074.10both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data tcam	1075.30	both	16 missing flat for high16tcam1075.30both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data tcam	1075.42	both	16 missing flat for high16tcam1075.42both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp data tcam	1075.54	both	16 missing flat for high16tcam1075.54both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data rcam	1073.14	both	16 missing flat for high16rcam1073.14both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data rcam	1073.26	both	16 missing flat for high16rcam1073.26both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data rcam	1073.38	both	16 missing flat for high16rcam1073.38both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data rcam	1076.02	both	16 missing flat for high16rcam1076.02both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data rcam	1076.14	both	16 missing flat for high16rcam1076.14both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data rcam	1076.26	both	16 missing flat for high16rcam1076.26both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data tcam	1073.14	both	16 missing flat for high16tcam1073.14both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data tcam	1073.26	both	16 missing flat for high16tcam1073.26both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data tcam	1073.38	both	16 missing flat for high16tcam1073.38both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data tcam	1076.02	both	16 missing flat for high16tcam1076.02both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data tcam	1076.14	both	16 missing flat for high16tcam1076.14both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp data tcam	1076.26	both	16 missing flat for high16tcam1076.26both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data rcam	1072.78	both	16 missing flat for high16rcam1072.78both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data rcam	1072.90	both	16 missing flat for high16rcam1072.90both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data rcam	1073.02	both	16 missing flat for high16rcam1073.02both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data rcam	1076.38	both	16 missing flat for high16rcam1076.38both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data rcam	1076.50	both	16 missing flat for high16rcam1076.50both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data rcam	1076.62	both	16 missing flat for high16rcam1076.62both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data tcam	1072.78	both	16 missing flat for high16tcam1072.78both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data tcam	1072.90	both	16 missing flat for high16tcam1072.90both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data tcam	1073.02	both	16 missing flat for high16tcam1073.02both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data tcam	1076.38	both	16 missing flat for high16tcam1076.38both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data tcam	1076.50	both	16 missing flat for high16tcam1076.50both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp data tcam	1076.62	both	16 missing flat for high16tcam1076.62both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data rcam	1072.30	both	16 missing flat for high16rcam1072.30both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data rcam	1072.42	both	16 missing flat for high16rcam1072.42both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data rcam	1072.54	both	16 missing flat for high16rcam1072.54both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data rcam	1072.66	both	16 missing flat for high16rcam1072.66both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data rcam	1076.74	both	16 missing flat for high16rcam1076.74both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data rcam	1076.86	both	16 missing flat for high16rcam1076.86both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data rcam	1076.98	both	16 missing flat for high16rcam1076.98both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data tcam	1072.30	both	16 missing flat for high16tcam1072.30both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data tcam	1072.42	both	16 missing flat for high16tcam1072.42both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data tcam	1072.54	both	16 missing flat for high16tcam1072.54both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data tcam	1072.66	both	16 missing flat for high16tcam1072.66both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data tcam	1076.74	both	16 missing flat for high16tcam1076.74both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data tcam	1076.86	both	16 missing flat for high16tcam1076.86both
-eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp data tcam	1076.98	both	16 missing flat for high16tcam1076.98both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 missing flat for high16rcam1074.54both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 missing flat for high16rcam1074.59both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.64	both	16 missing flat for high16rcam1074.64both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.76	both	16 missing flat for high16rcam1074.76both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 missing flat for high16rcam1074.81both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 missing flat for high16rcam1074.86both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.54	both	16 missing flat for high16tcam1074.54both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.59	both	16 missing flat for high16tcam1074.59both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.64	both	16 missing flat for high16tcam1074.64both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.76	both	16 missing flat for high16tcam1074.76both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.81	both	16 missing flat for high16tcam1074.81both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.86	both	16 missing flat for high16tcam1074.86both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 missing flat for high16rcam1074.54both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 missing flat for high16rcam1074.59both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.64	both	16 missing flat for high16rcam1074.64both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.76	both	16 missing flat for high16rcam1074.76both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 missing flat for high16rcam1074.81both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 missing flat for high16rcam1074.86both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.54	both	16 missing flat for high16tcam1074.54both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.59	both	16 missing flat for high16tcam1074.59both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.64	both	16 missing flat for high16tcam1074.64both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.76	both	16 missing flat for high16tcam1074.76both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.81	both	16 missing flat for high16tcam1074.81both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.86	both	16 missing flat for high16tcam1074.86both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 missing flat for high16rcam1074.54both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 missing flat for high16rcam1074.59both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.64	both	16 missing flat for high16rcam1074.64both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.76	both	16 missing flat for high16rcam1074.76both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 missing flat for high16rcam1074.81both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 missing flat for high16rcam1074.86both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.54	both	16 missing flat for high16tcam1074.54both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.59	both	16 missing flat for high16tcam1074.59both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.64	both	16 missing flat for high16tcam1074.64both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.76	both	16 missing flat for high16tcam1074.76both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.81	both	16 missing flat for high16tcam1074.81both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.86	both	16 missing flat for high16tcam1074.86both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 missing flat for high16rcam1074.54both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 missing flat for high16rcam1074.59both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.64	both	16 missing flat for high16rcam1074.64both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.76	both	16 missing flat for high16rcam1074.76both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 missing flat for high16rcam1074.81both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 missing flat for high16rcam1074.86both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.54	both	16 missing flat for high16tcam1074.54both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.59	both	16 missing flat for high16tcam1074.59both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.64	both	16 missing flat for high16tcam1074.64both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.76	both	16 missing flat for high16tcam1074.76both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.81	both	16 missing flat for high16tcam1074.81both
-eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp data tcam	1074.86	both	16 missing flat for high16tcam1074.86both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.20	both	16 missing flat for high16rcam789.20both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.25	both	16 missing flat for high16rcam789.25both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.30	both	16 missing flat for high16rcam789.30both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.35	both	16 missing flat for high16rcam789.35both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.40	both	16 missing flat for high16rcam789.40both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.45	both	16 missing flat for high16rcam789.45both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.50	both	16 missing flat for high16rcam789.50both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.55	both	16 missing flat for high16rcam789.55both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.60	both	16 missing flat for high16rcam789.60both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.20	both	16 missing flat for high16tcam789.20both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.25	both	16 missing flat for high16tcam789.25both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.30	both	16 missing flat for high16tcam789.30both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.35	both	16 missing flat for high16tcam789.35both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.40	both	16 missing flat for high16tcam789.40both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.45	both	16 missing flat for high16tcam789.45both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.50	both	16 missing flat for high16tcam789.50both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.55	both	16 missing flat for high16tcam789.55both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.60	both	16 missing flat for high16tcam789.60both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.20	both	16 missing flat for high16rcam789.20both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.25	both	16 missing flat for high16rcam789.25both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.30	both	16 missing flat for high16rcam789.30both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.35	both	16 missing flat for high16rcam789.35both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.40	both	16 missing flat for high16rcam789.40both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.45	both	16 missing flat for high16rcam789.45both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.50	both	16 missing flat for high16rcam789.50both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.55	both	16 missing flat for high16rcam789.55both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.60	both	16 missing flat for high16rcam789.60both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.20	both	16 missing flat for high16tcam789.20both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.25	both	16 missing flat for high16tcam789.25both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.30	both	16 missing flat for high16tcam789.30both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.35	both	16 missing flat for high16tcam789.35both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.40	both	16 missing flat for high16tcam789.40both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.45	both	16 missing flat for high16tcam789.45both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.50	both	16 missing flat for high16tcam789.50both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.55	both	16 missing flat for high16tcam789.55both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.60	both	16 missing flat for high16tcam789.60both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.20	both	16 missing flat for high16rcam789.20both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.25	both	16 missing flat for high16rcam789.25both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.30	both	16 missing flat for high16rcam789.30both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.35	both	16 missing flat for high16rcam789.35both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.40	both	16 missing flat for high16rcam789.40both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.45	both	16 missing flat for high16rcam789.45both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.50	both	16 missing flat for high16rcam789.50both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.55	both	16 missing flat for high16rcam789.55both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.60	both	16 missing flat for high16rcam789.60both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.20	both	16 missing flat for high16tcam789.20both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.25	both	16 missing flat for high16tcam789.25both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.30	both	16 missing flat for high16tcam789.30both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.35	both	16 missing flat for high16tcam789.35both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.40	both	16 missing flat for high16tcam789.40both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.45	both	16 missing flat for high16tcam789.45both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.50	both	16 missing flat for high16tcam789.50both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.55	both	16 missing flat for high16tcam789.55both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.60	both	16 missing flat for high16tcam789.60both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.20	both	16 missing flat for high16rcam789.20both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.25	both	16 missing flat for high16rcam789.25both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.30	both	16 missing flat for high16rcam789.30both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.35	both	16 missing flat for high16rcam789.35both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.40	both	16 missing flat for high16rcam789.40both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.45	both	16 missing flat for high16rcam789.45both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.50	both	16 missing flat for high16rcam789.50both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.55	both	16 missing flat for high16rcam789.55both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data rcam	789.60	both	16 missing flat for high16rcam789.60both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.20	both	16 missing flat for high16tcam789.20both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.25	both	16 missing flat for high16tcam789.25both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.30	both	16 missing flat for high16tcam789.30both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.35	both	16 missing flat for high16tcam789.35both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.40	both	16 missing flat for high16tcam789.40both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.45	both	16 missing flat for high16tcam789.45both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.50	both	16 missing flat for high16tcam789.50both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.55	both	16 missing flat for high16tcam789.55both
-eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp data tcam	789.60	both	16 missing flat for high16tcam789.60both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.04	both	16 missing flat for high16rcam706.04both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.08	both	16 missing flat for high16rcam706.08both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.12	both	16 missing flat for high16rcam706.12both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.16	both	16 missing flat for high16rcam706.16both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.20	both	16 missing flat for high16rcam706.20both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.24	both	16 missing flat for high16rcam706.24both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.28	both	16 missing flat for high16rcam706.28both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.32	both	16 missing flat for high16rcam706.32both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.36	both	16 missing flat for high16rcam706.36both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.04	both	16 missing flat for high16tcam706.04both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.08	both	16 missing flat for high16tcam706.08both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.12	both	16 missing flat for high16tcam706.12both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.16	both	16 missing flat for high16tcam706.16both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.20	both	16 missing flat for high16tcam706.20both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.24	both	16 missing flat for high16tcam706.24both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.28	both	16 missing flat for high16tcam706.28both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.32	both	16 missing flat for high16tcam706.32both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.36	both	16 missing flat for high16tcam706.36both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.04	both	16 missing flat for high16rcam706.04both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.08	both	16 missing flat for high16rcam706.08both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.12	both	16 missing flat for high16rcam706.12both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.16	both	16 missing flat for high16rcam706.16both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.20	both	16 missing flat for high16rcam706.20both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.24	both	16 missing flat for high16rcam706.24both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.28	both	16 missing flat for high16rcam706.28both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.32	both	16 missing flat for high16rcam706.32both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.36	both	16 missing flat for high16rcam706.36both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.04	both	16 missing flat for high16tcam706.04both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.08	both	16 missing flat for high16tcam706.08both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.12	both	16 missing flat for high16tcam706.12both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.16	both	16 missing flat for high16tcam706.16both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.20	both	16 missing flat for high16tcam706.20both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.24	both	16 missing flat for high16tcam706.24both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.28	both	16 missing flat for high16tcam706.28both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.32	both	16 missing flat for high16tcam706.32both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.36	both	16 missing flat for high16tcam706.36both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.04	both	16 missing flat for high16rcam706.04both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.08	both	16 missing flat for high16rcam706.08both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.12	both	16 missing flat for high16rcam706.12both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.16	both	16 missing flat for high16rcam706.16both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.20	both	16 missing flat for high16rcam706.20both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.24	both	16 missing flat for high16rcam706.24both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.28	both	16 missing flat for high16rcam706.28both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.32	both	16 missing flat for high16rcam706.32both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.36	both	16 missing flat for high16rcam706.36both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.04	both	16 missing flat for high16tcam706.04both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.08	both	16 missing flat for high16tcam706.08both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.12	both	16 missing flat for high16tcam706.12both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.16	both	16 missing flat for high16tcam706.16both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.20	both	16 missing flat for high16tcam706.20both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.24	both	16 missing flat for high16tcam706.24both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.28	both	16 missing flat for high16tcam706.28both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.32	both	16 missing flat for high16tcam706.32both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.36	both	16 missing flat for high16tcam706.36both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.04	both	16 missing flat for high16rcam706.04both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.08	both	16 missing flat for high16rcam706.08both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.12	both	16 missing flat for high16rcam706.12both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.16	both	16 missing flat for high16rcam706.16both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.20	both	16 missing flat for high16rcam706.20both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.24	both	16 missing flat for high16rcam706.24both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.28	both	16 missing flat for high16rcam706.28both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.32	both	16 missing flat for high16rcam706.32both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data rcam	706.36	both	16 missing flat for high16rcam706.36both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.04	both	16 missing flat for high16tcam706.04both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.08	both	16 missing flat for high16tcam706.08both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.12	both	16 missing flat for high16tcam706.12both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.16	both	16 missing flat for high16tcam706.16both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.20	both	16 missing flat for high16tcam706.20both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.24	both	16 missing flat for high16tcam706.24both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.28	both	16 missing flat for high16tcam706.28both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.32	both	16 missing flat for high16tcam706.32both
-eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp data tcam	706.36	both	16 missing flat for high16tcam706.36both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	760.90	both	16 missing flat for high16rcam760.90both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	760.95	both	16 missing flat for high16rcam760.95both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.00	both	16 missing flat for high16rcam761.00both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.05	both	16 missing flat for high16rcam761.05both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.10	both	16 missing flat for high16rcam761.10both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.15	both	16 missing flat for high16rcam761.15both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.20	both	16 missing flat for high16rcam761.20both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.25	both	16 missing flat for high16rcam761.25both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.30	both	16 missing flat for high16rcam761.30both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	760.90	both	16 missing flat for high16tcam760.90both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	760.95	both	16 missing flat for high16tcam760.95both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.00	both	16 missing flat for high16tcam761.00both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.05	both	16 missing flat for high16tcam761.05both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.10	both	16 missing flat for high16tcam761.10both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.15	both	16 missing flat for high16tcam761.15both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.20	both	16 missing flat for high16tcam761.20both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.25	both	16 missing flat for high16tcam761.25both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.30	both	16 missing flat for high16tcam761.30both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	760.90	both	16 missing flat for high16rcam760.90both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	760.95	both	16 missing flat for high16rcam760.95both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.00	both	16 missing flat for high16rcam761.00both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.05	both	16 missing flat for high16rcam761.05both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.10	both	16 missing flat for high16rcam761.10both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.15	both	16 missing flat for high16rcam761.15both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.20	both	16 missing flat for high16rcam761.20both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.25	both	16 missing flat for high16rcam761.25both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.30	both	16 missing flat for high16rcam761.30both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	760.90	both	16 missing flat for high16tcam760.90both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	760.95	both	16 missing flat for high16tcam760.95both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.00	both	16 missing flat for high16tcam761.00both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.05	both	16 missing flat for high16tcam761.05both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.10	both	16 missing flat for high16tcam761.10both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.15	both	16 missing flat for high16tcam761.15both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.20	both	16 missing flat for high16tcam761.20both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.25	both	16 missing flat for high16tcam761.25both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.30	both	16 missing flat for high16tcam761.30both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	760.90	both	16 missing flat for high16rcam760.90both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	760.95	both	16 missing flat for high16rcam760.95both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.00	both	16 missing flat for high16rcam761.00both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.05	both	16 missing flat for high16rcam761.05both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.10	both	16 missing flat for high16rcam761.10both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.15	both	16 missing flat for high16rcam761.15both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.20	both	16 missing flat for high16rcam761.20both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.25	both	16 missing flat for high16rcam761.25both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.30	both	16 missing flat for high16rcam761.30both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	760.90	both	16 missing flat for high16tcam760.90both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	760.95	both	16 missing flat for high16tcam760.95both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.00	both	16 missing flat for high16tcam761.00both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.05	both	16 missing flat for high16tcam761.05both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.10	both	16 missing flat for high16tcam761.10both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.15	both	16 missing flat for high16tcam761.15both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.20	both	16 missing flat for high16tcam761.20both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.25	both	16 missing flat for high16tcam761.25both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.30	both	16 missing flat for high16tcam761.30both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	760.90	both	16 missing flat for high16rcam760.90both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	760.95	both	16 missing flat for high16rcam760.95both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.00	both	16 missing flat for high16rcam761.00both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.05	both	16 missing flat for high16rcam761.05both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.10	both	16 missing flat for high16rcam761.10both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.15	both	16 missing flat for high16rcam761.15both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.20	both	16 missing flat for high16rcam761.20both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.25	both	16 missing flat for high16rcam761.25both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data rcam	761.30	both	16 missing flat for high16rcam761.30both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	760.90	both	16 missing flat for high16tcam760.90both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	760.95	both	16 missing flat for high16tcam760.95both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.00	both	16 missing flat for high16tcam761.00both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.05	both	16 missing flat for high16tcam761.05both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.10	both	16 missing flat for high16tcam761.10both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.15	both	16 missing flat for high16tcam761.15both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.20	both	16 missing flat for high16tcam761.20both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.25	both	16 missing flat for high16tcam761.25both
-eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp   data tcam	761.30	both	16 missing flat for high16tcam761.30both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.02	both	16 missing flat for high16rcam991.02both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.08	both	16 missing flat for high16rcam991.08both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.14	both	16 missing flat for high16rcam991.14both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.20	both	16 missing flat for high16rcam991.20both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.26	both	16 missing flat for high16rcam991.26both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.32	both	16 missing flat for high16rcam991.32both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.38	both	16 missing flat for high16rcam991.38both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.44	both	16 missing flat for high16rcam991.44both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.50	both	16 missing flat for high16rcam991.50both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.02	both	16 missing flat for high16tcam991.02both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.08	both	16 missing flat for high16tcam991.08both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.14	both	16 missing flat for high16tcam991.14both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.20	both	16 missing flat for high16tcam991.20both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.26	both	16 missing flat for high16tcam991.26both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.32	both	16 missing flat for high16tcam991.32both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.38	both	16 missing flat for high16tcam991.38both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.44	both	16 missing flat for high16tcam991.44both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.50	both	16 missing flat for high16tcam991.50both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.02	both	16 missing flat for high16rcam991.02both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.08	both	16 missing flat for high16rcam991.08both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.14	both	16 missing flat for high16rcam991.14both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.20	both	16 missing flat for high16rcam991.20both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.26	both	16 missing flat for high16rcam991.26both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.32	both	16 missing flat for high16rcam991.32both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.38	both	16 missing flat for high16rcam991.38both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.44	both	16 missing flat for high16rcam991.44both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.50	both	16 missing flat for high16rcam991.50both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.02	both	16 missing flat for high16tcam991.02both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.08	both	16 missing flat for high16tcam991.08both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.14	both	16 missing flat for high16tcam991.14both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.20	both	16 missing flat for high16tcam991.20both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.26	both	16 missing flat for high16tcam991.26both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.32	both	16 missing flat for high16tcam991.32both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.38	both	16 missing flat for high16tcam991.38both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.44	both	16 missing flat for high16tcam991.44both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.50	both	16 missing flat for high16tcam991.50both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.02	both	16 missing flat for high16rcam991.02both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.08	both	16 missing flat for high16rcam991.08both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.14	both	16 missing flat for high16rcam991.14both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.20	both	16 missing flat for high16rcam991.20both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.26	both	16 missing flat for high16rcam991.26both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.32	both	16 missing flat for high16rcam991.32both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.38	both	16 missing flat for high16rcam991.38both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.44	both	16 missing flat for high16rcam991.44both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.50	both	16 missing flat for high16rcam991.50both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.02	both	16 missing flat for high16tcam991.02both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.08	both	16 missing flat for high16tcam991.08both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.14	both	16 missing flat for high16tcam991.14both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.20	both	16 missing flat for high16tcam991.20both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.26	both	16 missing flat for high16tcam991.26both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.32	both	16 missing flat for high16tcam991.32both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.38	both	16 missing flat for high16tcam991.38both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.44	both	16 missing flat for high16tcam991.44both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.50	both	16 missing flat for high16tcam991.50both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.02	both	16 missing flat for high16rcam991.02both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.08	both	16 missing flat for high16rcam991.08both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.14	both	16 missing flat for high16rcam991.14both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.20	both	16 missing flat for high16rcam991.20both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.26	both	16 missing flat for high16rcam991.26both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.32	both	16 missing flat for high16rcam991.32both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.38	both	16 missing flat for high16rcam991.38both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.44	both	16 missing flat for high16rcam991.44both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data rcam	991.50	both	16 missing flat for high16rcam991.50both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.02	both	16 missing flat for high16tcam991.02both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.08	both	16 missing flat for high16tcam991.08both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.14	both	16 missing flat for high16tcam991.14both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.20	both	16 missing flat for high16tcam991.20both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.26	both	16 missing flat for high16tcam991.26both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.32	both	16 missing flat for high16tcam991.32both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.38	both	16 missing flat for high16tcam991.38both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.44	both	16 missing flat for high16tcam991.44both
-eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp   data tcam	991.50	both	16 missing flat for high16tcam991.50both
-eclipsePrep.menu,pol_cal_all_filters.cbk tried to call *setupCal.rcps* which does not exist
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.64	both	16 missing flat for high16rcam1079.64both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.69	both	16 missing flat for high16rcam1079.69both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.91	both	16 missing flat for high16rcam1079.91both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.96	both	16 missing flat for high16rcam1079.96both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.64	both	16 missing flat for high16tcam1079.64both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.69	both	16 missing flat for high16tcam1079.69both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.91	both	16 missing flat for high16tcam1079.91both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.96	both	16 missing flat for high16tcam1079.96both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.64	both	16 missing flat for high16rcam1079.64both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.69	both	16 missing flat for high16rcam1079.69both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.91	both	16 missing flat for high16rcam1079.91both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.96	both	16 missing flat for high16rcam1079.96both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.64	both	16 missing flat for high16tcam1079.64both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.69	both	16 missing flat for high16tcam1079.69both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.91	both	16 missing flat for high16tcam1079.91both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.96	both	16 missing flat for high16tcam1079.96both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.64	both	16 missing flat for high16rcam1079.64both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.69	both	16 missing flat for high16rcam1079.69both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.91	both	16 missing flat for high16rcam1079.91both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.96	both	16 missing flat for high16rcam1079.96both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.64	both	16 missing flat for high16tcam1079.64both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.69	both	16 missing flat for high16tcam1079.69both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.91	both	16 missing flat for high16tcam1079.91both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.96	both	16 missing flat for high16tcam1079.96both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.64	both	16 missing flat for high16rcam1079.64both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.69	both	16 missing flat for high16rcam1079.69both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.91	both	16 missing flat for high16rcam1079.91both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1079.96	both	16 missing flat for high16rcam1079.96both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.64	both	16 missing flat for high16tcam1079.64both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.69	both	16 missing flat for high16tcam1079.69both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.91	both	16 missing flat for high16tcam1079.91both
-eclipseObs.menu,synoptic-old.cbk,1079_05wave_0.1step_2beam_16sums_4reps_both.rcp data tcam	1079.96	both	16 missing flat for high16tcam1079.96both
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseDayBefore.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp data rcam	1074.86	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.54	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.59	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.70	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.81	both	16 wavelength is not a number
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 has invalid continumm
+eclipseObs.menu,synoptic-old.cbk,1074_05wave_0.1step_2beam_16sums_4reps_both.rcp   data rcam	1074.86	both	16 wavelength is not a number

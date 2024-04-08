@@ -11,7 +11,7 @@ The above code block covers:0.00 minutes of camera integration + hardware moves 
  data	rcam	both	656.28	16 
  data	rcam	both	656.28	16 
  $${\color{green}Green \space text \space was here}$$
- GREEN BOOK (&#x1F4D7;):
+ GREEN BOOK (&#x1F4D7;):  	U+1F4D3
 The above code block covers:0.90 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre> prefilterrange 1074 
 The above code block covers:0.00 minutes of camera integration + hardware moves and overhead</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 

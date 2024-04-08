@@ -1,67 +1,63 @@
-DATE Wed Mar 06 16:20:27 2024
-AUTHOR: rcp GeneratorExpected execution time 303.5
-#DATATYPE BEAM  WAVELENGTH  NUMSUMS
-DATA RCAM	637.31	BOTH	16
-DATA RCAM	637.34	BOTH	16
-DATA RCAM	637.37	BOTH	16
-DATA RCAM	637.40	BOTH	16
-DATA RCAM	637.43	BOTH	16
-DATA RCAM	637.46	BOTH	16
-DATA RCAM	637.49	BOTH	16
+data	rcam	both	637.31	16
+data	rcam	both	637.34	16
+data	rcam	both	637.37	16
+data	rcam	both	637.40	16
+data	rcam	both	637.43	16
+data	rcam	both	637.46	16
+data	rcam	both	637.49	16
 
-DATA TCAM	637.31	BOTH	16
-DATA TCAM	637.34	BOTH	16
-DATA TCAM	637.37	BOTH	16
-DATA TCAM	637.40	BOTH	16
-DATA TCAM	637.43	BOTH	16
-DATA TCAM	637.46	BOTH	16
-DATA TCAM	637.49	BOTH	16
+data	tcam	both	637.31	16
+data	tcam	both	637.34	16
+data	tcam	both	637.37	16
+data	tcam	both	637.40	16
+data	tcam	both	637.43	16
+data	tcam	both	637.46	16
+data	tcam	both	637.49	16
 
-DATA RCAM	637.31	BOTH	16
-DATA RCAM	637.34	BOTH	16
-DATA RCAM	637.37	BOTH	16
-DATA RCAM	637.40	BOTH	16
-DATA RCAM	637.43	BOTH	16
-DATA RCAM	637.46	BOTH	16
-DATA RCAM	637.49	BOTH	16
+data	rcam	both	637.31	16
+data	rcam	both	637.34	16
+data	rcam	both	637.37	16
+data	rcam	both	637.40	16
+data	rcam	both	637.43	16
+data	rcam	both	637.46	16
+data	rcam	both	637.49	16
 
-DATA TCAM	637.31	BOTH	16
-DATA TCAM	637.34	BOTH	16
-DATA TCAM	637.37	BOTH	16
-DATA TCAM	637.40	BOTH	16
-DATA TCAM	637.43	BOTH	16
-DATA TCAM	637.46	BOTH	16
-DATA TCAM	637.49	BOTH	16
+data	tcam	both	637.31	16
+data	tcam	both	637.34	16
+data	tcam	both	637.37	16
+data	tcam	both	637.40	16
+data	tcam	both	637.43	16
+data	tcam	both	637.46	16
+data	tcam	both	637.49	16
 
-DATA RCAM	637.31	BOTH	16
-DATA RCAM	637.34	BOTH	16
-DATA RCAM	637.37	BOTH	16
-DATA RCAM	637.40	BOTH	16
-DATA RCAM	637.43	BOTH	16
-DATA RCAM	637.46	BOTH	16
-DATA RCAM	637.49	BOTH	16
+data	rcam	both	637.31	16
+data	rcam	both	637.34	16
+data	rcam	both	637.37	16
+data	rcam	both	637.40	16
+data	rcam	both	637.43	16
+data	rcam	both	637.46	16
+data	rcam	both	637.49	16
 
-DATA TCAM	637.31	BOTH	16
-DATA TCAM	637.34	BOTH	16
-DATA TCAM	637.37	BOTH	16
-DATA TCAM	637.40	BOTH	16
-DATA TCAM	637.43	BOTH	16
-DATA TCAM	637.46	BOTH	16
-DATA TCAM	637.49	BOTH	16
+data	tcam	both	637.31	16
+data	tcam	both	637.34	16
+data	tcam	both	637.37	16
+data	tcam	both	637.40	16
+data	tcam	both	637.43	16
+data	tcam	both	637.46	16
+data	tcam	both	637.49	16
 
-DATA RCAM	637.31	BOTH	16
-DATA RCAM	637.34	BOTH	16
-DATA RCAM	637.37	BOTH	16
-DATA RCAM	637.40	BOTH	16
-DATA RCAM	637.43	BOTH	16
-DATA RCAM	637.46	BOTH	16
-DATA RCAM	637.49	BOTH	16
+data	rcam	both	637.31	16
+data	rcam	both	637.34	16
+data	rcam	both	637.37	16
+data	rcam	both	637.40	16
+data	rcam	both	637.43	16
+data	rcam	both	637.46	16
+data	rcam	both	637.49	16
 
-DATA TCAM	637.31	BOTH	16
-DATA TCAM	637.34	BOTH	16
-DATA TCAM	637.37	BOTH	16
-DATA TCAM	637.40	BOTH	16
-DATA TCAM	637.43	BOTH	16
-DATA TCAM	637.46	BOTH	16
-DATA TCAM	637.49	BOTH	16
-
+data	tcam	both	637.31	16
+data	tcam	both	637.34	16
+data	tcam	both	637.37	16
+data	tcam	both	637.40	16
+data	tcam	both	637.43	16
+data	tcam	both	637.46	16
+data	tcam	both	637.49	16
