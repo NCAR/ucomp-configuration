@@ -66,11 +66,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -106,7 +101,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	789.33	16 
 &#x1F4D7;  data	rcam	both	789.37	16 
 &#x1F4D7;  data	rcam	both	789.40	16 
@@ -188,7 +183,7 @@
 &#x1F4D7;  data	tcam	both	637.40	16 
 &#x1F4D7;  data	tcam	both	637.42	16 
 &#x1F4D7;  data	tcam	both	637.45	16 
- Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:15.81 minutes.  Hardware:2.67 minutes. total:18.48 minutes  </pre></blockquote></details><details><summary>synoptic-eclipse-morning-sci.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:15.36 minutes.  Hardware:2.67 minutes. total:18.02 minutes  </pre></blockquote></details><details><summary>synoptic-eclipse-morning-sci.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -253,11 +248,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -293,7 +283,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	789.33	16 
 &#x1F4D7;  data	rcam	both	789.37	16 
 &#x1F4D7;  data	rcam	both	789.40	16 
@@ -375,7 +365,7 @@
 &#x1F4D7;  data	tcam	both	637.40	16 
 &#x1F4D7;  data	tcam	both	637.42	16 
 &#x1F4D7;  data	tcam	both	637.45	16 
- Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:15.81 minutes.  Hardware:1.67 minutes. total:17.48 minutes  </pre></blockquote></details><details><summary>synoptic-eclipse-morning-sci.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:15.36 minutes.  Hardware:1.67 minutes. total:17.02 minutes  </pre></blockquote></details><details><summary>synoptic-eclipse-morning-sci.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -440,11 +430,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -480,7 +465,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D7;  data	rcam	both	789.33	16 
 &#x1F4D7;  data	rcam	both	789.37	16 
 &#x1F4D7;  data	rcam	both	789.40	16 
@@ -562,7 +547,7 @@
 &#x1F4D7;  data	tcam	both	637.40	16 
 &#x1F4D7;  data	tcam	both	637.42	16 
 &#x1F4D7;  data	tcam	both	637.45	16 
- Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:15.81 minutes.  Hardware:1.67 minutes. total:17.48 minutes  </pre></blockquote></details><details><summary>synoptic-eclipse-morning-flat.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:15.36 minutes.  Hardware:1.67 minutes. total:17.02 minutes  </pre></blockquote></details><details><summary>synoptic-eclipse-morning-flat.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -626,11 +611,6 @@
 &#x1F4D8;  data rcam	both	1074.70	16 
 &#x1F4D8;  data rcam	both	1074.81	16 
 &#x1F4D8;  data rcam	both	1074.86	16 
-&#x1F4D8;  data rcam	1074.54	both	16 
-&#x1F4D8;  data rcam	1074.59	both	16 
-&#x1F4D8;  data rcam	1074.70	both	16 
-&#x1F4D8;  data rcam	1074.81	both	16 
-&#x1F4D8;  data rcam	1074.86	both	16 
 &#x1F4D8;  data tcam	both	1074.54	16 
 &#x1F4D8;  data tcam	both	1074.59	16 
 &#x1F4D8;  data tcam	both	1074.70	16 
@@ -666,7 +646,7 @@
 &#x1F4D8;  data tcam	both	1074.70	16 
 &#x1F4D8;  data tcam	both	1074.81	16 
 &#x1F4D8;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.33	16 
 &#x1F4D8;  data	rcam	both	789.37	16 
 &#x1F4D8;  data	rcam	both	789.40	16 
@@ -748,7 +728,7 @@
 &#x1F4D8;  data	tcam	both	637.40	16 
 &#x1F4D8;  data	tcam	both	637.42	16 
 &#x1F4D8;  data	tcam	both	637.45	16 
- Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:15.81 minutes.  Hardware:2.33 minutes. total:18.14 minutes  </pre></blockquote></details><details><summary>feXIII_cross_calibration.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:15.36 minutes.  Hardware:2.33 minutes. total:17.69 minutes  </pre></blockquote></details><details><summary>feXIII_cross_calibration.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -1962,11 +1942,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -2002,7 +1977,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
@@ -2054,11 +2029,6 @@
 &#x1F4D8;  data rcam	both	1074.70	16 
 &#x1F4D8;  data rcam	both	1074.81	16 
 &#x1F4D8;  data rcam	both	1074.86	16 
-&#x1F4D8;  data rcam	1074.54	both	16 
-&#x1F4D8;  data rcam	1074.59	both	16 
-&#x1F4D8;  data rcam	1074.70	both	16 
-&#x1F4D8;  data rcam	1074.81	both	16 
-&#x1F4D8;  data rcam	1074.86	both	16 
 &#x1F4D8;  data tcam	both	1074.54	16 
 &#x1F4D8;  data tcam	both	1074.59	16 
 &#x1F4D8;  data tcam	both	1074.70	16 
@@ -2094,7 +2064,7 @@
 &#x1F4D8;  data tcam	both	1074.70	16 
 &#x1F4D8;  data tcam	both	1074.81	16 
 &#x1F4D8;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.315	16 
 &#x1F4D8;  data	rcam	both	789.35	16 
 &#x1F4D8;  data	rcam	both	789.40	16 
@@ -2316,7 +2286,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:35.23 minutes.  Hardware:5.33 minutes. total:40.56 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:34.33 minutes.  Hardware:5.33 minutes. total:39.66 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -2381,11 +2351,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -2421,7 +2386,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
@@ -2473,11 +2438,6 @@
 &#x1F4D8;  data rcam	both	1074.70	16 
 &#x1F4D8;  data rcam	both	1074.81	16 
 &#x1F4D8;  data rcam	both	1074.86	16 
-&#x1F4D8;  data rcam	1074.54	both	16 
-&#x1F4D8;  data rcam	1074.59	both	16 
-&#x1F4D8;  data rcam	1074.70	both	16 
-&#x1F4D8;  data rcam	1074.81	both	16 
-&#x1F4D8;  data rcam	1074.86	both	16 
 &#x1F4D8;  data tcam	both	1074.54	16 
 &#x1F4D8;  data tcam	both	1074.59	16 
 &#x1F4D8;  data tcam	both	1074.70	16 
@@ -2513,7 +2473,7 @@
 &#x1F4D8;  data tcam	both	1074.70	16 
 &#x1F4D8;  data tcam	both	1074.81	16 
 &#x1F4D8;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.315	16 
 &#x1F4D8;  data	rcam	both	789.35	16 
 &#x1F4D8;  data	rcam	both	789.40	16 
@@ -2735,7 +2695,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:35.23 minutes.  Hardware:4.67 minutes. total:39.90 minutes  </pre></blockquote></details><details><summary>synoptic-new.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:34.33 minutes.  Hardware:4.67 minutes. total:38.99 minutes  </pre></blockquote></details><details><summary>synoptic-new.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -3326,11 +3286,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -3366,7 +3321,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
@@ -3418,11 +3373,6 @@
 &#x1F4D8;  data rcam	both	1074.70	16 
 &#x1F4D8;  data rcam	both	1074.81	16 
 &#x1F4D8;  data rcam	both	1074.86	16 
-&#x1F4D8;  data rcam	1074.54	both	16 
-&#x1F4D8;  data rcam	1074.59	both	16 
-&#x1F4D8;  data rcam	1074.70	both	16 
-&#x1F4D8;  data rcam	1074.81	both	16 
-&#x1F4D8;  data rcam	1074.86	both	16 
 &#x1F4D8;  data tcam	both	1074.54	16 
 &#x1F4D8;  data tcam	both	1074.59	16 
 &#x1F4D8;  data tcam	both	1074.70	16 
@@ -3458,7 +3408,7 @@
 &#x1F4D8;  data tcam	both	1074.70	16 
 &#x1F4D8;  data tcam	both	1074.81	16 
 &#x1F4D8;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.315	16 
 &#x1F4D8;  data	rcam	both	789.35	16 
 &#x1F4D8;  data	rcam	both	789.40	16 
@@ -3680,7 +3630,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:35.23 minutes.  Hardware:4.67 minutes. total:39.90 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:34.33 minutes.  Hardware:4.67 minutes. total:38.99 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -3745,11 +3695,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -3785,7 +3730,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
@@ -3837,11 +3782,6 @@
 &#x1F4D8;  data rcam	both	1074.70	16 
 &#x1F4D8;  data rcam	both	1074.81	16 
 &#x1F4D8;  data rcam	both	1074.86	16 
-&#x1F4D8;  data rcam	1074.54	both	16 
-&#x1F4D8;  data rcam	1074.59	both	16 
-&#x1F4D8;  data rcam	1074.70	both	16 
-&#x1F4D8;  data rcam	1074.81	both	16 
-&#x1F4D8;  data rcam	1074.86	both	16 
 &#x1F4D8;  data tcam	both	1074.54	16 
 &#x1F4D8;  data tcam	both	1074.59	16 
 &#x1F4D8;  data tcam	both	1074.70	16 
@@ -3877,7 +3817,7 @@
 &#x1F4D8;  data tcam	both	1074.70	16 
 &#x1F4D8;  data tcam	both	1074.81	16 
 &#x1F4D8;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.315	16 
 &#x1F4D8;  data	rcam	both	789.35	16 
 &#x1F4D8;  data	rcam	both	789.40	16 
@@ -4099,7 +4039,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:35.23 minutes.  Hardware:4.67 minutes. total:39.90 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:34.33 minutes.  Hardware:4.67 minutes. total:38.99 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -4164,11 +4104,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -4204,7 +4139,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
@@ -4256,11 +4191,6 @@
 &#x1F4D8;  data rcam	both	1074.70	16 
 &#x1F4D8;  data rcam	both	1074.81	16 
 &#x1F4D8;  data rcam	both	1074.86	16 
-&#x1F4D8;  data rcam	1074.54	both	16 
-&#x1F4D8;  data rcam	1074.59	both	16 
-&#x1F4D8;  data rcam	1074.70	both	16 
-&#x1F4D8;  data rcam	1074.81	both	16 
-&#x1F4D8;  data rcam	1074.86	both	16 
 &#x1F4D8;  data tcam	both	1074.54	16 
 &#x1F4D8;  data tcam	both	1074.59	16 
 &#x1F4D8;  data tcam	both	1074.70	16 
@@ -4296,7 +4226,7 @@
 &#x1F4D8;  data tcam	both	1074.70	16 
 &#x1F4D8;  data tcam	both	1074.81	16 
 &#x1F4D8;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.315	16 
 &#x1F4D8;  data	rcam	both	789.35	16 
 &#x1F4D8;  data	rcam	both	789.40	16 
@@ -4518,7 +4448,7 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:35.23 minutes.  Hardware:4.67 minutes. total:39.90 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:34.33 minutes.  Hardware:4.67 minutes. total:38.99 minutes  </pre></blockquote></details><details><summary>synoptic-old.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -4583,11 +4513,6 @@
 &#x1F4D7;  data rcam	both	1074.70	16 
 &#x1F4D7;  data rcam	both	1074.81	16 
 &#x1F4D7;  data rcam	both	1074.86	16 
-&#x1F4D7;  data rcam	1074.54	both	16 
-&#x1F4D7;  data rcam	1074.59	both	16 
-&#x1F4D7;  data rcam	1074.70	both	16 
-&#x1F4D7;  data rcam	1074.81	both	16 
-&#x1F4D7;  data rcam	1074.86	both	16 
 &#x1F4D7;  data tcam	both	1074.54	16 
 &#x1F4D7;  data tcam	both	1074.59	16 
 &#x1F4D7;  data tcam	both	1074.70	16 
@@ -4623,7 +4548,7 @@
 &#x1F4D7;  data tcam	both	1074.70	16 
 &#x1F4D7;  data tcam	both	1074.81	16 
 &#x1F4D7;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
@@ -4675,11 +4600,6 @@
 &#x1F4D8;  data rcam	both	1074.70	16 
 &#x1F4D8;  data rcam	both	1074.81	16 
 &#x1F4D8;  data rcam	both	1074.86	16 
-&#x1F4D8;  data rcam	1074.54	both	16 
-&#x1F4D8;  data rcam	1074.59	both	16 
-&#x1F4D8;  data rcam	1074.70	both	16 
-&#x1F4D8;  data rcam	1074.81	both	16 
-&#x1F4D8;  data rcam	1074.86	both	16 
 &#x1F4D8;  data tcam	both	1074.54	16 
 &#x1F4D8;  data tcam	both	1074.59	16 
 &#x1F4D8;  data tcam	both	1074.70	16 
@@ -4715,7 +4635,7 @@
 &#x1F4D8;  data tcam	both	1074.70	16 
 &#x1F4D8;  data tcam	both	1074.81	16 
 &#x1F4D8;  data tcam	both	1074.86	16 
- Integration:4.07 minutes.  Hardware:0.00 minutes. total:4.07 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre> prefilterrange 789 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp</summary><blockquote><pre>&#x1F4D8;  data	rcam	both	789.315	16 
 &#x1F4D8;  data	rcam	both	789.35	16 
 &#x1F4D8;  data	rcam	both	789.40	16 
@@ -4937,4 +4857,4 @@
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:35.23 minutes.  Hardware:4.67 minutes. total:39.90 minutes  </pre></blockquote></details></pre></blockquote></details>
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details> Integration:34.33 minutes.  Hardware:4.67 minutes. total:38.99 minutes  </pre></blockquote></details></pre></blockquote></details>
