@@ -10,7 +10,7 @@
  calib	out 
  Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
-&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	both	rcam	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -99,7 +99,7 @@
 &#x1F4D8;  data	tcam	both	1083.00	16 
  Integration:0.72 minutes.  Hardware:0.00 minutes. total:0.72 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
-&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	both	rcam	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
@@ -190,7 +190,7 @@
 &#x1F4D7;  data	tcam	both	1083.00	16 
  Integration:0.72 minutes.  Hardware:0.00 minutes. total:0.72 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
-&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	both	rcam	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
