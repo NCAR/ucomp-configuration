@@ -1,6 +1,6 @@
 #DESCRIPTION takes the 7 point 1074/1079 data. Bracketed by flats.
 setupDark.rcp
-dark_01wave_1beam_16sums_10rep_BOTH.rpc
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
 setupFlat.rcp
 1079_FW.rcp
