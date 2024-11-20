@@ -1,0 +1,9 @@
+AUTHOR COTTER
+DESCRIPTION Preform SCANS FOR DR. SOMEONE
+setupFlat.rcp  
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+
+530_FW.rcp
+setupFlat.rcp
+mcotter-530_5wave__2beam_16sum_4rep_BOTH.rcp
