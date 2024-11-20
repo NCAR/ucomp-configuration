@@ -1,7 +1,7 @@
 #Config for UCoMP
 
 [main]
-Data Dir = c:\data\obs-code
+Data Dir = d:\data\obs-code
 Server Data Dir = z:\ucomp
 #Server Data Dir = c:\data
 
@@ -88,7 +88,7 @@ Cal Trans = true
 Lyot = true
 Camera1 = true
 Camera2 = true
-Cropico = false
+Cropico = true
 ILX = true
 Spectragraph = false
 SGS = true
