@@ -1,0 +1,15 @@
+FOR 100
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+setupFlat.rcp
+ben-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+setupObserving.rcp
+ben-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+ben-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+ben-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+ben-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+ben-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+
+
+
+ENDFOR

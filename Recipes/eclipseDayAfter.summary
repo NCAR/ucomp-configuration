@@ -395,7 +395,18 @@
  ------ > feXIII_cross_calibration.cbk
  ------------ > setupDark.rcp
 ------------------> shut	in
-------------> dark_01wave_1beam_16sums_10rep_both.rpc
+ ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser  in
 ------------------> cover out
@@ -718,6 +729,8 @@
 ------------------> data	tcam	both	1074.76	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
+ ------------ > 1079_FW.rcp
+------------------> prefilterrange 1079
  ------------ > 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
