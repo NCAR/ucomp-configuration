@@ -3,8 +3,18 @@
                 &#x1F4D8; =flat  
                 &#x1F4D7; =data <details><summary>ben-someone.menu</summary><blockquote><pre> <<<<<<< head 
 <details><summary>ben-someone.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre> shut	in 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> dark_01wave_1beam_16sums_10rep_both 
-<details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre> shut	in 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+ Integration:0.90 minutes.  Hardware:0.00 minutes. total:0.90 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre> diffuser  in 
  cover out 
  occ		out 
  shut	out 
@@ -95,6 +105,6 @@
 &#x1F4D7;  data	tcam	both	 530.29	   16 
 &#x1F4D7;  data	tcam	both	 530.32	   16 
 &#x1F4D7;  data	tcam	both	 530.35	   16 
- Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:7.23 minutes.  Hardware:1.67 minutes. total:8.89 minutes  </pre></blockquote></details> ======= 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:8.13 minutes.  Hardware:1.67 minutes. total:9.80 minutes  </pre></blockquote></details> ======= 
  >>>>>>> f8abb1d7dc42b7db9552e61cad964c70f11d797c 
 </pre></blockquote></details>
