@@ -1,5 +1,445 @@
+junk.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+junk.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,poor-weather-coronal-with-flats.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,poor-weather-coronal-with-flats.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,poor-weather-coronal-with-flats.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,poor-weather-coronal-with-flats.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,poor-weather-coronal-with-flats.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,poor-weather-coronal-with-flats.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+poor-weather.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 has invalid continumm
+daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp data	rcam	637.40  both	   16 wavelength is not a number
