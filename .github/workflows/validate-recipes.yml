@@ -21,6 +21,7 @@ jobs:
             import glob
             #import numpy as np
             def unroll_forloop(results):
+                results = [r.split("#")[0] for r in results]
                 results2 = []
                 endline =0
                 for i in range(len(results)):
