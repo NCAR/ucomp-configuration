@@ -141,13 +141,13 @@ jobs:
                                 data,cam,cont,wave,sums = child.split()
                                 runTime += 300+int(state['exposure'])*4*int(sums)
                                 if cam not in ["rcam","tcam"]:
-                                        warning.write(f"{parent} {child} has invalid camera\n")
+                                        warning.write(f"{parent} {{ {child} }} has invalid camera\n")
                                 if cont not in ["both", "red,", "blue"]:
-                                        warning.write(f"{parent} {child} has invalid continumm\n")
+                                        warning.write(f"{parent} {{ {child} }} has invalid continumm\n")
                                 try:
                                       float(wave)   # Type-casting the string to `float`.
                                 except ValueError:
-                                       warning.write(f"{parent} {child} wavelength is not a number\n")
+                                       warning.write(f"{parent} {{ {child} }} wavelength is not a number\n")
                                 if state['shut'] == "in":
                                     color = "red"
                                     if state['exposure']+state['gain']+sums not in darks:
@@ -162,9 +162,9 @@ jobs:
                                     coronal.append(state['gain']+sums+cam+cont+wave)
                                     coronalExp.append(state['exposure']+state['gain']+sums)
                                    # if state['exposure']+state['gain']+sums not in darks:
-                                    #    warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
+                                    #    warning.write(f"{parent} {{ {child} }}missing dark for {state['exposure']+state['gain']+sums}\n")
                                    # if state['gain']+sums+cam+cont+wave not in flats:
-                                   #     warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
+                                   #     warning.write(f"{parent} {{ {child} }} missing flat for {state['gain']+sums+cam+cont+wave}\n")
                                 if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
                                   color = "black"
  
@@ -190,10 +190,10 @@ jobs:
                   for corona in coronalExp:
                     #c1 = corona.replace("tcam","rcam")
                     if corona not in darks:
-                       warning.write(f"{parent} missing dark for {corona}\n")
+                       warning.write(f"{parent} missing dark for {{ {corona} }}\n")
                   for corona in coronal:
                     if corona not in flats:
-                      warning.write(f"{parent} missing flat for {corona}\n")
+                      warning.write(f"{parent} missing flat for {{ {corona} }}\n")
                     
                 md.write("</pre></blockquote></details>")
                 return runTime,hardwareTime
