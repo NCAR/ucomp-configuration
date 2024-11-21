@@ -8,7 +8,7 @@ setupFlat.rcp
 530_FW.rcp
 lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
-FOR 2
+for 2
 lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
 ENDFOR
 setupDark.rcp
