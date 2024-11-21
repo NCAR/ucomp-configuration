@@ -3,4 +3,3 @@ lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does n
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
-lisa-someone.menu tried to call *lisa_someone.cbk* which does not exist
