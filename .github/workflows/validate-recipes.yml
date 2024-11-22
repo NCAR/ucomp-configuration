@@ -25,12 +25,12 @@ jobs:
                 results2 = []
                 endline =0
                 for i in range(len(results)):
-                    if "FOR " in results[i]:
+                    if "for " in results[i].lower():
                         forCount = int(results[i].split()[1])
                         startLine = i+1
                         for repeats in range(forCount):
                             for nextLine in range(len(results)-i):
-                                if "ENDFOR" in results[startLine+nextLine]:
+                                if "endfor" in results[startLine+nextLine].lower():
                                     endline = startLine+nextLine+1
                                     break
                                 else:
