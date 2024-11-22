@@ -36,11 +36,12 @@ jobs:
                           for repeats in range(forCount):
                               for nextLine in range(len(results)-i):
                                   
-                                  if len(results[startLine+nextLine])> 0 and "endfor" == (results[startLine+nextLine]).lower().split()[0]:
-                                      endline = startLine+nextLine+1
-                                      break
-                                  else:
-                                      results2.append(results[startLine+nextLine])
+                                  if len(results[startLine+nextLine])> 0:  
+                                    if "endfor" == (results[startLine+nextLine]).lower().split()[0]:
+                                          endline = startLine+nextLine+1
+                                          break
+                                    else:
+                                          results2.append(results[startLine+nextLine])
                       else:
                           if i < endline:
                               pass
