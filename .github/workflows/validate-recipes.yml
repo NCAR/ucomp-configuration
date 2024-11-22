@@ -37,7 +37,8 @@ jobs:
                               for nextLine in range(len(results)-i):
                                   
                                   if len(results[startLine+nextLine])> 0:  
-                                    print((results[startLine+nextLine]), (results[startLine+nextLine]).lower().split())
+                                    print((results[startLine+nextLine]))
+                                    print((results[startLine+nextLine]).lower().split())
                                     if "endfor" == (results[startLine+nextLine]).lower().split()[0]:
                                           endline = startLine+nextLine+1
                                           break
