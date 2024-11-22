@@ -36,7 +36,7 @@ jobs:
                           for repeats in range(forCount):
                               for nextLine in range(len(results)-i):
                                   
-                                  if len(results[startLine+nextLine]).lower().split()> 0:  
+                                  if len(results[startLine+nextLine].lower().split())> 0:  
                                     print((results[startLine+nextLine]))
                                     print((results[startLine+nextLine]).lower().split())
                                     if "endfor" == (results[startLine+nextLine]).lower().split()[0]:
