@@ -297,6 +297,12 @@ lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does n
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
+flat.menu,1074-multi-flats.cbk { for 10 } command not found.
+flat.menu,1074-multi-flats.cbk { endfor } command not found.
+eclipsePrep.menu,distortion-1074.cbk,distortion_in.rcp { distortiongrid in } command not found.
+eclipsePrep.menu,distortion-1074.cbk,distortion_out.rcp { distortiongrid out } command not found.
+measure-occulter.menu,measure-occulter.cbk,dark_01wave_1beam_16sums_16rep_both.rcp { for 16 } command not found.
+measure-occulter.menu,measure-occulter.cbk,dark_01wave_1beam_16sums_16rep_both.rcp { endfor } command not found.
 daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp { data	rcam	637.40  both	   16 } has invalid continumm
 daily-polarizations.menu,all_wavelength_coronal_flat.cbk,637_03wave_2beam_16sums_4rep_both.rcp { data	rcam	637.40  both	   16 } wavelength is not a number
 daily-polarizations.menu,all_wavelength_coronal.cbk,637_03wave_2beam_16sums_4rep_both.rcp { data	rcam	637.40  both	   16 } has invalid continumm
