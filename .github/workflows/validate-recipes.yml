@@ -25,13 +25,13 @@ jobs:
                 results2 = []
                 endline =0
                 for i in range(len(results)):
-                    if "for " in (results[i]).lower():
+                    if "for" == (results[i]).lower().split()[0]:
                         print(results[i])
                         forCount = int(results[i].split()[1])
                         startLine = i+1
                         for repeats in range(forCount):
                             for nextLine in range(len(results)-i):
-                                if "endfor" in (results[startLine+nextLine]).lower():
+                                if "endfor" == (results[startLine+nextLine]).lower().split()[0]:
                                     endline = startLine+nextLine+1
                                     break
                                 else:
