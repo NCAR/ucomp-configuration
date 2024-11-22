@@ -30,7 +30,7 @@
 ------------------> prefilterrange 637
  ------------ > 637_03wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	 637.35	   16
-------------------> data	rcam	637.40  both	   16
+------------------> data	rcam	both   637.40  	 16
 ------------------> data	rcam	both	 637.45	   16
 ------------------> data	tcam	both	 637.35	   16
 ------------------> data	tcam	both	 637.40	   16
