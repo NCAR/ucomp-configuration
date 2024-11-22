@@ -4,11 +4,39 @@
                 &#x1F4D7; =data <details><summary>measure-occulter.menu</summary><blockquote><pre><details><summary>measure-occulter.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre> nd in 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre> exposure 80 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre> shut	in 
- for 16 
 &#x1F4D9;  data	rcam	both	656.28	16 
 &#x1F4D9;  data	rcam	both	656.28	16 
- endfor 
- Integration:0.18 minutes.  Hardware:0.00 minutes. total:0.18 minutes  </pre></blockquote></details><details><summary>setupNDShutterOut.rcp</summary><blockquote><pre> shut	out 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+&#x1F4D9;  data	rcam	both	656.28	16 
+ Integration:2.89 minutes.  Hardware:0.00 minutes. total:2.89 minutes  </pre></blockquote></details><details><summary>setupNDShutterOut.rcp</summary><blockquote><pre> shut	out 
  Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre> prefilterrange 530 
  Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>530_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre> data	rcam	both	530.30	16 
  data	tcam	both	530.30	16 
@@ -274,4 +302,4 @@
  data	rcam	both	1083.00	16 
  data	tcam	both	1083.00	16 
  Integration:2.89 minutes.  Hardware:0.00 minutes. total:2.89 minutes  </pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre> nd out 
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:23.31 minutes.  Hardware:3.33 minutes. total:26.64 minutes  </pre></blockquote></details></pre></blockquote></details>
+ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:26.02 minutes.  Hardware:3.33 minutes. total:29.35 minutes  </pre></blockquote></details></pre></blockquote></details>

@@ -3,9 +3,5 @@ lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does n
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
-flat.menu,1074-multi-flats.cbk { for 10 } command not found.
-flat.menu,1074-multi-flats.cbk { endfor } command not found.
 eclipsePrep.menu,distortion-1074.cbk,distortion_in.rcp { distortiongrid in } command not found.
 eclipsePrep.menu,distortion-1074.cbk,distortion_out.rcp { distortiongrid out } command not found.
-measure-occulter.menu,measure-occulter.cbk,dark_01wave_1beam_16sums_16rep_both.rcp { for 16 } command not found.
-measure-occulter.menu,measure-occulter.cbk,dark_01wave_1beam_16sums_16rep_both.rcp { endfor } command not found.
