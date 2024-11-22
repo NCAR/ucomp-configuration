@@ -112,7 +112,7 @@ jobs:
 
                             color = None
                             command = child.split()[0]
-                            if command not in ["data", "cal", "dark", "fw", "occ", "diffuser","calib", "occyrel", "occxrel", "o1", "calret", "calpol","cover",  "shut", "exposure", "nd", "gain", "distortionGrid", "modwait","shut","exposure", "cover", "occ", "prefilterrange"]:
+                            if command not in ["data", "cal", "dark", "fw", "occ", "diffuser","calib", "occyrel", "occxrel", "o1", "calret", "calpol","cover",  "shut", "exposure", "nd", "gain", "distortiongrid", "modwait","shut","exposure", "cover", "occ", "prefilterrange"]:
                               warning.write(f"{parent} {{ {child} }} command not found.\n")
                             if "gain" in child:
                                 state['gain'] = "low" if "low" in child else "high"
