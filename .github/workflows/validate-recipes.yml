@@ -28,22 +28,23 @@ jobs:
                     print(results[i])
                     print((results[i]).lower())
                     print((results[i]).lower().split())
-                    if "for" == (results[i]).lower().split()[0]:
-                        print(results[i])
-                        forCount = int(results[i].split()[1])
-                        startLine = i+1
-                        for repeats in range(forCount):
-                            for nextLine in range(len(results)-i):
-                                if "endfor" == (results[startLine+nextLine]).lower().split()[0]:
-                                    endline = startLine+nextLine+1
-                                    break
-                                else:
-                                    results2.append(results[startLine+nextLine])
-                    else:
-                        if i < endline:
-                            pass
-                        else:
-                            results2.append(results[i])
+                    if len((results[i]).lower().split())  > 0:
+                      if len((results[i]).lower().split())  > 0 and "for" == (results[i]).lower().split()[0]:
+                          print(results[i])
+                          forCount = int(results[i].split()[1])
+                          startLine = i+1
+                          for repeats in range(forCount):
+                              for nextLine in range(len(results)-i):
+                                  if "endfor" == (results[startLine+nextLine]).lower().split()[0]:
+                                      endline = startLine+nextLine+1
+                                      break
+                                  else:
+                                      results2.append(results[startLine+nextLine])
+                      else:
+                          if i < endline:
+                              pass
+                          else:
+                              results2.append(results[i])
                 return results2
             def read_script(scriptname,parent,tab,state,darks,flat,coronal,coronalExp,summary,md,warning,childextension=".rcp"):
                 if childextension != ".rcp":
