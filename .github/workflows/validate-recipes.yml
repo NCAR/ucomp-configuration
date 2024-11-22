@@ -25,6 +25,7 @@ jobs:
                 results2 = []
                 endline =0
                 for i in range(len(results)):
+                    print(results[i])
                     if "for" == (results[i]).lower().split()[0]:
                         print(results[i])
                         forCount = int(results[i].split()[1])
