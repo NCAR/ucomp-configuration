@@ -6,7 +6,7 @@ jobs:
     steps:
       # Checkout the branch
       - name: checkout
-        uses: actions/checkout@v2 # use either @v2-beta or @master. Eventually there will be a @v2 tag.
+        uses: actions/checkout@v2 # use either @v2-beta or @master. Eventually, there will be a @v2 tag.
       
       
       - name: setup python
@@ -103,9 +103,9 @@ jobs:
                             color = None
                             command = child.split()[0]
                             if command not in ["data","cal","dark","fw","occ","diffuser",
-                                              "calib","occyrel","occxrel","o1,"calret","calpol,
+                                              "calib","occyrel","occxrel","o1,"calret","calpol",
                                               "cover","shut","exposure","nd","gain","distortionGrid","modwait",
-                                              ,"shut","exposure","cover","occ","prefilterrange"]:
+                                              "shut","exposure","cover","occ","prefilterrange"]:
                               warning.write(f"{parent} {{ {child} }} command not found.\n")
                             if "gain" in child:
                                 state['gain'] = "low" if "low" in child else "high"
