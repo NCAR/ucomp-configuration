@@ -3,5 +3,3 @@ lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does n
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
-eclipsePrep.menu,distortion-1074.cbk,distortion_in.rcp { distortiongrid in } command not found.
-eclipsePrep.menu,distortion-1074.cbk,distortion_out.rcp { distortiongrid out } command not found.
