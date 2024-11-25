@@ -64,9 +64,7 @@
 &#x1F4D8;  data	tcam	both	530.29	16 
 &#x1F4D8;  data	tcam	both	530.32	16 
 &#x1F4D8;  data	tcam	both	530.35	16 
- Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> <<<<<<< updated upstream 
- ======= 
-<details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre> shut in 
  cover out 
  calib	out 
  occ		in 
@@ -112,5 +110,4 @@
 &#x1F4D7;  data	tcam	both	530.29	16 
 &#x1F4D7;  data	tcam	both	530.32	16 
 &#x1F4D7;  data	tcam	both	530.35	16 
- Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> >>>>>>> stashed changes 
- Integration:8.13 minutes.  Hardware:2.08 minutes. total:10.21 minutes  </pre></blockquote></details></pre></blockquote></details>
+ Integration:3.61 minutes.  Hardware:0.00 minutes. total:3.61 minutes  </pre></blockquote></details> Integration:8.13 minutes.  Hardware:2.08 minutes. total:10.21 minutes  </pre></blockquote></details></pre></blockquote></details>

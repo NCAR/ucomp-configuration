@@ -1,6 +1,3 @@
-mcotter-someone.menu,mcotter-someone.cbk { <<<<<<< updated upstream } command not found.
-mcotter-someone.menu,mcotter-someone.cbk { ======= } command not found.
-mcotter-someone.menu,mcotter-someone.cbk { >>>>>>> stashed changes } command not found.
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
