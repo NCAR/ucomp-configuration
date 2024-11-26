@@ -1,5 +1,39 @@
+mcotter-someone.menu,mcotter-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisaignore-someone.menu,lisa_someone_530coronal_flat.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
 lisaignore-someone.menu tried to call *lisa_someone_530coronal.cbk* which does not exist
+lisaignore-someone.menu,lisa_someone_530coronal_flat.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+lisa-someone.menu,lisa-someone.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+diffuser-calibration.menu,diffuser-calibration.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+diffuser-calibration.menu,diffuser-calibration.cbk,656_fw.rcp { prefilterrange 656 } invalid prefilter
+diffuser-calibration.menu,diffuser-calibration.cbk,1083_fw.rcp { prefilterrange 1083 } invalid prefilter
+diffuser-calibration.menu,diffuser-calibration.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+diffuser-calibration.menu,diffuser-calibration.cbk,656_fw.rcp { prefilterrange 656 } invalid prefilter
+diffuser-calibration.menu,diffuser-calibration.cbk,1083_fw.rcp { prefilterrange 1083 } invalid prefilter
+diffuser-calibration.menu,diffuser-calibration.cbk,656_fw.rcp { prefilterrange 656 } invalid prefilter
+diffuser-calibration.menu,diffuser-calibration.cbk,1083_fw.rcp { prefilterrange 1083 } invalid prefilter
+measure-occulter.menu,measure-occulter.cbk,530_fw.rcp { prefilterrange 530 } invalid prefilter
+measure-occulter.menu,measure-occulter.cbk,656_fw.rcp { prefilterrange 656 } invalid prefilter
+measure-occulter.menu,measure-occulter.cbk,1083_fw.rcp { prefilterrange 1083 } invalid prefilter

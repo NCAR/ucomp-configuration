@@ -2,7 +2,8 @@
                 &#x1F4D5; =calib  
                 &#x1F4D8; =flat  
                 &#x1F4D7; =data <details><summary>find_imageDrift.menu</summary><blockquote><pre><details><summary>find_imageDrift.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre>nd	in
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>1083_imageDrift.rcp</summary><blockquote><pre>shut	out
+
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>1083_imageDrift.rcp</summary><blockquote><pre>shut	out
 o1	62.75
 data	tcam	both	1083.00	4
 o1	60
@@ -31,5 +32,8 @@ o1	5
 data	tcam	both	1083.00	4
 o1	0
 shut	in
- Integration:0.34 minutes.  Hardware:0.00 minutes. total:0.34 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; ND_OUT.rcp</summary><blockquote><pre>nd	out
- Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details> Integration:0.34 minutes.  Hardware:0.00 minutes. total:0.34 minutes  </pre></blockquote></details></pre></blockquote></details>
+
+Integration:0.34 minutes.  Hardware:0.00 minutes. total:0.34 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; ND_OUT.rcp</summary><blockquote><pre>nd	out
+
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details>
+Integration:0.34 minutes.  Hardware:0.00 minutes. total:0.34 minutes  </pre></blockquote></details></pre></blockquote></details>
