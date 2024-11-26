@@ -146,7 +146,7 @@ jobs:
                                 if 'filter' not in state or state['filter'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 25
                                 state['filter'] = int(child.split()[1])
-                              except:
+                              else:
                                 warning.write(f"{parent} {{ {child} }} invalid prefilter\n")
                             if "calret" in child:
                               try:
