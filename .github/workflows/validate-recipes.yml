@@ -47,7 +47,7 @@ jobs:
                 if childextension != ".rcp":
                   coronal = []
                   coronalExp = []
-                #print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
+                
                 script = open(scriptname,"r")
                 results = script.readlines()
                 script.close()
@@ -64,21 +64,17 @@ jobs:
                   if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
                       color = "blue"
                   if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
-                      #print(state)
+                     
                       color = "green"
                   if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
                       color = "black"
                   if color == "red":
-                    #md.write("&#x1F4D9; ") 
                     emoji = "&#x1F4D9; "
                   if color == "black":
-                   # md.write("&#x1F4D5; ") 
                     emoji = "&#x1F4D5; "
                   if color == "blue":
-                    #md.write("&#x1F4D8; ")
                     emoji = "&#x1F4D8; "
                   if color == "green":
-                    #md.write("&#x1F4D7; ") 
                     emoji = "&#x1F4D7; "
                 md.write(f"<details><summary>")
                 if emoji is not None: 
@@ -100,9 +96,7 @@ jobs:
                             except FileNotFoundError:
                                 warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
                         else:
-                            #print(f"{state} {darks} {flat} {parent} {child}")
-      
-
+                            
                             color = None
                             command = child.split()[0]
                             if command not in ["data", "cal", "dark", "fw", "occ", "diffuser","calib", "occyrel", "occxrel", "o1", "calret", "calpol","cover",  "shut", "exposure", "nd", "gain", "distortiongrid", "modwait","shut","exposure", "cover", "occ", "prefilterrange"]:
@@ -177,7 +171,6 @@ jobs:
                               else:
                                 warning.write(f"{parent} {{ {child} }} has invalid position\n")
                             if "data" in child:
-                                #print(child)
                                 data,cam,cont,wave,sums = child.split()
                                 runTime += 300+int(state['exposure'])*4*int(sums)
                                 if cam not in ["rcam","tcam"]:
@@ -197,21 +190,16 @@ jobs:
                                     if state['gain']+sums+cam+cont+wave not in flats:
                                         flats.append(state['gain']+sums+cam+cont+wave)
                                 if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
-                                    #print(state)
                                     color = "green"
                                     coronal.append(state['gain']+sums+cam+cont+wave)
                                     coronalExp.append(state['exposure']+state['gain']+sums)
-                                   # if state['exposure']+state['gain']+sums not in darks:
-                                    #    warning.write(f"{parent} {{ {child} }}missing dark for {state['exposure']+state['gain']+sums}\n")
-                                   # if state['gain']+sums+cam+cont+wave not in flats:
-                                   #     warning.write(f"{parent} {{ {child} }} missing flat for {state['gain']+sums+cam+cont+wave}\n")
+                                  
                                 if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
                                   color = "black"
  
                             summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
                             rcpName = child.split('#')[0]
                             if "_FW" not in rcpName and "setup" not in rcpName and "cbk" not in rcpName and "menu" not in rcpName:
-                              #md.write(f"rcpname {rcpName}")
                               if color == "red": 
                                 md.write("&#x1F4D9; ") 
                               if color == "black":
@@ -228,7 +216,6 @@ jobs:
                   md.write(f"\nIntegration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes  ")
                 else:
                   for corona in coronalExp:
-                    #c1 = corona.replace("tcam","rcam")
                     if corona not in darks:
                        warning.write(f"{parent} missing dark for {{ {corona} }}\n")
                   for corona in coronal:
