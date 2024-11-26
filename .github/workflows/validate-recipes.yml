@@ -186,7 +186,7 @@ jobs:
                                 md.write("&#x1F4D8; ") 
                               if color == "green":
                                 md.write("&#x1F4D7; ") 
-                            md.write(f" {"\t".join((child.split('#')[0]).strip().split())} \n") 
+                            md.write(f"{"\t".join((child.split('#')[0]).strip().split())}\n") 
  
                             pass
                 script.close()
