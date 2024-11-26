@@ -142,7 +142,7 @@ jobs:
                               else:
                                 warning.write(f"{parent} {{ {child} }} has invalid position\n")
                             if "prefilterrange " in child:
-                              if child.split()[1] in ["637","670","706","761","789","802","991","1074","1079"]:
+                              if child.split()[1] in ["637","670","706","761","789","802","991","1074","1079","530","656","1083"]:
                                 if 'filter' not in state or state['filter'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 25
                                 state['filter'] = int(child.split()[1])
