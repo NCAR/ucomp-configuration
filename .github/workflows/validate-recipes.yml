@@ -125,7 +125,7 @@ jobs:
                                 if exp < 1 or exp > 84:
                                   raise ValueError("Number out of range")
                                 state['exposure'] = child.split()[1]
-                              execpt:
+                              except:
                                 warning.write(f"{parent} {{ {child} }} has invalid exposure time\n")
                             if "cover" in child:
                               if  child.split()[1] in ["in","out"]:
@@ -146,7 +146,7 @@ jobs:
                                 if 'filter' not in state or state['filter'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 25
                                 state['filter'] = int(child.split()[1])
-                              execpt:
+                              except:
                                 warning.write(f"{parent} {{ {child} }} invalid prefilter\n")
                             if "calret" in child:
                               try:
@@ -154,7 +154,7 @@ jobs:
                                 if 'calret' not in state or state['calret'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 5
                                 state['calret'] = child.split()[1]
-                              execpt:
+                              except:
                                 warning.write(f"{parent} {{ {child} }} should be degrees\n")
                     
                             if "calpol" in child:
@@ -163,7 +163,7 @@ jobs:
                                 if 'calpol' not in state or state['calpol'] not in  child:
                                   hardwareTime = hardwareTime + 5
                                 state['calpol'] = child.split()[1]    
-                              execpt:
+                              except:
                                 warning.write(f"{parent} {{ {child} }} should be degrees\n")
                             if "calib" in child:
                                 if 'calib' not in state or state['calib'] not in child:
