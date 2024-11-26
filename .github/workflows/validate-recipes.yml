@@ -108,42 +108,63 @@ jobs:
                             if command not in ["data", "cal", "dark", "fw", "occ", "diffuser","calib", "occyrel", "occxrel", "o1", "calret", "calpol","cover",  "shut", "exposure", "nd", "gain", "distortiongrid", "modwait","shut","exposure", "cover", "occ", "prefilterrange"]:
                               warning.write(f"{parent} {{ {child} }} command not found.\n")
                             if "gain" in child:
-                                if  child.split()[1] not in ["low","high"]:
+                                if  child.split()[1] in ["low","high"]:
+                                  state['gain'] = "low" if "low" in child else "high"
+                                else:
                                   warning.write(f"{parent} {{ {child} }} has invalid gain\n")
-                                state['gain'] = "low" if "low" in child else "high"
+                                  
                             if "shut" in child:
-                                if  child.split()[1] not in ["in","out"]:
-                                  warning.write(f"{parent} {{ {child} }} has invalid position\n"
-                                state['shut'] = "in" if "in" in child else "out"
+                                if  child.split()[1] in ["in","out"]:
+                                  state['shut'] = "in" if "in" in child else "out"
+                                else:
+                                  warning.write(f"{parent} {{ {child} }} has invalid position\n")
+                                
                             if "exposure" in child:
+                              try:
+                                exp = float(child.split()[1])
+                                if exp < 1 or exp > 84:
+                                  raise ValueError("Number out of range")
                                 state['exposure'] = child.split()[1]
-                                #print(state)
+                              execpt:
+                                warning.write(f"{parent} {{ {child} }} has invalid exposure time\n")
                             if "cover" in child:
                               if  child.split()[1] in ["in","out"]:
                                 if 'cover' not in state or state['cover'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 60
                                 state['cover'] = "in" if "in" in child else "out"
                               else:
-                                warning.write(f"{parent} {{ {child} }} has invalid position\n"
+                                warning.write(f"{parent} {{ {child} }} has invalid position\n")
                             if "occ" in child:
+                              if  child.split()[1] in ["in","out"]:
                                 if 'occ' not in state or state['occ'] not in child:
                                   hardwareTime = hardwareTime + 20
                                 state['occ'] = "in" if "in" in child else "out"
+                              else:
+                                warning.write(f"{parent} {{ {child} }} has invalid position\n")
                             if "prefilterrange " in child:
+                              if child.split()[1] in ["637","670","706","761","789","802","991","1074","1079"]:
                                 if 'filter' not in state or state['filter'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 25
-                                state['filter'] = child.split()[1]
+                                state['filter'] = int(child.split()[1])
+                              execpt:
+                                warning.write(f"{parent} {{ {child} }} invalid prefilter\n")
                             if "calret" in child:
+                              try:
+                                float(child.split()[1])
                                 if 'calret' not in state or state['calret'] != child.split()[1]:
                                   hardwareTime = hardwareTime + 5
                                 state['calret'] = child.split()[1]
+                              execpt:
+                                warning.write(f"{parent} {{ {child} }} should be degrees\n")
+                    
                             if "calpol" in child:
-                              if  child.split()[1] in ["in","out"]: 
+                              try:
+                                float(child.split()[1]) 
                                 if 'calpol' not in state or state['calpol'] not in  child:
                                   hardwareTime = hardwareTime + 5
                                 state['calpol'] = child.split()[1]    
-                              else:
-                                warning.write(f"{parent} {{ {child} }} has invalid position\n"
+                              execpt:
+                                warning.write(f"{parent} {{ {child} }} should be degrees\n")
                             if "calib" in child:
                                 if 'calib' not in state or state['calib'] not in child:
                                   hardwareTime = hardwareTime + 20
@@ -154,7 +175,7 @@ jobs:
                                   hardwareTime = hardwareTime + 20
                                 state['diffuser'] = "in" if "in" in child else "out"
                               else:
-                                warning.write(f"{parent} {{ {child} }} has invalid position\n"
+                                warning.write(f"{parent} {{ {child} }} has invalid position\n")
                             if "data" in child:
                                 #print(child)
                                 data,cam,cont,wave,sums = child.split()
