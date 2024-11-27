@@ -75,7 +75,7 @@ def  read_script(script_name,parent,tab,state,darks,flat,coronal,coronalExp,summ
     if child_extension != ".rcp":
         coronal = []
         coronalExp = []
-    
+    print(script_name,os.getcwd())
     script = open(script_name,"r")
     results = script.readlines()
     script.close()
