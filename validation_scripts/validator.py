@@ -71,11 +71,18 @@ def unroll_forloop(results):
                     results2.append(tab_space.join(results[i]))
     return results2
 
-def  read_script(script_name,parent,tab,state,darks,flat,coronal,coronalExp,summary,md,warning,child_extension=".rcp"):
+def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,summary,md,warning,child_extension=".rcp"):
     if child_extension != ".rcp":
         coronal = []
         coronalExp = []
-    script = open([file for file in glob.glob("*") if file.lower() ==script_name][0],"r")
+    script_name = [file for file in glob.glob("*") if file.lower() ==script_name_in]
+    if len(script_name) == 0:
+      warning.write(f"{parent} {script_name_in} command not found.\n")
+      return 0,0
+    script_name = script_name[0]
+    
+      
+    script = open(script_name,"r")
     results = script.readlines()
     script.close()
     if  ".cbk" in script_name:  #Remove this test when Labview can handle for loops in rcp files.
