@@ -91,8 +91,38 @@ Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></bl
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 991_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	991.26	16
 &#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
+&#x1F4D8; data	rcam	both	991.26	16
+&#x1F4D8; data	tcam	both	991.26	16
 
-Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
+Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	1074.70	16
 &#x1F4D8; data	tcam	both	1074.70	16
@@ -165,4 +195,4 @@ Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></bl
 Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details>
-Integration:12.38 minutes.  Hardware:5.75 minutes. total:18.13 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:15.53 minutes.  Hardware:5.75 minutes. total:21.28 minutes  </pre></blockquote></details></pre></blockquote></details>
