@@ -1,13 +1,13 @@
-lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
-lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
-lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
-lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
-lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
-find_imageDrift.menu find_imageDrift.menu command not found.
-eclipsePrep.menu eclipsePrep.menu command not found.
-daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk dark_80ms_2beam_16sums_BOTH.cbk command not found.
-daily-polarizations.menu,637_pol_calibrate.cbk 637_Pol_Calibrate.cbk command not found.
-daily-polarizations.menu,706_pol_calibrate.cbk 706_Pol_Calibrate.cbk command not found.
-daily-polarizations.menu,789_pol_calibrate.cbk 789_Pol_Calibrate.cbk command not found.
-daily-polarizations.menu,1074_pol_calibrate.cbk 1074_Pol_Calibrate.cbk command not found.
-daily-polarizations.menu,1079_pol_calibrate.cbk 1079_Pol_Calibrate.cbk command not found.
+read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
+read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
+read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
+read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
+read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
+read_script: find_imageDrift.menu find_imageDrift.menu command not found.
+read_script: eclipsePrep.menu eclipsePrep.menu command not found.
+read_script: daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk dark_80ms_2beam_16sums_BOTH.cbk command not found.
+read_script: daily-polarizations.menu,637_pol_calibrate.cbk 637_Pol_Calibrate.cbk command not found.
+read_script: daily-polarizations.menu,706_pol_calibrate.cbk 706_Pol_Calibrate.cbk command not found.
+read_script: daily-polarizations.menu,789_pol_calibrate.cbk 789_Pol_Calibrate.cbk command not found.
+read_script: daily-polarizations.menu,1074_pol_calibrate.cbk 1074_Pol_Calibrate.cbk command not found.
+read_script: daily-polarizations.menu,1079_pol_calibrate.cbk 1079_Pol_Calibrate.cbk command not found.
