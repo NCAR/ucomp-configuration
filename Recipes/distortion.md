@@ -101,13 +101,73 @@ Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></bl
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 706_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	706.20	16
 &#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
 
-Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details><details><summary>761_FW.rcp</summary><blockquote><pre>prefilterrange	761
+Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></blockquote></details><details><summary>761_FW.rcp</summary><blockquote><pre>prefilterrange	761
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 706_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	706.20	16
 &#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
+&#x1F4D8; data	rcam	both	706.20	16
+&#x1F4D8; data	tcam	both	706.20	16
 
-Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
+Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	789.40	16
 &#x1F4D8; data	tcam	both	789.40	16
@@ -255,4 +315,4 @@ Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></bl
 Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details>
-Integration:21.83 minutes.  Hardware:5.75 minutes. total:27.58 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:28.13 minutes.  Hardware:5.75 minutes. total:33.88 minutes  </pre></blockquote></details></pre></blockquote></details>
