@@ -80,7 +80,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
       warning.write(f"read_script: {parent}, **{script_name_in}** command not found.\n")
       return 0,0
     script_name = script_name[0]
-    
+    warning.write(f"reading: {parent}, &&{script_name}&& **{script_name_in}** command not found.\n")
       
     script = open(script_name,"r")
     results = script.readlines()
