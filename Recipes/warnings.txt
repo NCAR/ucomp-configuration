@@ -3,8 +3,6 @@ lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk 
 lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
 lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
 lisaignore-someone.menu,lisa_someone_530coronal.cbk lisa_someone_530coronal.cbk command not found.
-distortion.menu,distortion.cbk,802_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
-distortion.menu,distortion.cbk,802_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 find_imageDrift.menu find_imageDrift.menu command not found.
 eclipsePrep.menu eclipsePrep.menu command not found.
 measure-occulter.menu,measure-occulter.cbk,1083_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.

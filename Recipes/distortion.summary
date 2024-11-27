@@ -206,6 +206,8 @@
  ------------ > 802_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	802.41	16
 ------------------> data	tcam	both	802.41	16
+------------------> data	rcam	both	802.41	16
+------------------> data	tcam	both	802.41	16
  ------------ > 991_FW.rcp
 ------------------> prefilterrange	991
  ------------ > 991_01wave_2beam_16sums_16rep_BOTH.rcp
