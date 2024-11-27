@@ -29,7 +29,7 @@ jobs:
       # Step 4: Run the validator script
       - name: Run validator.py
         run: |
-          python scripts/validator.py   # validator.py
+          python validation_scripts/validator.py   # validator.py
 
       # Step 5: Configure Git
       - name: Configure Git
