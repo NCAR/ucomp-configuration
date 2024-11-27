@@ -75,7 +75,6 @@ def  read_script(script_name,parent,tab,state,darks,flat,coronal,coronalExp,summ
     if child_extension != ".rcp":
         coronal = []
         coronalExp = []
-    #print([file for file in glob.glob("*") if file.lower() == 'pol_cal_all_filters.cbk'][0],os.getcwd())
     script = open([file for file in glob.glob("*") if file.lower() ==script_name][0],"r")
     results = script.readlines()
     script.close()
@@ -114,8 +113,7 @@ def  read_script(script_name,parent,tab,state,darks,flat,coronal,coronalExp,summ
         emoji = None
         if len(commands) > 0 and commands[0] not in ignore_commands:
             if child_extension in commands[0]:
-                try:
-                    print(filename,   parent+","+commands[0],os.getcwd())
+                try:f
                     (tTime,hTime) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
                     runTime += tTime
                     hardwareTime += hTime
@@ -250,7 +248,7 @@ def  read_script(script_name,parent,tab,state,darks,flat,coronal,coronalExp,summ
         
     md.write("</pre></blockquote></details>")
     return runTime,hardwareTime
-menus = glob.glob("ben*.menu")
+menus = glob.glob("*.menu")
 state = {}
 darks = []
 coronal = []
@@ -270,7 +268,6 @@ for menu in menus:
     md = open(menu_name+".md","w")
     summary = open(menu_name+".summary","w")
     md.write("  \n".join([f'{icons[key]} = {key}' for key in icons.keys()]))
-    print(menu)
     read_script(menu,menu,0,state,darks,flats,coronal,coronalExp,summary,md,warning,".cbk")
     md.close()
     summary.close()
