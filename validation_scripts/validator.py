@@ -113,7 +113,7 @@ def  read_script(script_name,parent,tab,state,darks,flat,coronal,coronalExp,summ
         emoji = None
         if len(commands) > 0 and commands[0] not in ignore_commands:
             if child_extension in commands[0]:
-                try:f
+                try:
                     (tTime,hTime) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
                     runTime += tTime
                     hardwareTime += hTime
