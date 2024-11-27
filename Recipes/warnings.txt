@@ -11,8 +11,6 @@ distortion.menu,distortion.cbk,706_01wave_2beam_16sums_16rep_both.rcp { for	16 }
 distortion.menu,distortion.cbk,706_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 distortion.menu,distortion.cbk,706_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
 distortion.menu,distortion.cbk,706_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
-distortion.menu,distortion.cbk,789_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
-distortion.menu,distortion.cbk,789_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 distortion.menu,distortion.cbk,802_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
 distortion.menu,distortion.cbk,802_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 distortion.menu,distortion.cbk,991_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
@@ -31,8 +29,6 @@ measure-occulter.menu,measure-occulter.cbk,656_01wave_2beam_16sums_16rep_both.rc
 measure-occulter.menu,measure-occulter.cbk,656_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 measure-occulter.menu,measure-occulter.cbk,706_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
 measure-occulter.menu,measure-occulter.cbk,706_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
-measure-occulter.menu,measure-occulter.cbk,789_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
-measure-occulter.menu,measure-occulter.cbk,789_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 measure-occulter.menu,measure-occulter.cbk,1074_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
 measure-occulter.menu,measure-occulter.cbk,1074_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 measure-occulter.menu,measure-occulter.cbk,1083_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
