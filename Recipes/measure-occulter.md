@@ -45,8 +45,38 @@ Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></bl
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>1079_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1079.80	16
 data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
+data	rcam	both	1079.80	16
+data	tcam	both	1079.80	16
 
-Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange	1083
+Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></blockquote></details><details><summary>1083_FW.rcp</summary><blockquote><pre>prefilterrange	1083
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>1083_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
 data	tcam	both	1083.00	16
@@ -54,4 +84,4 @@ data	tcam	both	1083.00	16
 Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre>nd	out
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details>
-Integration:1.89 minutes.  Hardware:3.33 minutes. total:5.22 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:5.04 minutes.  Hardware:3.33 minutes. total:8.37 minutes  </pre></blockquote></details></pre></blockquote></details>
