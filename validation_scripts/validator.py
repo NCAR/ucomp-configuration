@@ -75,7 +75,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     if child_extension != ".rcp":
         coronal = []
         coronalExp = []
-    script_name = [file for file in glob.glob("*") if file.lower() ==script_name_in]
+    script_name = [file for file in glob.glob("*") if file.lower() ==script_name_in.lower()]
     if len(script_name) == 0:
       warning.write(f"read_script: {parent}, **{script_name_in}** command not found.\n")
       return 0,0
