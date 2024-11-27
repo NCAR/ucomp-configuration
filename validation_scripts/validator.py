@@ -121,6 +121,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         if len(commands) > 0 and commands[0] not in ignore_commands:
             if child_extension in commands[0]:
                 try:
+                    warning.write(f'read_subscript filename {filename} parent {parent+","+commands[0]}')
                     (tTime,hTime) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
                     runTime += tTime
                     hardwareTime += hTime
@@ -275,6 +276,7 @@ for menu in menus:
     md = open(menu_name+".md","w")
     summary = open(menu_name+".summary","w")
     md.write("  \n".join([f'{icons[key]} = {key}' for key in icons.keys()]))
+    warning.write(f"reading menu:{menu}")
     read_script(menu,menu,0,state,darks,flats,coronal,coronalExp,summary,md,warning,".cbk")
     md.close()
     summary.close()
