@@ -8369,7 +8369,15 @@ reading: distortion.menu,distortion.cbk,1079_01wave_2beam_16sums_16rep_both.rcp,
 read_subscript filename setupdark.rcp parent distortion.menu,distortion.cbk,setupdark.rcp
 reading: distortion.menu,distortion.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
 reading menu:find_imageDrift.menu
-read_script: find_imageDrift.menu, **find_imageDrift.menu** command not found.
+reading: find_imageDrift.menu, &&find_imageDrift.menu&& **find_imageDrift.menu**
+read_subscript filename find_imageDrift.cbk parent find_imageDrift.menu,find_imagedrift.cbk
+reading: find_imageDrift.menu,find_imagedrift.cbk, &&find_imageDrift.cbk&& **find_imageDrift.cbk**
+read_subscript filename nd_in.rcp parent find_imageDrift.menu,find_imagedrift.cbk,nd_in.rcp
+reading: find_imageDrift.menu,find_imagedrift.cbk,nd_in.rcp, &&ND_IN.rcp&& **nd_in.rcp**
+read_subscript filename 1083_imagedrift.rcp parent find_imageDrift.menu,find_imagedrift.cbk,1083_imagedrift.rcp
+reading: find_imageDrift.menu,find_imagedrift.cbk,1083_imagedrift.rcp, &&1083_imageDrift.rcp&& **1083_imagedrift.rcp**
+read_subscript filename nd_out.rcp parent find_imageDrift.menu,find_imagedrift.cbk,nd_out.rcp
+reading: find_imageDrift.menu,find_imagedrift.cbk,nd_out.rcp, &&ND_OUT.rcp&& **nd_out.rcp**
 reading menu:spectrograph validation.menu
 reading: spectrograph validation.menu, &&spectrograph validation.menu&& **spectrograph validation.menu**
 read_subscript filename spectragraph_validation.cbk parent spectrograph validation.menu,spectragraph_validation.cbk
@@ -8387,7 +8395,295 @@ reading: dark.menu,dark.cbk,dark_01wave_1beam_1sums_16rep_both.rcp, &&dark_01wav
 read_subscript filename dark_01wave_1beam_16sums_1rep_both.rcp parent dark.menu,dark.cbk,dark_01wave_1beam_16sums_1rep_both.rcp
 reading: dark.menu,dark.cbk,dark_01wave_1beam_16sums_1rep_both.rcp, &&dark_01wave_1beam_16sums_1rep_BOTH.rcp&& **dark_01wave_1beam_16sums_1rep_both.rcp**
 reading menu:eclipsePrep.menu
-read_script: eclipsePrep.menu, **eclipsePrep.menu** command not found.
+reading: eclipsePrep.menu, &&eclipsePrep.menu&& **eclipsePrep.menu**
+read_subscript filename 1074_Scan.cbk parent eclipsePrep.menu,1074_scan.cbk
+reading: eclipsePrep.menu,1074_scan.cbk, &&1074_Scan.cbk&& **1074_Scan.cbk**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,1074_scan.cbk,setupdark.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent eclipsePrep.menu,1074_scan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
+read_subscript filename 1074_fw.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_fw.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_fw.rcp, &&1074_FW.rcp&& **1074_fw.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1074_09wave_0.12step_2beam_16sums_1reps_both.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp, &&1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp&& **1074_09wave_0.12step_2beam_16sums_1reps_both.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,1074_scan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_09wave_0.12step_2beam_16sums_1reps_both.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_09wave_0.12step_2beam_16sums_1reps_both.rcp, &&1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp&& **1074_09wave_0.12step_2beam_16sums_1reps_both.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer1.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,1074_scan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer1.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer1.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer2.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,1074_scan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer2.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer2.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer3.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,1074_scan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer3.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer3.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer4.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,1074_scan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer4.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer4.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer5.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,1074_scan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp parent eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp, &&1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer5.rcp&& **1074_06wave_0.12step_2beam_16sums_1reps_both-outer5.rcp**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,1074_scan.cbk,setupdark.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent eclipsePrep.menu,1074_scan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: eclipsePrep.menu,1074_scan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
+read_subscript filename oldLineFineScan.cbk parent eclipsePrep.menu,oldlinefinescan.cbk
+reading: eclipsePrep.menu,oldlinefinescan.cbk, &&oldLineFineScan.cbk&& **oldLineFineScan.cbk**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupdark.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
+read_subscript filename 1074_fw.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,1074_fw.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,1074_fw.rcp, &&1074_FW.rcp&& **1074_fw.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1074_07wave_0.06step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp, &&1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp&& **1074_07wave_0.06step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_07wave_0.06step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,1074_07wave_0.06step_2beam_16sums_4reps_both.rcp, &&1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp&& **1074_07wave_0.06step_2beam_16sums_4reps_both.rcp**
+read_subscript filename 1079_fw.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,1079_fw.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,1079_fw.rcp, &&1079_FW.rcp&& **1079_fw.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1079_07wave_0.06step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,1079_07wave_0.06step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,1079_07wave_0.06step_2beam_16sums_4reps_both.rcp, &&1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp&& **1079_07wave_0.06step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1079_07wave_0.06step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,1079_07wave_0.06step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,1079_07wave_0.06step_2beam_16sums_4reps_both.rcp, &&1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp&& **1079_07wave_0.06step_2beam_16sums_4reps_both.rcp**
+read_subscript filename 789_fw.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,789_fw.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,789_fw.rcp, &&789_FW.rcp&& **789_fw.rcp**
+read_subscript filename 789_09wave_0.05step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp, &&789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp&& **789_09wave_0.05step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 789_09wave_0.05step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,789_09wave_0.05step_2beam_16sums_4reps_both.rcp, &&789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp&& **789_09wave_0.05step_2beam_16sums_4reps_both.rcp**
+read_subscript filename 637_fw.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,637_fw.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,637_fw.rcp, &&637_FW.rcp&& **637_fw.rcp**
+read_subscript filename 637_09wave_0.04step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,637_09wave_0.04step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,637_09wave_0.04step_2beam_16sums_4reps_both.rcp, &&637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp&& **637_09wave_0.04step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 637_09wave_0.04step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,637_09wave_0.04step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,637_09wave_0.04step_2beam_16sums_4reps_both.rcp, &&637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp&& **637_09wave_0.04step_2beam_16sums_4reps_both.rcp**
+read_subscript filename 706_fw.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,706_fw.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,706_fw.rcp, &&706_FW.rcp&& **706_fw.rcp**
+read_subscript filename 706_09wave_0.04step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp, &&706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp&& **706_09wave_0.04step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 706_09wave_0.04step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,706_09wave_0.04step_2beam_16sums_4reps_both.rcp, &&706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp&& **706_09wave_0.04step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,setupdark.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent eclipsePrep.menu,oldlinefinescan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: eclipsePrep.menu,oldlinefinescan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
+read_subscript filename newLineFineScan.cbk parent eclipsePrep.menu,newlinefinescan.cbk
+reading: eclipsePrep.menu,newlinefinescan.cbk, &&newLineFineScan.cbk&& **newLineFineScan.cbk**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,newlinefinescan.cbk,setupdark.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
+read_subscript filename 670_fw.rcp parent eclipsePrep.menu,newlinefinescan.cbk,670_fw.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,670_fw.rcp, &&670_FW.rcp&& **670_fw.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,newlinefinescan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 670_09wave_0.04step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,670_09wave_0.04step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,670_09wave_0.04step_2beam_16sums_4reps_both.rcp, &&670_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp&& **670_09wave_0.04step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,newlinefinescan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 670_09wave_0.04step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,670_09wave_0.04step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,670_09wave_0.04step_2beam_16sums_4reps_both.rcp, &&670_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp&& **670_09wave_0.04step_2beam_16sums_4reps_both.rcp**
+read_subscript filename 761_09wave_0.05step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp, &&761_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp&& **761_09wave_0.05step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,newlinefinescan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 761_09wave_0.05step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,761_09wave_0.05step_2beam_16sums_4reps_both.rcp, &&761_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp&& **761_09wave_0.05step_2beam_16sums_4reps_both.rcp**
+read_subscript filename 802_09wave_0.05step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,802_09wave_0.05step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,802_09wave_0.05step_2beam_16sums_4reps_both.rcp, &&802_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp&& **802_09wave_0.05step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,newlinefinescan.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 802_09wave_0.05step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,802_09wave_0.05step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,802_09wave_0.05step_2beam_16sums_4reps_both.rcp, &&802_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp&& **802_09wave_0.05step_2beam_16sums_4reps_both.rcp**
+read_subscript filename 991_fw.rcp parent eclipsePrep.menu,newlinefinescan.cbk,991_fw.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,991_fw.rcp, &&991_FW.rcp&& **991_fw.rcp**
+read_subscript filename 991_09wave_0.06step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp, &&991_09wave_0.06step_2beam_16sums_4reps_BOTH.rcp&& **991_09wave_0.06step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,newlinefinescan.cbk,setupflat.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 991_09wave_0.06step_2beam_16sums_4reps_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,991_09wave_0.06step_2beam_16sums_4reps_both.rcp, &&991_09wave_0.06step_2beam_16sums_4reps_BOTH.rcp&& **991_09wave_0.06step_2beam_16sums_4reps_both.rcp**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,newlinefinescan.cbk,setupdark.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent eclipsePrep.menu,newlinefinescan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: eclipsePrep.menu,newlinefinescan.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
+read_subscript filename distortion-1074.cbk parent eclipsePrep.menu,distortion-1074.cbk
+reading: eclipsePrep.menu,distortion-1074.cbk, &&distortion-1074.cbk&& **distortion-1074.cbk**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,distortion-1074.cbk,setupdark.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent eclipsePrep.menu,distortion-1074.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,distortion-1074.cbk,setupflat.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename distortion_in.rcp parent eclipsePrep.menu,distortion-1074.cbk,distortion_in.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,distortion_in.rcp, &&distortion_in.rcp&& **distortion_in.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,distortion-1074.cbk,setupflat.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_fw.rcp parent eclipsePrep.menu,distortion-1074.cbk,1074_fw.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,1074_fw.rcp, &&1074_FW.rcp&& **1074_fw.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_16rep_both.rcp parent eclipsePrep.menu,distortion-1074.cbk,1074_01wave_2beam_16sums_16rep_both.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,1074_01wave_2beam_16sums_16rep_both.rcp, &&1074_01wave_2beam_16sums_16rep_BOTH.rcp&& **1074_01wave_2beam_16sums_16rep_both.rcp**
+read_subscript filename distortion_out.rcp parent eclipsePrep.menu,distortion-1074.cbk,distortion_out.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,distortion_out.rcp, &&distortion_out.rcp&& **distortion_out.rcp**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,distortion-1074.cbk,setupdark.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,distortion-1074.cbk,setupflat.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
+read_subscript filename 1074_03wave_2beam_16sums_4rep_both.rcp parent eclipsePrep.menu,distortion-1074.cbk,1074_03wave_2beam_16sums_4rep_both.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,1074_03wave_2beam_16sums_4rep_both.rcp, &&1074_03wave_2beam_16sums_4rep_BOTH.rcp&& **1074_03wave_2beam_16sums_4rep_both.rcp**
+read_subscript filename setupobserving.rcp parent eclipsePrep.menu,distortion-1074.cbk,setupobserving.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,setupobserving.rcp, &&setupObserving.rcp&& **setupobserving.rcp**
+read_subscript filename 1074_03wave_2beam_16sums_4rep_both.rcp parent eclipsePrep.menu,distortion-1074.cbk,1074_03wave_2beam_16sums_4rep_both.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,1074_03wave_2beam_16sums_4rep_both.rcp, &&1074_03wave_2beam_16sums_4rep_BOTH.rcp&& **1074_03wave_2beam_16sums_4rep_both.rcp**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,distortion-1074.cbk,setupdark.rcp
+reading: eclipsePrep.menu,distortion-1074.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename Pol_Cal_All_Filters.cbk parent eclipsePrep.menu,pol_cal_all_filters.cbk
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk, &&Pol_Cal_All_Filters.cbk&& **Pol_Cal_All_Filters.cbk**
+read_subscript filename setupdark.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,setupdark.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
+read_subscript filename setupcal.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,setupcal.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 1074_fw.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_fw.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_fw.rcp, &&1074_FW.rcp&& **1074_fw.rcp**
+read_subscript filename 1074_pol_calibrate.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp, &&1074_Pol_Calibrate.rcp&& **1074_pol_calibrate.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1079_fw.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_fw.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_fw.rcp, &&1079_FW.rcp&& **1079_fw.rcp**
+read_subscript filename setupcal.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,setupcal.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 1079_pol_calibrate.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp, &&1079_Pol_Calibrate.rcp&& **1079_pol_calibrate.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 789_fw.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_fw.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_fw.rcp, &&789_FW.rcp&& **789_fw.rcp**
+read_subscript filename setupcal.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,setupcal.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 789_pol_calibrate.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp, &&789_Pol_Calibrate.rcp&& **789_pol_calibrate.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_fw.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_fw.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_fw.rcp, &&637_FW.rcp&& **637_fw.rcp**
+read_subscript filename setupcal.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,setupcal.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 637_pol_calibrate.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp, &&637_Pol_Calibrate.rcp&& **637_pol_calibrate.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename setupflat.rcp parent eclipsePrep.menu,pol_cal_all_filters.cbk,setupflat.rcp
+reading: eclipsePrep.menu,pol_cal_all_filters.cbk,setupflat.rcp, &&setupFlat.rcp&& **setupflat.rcp**
 reading menu:measure-occulter.menu
 reading: measure-occulter.menu, &&measure-occulter.menu&& **measure-occulter.menu**
 read_subscript filename measure-occulter.cbk parent measure-occulter.menu,measure-occulter.cbk
@@ -8983,17 +9279,141 @@ reading: daily-polarizations.menu,waves_1074_1hour.cbk,setupflat.rcp, &&setupFla
 read_subscript filename 1074_03wave_2beam_14sums_1_rep_both.rcp parent daily-polarizations.menu,waves_1074_1hour.cbk,1074_03wave_2beam_14sums_1_rep_both.rcp
 reading: daily-polarizations.menu,waves_1074_1hour.cbk,1074_03wave_2beam_14sums_1_rep_both.rcp, &&1074_03wave_2beam_14sums_1_rep_BOTH.rcp&& **1074_03wave_2beam_14sums_1_rep_both.rcp**
 read_subscript filename dark_80ms_2beam_16sums_BOTH.cbk parent daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk
-read_script: daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk, **dark_80ms_2beam_16sums_BOTH.cbk** command not found.
+reading: daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk, &&dark_80ms_2beam_16sums_BOTH.cbk&& **dark_80ms_2beam_16sums_BOTH.cbk**
+read_subscript filename setupdark.rcp parent daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk,setupdark.rcp
+reading: daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk,setupdark.rcp, &&setupDark.rcp&& **setupdark.rcp**
+read_subscript filename dark_01wave_1beam_16sums_10rep_both.rcp parent daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk,dark_01wave_1beam_16sums_10rep_both.rcp
+reading: daily-polarizations.menu,dark_80ms_2beam_16sums_both.cbk,dark_01wave_1beam_16sums_10rep_both.rcp, &&dark_01wave_1beam_16sums_10rep_BOTH.rcp&& **dark_01wave_1beam_16sums_10rep_both.rcp**
 read_subscript filename 637_Pol_Calibrate.cbk parent daily-polarizations.menu,637_pol_calibrate.cbk
-read_script: daily-polarizations.menu,637_pol_calibrate.cbk, **637_Pol_Calibrate.cbk** command not found.
+reading: daily-polarizations.menu,637_pol_calibrate.cbk, &&637_Pol_Calibrate.cbk&& **637_Pol_Calibrate.cbk**
+read_subscript filename 637_fw.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_fw.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_fw.rcp, &&637_FW.rcp&& **637_fw.rcp**
+read_subscript filename setupcal.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,setupcal.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 637_pol_calibrate.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp, &&637_Pol_Calibrate.rcp&& **637_pol_calibrate.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 637_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,637_pol_calibrate.cbk,637_pol_calibrate.rcp,637_01wave_2beam_16sums_1rep_both.rcp, &&637_01wave_2beam_16sums_1rep_BOTH.rcp&& **637_01wave_2beam_16sums_1rep_BOTH.rcp**
 read_subscript filename 706_Pol_Calibrate.cbk parent daily-polarizations.menu,706_pol_calibrate.cbk
-read_script: daily-polarizations.menu,706_pol_calibrate.cbk, **706_Pol_Calibrate.cbk** command not found.
+reading: daily-polarizations.menu,706_pol_calibrate.cbk, &&706_Pol_Calibrate.cbk&& **706_Pol_Calibrate.cbk**
+read_subscript filename 706_fw.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_fw.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_fw.rcp, &&706_FW.rcp&& **706_fw.rcp**
+read_subscript filename setupcal.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,setupcal.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 706_pol_calibrate.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp, &&706_Pol_Calibrate.rcp&& **706_pol_calibrate.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 706_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,706_pol_calibrate.cbk,706_pol_calibrate.rcp,706_01wave_2beam_16sums_1rep_both.rcp, &&706_01wave_2beam_16sums_1rep_BOTH.rcp&& **706_01wave_2beam_16sums_1rep_BOTH.rcp**
 read_subscript filename 789_Pol_Calibrate.cbk parent daily-polarizations.menu,789_pol_calibrate.cbk
-read_script: daily-polarizations.menu,789_pol_calibrate.cbk, **789_Pol_Calibrate.cbk** command not found.
+reading: daily-polarizations.menu,789_pol_calibrate.cbk, &&789_Pol_Calibrate.cbk&& **789_Pol_Calibrate.cbk**
+read_subscript filename 789_fw.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_fw.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_fw.rcp, &&789_FW.rcp&& **789_fw.rcp**
+read_subscript filename setupcal.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,setupcal.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 789_pol_calibrate.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp, &&789_Pol_Calibrate.rcp&& **789_pol_calibrate.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 789_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,789_pol_calibrate.cbk,789_pol_calibrate.rcp,789_01wave_2beam_16sums_1rep_both.rcp, &&789_01wave_2beam_16sums_1rep_BOTH.rcp&& **789_01wave_2beam_16sums_1rep_BOTH.rcp**
 read_subscript filename 1074_Pol_Calibrate.cbk parent daily-polarizations.menu,1074_pol_calibrate.cbk
-read_script: daily-polarizations.menu,1074_pol_calibrate.cbk, **1074_Pol_Calibrate.cbk** command not found.
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk, &&1074_Pol_Calibrate.cbk&& **1074_Pol_Calibrate.cbk**
+read_subscript filename 1074_fw.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_fw.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_fw.rcp, &&1074_FW.rcp&& **1074_fw.rcp**
+read_subscript filename setupcal.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,setupcal.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 1074_pol_calibrate.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp, &&1074_Pol_Calibrate.rcp&& **1074_pol_calibrate.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
+read_subscript filename 1074_01wave_2beam_16sums_1rep_BOTH.rcp parent daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp
+reading: daily-polarizations.menu,1074_pol_calibrate.cbk,1074_pol_calibrate.rcp,1074_01wave_2beam_16sums_1rep_both.rcp, &&1074_01wave_2beam_16sums_1rep_BOTH.rcp&& **1074_01wave_2beam_16sums_1rep_BOTH.rcp**
 read_subscript filename 1079_Pol_Calibrate.cbk parent daily-polarizations.menu,1079_pol_calibrate.cbk
-read_script: daily-polarizations.menu,1079_pol_calibrate.cbk, **1079_Pol_Calibrate.cbk** command not found.
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk, &&1079_Pol_Calibrate.cbk&& **1079_Pol_Calibrate.cbk**
+read_subscript filename 1079_fw.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_fw.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_fw.rcp, &&1079_FW.rcp&& **1079_fw.rcp**
+read_subscript filename setupcal.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,setupcal.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,setupcal.rcp, &&setupCal.rcp&& **setupcal.rcp**
+read_subscript filename 1079_pol_calibrate.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp, &&1079_Pol_Calibrate.rcp&& **1079_pol_calibrate.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
+read_subscript filename 1079_01wave_2beam_16sums_1rep_BLUE.rcp parent daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp
+reading: daily-polarizations.menu,1079_pol_calibrate.cbk,1079_pol_calibrate.rcp,1079_01wave_2beam_16sums_1rep_blue.rcp, &&1079_01wave_2beam_16sums_1rep_BLUE.rcp&& **1079_01wave_2beam_16sums_1rep_BLUE.rcp**
 read_subscript filename no-occulter-flat.cbk parent daily-polarizations.menu,no-occulter-flat.cbk
 reading: daily-polarizations.menu,no-occulter-flat.cbk, &&no-occulter-flat.cbk&& **no-occulter-flat.cbk**
 read_subscript filename gain_high.rcp parent daily-polarizations.menu,no-occulter-flat.cbk,gain_high.rcp
