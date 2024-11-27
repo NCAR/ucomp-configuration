@@ -75,8 +75,8 @@ def  read_script(script_name,parent,tab,state,darks,flat,coronal,coronalExp,summ
     if child_extension != ".rcp":
         coronal = []
         coronalExp = []
-    print(script_name,os.getcwd())
-    script = open(script_name,"r")
+    #print([file for file in glob.glob("*") if file.lower() == 'pol_cal_all_filters.cbk'][0],os.getcwd())
+    script = open([file for file in glob.glob("*") if file.lower() ==script_name][0],"r")
     results = script.readlines()
     script.close()
     if  ".cbk" in script_name:  #Remove this test when Labview can handle for loops in rcp files.
