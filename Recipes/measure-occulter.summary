@@ -5,7 +5,36 @@
  ------------ > Exposure_80.rcp
 ------------------> exposure	80
  ------------ > dark_01wave_1beam_16sums_16rep_BOTH.rcp
-------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
  ------------ > setupNDShutterOut.rcp

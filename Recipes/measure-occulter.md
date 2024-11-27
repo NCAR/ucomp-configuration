@@ -5,11 +5,40 @@
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>Exposure_80.rcp</summary><blockquote><pre>exposure	80
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>shut	in
-&#x1F4D9; data	rcam	both	656.28	16
-&#x1F4D9; data	rcam	both	656.28	16
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>dark_01wave_1beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
+data	rcam	both	656.28	16
 
-Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details><details><summary>setupNDShutterOut.rcp</summary><blockquote><pre>shut	out
+Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></blockquote></details><details><summary>setupNDShutterOut.rcp</summary><blockquote><pre>shut	out
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
@@ -114,4 +143,4 @@ data	tcam	both	1083.00	16
 Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre>nd	out
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details>
-Integration:8.19 minutes.  Hardware:3.33 minutes. total:11.52 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:11.33 minutes.  Hardware:3.33 minutes. total:14.67 minutes  </pre></blockquote></details></pre></blockquote></details>

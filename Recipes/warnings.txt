@@ -19,8 +19,6 @@ distortion.menu,distortion.cbk,1074_01wave_2beam_16sums_16rep_both.rcp { for	16 
 distortion.menu,distortion.cbk,1074_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 find_imageDrift.menu find_imageDrift.menu command not found.
 eclipsePrep.menu eclipsePrep.menu command not found.
-measure-occulter.menu,measure-occulter.cbk,dark_01wave_1beam_16sums_16rep_both.rcp { for	16 } command not found.
-measure-occulter.menu,measure-occulter.cbk,dark_01wave_1beam_16sums_16rep_both.rcp { endfor } command not found.
 measure-occulter.menu,measure-occulter.cbk,530_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
 measure-occulter.menu,measure-occulter.cbk,530_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 measure-occulter.menu,measure-occulter.cbk,637_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
