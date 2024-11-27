@@ -23,8 +23,6 @@ measure-occulter.menu,measure-occulter.cbk,530_01wave_2beam_16sums_16rep_both.rc
 measure-occulter.menu,measure-occulter.cbk,530_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 measure-occulter.menu,measure-occulter.cbk,637_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
 measure-occulter.menu,measure-occulter.cbk,637_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
-measure-occulter.menu,measure-occulter.cbk,656_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
-measure-occulter.menu,measure-occulter.cbk,656_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 measure-occulter.menu,measure-occulter.cbk,706_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
 measure-occulter.menu,measure-occulter.cbk,706_01wave_2beam_16sums_16rep_both.rcp { endfor } command not found.
 measure-occulter.menu,measure-occulter.cbk,1074_01wave_2beam_16sums_16rep_both.rcp { for	16 } command not found.
