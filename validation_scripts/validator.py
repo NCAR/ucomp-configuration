@@ -77,7 +77,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         coronalExp = []
     script_name = [file for file in glob.glob("*") if file.lower() ==script_name_in]
     if len(script_name) == 0:
-      warning.write(f"{parent} {script_name_in} command not found.\n")
+      warning.write(f"read_script: {parent} {script_name_in} command not found.\n")
       return 0,0
     script_name = script_name[0]
     
