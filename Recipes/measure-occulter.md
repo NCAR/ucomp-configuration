@@ -291,8 +291,38 @@ Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></bl
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>1083_01wave_2beam_16sums_16rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1083.00	16
 data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
+data	rcam	both	1083.00	16
+data	tcam	both	1083.00	16
 
-Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre>nd	out
+Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes  </pre></blockquote></details><details><summary>ND_OUT.rcp</summary><blockquote><pre>nd	out
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details>
-Integration:27.29 minutes.  Hardware:3.33 minutes. total:30.62 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:30.43 minutes.  Hardware:3.33 minutes. total:33.77 minutes  </pre></blockquote></details></pre></blockquote></details>
