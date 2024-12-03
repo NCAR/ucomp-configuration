@@ -1242,6 +1242,13 @@
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
+ ------------ > 1074_03wave_2beam_16sums_1_rep_BOTH.rcp
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	tcam	both	1074.70	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
