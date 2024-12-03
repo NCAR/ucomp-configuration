@@ -1,5 +1,8 @@
+read_script: daily.menu,waves_1074_1hour.cbk,1074_03wave_2beam_16sums_1_rep_both.rcp, **1074_03wave_2beam_16sums_1_rep_both.rcp** command not found.
+read_script: poor-weather.menu,waves_1074_1hour.cbk,1074_03wave_2beam_16sums_1_rep_both.rcp, **1074_03wave_2beam_16sums_1_rep_both.rcp** command not found.
 read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk, **lisa_someone_530coronal.cbk** command not found.
 read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk, **lisa_someone_530coronal.cbk** command not found.
 read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk, **lisa_someone_530coronal.cbk** command not found.
 read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk, **lisa_someone_530coronal.cbk** command not found.
 read_script: lisaignore-someone.menu,lisa_someone_530coronal.cbk, **lisa_someone_530coronal.cbk** command not found.
+read_script: daily-polarizations.menu,waves_1074_1hour.cbk,1074_03wave_2beam_16sums_1_rep_both.rcp, **1074_03wave_2beam_16sums_1_rep_both.rcp** command not found.

@@ -2462,14 +2462,7 @@ occ	out
 shut	out
 calib	out
 
-Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	1074.59	14
-&#x1F4D8; data	rcam	both	1074.81	14
-&#x1F4D8; data	rcam	both	1074.70	14
-&#x1F4D8; data	tcam	both	1074.59	14
-&#x1F4D8; data	tcam	both	1074.81	14
-&#x1F4D8; data	tcam	both	1074.70	14
-
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
 cover	out
 calib	out
 occ	in
@@ -3330,7 +3323,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D8; data	tcam	both	1074.70	14
 
 Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes  </pre></blockquote></details>
-Integration:68.60 minutes.  Hardware:2.08 minutes. total:70.68 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
+Integration:68.05 minutes.  Hardware:2.08 minutes. total:70.13 minutes  </pre></blockquote></details><details><summary>all_wavelength_coronal.cbk</summary><blockquote><pre><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
 cover	out
 calib	out
 occ	in
