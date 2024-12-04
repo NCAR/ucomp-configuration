@@ -1476,18 +1476,18 @@
 ------------------> prefilterrange	789
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------------ > dark_01wave_1beam_11sums_10rep_BOTH.rcp
+ ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -1930,15 +1930,15 @@
 ------------------> data	tcam	both	789.47	16
  ------------ > setupDark.rcp
 ------------------> shut	in
- ------------ > dark_01wave_1beam_11sums_10rep_BOTH.rcp
+ ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
-------------------> data	rcam	both	656.28	11
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16

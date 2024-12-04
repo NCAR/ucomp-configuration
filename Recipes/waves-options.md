@@ -1477,19 +1477,19 @@ Integration:2.52 minutes.  Hardware:0.00 minutes. total:2.52 minutes  </pre></bl
 
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_11sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
 
-Integration:0.74 minutes.  Hardware:0.00 minutes. total:0.74 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
+Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
 cover	out
 occ	out
 shut	out
@@ -1931,17 +1931,17 @@ Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></bl
 
 Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_11sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
-&#x1F4D9; data	rcam	both	656.28	11
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
 
-Integration:0.74 minutes.  Hardware:0.00 minutes. total:0.74 minutes  </pre></blockquote></details>
-Integration:85.20 minutes.  Hardware:4.75 minutes. total:89.95 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes  </pre></blockquote></details>
+Integration:85.83 minutes.  Hardware:4.75 minutes. total:90.58 minutes  </pre></blockquote></details></pre></blockquote></details>
