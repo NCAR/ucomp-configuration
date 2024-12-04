@@ -891,7 +891,884 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D8; data	tcam	both	1074.70	14
 
 Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes  </pre></blockquote></details>
-Integration:68.53 minutes.  Hardware:2.08 minutes. total:70.61 minutes  </pre></blockquote></details><details><summary>waves_1074_789_1hour.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+Integration:68.53 minutes.  Hardware:2.08 minutes. total:70.61 minutes  </pre></blockquote></details><details><summary>waves_789_1hour.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
+
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
+
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+&#x1F4D9; data	rcam	both	656.28	16
+
+Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
+cover	out
+occ	out
+shut	out
+calib	out
+
+Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	789.33	16
+&#x1F4D8; data	rcam	both	789.40	16
+&#x1F4D8; data	rcam	both	789.47	16
+&#x1F4D8; data	tcam	both	789.33	16
+&#x1F4D8; data	tcam	both	789.40	16
+&#x1F4D8; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
+cover	out
+calib	out
+occ	in
+diffuser	out
+shut	out
+
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; 789_03wave_2beam_16sums_1rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.33	16
+&#x1F4D7; data	rcam	both	789.40	16
+&#x1F4D7; data	rcam	both	789.47	16
+&#x1F4D7; data	tcam	both	789.33	16
+&#x1F4D7; data	tcam	both	789.40	16
+&#x1F4D7; data	tcam	both	789.47	16
+
+Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes  </pre></blockquote></details>
+Integration:77.24 minutes.  Hardware:1.75 minutes. total:78.99 minutes  </pre></blockquote></details><details><summary>waves_1074_789_1hour.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_14sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	14
@@ -913,7 +1790,7 @@ occ	out
 shut	out
 calib	out
 
-Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_16sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	1074.59	12
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; 1074_03wave_2beam_16sums_1_rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	1074.59	12
 &#x1F4D8; data	rcam	both	1074.81	12
 &#x1F4D8; data	rcam	both	1074.70	12
 &#x1F4D8; data	tcam	both	1074.59	12
@@ -1944,4 +2821,4 @@ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></bl
 &#x1F4D9; data	rcam	both	656.28	16
 
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes  </pre></blockquote></details>
-Integration:85.83 minutes.  Hardware:4.75 minutes. total:90.58 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:85.83 minutes.  Hardware:4.08 minutes. total:89.91 minutes  </pre></blockquote></details></pre></blockquote></details>
