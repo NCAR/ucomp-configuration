@@ -71,7 +71,7 @@ def unroll_forloop(results):
                     results2.append(tab_space.join(results[i]))
     return results2
 
-def parse_script_commands():
+
 
 
 def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,summary,md,warning,child_extension=".rcp"):
