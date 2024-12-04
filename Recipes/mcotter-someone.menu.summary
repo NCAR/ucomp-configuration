@@ -1,0 +1,71 @@
+  > mcotter-someone.menu
+ ------ > mcotter-someone.cbk
+ ------------ > setupflat.rcp
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
+------------------> shut	out
+------------------> calib	out
+ ------------ > setupdark.rcp
+------------------> shut	in
+ ------------ > dark_01wave_1beam_16sums_10rep_both.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------------ > 530_fw.rcp
+------------------> prefilterrange	530
+ ------------ > setupflat.rcp
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
+------------------> shut	out
+------------------> calib	out
+ ------------ > mcotter-530_5wave__2beam_16sum_4rep_both.rcp
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16

@@ -47,7 +47,7 @@ camera_readout = {"high":13.7,"low":7.6}
 
 
 def unroll_forloop(results):
-    results = [r.split("#")[0].lower().split() for r in results]  #Remove comments
+    results = [r.split("#")[0].lower().split() for r in results]  #Remove comments cookbook/recipe file
     results2 = []
     endline =0
     for i in range(len(results)):
@@ -71,6 +71,9 @@ def unroll_forloop(results):
                     results2.append(tab_space.join(results[i]))
     return results2
 
+def parse_script_commands():
+
+
 def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,summary,md,warning,child_extension=".rcp"):
     if child_extension != ".rcp":
         coronal = []
@@ -92,7 +95,11 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     runTime = 0
     hardwareTime = 0
             
- 
+    ## Attempt to guess what icon to put next to a recipe name based on state coming in to that.
+    ## this is kind of fragile but mostly works because most of our operational scripts dont change
+    ## data types within a recipe but rely on steup?????.rcp to run before to configure things.
+    ## We dont have a prefect filter for valid data script, (maybe we could key on wave and beam)
+    ## so instead we try to ignore recipe that look like a setup script.
     emoji = None
     if "_FW" not in script_name and "setup" not in script_name and "cbk" not in script_name and "menu" not in script_name and "_in" not in script_name and "_out" not in script_name:
         if state['shut'] == "in":
@@ -104,8 +111,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
             emoji = icons["data"]
         if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
             emoji = icons["calib"]
-    else:
-        emoji = None
+
 
     md.write(f"<details><summary>")
     if emoji is not None: 
