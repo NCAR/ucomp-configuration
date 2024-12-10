@@ -28,6 +28,7 @@ import matplotlib.pylab as plt
 
 
 tuning_configs = {}
+seen_tunings={}
 
 for tuning_config in glob.glob("../resource/*ini"):
     key = Path(tuning_config).name.split("_")[-1].split(".")[0]
@@ -61,13 +62,17 @@ def read_and_plot_rcp(recipe_path):
         tuning_key  = list(tuning_configs.keys())[find_nearest(wave_keys,mvalue)]
         if "prefilter" in tuning_configs[tuning_key]:
             for key in list(set(sorted(waves))):
+                if key+"onband" not in  seen_tunings:
+                    seen_tunings[key+"onband" ] = convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="onband")
+                if key+"offband" not in  seen_tunings:  
+                    seen_tunings[key+"offband" ] = convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="offband")
                 
-                plt.plot(*convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="onband"),label=f"{np.float32(key):.2f} onband")
-                plt.plot(*convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="offband"),label=f"{np.float32(key):.2f} offband")
+                plt.plot(*seen_tunings[key+"onband"  ],label=f"{np.float32(key):.2f} onband")
+                plt.plot(*seen_tunings[key+"offband"  ],label=f"{np.float32(key):.2f} offband")
 
             legend = fig.legend(loc='center left', bbox_to_anchor=(1, 0.5))
             plt.ylabel("Filter throughput [%]")
-            plt.ylabel("wavelength")
+            plt.xlabel("wavelength")
             fig.savefig("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png", bbox_extra_artists=(legend,), bbox_inches='tight')
         plt.close(fig)
 
@@ -81,6 +86,7 @@ in_out_options = ["in","out"]
 
 ignore_commands = ["date","author","description"]
 prefilters = ["637","670","706","761","789","802","991","1074","1079","530","656","1083"]
+
 
 icons = {"data":"&#x1F4D7; ",
          "flat":"&#x1F4D8; ",
