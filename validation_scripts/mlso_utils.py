@@ -1,6 +1,4 @@
 
-from pathlib import Path
-import numpy as np
 '''
 To use this lyot filter code locally, you will need to download the tuning_calibration ini  files from
 https://github.com/NCAR/ucomp-configuration/tree/main/config
