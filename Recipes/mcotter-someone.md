@@ -9,7 +9,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -29,7 +29,7 @@ occ	out
 shut	out
 calib	out
 
-Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; mcotter-530_5wave__2beam_16sum_4rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
+Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [mcotter-530_5wave__2beam_16sum_4rep_BOTH.rcp](tuningplots/mcotter-530_5wave__2beam_16sum_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
 &#x1F4D8; data	rcam	both	530.32	16
@@ -77,7 +77,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; mcotter-530_5wave__2beam_16sum_4rep_BOTH.rcp</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [mcotter-530_5wave__2beam_16sum_4rep_BOTH.rcp](tuningplots/mcotter-530_5wave__2beam_16sum_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
 &#x1F4D7; data	rcam	both	530.32	16

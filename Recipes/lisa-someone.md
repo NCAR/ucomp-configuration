@@ -3,7 +3,7 @@
 &#x1F4D9;  = dark  
 &#x1F4D5;  = calib<details><summary>lisa-someone.menu</summary><blockquote><pre><details><summary>lisa-someone.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -23,7 +23,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -72,7 +72,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -114,7 +114,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -156,7 +156,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -198,7 +198,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -240,7 +240,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -288,7 +288,7 @@ occ	out
 shut	out
 calib	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -332,7 +332,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -352,7 +352,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -401,7 +401,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -443,7 +443,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -487,7 +487,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -507,7 +507,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -556,7 +556,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -598,7 +598,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -642,7 +642,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -662,7 +662,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -711,7 +711,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -753,7 +753,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -797,7 +797,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -817,7 +817,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -866,7 +866,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -908,7 +908,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -952,7 +952,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -972,7 +972,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -1021,7 +1021,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1063,7 +1063,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1107,7 +1107,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -1127,7 +1127,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -1176,7 +1176,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1218,7 +1218,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1262,7 +1262,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -1282,7 +1282,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -1331,7 +1331,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1373,7 +1373,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1417,7 +1417,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -1437,7 +1437,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -1486,7 +1486,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1528,7 +1528,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1572,7 +1572,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -1592,7 +1592,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -1641,7 +1641,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1683,7 +1683,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1727,7 +1727,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -1747,7 +1747,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -1796,7 +1796,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1838,7 +1838,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1882,7 +1882,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -1902,7 +1902,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -1951,7 +1951,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -1993,7 +1993,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2037,7 +2037,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -2057,7 +2057,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -2106,7 +2106,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2148,7 +2148,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2192,7 +2192,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -2212,7 +2212,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -2261,7 +2261,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2303,7 +2303,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2347,7 +2347,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -2367,7 +2367,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -2416,7 +2416,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2458,7 +2458,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2502,7 +2502,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -2522,7 +2522,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -2571,7 +2571,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2613,7 +2613,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2657,7 +2657,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -2677,7 +2677,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -2726,7 +2726,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2768,7 +2768,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2812,7 +2812,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -2832,7 +2832,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -2881,7 +2881,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2923,7 +2923,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -2967,7 +2967,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -2987,7 +2987,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -3036,7 +3036,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -3078,7 +3078,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -3122,7 +3122,7 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
 
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
 
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; dark_01wave_1beam_16sums_10rep_BOTH.rcp</summary><blockquote><pre>shut	in
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
 &#x1F4D9; data	rcam	both	656.28	16
@@ -3142,7 +3142,7 @@ calib	out
 
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>530_FW.rcp</summary><blockquote><pre>prefilterrange	530
 
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D8; data	rcam	both	530.23	16
 &#x1F4D8; data	rcam	both	530.26	16
 &#x1F4D8; data	rcam	both	530.29	16
@@ -3191,7 +3191,7 @@ occ	in
 diffuser	out
 shut	out
 
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16
@@ -3233,7 +3233,7 @@ Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></bl
 &#x1F4D7; data	tcam	both	530.32	16
 &#x1F4D7; data	tcam	both	530.35	16
 
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>shut	out
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>shut	out
 &#x1F4D7; data	rcam	both	530.23	16
 &#x1F4D7; data	rcam	both	530.26	16
 &#x1F4D7; data	rcam	both	530.29	16

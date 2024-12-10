@@ -16,8 +16,66 @@
 #
 
 import os
+from mlso_utils import *
+from pathlib import Path
 os.chdir("Recipes")
 import glob
+
+import glob
+import numpy as np
+import matplotlib.pylab as plt
+
+
+tuning_configs = {}
+#print(glob.glob("*"))
+#print(glob.glob("../validation_scripts/*ini"))
+for tuning_config in glob.glob("../validation_scripts/*ini"):
+    #tuning_config =Path(tuning_config).name
+    #print(type(tuning_config),Path(tuning_config).name)
+    key = Path(tuning_config).name.split("_")[-1].split(".")[0]
+    tuning_configs[key] =  getFilterConfig(tuning_config)
+    #print(tuning_config,key,glob.glob(f"../validation_scripts/{key}*.csv"))
+    if len(glob.glob(f"../validation_scripts/{key}*.csv")) == 1:
+        tuning_configs[key]["prefilter"] = np.loadtxt(glob.glob(f"../validation_scripts/{key}*.csv")[0],delimiter=",",skiprows =10)
+
+def convolve_filters(wave,config,cam="onband"):
+    tuning_wave,tuning_trans = createStages(filterConfig=config,wavelength=wave,cam=cam)
+    for i in range(len(tuning_wave)):
+        tuning_trans[i] = tuning_trans[i]*config["prefilter"][find_nearest(config["prefilter"][:,0],tuning_wave[i]),1]
+    return tuning_wave,tuning_trans
+
+print(tuning_configs.keys())
+
+def read_and_plot_rcp(recipe_path):
+
+    with open(recipe_path,"r") as recipe:
+        data = recipe.readlines()
+    waves = []
+    for line in data:
+        line = line.split("#")[0]
+        if "data" in line.lower():
+            #print(line.split()[3])
+            #print(line)
+            waves.append(line.split()[3])
+
+    if len(waves) > 0 and not os.path.exists("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png"):
+        fig = plt.figure()
+        plt.title(recipe_path.split("\\")[-1])
+        mvalue = np.mean(np.array(waves,dtype=np.float32))
+        wave_keys = np.array(list(tuning_configs.keys()),dtype=np.uint16)
+        tuning_key  = list(tuning_configs.keys())[find_nearest(wave_keys,mvalue)]
+        if "prefilter" in tuning_configs[tuning_key]:
+            for key in list(set(sorted(waves))):
+            # print(key,type(key),np.float32(key),"key")
+                
+                plt.plot(*convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="onband"),label=f"{np.float32(key):.2f} onband")
+                plt.plot(*convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="offband"),label=f"{np.float32(key):.2f} offband")
+            #print(find_nearest(wave_keys,mvalue),wave_keys,mvalue)
+            #print(set(sorted(waves)))
+            legend = fig.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+            print(recipe_path.split("\\")[-1]+".png")
+            fig.savefig("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png", bbox_extra_artists=(legend,), bbox_inches='tight')
+        plt.close(fig)
 
 valid_commands = ["data", "cal", "dark", "fw", "occ", 
                   "diffuser","calib", "occyrel", 
@@ -116,7 +174,11 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     md.write(f"<details><summary>")
     if emoji is not None: 
         md.write(emoji)
-    md.write(f"{script_name}</summary><blockquote><pre>")
+        md.write(f"[{script_name}](tuningplots/{script_name}.png)</summary><blockquote><pre>")
+        read_and_plot_rcp(script_name)
+        
+    else:
+        md.write(f"{script_name}</summary><blockquote><pre>")
     tab = tab +1
     for child in results2:
         filename =child.split('#')[0].strip()
