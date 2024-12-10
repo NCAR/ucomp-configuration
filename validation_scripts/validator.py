@@ -28,16 +28,12 @@ import matplotlib.pylab as plt
 
 
 tuning_configs = {}
-#print(glob.glob("*"))
-#print(glob.glob("../validation_scripts/*ini"))
-for tuning_config in glob.glob("../validation_scripts/*ini"):
-    #tuning_config =Path(tuning_config).name
-    #print(type(tuning_config),Path(tuning_config).name)
+
+for tuning_config in glob.glob("../resource/*ini"):
     key = Path(tuning_config).name.split("_")[-1].split(".")[0]
     tuning_configs[key] =  getFilterConfig(tuning_config)
-    #print(tuning_config,key,glob.glob(f"../validation_scripts/{key}*.csv"))
-    if len(glob.glob(f"../validation_scripts/{key}*.csv")) == 1:
-        tuning_configs[key]["prefilter"] = np.loadtxt(glob.glob(f"../validation_scripts/{key}*.csv")[0],delimiter=",",skiprows =10)
+    if len(glob.glob(f"../resource/{key}*.csv")) == 1:
+        tuning_configs[key]["prefilter"] = np.loadtxt(glob.glob(f"../resource/{key}*.csv")[0],delimiter=",",skiprows =10)
 
 def convolve_filters(wave,config,cam="onband"):
     tuning_wave,tuning_trans = createStages(filterConfig=config,wavelength=wave,cam=cam)
@@ -55,26 +51,23 @@ def read_and_plot_rcp(recipe_path):
     for line in data:
         line = line.split("#")[0]
         if "data" in line.lower():
-            #print(line.split()[3])
-            #print(line)
             waves.append(line.split()[3])
 
     if len(waves) > 0 and not os.path.exists("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png"):
         fig = plt.figure()
-        plt.title(recipe_path.split("\\")[-1])
+        plt.title(recipe_path.split("\\")[-1]+"\nTuning Profiles")
         mvalue = np.mean(np.array(waves,dtype=np.float32))
         wave_keys = np.array(list(tuning_configs.keys()),dtype=np.uint16)
         tuning_key  = list(tuning_configs.keys())[find_nearest(wave_keys,mvalue)]
         if "prefilter" in tuning_configs[tuning_key]:
             for key in list(set(sorted(waves))):
-            # print(key,type(key),np.float32(key),"key")
                 
                 plt.plot(*convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="onband"),label=f"{np.float32(key):.2f} onband")
                 plt.plot(*convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="offband"),label=f"{np.float32(key):.2f} offband")
-            #print(find_nearest(wave_keys,mvalue),wave_keys,mvalue)
-            #print(set(sorted(waves)))
+
             legend = fig.legend(loc='center left', bbox_to_anchor=(1, 0.5))
-            print(recipe_path.split("\\")[-1]+".png")
+            plt.ylabel("Filter throughput [%]")
+            plt.ylabel("wavelength")
             fig.savefig("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png", bbox_extra_artists=(legend,), bbox_inches='tight')
         plt.close(fig)
 
