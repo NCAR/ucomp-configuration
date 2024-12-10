@@ -7,10 +7,10 @@ And edit the gitPath to match the path on your local system.  For me I cloned th
 c:\\git\\ucomp-configuration but the values should be changd to match your system.
 
 '''
-gitDirectory = Path(".")
+
 from pathlib import Path
 import numpy as np
-
+gitDirectory = Path(".")
 
 def gaussian(x, amplitude=1.0, center=1074.7, sigma=1.0, expon=2.0):
     ...
