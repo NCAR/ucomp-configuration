@@ -3,6 +3,17 @@
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -12,6 +23,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -20,10 +72,215 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -31,9 +288,61 @@
 ------------------> shut	out
 ------------------> calib	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -43,6 +352,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -51,10 +401,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -64,6 +507,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -72,10 +556,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -85,6 +662,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -93,10 +711,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -106,6 +817,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -114,10 +866,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -127,6 +972,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -135,10 +1021,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -148,6 +1127,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -156,10 +1176,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -169,6 +1282,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -177,10 +1331,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -190,6 +1437,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -198,10 +1486,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -211,6 +1592,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -219,10 +1641,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -232,6 +1747,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -240,10 +1796,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -253,6 +1902,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -261,10 +1951,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -274,6 +2057,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -282,10 +2106,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -295,6 +2212,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -303,10 +2261,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -316,6 +2367,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -324,10 +2416,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -337,6 +2522,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -345,10 +2571,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -358,6 +2677,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -366,10 +2726,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -379,6 +2832,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -387,10 +2881,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -400,6 +2987,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -408,10 +3036,103 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -421,6 +3142,47 @@
  ------------ > 530_FW.rcp
 ------------------> prefilterrange	530
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -429,4 +3191,86 @@
 ------------------> diffuser	out
 ------------------> shut	out
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
  ------------ > lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp
+------------------> shut	out
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
+------------------> data	rcam	both	530.23	16
+------------------> data	rcam	both	530.26	16
+------------------> data	rcam	both	530.29	16
+------------------> data	rcam	both	530.32	16
+------------------> data	rcam	both	530.35	16
+------------------> data	tcam	both	530.23	16
+------------------> data	tcam	both	530.26	16
+------------------> data	tcam	both	530.29	16
+------------------> data	tcam	both	530.32	16
+------------------> data	tcam	both	530.35	16
