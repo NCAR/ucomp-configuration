@@ -10,7 +10,7 @@
 # Rule 8) cover, occ, shut,calib,distortiongrid,nd should have values [IN|OUT]
 # Rule 9) gain should have values [HIGH|LOW]
 #
-# DARKS are any beam confugraiton with dark shutter the beam
+# DARKS are any beam configuration with dark shutter the beam
 # FLATS are beam configuration with only the Diffuser in the beam (script currently only tracks, cover,diffuser,occ,calib,shut not the other optics)
 # Violations of the rules will be recorded in recipes\warnings.txt
 #
@@ -26,6 +26,16 @@ import glob
 import numpy as np
 import matplotlib.pylab as plt
 
+def get_kitt_peak_atlas():
+    atlas = np.zeros([0,3])
+    print(glob.glob("../resource/lm*"))
+    for atlas_name in glob.glob("../resource/lm*"):
+        print(atlas_name)
+        atlas1 = np.loadtxt(atlas_name)
+        atlas = np.concatenate((atlas,atlas1),axis=0)
+    return atlas
+
+atlas = get_kitt_peak_atlas()
 
 tuning_configs = {}
 seen_tunings={}
@@ -35,9 +45,15 @@ for tuning_config in glob.glob("../resource/*ini"):
     tuning_configs[key] =  getFilterConfig(tuning_config)
     if len(glob.glob(f"../resource/{key}*.csv")) == 1:
         tuning_configs[key]["prefilter"] = np.loadtxt(glob.glob(f"../resource/{key}*.csv")[0],delimiter=",",skiprows =10)
+        for tune_number in range(len(tuning_configs[key]["prefilter"][:,0])):
+            atlas_value =    atlas[find_nearest(atlas[:,0],tuning_configs[key]["prefilter"][tune_number,0]),1]
+            tuning_configs[key]["prefilter"][tune_number,1] = atlas_value*tuning_configs[key]["prefilter"][tune_number,1]
+        #tuning_configs[key]["prefilter"] = np.array([tuning_configs[key]["prefilter"][:,0],tune_values])
+        #print(tuning_configs[key]["prefilter"].shape)
+        
 
-def convolve_filters(wave,config,cam="onband"):
-    tuning_wave,tuning_trans = createStages(filterConfig=config,wavelength=wave,cam=cam)
+def convolve_filters(wave,config,cam="onband",cont="both"):
+    tuning_wave,tuning_trans = createStages(filterConfig=config,wavelength=wave,cam=cam,cont=cont)
     for i in range(len(tuning_wave)):
         tuning_trans[i] = tuning_trans[i]*config["prefilter"][find_nearest(config["prefilter"][:,0],tuning_wave[i]),1]
     return tuning_wave,tuning_trans
@@ -51,33 +67,35 @@ def read_and_plot_rcp(recipe_path):
     waves = []
     for line in data:
         line = line.split("#")[0]
-        if "data" in line.lower():
-            waves.append(line.split()[3])
+        if len(line.split()) > 0 and "data" == line.split()[0].lower():
+            waves.append(line.split()[3]+" "+line.split()[2])
 
     if len(waves) > 0 and not os.path.exists("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png"):
         fig = plt.figure()
-        plt.title(recipe_path.split("\\")[-1]+"\nTuning Profiles")
-        mvalue = np.mean(np.array(waves,dtype=np.float32))
+        plt.title(recipe_path.split("\\")[-1]+"\nTuning Profiles + Pre-filter and Kitt Peat Atlas")
+        mvalue = np.mean(np.array([d.split()[0] for d in waves],dtype=np.float32))
         wave_keys = np.array(list(tuning_configs.keys()),dtype=np.uint16)
         tuning_key  = list(tuning_configs.keys())[find_nearest(wave_keys,mvalue)]
         if "prefilter" in tuning_configs[tuning_key]:
             for key in list(set(sorted(waves))):
-                if key+"onband" not in  seen_tunings:
-                    seen_tunings[key+"onband" ] = convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="onband")
-                if key+"offband" not in  seen_tunings:  
-                    seen_tunings[key+"offband" ] = convolve_filters(np.float32(key),config=tuning_configs[tuning_key],cam="offband")
                 
-                plt.plot(*seen_tunings[key+"onband"  ],label=f"{np.float32(key):.2f} onband")
-                plt.plot(*seen_tunings[key+"offband"  ],label=f"{np.float32(key):.2f} offband")
+                if key+"onband" not in  seen_tunings:
+                    seen_tunings[key+"onband" ] = convolve_filters(np.float32(key.split()[0]),config=tuning_configs[tuning_key],cam="onband",cont=(key.split()[1]).lower())
+                if key+"offband" not in  seen_tunings:  
+                    seen_tunings[key+"offband" ] = convolve_filters(np.float32(key.split()[0]),config=tuning_configs[tuning_key],cam="offband",cont=(key.split()[1]).lower())
+                
+                plt.plot(*seen_tunings[key+"onband"  ],label=f"{np.float32(key.split()[0]):.2f} {key.split()[1]} onband")
+                plt.plot(*seen_tunings[key+"offband" ],label=f"{np.float32(key.split()[0]):.2f} {key.split()[1]} offband")
+                plt.plot(tuning_configs[tuning_key]["prefilter"][:,0],tuning_configs[tuning_key]["prefilter"][:,1])
 
             legend = fig.legend(loc='center left', bbox_to_anchor=(1, 0.5))
             plt.ylabel("Filter throughput [%]")
-            plt.xlabel("wavelength")
+            plt.xlabel("wavelength [nm]")
             fig.savefig("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png", bbox_extra_artists=(legend,), bbox_inches='tight')
         plt.close(fig)
 
 valid_commands = ["data", "cal", "dark", "fw", "occ", 
-                  "diffuser","calib", "occyrel", 
+                  "diffuser","calib", "occyrel","saveall",
                   "occxrel", "o1", "calret", "calpol","cover",  
                   "shut", "exposure", "nd", "gain", "distortiongrid", 
                   "modwait","shut","exposure", "cover", "occ", "prefilterrange"]
@@ -145,7 +163,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     script = open(script_name,"r")
     results = script.readlines()
     script.close()
-    if  ".cbk" in script_name:  #Remove this test when Labview can handle for loops in rcp files.
+    if  ".cbk" in script_name:  #Remove this test when LabView can handle for loops in rcp files.
         results2 = unroll_forloop(results)
     else:
         results2 = results
@@ -155,7 +173,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
             
     ## Attempt to guess what icon to put next to a recipe name based on state coming in to that.
     ## this is kind of fragile but mostly works because most of our operational scripts dont change
-    ## data types within a recipe but rely on steup?????.rcp to run before to configure things.
+    ## data types within a recipe but rely on setup?????.rcp to run before to configure things.
     ## We dont have a prefect filter for valid data script, (maybe we could key on wave and beam)
     ## so instead we try to ignore recipe that look like a setup script.
     emoji = None
@@ -175,7 +193,10 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     if emoji is not None: 
         md.write(emoji)
         md.write(f"[{script_name}](tuningplots/{script_name}.png)</summary><blockquote><pre>")
+        #try:
         read_and_plot_rcp(script_name)
+        #except:
+        #    pass
         
     else:
         md.write(f"{script_name}</summary><blockquote><pre>")
@@ -185,7 +206,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         commands = child.split('#')[0].strip().lower().split()
         child=child.strip().lower()
         emoji = None
-        if len(commands) > 0 and commands[0] not in ignore_commands:
+        if len(commands) > 0 and commands[0].split(":")[0] not in ignore_commands:
             if child_extension in commands[0]:
                 try:
                     (tTime,hTime) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
@@ -270,12 +291,14 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                     else:
                         warning.write(f"{parent} {{ {tab_space.join(commands)} }} has invalid position\n")
                 if "data" == commands[0]:
+                    if len(commands) ==4:
+                        print(commands,child,parent)
                     data,cam,cont,wave,sums = commands
                     
                     if cam not in ["rcam","tcam"]:
                             warning.write(f"{parent} {{ {tab_space.join(commands)} }} has invalid camera\n")
                             continue
-                    if cont not in ["both", "red,", "blue"]:
+                    if cont not in ["both", "red", "blue"]:
                             warning.write(f"{parent} {{ {tab_space.join(commands)} }} has invalid continuum\n")
                             continue
                     try:
