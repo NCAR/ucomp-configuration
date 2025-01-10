@@ -1,0 +1,16 @@
+#DESCRIPTION Program to spend all day running a special 530 program for a visitorr.  This one centers theobservationss on 529 instead of 530.
+FOR 100
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+setupFlat.rcp
+visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+setupObserving.rcp
+visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp
+
+
+
+ENDFOR
