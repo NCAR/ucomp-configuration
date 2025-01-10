@@ -1,1 +1,0 @@
-read_script: everything.menu,everything.cbk,ben-530_05wave_.03step_2beam_16sums_4rep_both.rcp, **ben-530_05wave_.03step_2beam_16sums_4rep_both.rcp** command not found.
