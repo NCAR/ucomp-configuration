@@ -6662,48 +6662,7 @@ Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></bl
 data	tcam	both	991.26	16
 
 Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes  </pre></blockquote></details>
-Integration:1.89 minutes.  Hardware:1.17 minutes. total:3.06 minutes  </pre></blockquote></details><details><summary>ben-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	530.23	16
-data	rcam	both	530.26	16
-data	rcam	both	530.33	16
-data	rcam	both	530.32	16
-data	rcam	both	530.35	16
-data	tcam	both	530.23	16
-data	tcam	both	530.26	16
-data	tcam	both	530.29	16
-data	tcam	both	530.32	16
-data	tcam	both	530.35	16
-data	rcam	both	530.23	16
-data	rcam	both	530.26	16
-data	rcam	both	530.29	16
-data	rcam	both	530.32	16
-data	rcam	both	530.35	16
-data	tcam	both	530.23	16
-data	tcam	both	530.26	16
-data	tcam	both	530.29	16
-data	tcam	both	530.32	16
-data	tcam	both	530.35	16
-data	rcam	both	530.23	16
-data	rcam	both	530.26	16
-data	rcam	both	530.29	16
-data	rcam	both	530.32	16
-data	rcam	both	530.35	16
-data	tcam	both	530.23	16
-data	tcam	both	530.26	16
-data	tcam	both	530.29	16
-data	tcam	both	530.32	16
-data	tcam	both	530.35	16
-data	rcam	both	530.23	16
-data	rcam	both	530.26	16
-data	rcam	both	530.29	16
-data	rcam	both	530.32	16
-data	rcam	both	530.35	16
-data	tcam	both	530.23	16
-data	tcam	both	530.26	16
-data	tcam	both	530.29	16
-data	tcam	both	530.32	16
-data	tcam	both	530.35	16
-
-Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>Dark.rcp</summary><blockquote><pre>shut	in
+Integration:1.89 minutes.  Hardware:1.17 minutes. total:3.06 minutes  </pre></blockquote></details><details><summary>Dark.rcp</summary><blockquote><pre>shut	in
 &#x1F4D9; data	rcam	both	656.28	4
 &#x1F4D9; data	rcam	both	656.28	4
 
@@ -7551,4 +7510,4 @@ shut	out
 Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [sumframes.rcp](tuningplots/sumframes.rcp.png)</summary><blockquote><pre>saveall	out
 
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details>
-Integration:628.41 minutes.  Hardware:46.08 minutes. total:674.50 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:624.22 minutes.  Hardware:46.08 minutes. total:670.30 minutes  </pre></blockquote></details></pre></blockquote></details>
