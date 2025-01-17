@@ -1,0 +1,1 @@
+read_script: measure-occulter.menu,measure-occulter.cbk,670_01wave_2beam_16sums_16rep_both.rcp, **670_01wave_2beam_16sums_16rep_both.rcp** command not found.
