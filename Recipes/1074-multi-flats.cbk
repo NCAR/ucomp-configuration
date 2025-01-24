@@ -1,5 +1,5 @@
 AUTHOR BERKEY
-DESCRIPTION Take 10 flats
+DESCRIPTION Take 10 1074 3 wave flats
 
 setupFlat.rcp #doing setupflat here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
 setupDark.rcp
