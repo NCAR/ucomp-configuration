@@ -404,6 +404,40 @@ everything.menu,everything.cbk,1074_fw.rcp { for	2 } command not found.
 everything.menu,everything.cbk,1074_fw.rcp { endfor } command not found.
 everything.menu,everything.cbk,pol_cal_all_fitlers.rcp,1074_fw.rcp { for	2 } command not found.
 everything.menu,everything.cbk,pol_cal_all_fitlers.rcp,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,waves_1074_1hour.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,waves_1074_1hour.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
+parker-observations.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
 cme-1074.menu,cme-1074.cbk,1074_fw.rcp { for	2 } command not found.
 cme-1074.menu,cme-1074.cbk,1074_fw.rcp { endfor } command not found.
 flat.menu,1074-multi-flats.cbk,1074_fw.rcp { for	2 } command not found.
