@@ -1,239 +1,56 @@
-name: Commit date to master
-on: push
-jobs:
-  build_summary:
-    runs-on: ubuntu-latest
-    steps:
-      # Checkout the branch
-      - name: checkout
-        uses: actions/checkout@v2 # use either @v2-beta or @master. Eventually there will be a @v2 tag.
-      
-      
-      - name: setup python
-        uses: actions/setup-python@v2
-        
-      - name: build summary
-        uses: jannekem/run-python-script-action@v1
-        with:
-          script: |
-            import os
-            os.chdir("Recipes")
-            import glob
-            #import numpy as np
-            def unroll_forloop(results):
-                results2 = []
-                endline =0
-                for i in range(len(results)):
-                    if "FOR " in results[i]:
-                        forCount = int(results[i].split()[1])
-                        startLine = i+1
-                        for repeats in range(forCount):
-                            for nextLine in range(len(results)-i):
-                                if "ENDFOR" in results[startLine+nextLine]:
-                                    endline = startLine+nextLine+1
-                                    break
-                                else:
-                                    results2.append(results[startLine+nextLine])
-                    else:
-                        if i < endline:
-                            pass
-                        else:
-                            results2.append(results[i])
-                return results2
-            def read_script(scriptname,parent,tab,state,darks,flat,coronal,coronalExp,summary,md,warning,childextension=".rcp"):
-                if childextension != ".rcp":
-                  coronal = []
-                  coronalExp = []
-                #print(f"{scriptname},{parent},{tab},{state},{darks},{flat},{summary},{md},{warning}")
-                script = open(scriptname,"r")
-                results = script.readlines()
-                script.close()
-                results2 = unroll_forloop(results)
-                summary.write(f" {tab*6*'-'} > {scriptname.split('#')[0]}\n")
-                runTime = 0
-                hardwareTime = 0
-                     
-                color = None
-                emoji = None
-                if "_FW" not in scriptname and "setup" not in scriptname and "cbk" not in scriptname and "menu" not in scriptname and "_in" not in scriptname and "_out" not in scriptname:
-                  if state['shut'] == "in":
-                      color = "red"
-                  if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
-                      color = "blue"
-                  if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
-                      #print(state)
-                      color = "green"
-                  if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
-                      color = "black"
-                  if color == "red":
-                    #md.write("&#x1F4D9; ") 
-                    emoji = "&#x1F4D9; "
-                  if color == "black":
-                   # md.write("&#x1F4D5; ") 
-                    emoji = "&#x1F4D5; "
-                  if color == "blue":
-                    #md.write("&#x1F4D8; ")
-                    emoji = "&#x1F4D8; "
-                  if color == "green":
-                    #md.write("&#x1F4D7; ") 
-                    emoji = "&#x1F4D7; "
-                md.write(f"<details><summary>")
-                if emoji is not None: 
-                  md.write(emoji)
-                md.write(f"{scriptname}</summary><blockquote><pre>")
-                tab = tab +1
-                for child in results2:
-                    filename =child.split('#')[0].strip()
-                    child=child.strip().lower()
-                    if len(child.strip()) > 0 and child.strip()[0] != "#" and not child.startswith("date") and not child.startswith("author") and not child.startswith("description"):
-                        if childextension in child.split('#')[0]:
-                            try:
-                                (tTime,hTime) = read_script(filename,parent+","+child.split('#')[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
-                                runTime += tTime
-                                hardwareTime += hTime
-                               # runTime = runTime+runTime2
-                                #md.write(f"read_script out {runTime}")
-                                
-                            except FileNotFoundError:
-                                warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
-                        else:
-                            #print(f"{state} {darks} {flat} {parent} {child}")
-      
-                            color = None
-                            if "gain" in child:
-                                state['gain'] = "low" if "low" in child else "high"
-                            if "shut" in child:
-                                state['shut'] = "in" if "in" in child else "out"
-                            if "exposure" in child:
-                                state['exposure'] = child.split(" ")[1]
-                                #print(state)
-                            if "cover" in child:
-                                if 'cover' not in state or state['cover'] != child.split()[1]:
-                                  hardwareTime = hardwareTime + 60
-                                state['cover'] = "in" if "in" in child else "out"
-                            if "occ" in child:
-                                if 'occ' not in state or state['occ'] not in child:
-                                  hardwareTime = hardwareTime + 20
-                                state['occ'] = "in" if "in" in child else "out"
-                            if "prefilterrange " in child:
-                                if 'filter' not in state or state['filter'] != child.split()[1]:
-                                  hardwareTime = hardwareTime + 25
-                                state['filter'] = child.split()[1]
-                            if "calret" in child:
-                                if 'calret' not in state or state['calret'] != child.split()[1]:
-                                  hardwareTime = hardwareTime + 5
-                                state['calret'] = child.split()[1]
-                            if "calpol" in child:
-                                if 'calpol' not in state or state['calpol'] not in  child:
-                                  hardwareTime = hardwareTime + 5
-                                state['calpol'] = child.split()[1]    
-                            if "calib" in child:
-                                if 'calib' not in state or state['calib'] not in child:
-                                  hardwareTime = hardwareTime + 20
-                                state['calib'] = "in" if "in" in child else "out"
-                            if "diffuser" in child:
-                                if 'diffuser' not in state or state['diffuser'] not in child:
-                                  hardwareTime = hardwareTime + 20
-                                state['diffuser'] = "in" if "in" in child else "out"
-                            if "data" in child:
-                                #print(child)
-                                data,cam,cont,wave,sums = child.split()
-                                runTime += 300+int(state['exposure'])*4*int(sums)
-                                if cam not in ["rcam","tcam"]:
-                                        warning.write(f"{parent} {child} has invalid camera\n")
-                                if cont not in ["both", "red,", "blue"]:
-                                        warning.write(f"{parent} {child} has invalid continumm\n")
-                                try:
-                                      float(wave)   # Type-casting the string to `float`.
-                                except ValueError:
-                                       warning.write(f"{parent} {child} wavelength is not a number\n")
-                                if state['shut'] == "in":
-                                    color = "red"
-                                    if state['exposure']+state['gain']+sums not in darks:
-                                        darks.append(state['exposure']+state['gain']+sums)
-                                if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
-                                    color = "blue"
-                                    if state['gain']+sums+cam+cont+wave not in flats:
-                                        flats.append(state['gain']+sums+cam+cont+wave)
-                                if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
-                                    #print(state)
-                                    color = "green"
-                                    coronal.append(state['gain']+sums+cam+cont+wave)
-                                    coronalExp.append(state['exposure']+state['gain']+sums)
-                                   # if state['exposure']+state['gain']+sums not in darks:
-                                    #    warning.write(f"{parent} {child} missing dark for {state['exposure']+state['gain']+sums}\n")
-                                   # if state['gain']+sums+cam+cont+wave not in flats:
-                                   #     warning.write(f"{parent} {child} missing flat for {state['gain']+sums+cam+cont+wave}\n")
-                                if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
-                                  color = "black"
- 
-                            summary.write(f"{tab*6*'-'}> {child.split('#')[0]}\n")
-                            rcpName = child.split('#')[0]
-                            if "_FW" not in rcpName and "setup" not in rcpName and "cbk" not in rcpName and "menu" not in rcpName:
-                              #md.write(f"rcpname {rcpName}")
-                              if color == "red": 
-                                md.write("&#x1F4D9; ") 
-                              if color == "black":
-                                md.write("&#x1F4D5; ") 
-                              if color == "blue":
-                                md.write("&#x1F4D8; ") 
-                              if color == "green":
-                                md.write("&#x1F4D7; ") 
-                            md.write(f" {child.split('#')[0]} \n") 
- 
-                            pass
-                script.close()
-                if "rcp" in childextension: 
-                  md.write(f" Integration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes  ")
-                else:
-                  for corona in coronalExp:
-                    #c1 = corona.replace("tcam","rcam")
-                    if corona not in darks:
-                       warning.write(f"{parent} missing dark for {corona}\n")
-                  for corona in coronal:
-                    if corona not in flats:
-                      warning.write(f"{parent} missing flat for {corona}\n")
-                    
-                md.write("</pre></blockquote></details>")
-                return runTime,hardwareTime
-            menus = glob.glob("*.menu")
-            state = {}
-            darks = []
-            coronal = []
-            coronalExp = []
-            flats = []
-            warning = open('warnings.txt',"w")
-            for menu in menus:
-                state = {'exposure':"80",'shut':"",'calib':"",'occ':"",'diffuser':"",'gain':"high"}
-                darks = []
-                flats = []
-                coronal = []
-                coronalExp = []
-                md = open(menu.split(".menu")[0]+".md","w")
-                summary = open(menu.split(".menu")[0]+".summary","w")
-                md.write( """&#x1F4D9; =dark  
-                            &#x1F4D5; =calib  
-                            &#x1F4D8; =flat  
-                            &#x1F4D7; =data """)
-                quick_menu = open(menu,"r")
-                qmenu = quick_menu.readlines()
-                quick_menu.close()
-                if "NOWARNING" not in "".join(qmenu):
-                  read_script(menu,menu,0,state,darks,flats,coronal,coronalExp,summary,md,warning,".cbk")
-                md.close()
-                summary.close()
-            warning.close()
-            
-           
-      - name: setup git config
-        run: |
-          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
+name: Run Validator and Commit Changes
 
-      - name: commit
+on:
+  push:
+    branches:
+      - main  # Monitor pushes to the main branch
+
+jobs:
+  run-validator:
+    runs-on:  ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
         run: |
-          # Stage the file, commit and push
-          git add .
-          git commit -m "Menu files re-summarized" --allow-empty
+          python -m pip install numpy
+          python -m pip install matplotlib
+      #    pip install -r requirements.txt
+
+      # Step 4: Run the validator script
+      - name: Run validator.py
+        run: |
+          python validation_scripts/validator.py   # validator.py
+
+      # Step 5: Configure Git
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step 6: Check for Changes
+      - name: Check for changes
+        run: |
+          git add -A
+          git diff --cached --exit-code || echo "changes detected"
+
+      - name: Debug Outputs
+        run: |
+          echo "Changes-detected: ${{ steps.check_changes.outputs.changes-detected }}"
+
+      # Step 7: Commit and Push Changes
+      - name: Commit and push changes
+        #if: success() && steps['Check for changes'].outputs.changes-detected == true
+        run: |
+          git commit -m "Apply changes from validator.py"
           git push origin main

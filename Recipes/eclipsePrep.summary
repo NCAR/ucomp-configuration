@@ -15,13 +15,13 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
  ------------ > 1074_FW.rcp
-------------------> prefilterrange 1074
+------------------> prefilterrange	1074
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp
 ------------------> data	rcam	both	1074.22	16
@@ -43,9 +43,9 @@
 ------------------> data	tcam	both	1075.06	16
 ------------------> data	tcam	both	1075.18	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp
@@ -68,11 +68,11 @@
 ------------------> data	tcam	both	1075.06	16
 ------------------> data	tcam	both	1075.18	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer1.rcp
 ------------------> data	tcam	both	1074.92	16
@@ -93,9 +93,9 @@
 ------------------> data	tcam	both	1075.78	16
 ------------------> data	tcam	both	1075.90	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer1.rcp
@@ -117,11 +117,11 @@
 ------------------> data	tcam	both	1075.78	16
 ------------------> data	tcam	both	1075.90	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer2.rcp
 ------------------> data	tcam	both	1075.90	16
@@ -144,9 +144,9 @@
 ------------------> data	tcam	both	1075.42	16
 ------------------> data	tcam	both	1075.54	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer2.rcp
@@ -170,11 +170,11 @@
 ------------------> data	tcam	both	1075.42	16
 ------------------> data	tcam	both	1075.54	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer3.rcp
 ------------------> data	tcam	both	1075.54	16
@@ -197,9 +197,9 @@
 ------------------> data	tcam	both	1076.14	16
 ------------------> data	tcam	both	1076.26	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer3.rcp
@@ -223,11 +223,11 @@
 ------------------> data	tcam	both	1076.14	16
 ------------------> data	tcam	both	1076.26	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer4.rcp
 ------------------> data	tcam	both	1076.26	16
@@ -249,9 +249,9 @@
 ------------------> data	tcam	both	1076.50	16
 ------------------> data	tcam	both	1076.62	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer4.rcp
@@ -274,11 +274,11 @@
 ------------------> data	tcam	both	1076.50	16
 ------------------> data	tcam	both	1076.62	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer5.rcp
 ------------------> data	tcam	both	1076.62	16
@@ -302,9 +302,9 @@
 ------------------> data	tcam	both	1076.86	16
 ------------------> data	tcam	both	1076.98	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer5.rcp
@@ -358,13 +358,13 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
  ------------ > 1074_FW.rcp
-------------------> prefilterrange 1074
+------------------> prefilterrange	1074
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
@@ -424,9 +424,9 @@
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
@@ -487,11 +487,11 @@
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
  ------------ > 1079_FW.rcp
-------------------> prefilterrange 1079
+------------------> prefilterrange	1079
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
@@ -560,11 +560,11 @@
 ------------------> data	tcam	both	1079.96	16
 ------------------> data	tcam	both	1079.98	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
@@ -632,7 +632,7 @@
 ------------------> data	tcam	both	1079.96	16
 ------------------> data	tcam	both	1079.98	16
  ------------ > 789_FW.rcp
-------------------> prefilterrange 789
+------------------> prefilterrange	789
  ------------ > 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	789.20	16
 ------------------> data	rcam	both	789.25	16
@@ -707,9 +707,9 @@
 ------------------> data	tcam	both	789.55	16
 ------------------> data	tcam	both	789.60	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp
@@ -786,7 +786,7 @@
 ------------------> data	tcam	both	789.55	16
 ------------------> data	tcam	both	789.60	16
  ------------ > 637_FW.rcp
-------------------> prefilterrange 637
+------------------> prefilterrange	637
  ------------ > 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	637.24	16
 ------------------> data	rcam	both	637.28	16
@@ -861,11 +861,11 @@
 ------------------> data	tcam	both	637.52	16
 ------------------> data	tcam	both	637.56	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	637.24	16
@@ -941,7 +941,7 @@
 ------------------> data	tcam	both	637.52	16
 ------------------> data	tcam	both	637.56	16
  ------------ > 706_FW.rcp
-------------------> prefilterrange 706
+------------------> prefilterrange	706
  ------------ > 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	706.04	16
 ------------------> data	rcam	both	706.08	16
@@ -1016,9 +1016,9 @@
 ------------------> data	tcam	both	706.32	16
 ------------------> data	tcam	both	706.36	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp
@@ -1124,11 +1124,11 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
  ------------ > 670_FW.rcp
-------------------> prefilterrange 670
+------------------> prefilterrange	670
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 670_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp
@@ -1216,11 +1216,11 @@
 ------------------> data	tcam	both	670.32	16
 ------------------> data	tcam	both	670.32	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 670_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	tcam	both	670.28	16
@@ -1391,9 +1391,9 @@
 ------------------> data	tcam	both	761.30	16
 ------------------> data	tcam	both	761.30	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 761_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp
@@ -1565,11 +1565,11 @@
 ------------------> data	tcam	both	802.61	16
 ------------------> data	tcam	both	802.61	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 802_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	tcam	both	802.57	16
@@ -1656,7 +1656,7 @@
 ------------------> data	tcam	both	802.61	16
 ------------------> data	tcam	both	802.61	16
  ------------ > 991_FW.rcp
-------------------> prefilterrange 991
+------------------> prefilterrange	991
  ------------ > 991_09wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	tcam	both	991.46	16
 ------------------> data	tcam	both	991.46	16
@@ -1742,9 +1742,9 @@
 ------------------> data	tcam	both	991.50	16
 ------------------> data	tcam	both	991.50	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 991_09wave_0.06step_2beam_16sums_4reps_BOTH.rcp
@@ -1861,21 +1861,21 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > distortion_in.rcp
-------------------> distortiongrid in
+------------------> distortiongrid	in
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_FW.rcp
-------------------> prefilterrange 1074
+------------------> prefilterrange	1074
  ------------ > 1074_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
@@ -1910,72 +1910,72 @@
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
  ------------ > distortion_out.rcp
-------------------> distortiongrid out
+------------------> distortiongrid	out
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	1074.59	   16
-------------------> data	rcam	both	1074.70	   16
-------------------> data	rcam	both	1074.81	   16
-------------------> data	tcam	both	1074.59	   16
-------------------> data	tcam	both	1074.70	   16
-------------------> data	tcam	both	1074.81	   16
-------------------> data	rcam	both	1074.59	   16
-------------------> data	rcam	both	1074.70	   16
-------------------> data	rcam	both	1074.81	   16
-------------------> data	tcam	both	1074.59	   16
-------------------> data	tcam	both	1074.70	   16
-------------------> data	tcam	both	1074.81	   16
-------------------> data	rcam	both	1074.59	   16
-------------------> data	rcam	both	1074.70	   16
-------------------> data	rcam	both	1074.81	   16
-------------------> data	tcam	both	1074.59	   16
-------------------> data	tcam	both	1074.70	   16
-------------------> data	tcam	both	1074.81	   16
-------------------> data	rcam	both	1074.59	   16
-------------------> data	rcam	both	1074.70	   16
-------------------> data	rcam	both	1074.81	   16
-------------------> data	tcam	both	1074.59	   16
-------------------> data	tcam	both	1074.70	   16
-------------------> data	tcam	both	1074.81	   16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
  ------------ > setupObserving.rcp
-------------------> shut in
-------------------> cover out
+------------------> shut	in
+------------------> cover	out
 ------------------> calib	out
-------------------> occ		in
-------------------> diffuser out
+------------------> occ	in
+------------------> diffuser	out
 ------------------> shut	out
  ------------ > 1074_03wave_2beam_16sums_4rep_BOTH.rcp
-------------------> data	rcam	both	1074.59	   16
-------------------> data	rcam	both	1074.70	   16
-------------------> data	rcam	both	1074.81	   16
-------------------> data	tcam	both	1074.59	   16
-------------------> data	tcam	both	1074.70	   16
-------------------> data	tcam	both	1074.81	   16
-------------------> data	rcam	both	1074.59	   16
-------------------> data	rcam	both	1074.70	   16
-------------------> data	rcam	both	1074.81	   16
-------------------> data	tcam	both	1074.59	   16
-------------------> data	tcam	both	1074.70	   16
-------------------> data	tcam	both	1074.81	   16
-------------------> data	rcam	both	1074.59	   16
-------------------> data	rcam	both	1074.70	   16
-------------------> data	rcam	both	1074.81	   16
-------------------> data	tcam	both	1074.59	   16
-------------------> data	tcam	both	1074.70	   16
-------------------> data	tcam	both	1074.81	   16
-------------------> data	rcam	both	1074.59	   16
-------------------> data	rcam	both	1074.70	   16
-------------------> data	rcam	both	1074.81	   16
-------------------> data	tcam	both	1074.59	   16
-------------------> data	tcam	both	1074.70	   16
-------------------> data	tcam	both	1074.81	   16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------ > Pol_Cal_All_Filters.cbk
@@ -1994,13 +1994,13 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
  ------------ > setupCal.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
  ------------ > 1074_FW.rcp
-------------------> prefilterrange 1074
+------------------> prefilterrange	1074
  ------------ > 1074_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
@@ -2041,11 +2041,11 @@
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
  ------------ > 1079_FW.rcp
-------------------> prefilterrange 1079
+------------------> prefilterrange	1079
  ------------ > setupCal.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
  ------------ > 1079_Pol_Calibrate.rcp
@@ -2088,11 +2088,11 @@
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
  ------------ > 789_FW.rcp
-------------------> prefilterrange 789
+------------------> prefilterrange	789
  ------------ > setupCal.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
  ------------ > 789_Pol_Calibrate.rcp
@@ -2135,11 +2135,11 @@
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
  ------------ > 637_FW.rcp
-------------------> prefilterrange 637
+------------------> prefilterrange	637
  ------------ > setupCal.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
  ------------ > 637_Pol_Calibrate.rcp
@@ -2182,8 +2182,8 @@
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out

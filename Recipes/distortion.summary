@@ -15,19 +15,19 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ		out
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
  ------------ > 637_FW.rcp
-------------------> prefilterrange 637
+------------------> prefilterrange	637
  ------------ > 637_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
@@ -62,7 +62,7 @@
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
  ------------ > 670_FW.rcp
-------------------> prefilterrange 670
+------------------> prefilterrange	670
  ------------ > 637_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
@@ -97,7 +97,7 @@
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
  ------------ > 706_FW.rcp
-------------------> prefilterrange 706
+------------------> prefilterrange	706
  ------------ > 706_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
@@ -132,7 +132,7 @@
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
  ------------ > 761_FW.rcp
-------------------> prefilterrange 761
+------------------> prefilterrange	761
  ------------ > 706_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
@@ -167,7 +167,7 @@
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
  ------------ > 789_FW.rcp
-------------------> prefilterrange 789
+------------------> prefilterrange	789
  ------------ > 789_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	789.40	16
 ------------------> data	tcam	both	789.40	16
@@ -186,8 +186,8 @@
 ------------------> data	rcam	both	789.40	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	rcam	both	789.40	16
-------------------> data	tcam	both	789.40	16
 ------------------> data	rcam	both	789.40	16
+------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	tcam	both	789.40	16
@@ -202,42 +202,14 @@
 ------------------> data	rcam	both	789.40	16
 ------------------> data	tcam	both	789.40	16
  ------------ > 802_FW.rcp
-------------------> prefilterrange 802
+------------------> prefilterrange	802
  ------------ > 802_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	802.41	16
 ------------------> data	tcam	both	802.41	16
 ------------------> data	rcam	both	802.41	16
 ------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
-------------------> data	rcam	both	802.41	16
-------------------> data	tcam	both	802.41	16
  ------------ > 991_FW.rcp
-------------------> prefilterrange 991
+------------------> prefilterrange	991
  ------------ > 991_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	991.26	16
 ------------------> data	tcam	both	991.26	16
@@ -272,7 +244,7 @@
 ------------------> data	rcam	both	991.26	16
 ------------------> data	tcam	both	991.26	16
  ------------ > 1074_FW.rcp
-------------------> prefilterrange 1074
+------------------> prefilterrange	1074
  ------------ > 1074_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
@@ -307,7 +279,7 @@
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
  ------------ > 1079_FW.rcp
-------------------> prefilterrange 1079
+------------------> prefilterrange	1079
  ------------ > 1079_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	tcam	both	1079.80	16
