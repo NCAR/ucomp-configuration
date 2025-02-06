@@ -47,6 +47,10 @@ jobs:
       - name: Debug Outputs
         run: |
           echo "Changes-detected: ${{ steps.check_changes.outputs.changes-detected }}"
+          if git diff --quiet; then
+            echo "No changes detected, exiting workflow successfully"
+            exit 0
+          fi
 
       # Step 7: Commit and Push Changes
       - name: Commit and push changes
