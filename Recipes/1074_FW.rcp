@@ -3,6 +3,4 @@ AUTHOR Tomczyk
 DESCRIPTION move filter wheel to position 6 for 1074
 
 #DATATYPE BEAM  WAVELENGTH  NUMSUMS
-for 2
 PREFILTERRANGE 1074
-endfor
