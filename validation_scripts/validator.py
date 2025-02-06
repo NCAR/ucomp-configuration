@@ -177,7 +177,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     ## We dont have a prefect filter for valid data script, (maybe we could key on wave and beam)
     ## so instead we try to ignore recipe that look like a setup script.
     emoji = None
-    if "_FW" not in script_name and "setup" not in script_name and "cbk" not in script_name and "menu" not in script_name and "_in" not in script_name and "_out" not in script_name:
+    if "_FW" not in script_name and "_POL" not in script_name and "setup" not in script_name and "cbk" not in script_name and "menu" not in script_name and "_in" not in script_name and "_out" not in script_name:
         if state['shut'] == "in":
             emoji = icons["dark"]
         if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
@@ -329,7 +329,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                         md.write(emoji) 
                 
                 md.write(tab_space.join(commands)) 
-                md.write("\n")
+                md.write("\n &#xE0020;")
 
                 pass
     script.close()
