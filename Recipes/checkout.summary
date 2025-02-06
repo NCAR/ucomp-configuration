@@ -1,0 +1,153 @@
+  > checkout.menu
+ ------ > checkout.cbk
+ ------------ > setupDark.rcp
+------------------> shut	in
+ ------------ > 637_FW.rcp
+------------------> prefilterrange	637
+ ------------ > 670_FW.rcp
+------------------> prefilterrange	670
+ ------------ > 706_FW.rcp
+------------------> prefilterrange	706
+ ------------ > 761_FW.rcp
+------------------> prefilterrange	761
+ ------------ > 789_FW.rcp
+------------------> prefilterrange	789
+ ------------ > 802_FW.rcp
+------------------> prefilterrange	802
+ ------------ > 991_FW.rcp
+------------------> prefilterrange	991
+ ------------ > 1074_FW.rcp
+------------------> prefilterrange	1074
+ ------------ > 1079_FW.rcp
+------------------> prefilterrange	1079
+ ------------ > setupDark.rcp
+------------------> shut	in
+ ------------ > dark_01wave_1beam_14sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+------------------> data	rcam	both	656.28	14
+ ------------ > setupFlat.rcp
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
+------------------> shut	out
+------------------> calib	out
+ ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+ ------------ > setupObserving.rcp
+------------------> shut	in
+------------------> cover	out
+------------------> calib	out
+------------------> occ	in
+------------------> diffuser	out
+------------------> shut	out
+ ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+ ------------ > setupCal.rcp
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
+------------------> shut	out
+------------------> calib	in
+ ------------ > 1079_Pol_Calibrate.rcp
+------------------> calret	0
+------------------> calpol	0
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+------------------> calpol	45
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+------------------> calpol	90
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+------------------> calpol	135
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+------------------> calret	45
+------------------> calpol	0
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+------------------> calpol	45
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+------------------> calpol	90
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+------------------> calpol	135
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+------------------> calib	out
+ ------------------ > 1079_01wave_2beam_16sums_1rep_BLUE.rcp
+------------------------> data	rcam	blue	1079.80	16
+------------------------> data	tcam	blue	1079.80	16
+ ------------ > setupObserving.rcp
+------------------> shut	in
+------------------> cover	out
+------------------> calib	out
+------------------> occ	in
+------------------> diffuser	out
+------------------> shut	out
+ ------------ > setupCover.rcp
+------------------> cover	in

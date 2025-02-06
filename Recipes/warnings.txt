@@ -132,6 +132,32 @@ eclipseObs.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
 eclipseObs.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
 eclipseObs.menu,synoptic-old.cbk,1074_fw.rcp { for	2 } command not found.
 eclipseObs.menu,synoptic-old.cbk,1074_fw.rcp { endfor } command not found.
+checkout.menu,checkout.cbk,1074_fw.rcp { for	2 } command not found.
+checkout.menu,checkout.cbk,1074_fw.rcp { endfor } command not found.
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
+checkout.menu missing dark for { 80high16 }
 eclipseDayBefore.menu,fexiii_cross_calibration.cbk,1074_fw.rcp { for	2 } command not found.
 eclipseDayBefore.menu,fexiii_cross_calibration.cbk,1074_fw.rcp { endfor } command not found.
 eclipseDayBefore.menu,fexiii_cross_calibration.cbk,1074_fw.rcp { for	2 } command not found.
