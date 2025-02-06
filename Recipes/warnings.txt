@@ -24,27 +24,3 @@ checkout.menu missing dark for { 80high16 }
 checkout.menu missing dark for { 80high16 }
 eclipsePrep.menu { for	10 } command not found.
 eclipsePrep.menu { endfor } command not found.
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
-checkout2.menu missing dark for { 80high16 }
