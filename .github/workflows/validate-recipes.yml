@@ -50,7 +50,7 @@ jobs:
 
       # Step 7: Commit and Push Changes
       - name: Commit and push changes
-        if: success() && steps['Check for changes'].outputs.changes-detected == true
+       # if: success() && steps['Check for changes'].outputs.changes-detected == true
         run: |
           git commit -m "Apply changes from validator.py"
           git push origin main
