@@ -40,10 +40,15 @@ jobs:
 
       # Step 6: Check for Changes
       - name: Check for changes
+        id: git-check
         run: |
           git add -A
           git diff --cached --exit-code || echo "changes detected"
 
+      - name: stage changed files
+        if: steps.git-check.outputs.changes == 'true'
+        run: echo "changes"
+        
       - name: Debug Outputs
         run: |
           echo "Changes-detected: ${{ steps.check_changes.outputs.changes-detected }}"
