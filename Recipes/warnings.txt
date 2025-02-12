@@ -29,14 +29,6 @@ read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command
 read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
