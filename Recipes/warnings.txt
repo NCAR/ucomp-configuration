@@ -22,5 +22,32 @@ checkout.menu missing dark for { 80high16 }
 checkout.menu missing dark for { 80high16 }
 checkout.menu missing dark for { 80high16 }
 checkout.menu missing dark for { 80high16 }
+read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: parker-observations.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 eclipsePrep.menu { for	10 } command not found.
 eclipsePrep.menu { endfor } command not found.
+read_script: eclipseObs.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseObs.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseObs.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseObs.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseObs.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
+read_script: eclipseObs.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
