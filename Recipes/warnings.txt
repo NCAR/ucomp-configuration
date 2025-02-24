@@ -35,5 +35,3 @@ read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** comman
 read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayBefore.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
-eclipsePrep.menu { for	10 } command not found.
-eclipsePrep.menu { endfor } command not found.
