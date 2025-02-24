@@ -23,19 +23,19 @@ Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></bl
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_14sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_14sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
-Integration:0.92 minutes.  Hardware:0.00 minutes. total:0.92 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
+Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
  &#xE0020;occ	out
  &#xE0020;shut	out
@@ -184,4 +184,4 @@ Integration:0.00 minutes.  Hardware:1.33 minutes. total:1.33 minutes  </pre></bl
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;
 Integration:2.52 minutes.  Hardware:0.00 minutes. total:2.52 minutes  </pre></blockquote></details>
-Integration:10.37 minutes.  Hardware:8.58 minutes. total:18.95 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:10.49 minutes.  Hardware:8.58 minutes. total:19.08 minutes  </pre></blockquote></details></pre></blockquote></details>

@@ -1,27 +1,3 @@
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
-checkout.menu missing dark for { 80high16 }
 read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
 read_script: eclipseDayAfter.menu,synoptic-old.cbk, **synoptic-old.cbk** command not found.
