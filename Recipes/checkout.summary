@@ -2,14 +2,14 @@
  ------ > checkout.cbk
  ------------ > setupDark.rcp
 ------------------> shut	in
+ ------------ > 1074_FW.rcp
+------------------> prefilterrange	1074
  ------------ > 637_FW.rcp
 ------------------> prefilterrange	637
  ------------ > 706_FW.rcp
 ------------------> prefilterrange	706
  ------------ > 789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > 1074_FW.rcp
-------------------> prefilterrange	1074
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange	1079
  ------------ > setupDark.rcp
