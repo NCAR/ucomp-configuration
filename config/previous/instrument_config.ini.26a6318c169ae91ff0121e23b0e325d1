@@ -5,7 +5,7 @@
 Data Dir = d:\data\obs-code
 #Local mount of data server to be used for copy to Boulder.
 Server Data Dir = z:\ucomp
-#Server Data Dir = c:\data  <- Use this value if Kodiak is unavailable
+#Server Data Dir = c:\data  <- Use this value if Kodiak is unavailable 
 
 [SGS]
 #Future use to convert SGS data to UCoMP pixel units
@@ -25,7 +25,7 @@ IP Address = 128.171.190.18
 Port = 6341
 
 [sampling info]
-#Parameters to configure the Lyot filter waveforms default is fs = 8000,numS=10000
+#Parameters to configure the Lyot filter waveforms default is fs=8000,numS=10000
 fs = 8000
 numS = 10000
 
@@ -34,6 +34,7 @@ numS = 10000
 #Modulator was calibrated int the lab for +/-7V
 vneg = -7
 vpos = 7
+
 
 [DAQ Physical Channels]
 # Data communication channels, these should only be updated when 
@@ -61,6 +62,7 @@ Temperature Compensation = true
 # Integral parameter for temperature filtering..
 Temperature Compensation step size = .05
 
+
 [Camera Config]
 ## It looks like the camera config needs to change when we swap cameras.
 ## To build a camera config open up XCAP get the camera settings tweaked to be 
@@ -70,6 +72,7 @@ Temperature Compensation step size = .05
 Config File = C:\xcapconfig\2-camera-offset-gain-10006-10055.fmt
 ##Config File no trigger = C:\xcapconfig\2-cameras-maunal-exposure-high-gain-a.fmt
 ###Triggered Config File = C:\xcapconfig\2-camera-triggered.fmt
+
 # Array TEC setpoint in degrees C
 TEC Setpoint = 5
 #Camera gain true = high, false = low
@@ -122,11 +125,12 @@ Cal Trans = 85
 Diffuser = 0
 Shutter = 1
 Cover = 1
+
 #OCCX/OCCY are changed on every hardware alignment, values should be 
 # approximately 62 and 4.2 if positions if positions are widly differnet 
 # the hardware must have changed in some way.
-Occ X = 62.01    
-Occ Y = 4.28
+Occ X = 62.01
+Occ Y = 4.28    
 
 [Mech Out Beam Pos]
 ### Position UCOMP will drive hardware to when commanded out of the  beam
@@ -164,6 +168,7 @@ FilterWheel = 9
 # ILX 35C 
 ILX = 35
 
+
 [Standa Serial numbers]
 #Serial numbers of standa stages needed to map stage ids to stage names.
 Cal Pol Rot = 10106
@@ -179,11 +184,11 @@ counts2mm = 1290
 o1countlimit = 80302
 #Current O1 ID
 O1ID = O1#1
+
 #
 #  Configuration for each wave region
 #  Filter wheel position number and O1 position in mm for each O1ID.  
 #
-
 [FILTER 637]
 Filter Pos = 1
 O1#1 Pos = 21.49
@@ -245,6 +250,8 @@ Filter Pos = 0
 O1#1 Pos = 61.31
 #O1#2 Pos = 62
 
+
+
 [TEMP Sensor Names]
 #  Mapping of cropico sensor number to UCoMP names.
 #  May 26, filter wheel RTD dead moving rack to A0 so T9 and T0 swapped.
@@ -259,8 +266,8 @@ T6 = T_LN2
 T7 = T_LCVR4
 T8 = T_LCVR5
 T9 = T_BASE
-#Temperatures  limits +/-limits to be used for future warnings for the observers.
 
+#Temperatures  limits +/-limits to be used for future warnings for the observers.
 [TEMP Limits]
 T_RACK = 25,35
 T_LCVR1 = 33,35

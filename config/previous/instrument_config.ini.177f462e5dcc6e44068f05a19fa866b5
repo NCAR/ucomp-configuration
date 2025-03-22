@@ -125,8 +125,8 @@ Cover = 1
 #OCCX/OCCY are changed on every hardware alignment, values should be 
 # approximately 62 and 4.2 if positions if positions are widly differnet 
 # the hardware must have changed in some way.
-Occ X = 62.01    
-Occ Y = 4.28
+Occ X = 0.00
+Occ Y = 1.10    
 
 [Mech Out Beam Pos]
 ### Position UCOMP will drive hardware to when commanded out of the  beam
