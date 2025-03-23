@@ -123,7 +123,7 @@ Cal Trans = 85
 # approximately 62 and 4.2 if positions if positions are widly differnet 
 # the hardware must have changed in some way.
 Occ X = 62.30    
-Occ Y = 4.43
+Occ Y = 4.53
 Diffuser = 0
 Shutter = 1
 Cover = 1
