@@ -120,38 +120,30 @@ Integration:1.89 minutes.  Hardware:0.83 minutes. total:2.72 minutes  </pre></bl
  &#xE0020;diffuser	out
  &#xE0020;shut	out
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>setupCover.rcp</summary><blockquote><pre>cover	in
- &#xE0020;
-Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes  </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
- &#xE0020;cover	out
- &#xE0020;occ	out
- &#xE0020;shut	out
- &#xE0020;calib	out
- &#xE0020;
-Integration:0.00 minutes.  Hardware:1.33 minutes. total:1.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D8; [1079_03wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/1079_03wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	1079.69	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.80	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.80	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.80	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.80	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.80	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.80	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.80	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.80	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [1079_03wave_2beam_16sums_4rep_BOTH.rcp](tuningplots/1079_03wave_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;
 Integration:2.52 minutes.  Hardware:0.00 minutes. total:2.52 minutes  </pre></blockquote></details>
-Integration:9.45 minutes.  Hardware:6.58 minutes. total:16.03 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:9.45 minutes.  Hardware:4.25 minutes. total:13.70 minutes  </pre></blockquote></details></pre></blockquote></details>
