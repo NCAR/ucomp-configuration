@@ -11,8 +11,6 @@ Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></bl
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange	1079
- &#xE0020;
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
@@ -176,4 +174,4 @@ Integration:0.00 minutes.  Hardware:1.33 minutes. total:1.33 minutes  </pre></bl
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;
 Integration:2.52 minutes.  Hardware:0.00 minutes. total:2.52 minutes  </pre></blockquote></details>
-Integration:10.49 minutes.  Hardware:6.92 minutes. total:17.41 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:10.49 minutes.  Hardware:6.50 minutes. total:16.99 minutes  </pre></blockquote></details></pre></blockquote></details>
