@@ -15,6 +15,6 @@ setupObserving.rcp
 setupCal.rcp
 1079_Pol_Calibrate.rcp  
 setupObserving.rcp
-setupCover.rcp
-setupFlat.rcp
+#setupCover.rcp
+#setupFlat.rcp
 1079_03wave_2beam_16sums_4rep_BOTH.rcp
