@@ -1,17 +1,17 @@
-#Validates all the .menu files in the recipe folder for to meet UCoMP rules.
+#Validates all the .menu files in the recipe folder to meet UCoMP rules.
 #
-# Rule 1) Cookbook files can have 
-# Rule 2) Sub-scripts should exist
+# Rule 1) Cookbook files can have subscripts.
+# Rule 2) Subscripts should exist
 # Rule 3) coronal measurement should have flats and darks with the same camera modes and tunings
-# Rule 4) Only valid_commands (See list) should be in the recipe files
+# Rule 4) Only valid commands (See list) should be in the recipe files
 # Rule 5) prefilterrange should be in prefilter list (see below)
 # Rule 6) Exposure should be between 0 and 86ms
 # Rule 7) Data Commands should be formatted DATA [TCAM|RCAM], [BLUE|RED|BOTH], WAVELENGTH, NUMSUM[1-16] 
 # Rule 8) cover, occ, shut,calib,distortiongrid,nd should have values [IN|OUT]
-# Rule 9) gain should have values [HIGH|LOW]
+# Rule 9) Gain should have values [HIGH|LOW]
 #
-# DARKS are any beam configuration with dark shutter the beam
-# FLATS are beam configuration with only the Diffuser in the beam (script currently only tracks, cover,diffuser,occ,calib,shut not the other optics)
+# DARKS are any beam configuration with a dark shutter in the beam
+# FLATS are beam configurations with only the Diffuser in the beam (script currently only tracks cover,diffuser,occ,calib,shut not the other optics)
 # Violations of the rules will be recorded in recipes\warnings.txt
 #
 
