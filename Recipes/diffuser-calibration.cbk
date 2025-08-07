@@ -1,9 +1,9 @@
 AUTHOR BERKEY
-DESCRIPTION Perform 7 point wavelength flats for all 9 wavelengths
+DESCRIPTION: Collect information to get the diffuser radiance
 
 gain_high.rcp
 Exposure_80.rcp
-setupFlat.rcp #doing setupflat here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
+setupFlat.rcp 
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
@@ -52,23 +52,4 @@ setupND.rcp
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ND_OUT.rcp
-
-
-setupND.rcp
-530_01wave_2beam_16sums_4rep_BOTH.rcp
-637_FW.rcp
-637_01wave_2beam_16sums_4rep_BOTH.rcp
-
-656_FW.rcp
-656_01wave_2beam_16sums_4rep_BOTH.rcp
-706_FW.rcp
-706_01wave_2beam_16sums_4rep_BOTH.rcp
-789_FW.rcp
-789_01wave_2beam_16sums_4rep_BOTH.rcp
-1074_FW.rcp
-1074_01wave_2beam_16sums_4rep_BOTH.rcp
-1079_FW.rcp
-1079_01wave_2beam_16sums_4rep_BOTH.rcp
-1083_FW.rcp
-1083_01wave_2beam_16sums_4rep_BOTH.rcp
 setupDark.rcp
