@@ -944,7 +944,93 @@ Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></bl
  &#xE0020;diffuser	out
  &#xE0020;shut	out
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
+Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes  </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange	1079
+ &#xE0020;
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp](tuningplots/1079_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1079.64	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.80	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
+ &#xE0020;
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
+ &#xE0020;
+Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp](tuningplots/1074_05wave_0.1step_2beam_16sums_4reps_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.54	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.59	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.70	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.81	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.86	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.54	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.59	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.70	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.81	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.86	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.54	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.59	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.70	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.81	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.86	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.54	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.59	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.70	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.81	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.86	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.54	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.59	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.70	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.81	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.86	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.54	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.59	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.70	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.81	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.86	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.54	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.59	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.70	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.81	16
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.86	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.54	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.59	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.70	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.81	16
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.86	16
+ &#xE0020;
+Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes  </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>&#x1F4D7; [789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp](tuningplots/789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	789.315	16
  &#xE0020;&#x1F4D7; data	rcam	both	789.35	16
@@ -1088,7 +1174,7 @@ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes  </pre></bl
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes  </pre></blockquote></details>
-Integration:56.67 minutes.  Hardware:7.08 minutes. total:63.75 minutes  </pre></blockquote></details><details><summary>waves_1074_1hour.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
+Integration:65.07 minutes.  Hardware:7.92 minutes. total:72.98 minutes  </pre></blockquote></details><details><summary>waves_1074_1hour.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes  </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
