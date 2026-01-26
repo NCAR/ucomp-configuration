@@ -347,10 +347,10 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                 pass
     script.close()
     if "rcp" in child_extension: 
-        md.write(f"\nIntegration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes \n ")
-        md.write(f"Darks: {", ".join(sorted(list(set(dark_recipes))))}  \n")
-        md.write(f"Flats: {", ".join(sorted(list(set(flat_recipes))))} \n ")
-        md.write(f"Data: {", ".join(sorted(list(set(data_recipes))))}  \n")
+        md.write(f"\nIntegration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes \n\n ")
+        md.write(f"Darks:  {", ".join(sorted(list(set(dark_recipes))))}  \n")
+        md.write(f"Flats:  {", ".join(sorted(list(set(flat_recipes))))} \n ")
+        md.write(f"Data:   {", ".join(sorted(list(set(data_recipes))))}  \n")
         md.write(f"Calibs: {", ".join(sorted(list(set(calib_recipes))))}  \n")
     else:
         for corona in coronalExp:
