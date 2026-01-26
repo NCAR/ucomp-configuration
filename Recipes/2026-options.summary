@@ -1588,9 +1588,9 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > waves_1074_1hour.cbk
- ------------ > 1074_FW.rcp
-------------------> prefilterrange	1074
+ ------ > waves_1074_1hour-1079.cbk
+ ------------ > 1079_FW.rcp
+------------------> prefilterrange	1079
  ------------ > setupDark.rcp
 ------------------> shut	in
  ------------ > dark_01wave_1beam_14sums_10rep_BOTH.rcp
@@ -1611,6 +1611,21 @@
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
+ ------------ > 1079_03wave_2beam_16sums_2rep_BOTH.rcp
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+ ------------ > 1079_FW.rcp
+------------------> prefilterrange	1079
  ------------ > 1074_03wave_2beam_16sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	12
 ------------------> data	rcam	both	1074.81	12
@@ -2478,6 +2493,21 @@
 ------------------> data	tcam	both	1074.59	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+ ------------ > 1079_FW.rcp
+------------------> prefilterrange	1079
+ ------------ > 1079_03wave_2beam_16sums_2rep_BOTH.rcp
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
+------------------> data	rcam	both	1079.69	16
+------------------> data	rcam	both	1079.80	16
+------------------> data	rcam	both	1079.91	16
+------------------> data	tcam	both	1079.69	16
+------------------> data	tcam	both	1079.80	16
+------------------> data	tcam	both	1079.91	16
  ------ > synoptic-original-lines.cbk
  ------------ > setupDark.rcp
 ------------------> shut	in

@@ -170,6 +170,11 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     summary.write(f" {tab*6*'-'} > {script_name.split('#')[0]}\n")
     runTime = 0
     hardwareTime = 0
+
+    data_recipes = []
+    flat_recipes = []
+    dark_recipes = []
+    calib_recipes = []
             
     ## Attempt to guess what icon to put next to a recipe name based on state coming in to that.
     ## this is kind of fragile but mostly works because most of our operational scripts dont change
@@ -209,9 +214,13 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         if len(commands) > 0 and commands[0].split(":")[0] not in ignore_commands:
             if child_extension in commands[0]:
                 try:
-                    (tTime,hTime) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
+                    (tTime,hTime,data_recipes_rtn,flat_recipes_rtn,dark_recipes_rtn,calib_recipes_rtn) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
                     runTime += tTime
                     hardwareTime += hTime
+                    data_recipes.extend(data_recipes_rtn)
+                    flat_recipes.extend(flat_recipes_rtn)
+                    dark_recipes.extend(dark_recipes_rtn)
+                    calib_recipes.extend(calib_recipes_rtn)
                     
                 except FileNotFoundError:
                     warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
@@ -309,19 +318,23 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                     
                     if state['shut'] == "in":
                         emoji = icons["dark"]
+                        dark_recipes.append(script_name)
                         if state['exposure']+state['gain']+sums not in darks:
                             darks.append(state['exposure']+state['gain']+sums)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
                         emoji = icons["flat"]
+                        flat_recipes.append(script_name)
                         if state['gain']+sums+cam+cont+wave not in flats:
                             flats.append(state['gain']+sums+cam+cont+wave)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
                         emoji = icons["data"]
+                        data_recipes.append(script_name)
                         coronal.append(state['gain']+sums+cam+cont+wave)
                         coronalExp.append(state['exposure']+state['gain']+sums)
                     
                     if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
                         emoji = icons["calib"]
+                        calib_recipes.append(script_name)
                     runTime += relaxation_time +(int(state['exposure'])+camera_readout[state["gain"]])*4*int(sums)
                 summary.write(f"{tab*6*'-'}> {tab_space.join(commands)}\n")
                 if "_FW" not in commands[0] and "setup" not in commands[0] and "cbk" not in commands[0] and "menu" not in commands[0]:
@@ -334,7 +347,11 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                 pass
     script.close()
     if "rcp" in child_extension: 
-        md.write(f"\nIntegration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes  ")
+        md.write(f"\nIntegration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes \n ")
+        md.write(f"Darks: {", ".join(sorted(list(set(dark_recipes))))}  \n")
+        md.write(f"Flats: {", ".join(sorted(list(set(flat_recipes))))} \n ")
+        md.write(f"Data: {", ".join(sorted(list(set(data_recipes))))}  \n")
+        md.write(f"Calibs: {", ".join(sorted(list(set(calib_recipes))))}  \n")
     else:
         for corona in coronalExp:
             if corona not in darks:
@@ -344,7 +361,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                 warning.write(f"{parent} missing flat for {{ {corona} }}\n")
         
     md.write("</pre></blockquote></details>")
-    return runTime,hardwareTime
+    return runTime,hardwareTime,data_recipes,flat_recipes,dark_recipes,calib_recipes
 menus = glob.glob("*.menu")
 state = {}
 darks = []

@@ -15,5 +15,15 @@
  &#xE0020;data	rcam	both	1080.35	16
  &#xE0020;data	rcam	both	1080.46	16
  &#xE0020;
-Integration:1.36 minutes.  Hardware:0.00 minutes. total:1.36 minutes  </pre></blockquote></details>
-Integration:1.36 minutes.  Hardware:0.00 minutes. total:1.36 minutes  </pre></blockquote></details></pre></blockquote></details>
+Integration:1.36 minutes.  Hardware:0.00 minutes. total:1.36 minutes 
+ Darks:   
+Flats:  
+ Data:   
+Calibs:   
+</pre></blockquote></details>
+Integration:1.36 minutes.  Hardware:0.00 minutes. total:1.36 minutes 
+ Darks:   
+Flats:  
+ Data:   
+Calibs:   
+</pre></blockquote></details></pre></blockquote></details>
