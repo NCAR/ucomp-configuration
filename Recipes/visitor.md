@@ -4,9 +4,10 @@
 &#x1F4D5;  = calib<details><summary>visitor.menu</summary><blockquote><pre><details><summary>visitor.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -21,9 +22,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -32,9 +34,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -78,9 +81,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -90,9 +94,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -136,9 +141,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -182,9 +188,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -228,9 +235,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -274,9 +282,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -320,16 +329,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -344,9 +355,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -355,9 +367,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -401,9 +414,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -413,9 +427,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -459,9 +474,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -505,9 +521,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -551,9 +568,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -597,9 +615,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -643,16 +662,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -667,9 +688,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -678,9 +700,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -724,9 +747,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -736,9 +760,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -782,9 +807,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -828,9 +854,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -874,9 +901,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -920,9 +948,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -966,16 +995,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -990,9 +1021,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -1001,9 +1033,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -1047,9 +1080,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -1059,9 +1093,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1105,9 +1140,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1151,9 +1187,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1197,9 +1234,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1243,9 +1281,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1289,16 +1328,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -1313,9 +1354,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -1324,9 +1366,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -1370,9 +1413,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -1382,9 +1426,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1428,9 +1473,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1474,9 +1520,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1520,9 +1567,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1566,9 +1614,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1612,16 +1661,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -1636,9 +1687,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -1647,9 +1699,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -1693,9 +1746,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -1705,9 +1759,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1751,9 +1806,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1797,9 +1853,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1843,9 +1900,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1889,9 +1947,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -1935,16 +1994,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -1959,9 +2020,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -1970,9 +2032,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -2016,9 +2079,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -2028,9 +2092,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2074,9 +2139,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2120,9 +2186,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2166,9 +2233,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2212,9 +2280,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2258,16 +2327,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -2282,9 +2353,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -2293,9 +2365,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -2339,9 +2412,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -2351,9 +2425,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2397,9 +2472,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2443,9 +2519,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2489,9 +2566,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2535,9 +2613,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2581,16 +2660,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -2605,9 +2686,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -2616,9 +2698,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -2662,9 +2745,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -2674,9 +2758,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2720,9 +2805,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2766,9 +2852,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2812,9 +2899,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2858,9 +2946,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -2904,16 +2993,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -2928,9 +3019,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -2939,9 +3031,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -2985,9 +3078,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -2997,9 +3091,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3043,9 +3138,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3089,9 +3185,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3135,9 +3232,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3181,9 +3279,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3227,16 +3326,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -3251,9 +3352,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -3262,9 +3364,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -3308,9 +3411,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -3320,9 +3424,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3366,9 +3471,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3412,9 +3518,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3458,9 +3565,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3504,9 +3612,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3550,16 +3659,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -3574,9 +3685,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -3585,9 +3697,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -3631,9 +3744,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -3643,9 +3757,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3689,9 +3804,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3735,9 +3851,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3781,9 +3898,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3827,9 +3945,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -3873,16 +3992,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -3897,9 +4018,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -3908,9 +4030,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -3954,9 +4077,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -3966,9 +4090,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4012,9 +4137,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4058,9 +4184,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4104,9 +4231,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4150,9 +4278,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4196,16 +4325,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -4220,9 +4351,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -4231,9 +4363,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -4277,9 +4410,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -4289,9 +4423,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4335,9 +4470,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4381,9 +4517,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4427,9 +4564,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4473,9 +4611,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4519,16 +4658,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -4543,9 +4684,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -4554,9 +4696,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -4600,9 +4743,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -4612,9 +4756,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4658,9 +4803,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4704,9 +4850,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4750,9 +4897,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4796,9 +4944,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4842,16 +4991,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -4866,9 +5017,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -4877,9 +5029,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -4923,9 +5076,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -4935,9 +5089,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -4981,9 +5136,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5027,9 +5183,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5073,9 +5230,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5119,9 +5277,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5165,16 +5324,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -5189,9 +5350,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -5200,9 +5362,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -5246,9 +5409,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -5258,9 +5422,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5304,9 +5469,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5350,9 +5516,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5396,9 +5563,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5442,9 +5610,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5488,16 +5657,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -5512,9 +5683,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -5523,9 +5695,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -5569,9 +5742,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -5581,9 +5755,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5627,9 +5802,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5673,9 +5849,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5719,9 +5896,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5765,9 +5943,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5811,16 +5990,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -5835,9 +6016,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -5846,9 +6028,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -5892,9 +6075,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -5904,9 +6088,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5950,9 +6135,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -5996,9 +6182,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6042,9 +6229,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6088,9 +6276,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6134,16 +6323,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -6158,9 +6349,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -6169,9 +6361,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -6215,9 +6408,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -6227,9 +6421,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6273,9 +6468,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6319,9 +6515,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6365,9 +6562,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6411,9 +6609,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6457,16 +6656,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -6481,9 +6682,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -6492,9 +6694,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -6538,9 +6741,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -6550,9 +6754,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6596,9 +6801,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6642,9 +6848,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6688,9 +6895,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6734,9 +6942,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6780,16 +6989,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -6804,9 +7015,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -6815,9 +7027,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -6861,9 +7074,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -6873,9 +7087,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6919,9 +7134,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -6965,9 +7181,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7011,9 +7228,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7057,9 +7275,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7103,16 +7322,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -7127,9 +7348,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -7138,9 +7360,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -7184,9 +7407,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -7196,9 +7420,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7242,9 +7467,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7288,9 +7514,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7334,9 +7561,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7380,9 +7608,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7426,16 +7655,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -7450,9 +7681,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -7461,9 +7693,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -7507,9 +7740,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -7519,9 +7753,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7565,9 +7800,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7611,9 +7847,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7657,9 +7894,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7703,9 +7941,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7749,16 +7988,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -7773,9 +8014,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -7784,9 +8026,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -7830,9 +8073,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -7842,9 +8086,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7888,9 +8133,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7934,9 +8180,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -7980,9 +8227,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8026,9 +8274,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8072,16 +8321,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -8096,9 +8347,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -8107,9 +8359,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -8153,9 +8406,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -8165,9 +8419,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8211,9 +8466,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8257,9 +8513,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8303,9 +8560,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8349,9 +8607,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8395,16 +8654,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -8419,9 +8680,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -8430,9 +8692,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -8476,9 +8739,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -8488,9 +8752,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8534,9 +8799,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8580,9 +8846,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8626,9 +8893,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8672,9 +8940,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8718,16 +8987,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -8742,9 +9013,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -8753,9 +9025,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -8799,9 +9072,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -8811,9 +9085,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8857,9 +9132,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8903,9 +9179,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8949,9 +9226,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -8995,9 +9273,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9041,16 +9320,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -9065,9 +9346,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -9076,9 +9358,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -9122,9 +9405,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -9134,9 +9418,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9180,9 +9465,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9226,9 +9512,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9272,9 +9559,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9318,9 +9606,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9364,16 +9653,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -9388,9 +9679,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -9399,9 +9691,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -9445,9 +9738,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -9457,9 +9751,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9503,9 +9798,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9549,9 +9845,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9595,9 +9892,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9641,9 +9939,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9687,16 +9986,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -9711,9 +10012,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -9722,9 +10024,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -9768,9 +10071,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -9780,9 +10084,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9826,9 +10131,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9872,9 +10178,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9918,9 +10225,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -9964,9 +10272,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10010,16 +10319,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -10034,9 +10345,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -10045,9 +10357,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -10091,9 +10404,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -10103,9 +10417,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10149,9 +10464,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10195,9 +10511,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10241,9 +10558,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10287,9 +10605,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10333,16 +10652,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -10357,9 +10678,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -10368,9 +10690,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -10414,9 +10737,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -10426,9 +10750,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10472,9 +10797,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10518,9 +10844,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10564,9 +10891,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10610,9 +10938,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10656,16 +10985,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -10680,9 +11011,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -10691,9 +11023,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -10737,9 +11070,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -10749,9 +11083,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10795,9 +11130,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10841,9 +11177,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10887,9 +11224,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10933,9 +11271,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -10979,16 +11318,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -11003,9 +11344,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -11014,9 +11356,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -11060,9 +11403,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -11072,9 +11416,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11118,9 +11463,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11164,9 +11510,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11210,9 +11557,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11256,9 +11604,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11302,16 +11651,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -11326,9 +11677,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -11337,9 +11689,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -11383,9 +11736,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -11395,9 +11749,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11441,9 +11796,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11487,9 +11843,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11533,9 +11890,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11579,9 +11937,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11625,16 +11984,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -11649,9 +12010,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -11660,9 +12022,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -11706,9 +12069,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -11718,9 +12082,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11764,9 +12129,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11810,9 +12176,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11856,9 +12223,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11902,9 +12270,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -11948,16 +12317,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -11972,9 +12343,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -11983,9 +12355,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -12029,9 +12402,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -12041,9 +12415,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12087,9 +12462,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12133,9 +12509,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12179,9 +12556,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12225,9 +12603,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12271,16 +12650,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -12295,9 +12676,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -12306,9 +12688,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -12352,9 +12735,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -12364,9 +12748,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12410,9 +12795,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12456,9 +12842,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12502,9 +12889,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12548,9 +12936,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12594,16 +12983,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -12618,9 +13009,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -12629,9 +13021,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -12675,9 +13068,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -12687,9 +13081,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12733,9 +13128,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12779,9 +13175,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12825,9 +13222,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12871,9 +13269,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -12917,16 +13316,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -12941,9 +13342,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -12952,9 +13354,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -12998,9 +13401,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -13010,9 +13414,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13056,9 +13461,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13102,9 +13508,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13148,9 +13555,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13194,9 +13602,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13240,16 +13649,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -13264,9 +13675,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -13275,9 +13687,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -13321,9 +13734,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -13333,9 +13747,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13379,9 +13794,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13425,9 +13841,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13471,9 +13888,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13517,9 +13935,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13563,16 +13982,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -13587,9 +14008,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -13598,9 +14020,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -13644,9 +14067,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -13656,9 +14080,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13702,9 +14127,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13748,9 +14174,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13794,9 +14221,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13840,9 +14268,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -13886,16 +14315,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -13910,9 +14341,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -13921,9 +14353,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -13967,9 +14400,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -13979,9 +14413,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14025,9 +14460,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14071,9 +14507,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14117,9 +14554,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14163,9 +14601,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14209,16 +14648,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -14233,9 +14674,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -14244,9 +14686,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -14290,9 +14733,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -14302,9 +14746,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14348,9 +14793,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14394,9 +14840,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14440,9 +14887,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14486,9 +14934,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14532,16 +14981,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -14556,9 +15007,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -14567,9 +15019,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -14613,9 +15066,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -14625,9 +15079,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14671,9 +15126,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14717,9 +15173,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14763,9 +15220,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14809,9 +15267,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14855,16 +15314,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -14879,9 +15340,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -14890,9 +15352,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -14936,9 +15399,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -14948,9 +15412,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -14994,9 +15459,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15040,9 +15506,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15086,9 +15553,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15132,9 +15600,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15178,16 +15647,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -15202,9 +15673,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -15213,9 +15685,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -15259,9 +15732,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -15271,9 +15745,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15317,9 +15792,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15363,9 +15839,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15409,9 +15886,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15455,9 +15933,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15501,16 +15980,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -15525,9 +16006,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -15536,9 +16018,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -15582,9 +16065,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -15594,9 +16078,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15640,9 +16125,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15686,9 +16172,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15732,9 +16219,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15778,9 +16266,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15824,16 +16313,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -15848,9 +16339,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -15859,9 +16351,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -15905,9 +16398,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -15917,9 +16411,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -15963,9 +16458,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16009,9 +16505,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16055,9 +16552,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16101,9 +16599,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16147,16 +16646,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -16171,9 +16672,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -16182,9 +16684,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -16228,9 +16731,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -16240,9 +16744,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16286,9 +16791,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16332,9 +16838,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16378,9 +16885,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16424,9 +16932,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16470,16 +16979,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -16494,9 +17005,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -16505,9 +17017,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -16551,9 +17064,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -16563,9 +17077,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16609,9 +17124,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16655,9 +17171,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16701,9 +17218,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16747,9 +17265,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16793,16 +17312,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -16817,9 +17338,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -16828,9 +17350,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -16874,9 +17397,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -16886,9 +17410,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16932,9 +17457,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -16978,9 +17504,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17024,9 +17551,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17070,9 +17598,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17116,16 +17645,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -17140,9 +17671,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -17151,9 +17683,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -17197,9 +17730,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -17209,9 +17743,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17255,9 +17790,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17301,9 +17837,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17347,9 +17884,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17393,9 +17931,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17439,16 +17978,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -17463,9 +18004,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -17474,9 +18016,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -17520,9 +18063,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -17532,9 +18076,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17578,9 +18123,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17624,9 +18170,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17670,9 +18217,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17716,9 +18264,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17762,16 +18311,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -17786,9 +18337,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -17797,9 +18349,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -17843,9 +18396,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -17855,9 +18409,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17901,9 +18456,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17947,9 +18503,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -17993,9 +18550,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18039,9 +18597,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18085,16 +18644,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -18109,9 +18670,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -18120,9 +18682,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -18166,9 +18729,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -18178,9 +18742,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18224,9 +18789,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18270,9 +18836,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18316,9 +18883,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18362,9 +18930,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18408,16 +18977,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -18432,9 +19003,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -18443,9 +19015,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -18489,9 +19062,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -18501,9 +19075,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18547,9 +19122,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18593,9 +19169,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18639,9 +19216,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18685,9 +19263,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18731,16 +19310,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -18755,9 +19336,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -18766,9 +19348,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -18812,9 +19395,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -18824,9 +19408,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18870,9 +19455,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18916,9 +19502,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -18962,9 +19549,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19008,9 +19596,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19054,16 +19643,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -19078,9 +19669,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -19089,9 +19681,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -19135,9 +19728,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -19147,9 +19741,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19193,9 +19788,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19239,9 +19835,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19285,9 +19882,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19331,9 +19929,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19377,16 +19976,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -19401,9 +20002,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -19412,9 +20014,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -19458,9 +20061,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -19470,9 +20074,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19516,9 +20121,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19562,9 +20168,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19608,9 +20215,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19654,9 +20262,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19700,16 +20309,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -19724,9 +20335,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -19735,9 +20347,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -19781,9 +20394,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -19793,9 +20407,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19839,9 +20454,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19885,9 +20501,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19931,9 +20548,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -19977,9 +20595,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20023,16 +20642,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -20047,9 +20668,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -20058,9 +20680,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -20104,9 +20727,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -20116,9 +20740,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20162,9 +20787,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20208,9 +20834,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20254,9 +20881,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20300,9 +20928,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20346,16 +20975,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -20370,9 +21001,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -20381,9 +21013,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -20427,9 +21060,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -20439,9 +21073,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20485,9 +21120,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20531,9 +21167,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20577,9 +21214,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20623,9 +21261,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20669,16 +21308,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -20693,9 +21334,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -20704,9 +21346,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -20750,9 +21393,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -20762,9 +21406,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20808,9 +21453,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20854,9 +21500,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20900,9 +21547,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20946,9 +21594,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -20992,16 +21641,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -21016,9 +21667,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -21027,9 +21679,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -21073,9 +21726,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -21085,9 +21739,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21131,9 +21786,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21177,9 +21833,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21223,9 +21880,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21269,9 +21927,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21315,16 +21974,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -21339,9 +22000,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -21350,9 +22012,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -21396,9 +22059,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -21408,9 +22072,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21454,9 +22119,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21500,9 +22166,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21546,9 +22213,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21592,9 +22260,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21638,16 +22307,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -21662,9 +22333,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -21673,9 +22345,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -21719,9 +22392,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -21731,9 +22405,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21777,9 +22452,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21823,9 +22499,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21869,9 +22546,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21915,9 +22593,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -21961,16 +22640,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -21985,9 +22666,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -21996,9 +22678,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -22042,9 +22725,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -22054,9 +22738,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22100,9 +22785,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22146,9 +22832,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22192,9 +22879,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22238,9 +22926,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22284,16 +22973,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -22308,9 +22999,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -22319,9 +23011,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -22365,9 +23058,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -22377,9 +23071,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22423,9 +23118,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22469,9 +23165,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22515,9 +23212,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22561,9 +23259,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22607,16 +23306,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -22631,9 +23332,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -22642,9 +23344,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -22688,9 +23391,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -22700,9 +23404,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22746,9 +23451,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22792,9 +23498,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22838,9 +23545,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22884,9 +23592,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -22930,16 +23639,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -22954,9 +23665,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -22965,9 +23677,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -23011,9 +23724,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -23023,9 +23737,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23069,9 +23784,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23115,9 +23831,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23161,9 +23878,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23207,9 +23925,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23253,16 +23972,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -23277,9 +23998,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -23288,9 +24010,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -23334,9 +24057,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -23346,9 +24070,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23392,9 +24117,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23438,9 +24164,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23484,9 +24211,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23530,9 +24258,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23576,16 +24305,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -23600,9 +24331,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -23611,9 +24343,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -23657,9 +24390,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -23669,9 +24403,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23715,9 +24450,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23761,9 +24497,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23807,9 +24544,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23853,9 +24591,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -23899,16 +24638,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -23923,9 +24664,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -23934,9 +24676,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -23980,9 +24723,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -23992,9 +24736,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24038,9 +24783,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24084,9 +24830,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24130,9 +24877,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24176,9 +24924,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24222,16 +24971,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -24246,9 +24997,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -24257,9 +25009,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -24303,9 +25056,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -24315,9 +25069,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24361,9 +25116,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24407,9 +25163,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24453,9 +25210,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24499,9 +25257,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24545,16 +25304,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -24569,9 +25330,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -24580,9 +25342,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -24626,9 +25389,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -24638,9 +25402,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24684,9 +25449,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24730,9 +25496,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24776,9 +25543,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24822,9 +25590,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -24868,16 +25637,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -24892,9 +25663,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -24903,9 +25675,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -24949,9 +25722,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -24961,9 +25735,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25007,9 +25782,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25053,9 +25829,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25099,9 +25876,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25145,9 +25923,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25191,16 +25970,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -25215,9 +25996,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -25226,9 +26008,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -25272,9 +26055,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -25284,9 +26068,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25330,9 +26115,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25376,9 +26162,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25422,9 +26209,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25468,9 +26256,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25514,16 +26303,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -25538,9 +26329,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -25549,9 +26341,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -25595,9 +26388,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -25607,9 +26401,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25653,9 +26448,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25699,9 +26495,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25745,9 +26542,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25791,9 +26589,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25837,16 +26636,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -25861,9 +26662,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -25872,9 +26674,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -25918,9 +26721,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -25930,9 +26734,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -25976,9 +26781,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26022,9 +26828,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26068,9 +26875,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26114,9 +26922,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26160,16 +26969,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -26184,9 +26995,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -26195,9 +27007,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -26241,9 +27054,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -26253,9 +27067,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26299,9 +27114,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26345,9 +27161,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26391,9 +27208,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26437,9 +27255,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26483,16 +27302,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -26507,9 +27328,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -26518,9 +27340,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -26564,9 +27387,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -26576,9 +27400,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26622,9 +27447,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26668,9 +27494,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26714,9 +27541,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26760,9 +27588,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26806,16 +27635,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -26830,9 +27661,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -26841,9 +27673,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -26887,9 +27720,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -26899,9 +27733,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26945,9 +27780,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -26991,9 +27827,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27037,9 +27874,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27083,9 +27921,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27129,16 +27968,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -27153,9 +27994,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -27164,9 +28006,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -27210,9 +28053,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -27222,9 +28066,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27268,9 +28113,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27314,9 +28160,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27360,9 +28207,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27406,9 +28254,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27452,16 +28301,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -27476,9 +28327,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -27487,9 +28339,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -27533,9 +28386,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -27545,9 +28399,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27591,9 +28446,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27637,9 +28493,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27683,9 +28540,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27729,9 +28587,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27775,16 +28634,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -27799,9 +28660,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -27810,9 +28672,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -27856,9 +28719,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -27868,9 +28732,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27914,9 +28779,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -27960,9 +28826,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28006,9 +28873,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28052,9 +28920,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28098,16 +28967,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -28122,9 +28993,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -28133,9 +29005,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -28179,9 +29052,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -28191,9 +29065,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28237,9 +29112,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28283,9 +29159,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28329,9 +29206,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28375,9 +29253,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28421,16 +29300,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -28445,9 +29326,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -28456,9 +29338,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -28502,9 +29385,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -28514,9 +29398,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28560,9 +29445,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28606,9 +29492,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28652,9 +29539,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28698,9 +29586,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28744,16 +29633,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -28768,9 +29659,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -28779,9 +29671,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -28825,9 +29718,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -28837,9 +29731,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28883,9 +29778,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28929,9 +29825,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -28975,9 +29872,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29021,9 +29919,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29067,16 +29966,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -29091,9 +29992,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -29102,9 +30004,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -29148,9 +30051,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -29160,9 +30064,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29206,9 +30111,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29252,9 +30158,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29298,9 +30205,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29344,9 +30252,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29390,16 +30299,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -29414,9 +30325,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -29425,9 +30337,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -29471,9 +30384,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -29483,9 +30397,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29529,9 +30444,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29575,9 +30491,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29621,9 +30538,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29667,9 +30585,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29713,16 +30632,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -29737,9 +30658,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -29748,9 +30670,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -29794,9 +30717,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -29806,9 +30730,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29852,9 +30777,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29898,9 +30824,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29944,9 +30871,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -29990,9 +30918,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30036,16 +30965,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -30060,9 +30991,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -30071,9 +31003,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -30117,9 +31050,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -30129,9 +31063,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30175,9 +31110,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30221,9 +31157,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30267,9 +31204,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30313,9 +31251,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30359,16 +31298,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -30383,9 +31324,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -30394,9 +31336,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -30440,9 +31383,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -30452,9 +31396,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30498,9 +31443,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30544,9 +31490,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30590,9 +31537,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30636,9 +31584,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30682,16 +31631,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -30706,9 +31657,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -30717,9 +31669,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -30763,9 +31716,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -30775,9 +31729,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30821,9 +31776,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30867,9 +31823,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30913,9 +31870,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -30959,9 +31917,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31005,16 +31964,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -31029,9 +31990,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -31040,9 +32002,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -31086,9 +32049,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -31098,9 +32062,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31144,9 +32109,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31190,9 +32156,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31236,9 +32203,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31282,9 +32250,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31328,16 +32297,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -31352,9 +32323,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -31363,9 +32335,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -31409,9 +32382,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -31421,9 +32395,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31467,9 +32442,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31513,9 +32489,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31559,9 +32536,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31605,9 +32583,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31651,16 +32630,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -31675,9 +32656,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -31686,9 +32668,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -31732,9 +32715,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -31744,9 +32728,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31790,9 +32775,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31836,9 +32822,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31882,9 +32869,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31928,9 +32916,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -31974,16 +32963,18 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -31998,9 +32989,10 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
@@ -32009,9 +33001,10 @@ Calibs:
  &#xE0020;calib	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D8; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D8; data	rcam	both	530.26	16
@@ -32055,9 +33048,10 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data:   
+
+ Darks:    
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
  &#xE0020;cover	out
@@ -32067,9 +33061,10 @@ Calibs:
  &#xE0020;shut	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -32113,9 +33108,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -32159,9 +33155,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -32205,9 +33202,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -32251,9 +33249,10 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D7; [visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp](tuningplots/visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	530.23	16
  &#xE0020;&#x1F4D7; data	rcam	both	530.26	16
@@ -32297,14 +33296,16 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	530.35	16
  &#xE0020;
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
- Darks:   
-Flats:  
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:    
+Flats:   
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details>
 Integration:2623.67 minutes.  Hardware:67.33 minutes. total:2691.00 minutes 
- Darks: dark_01wave_1beam_16sums_10rep_BOTH.rcp  
-Flats: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
- Data: visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
+
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp 
+ Data:   visitor-530_05wave_.03step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details></pre></blockquote></details>

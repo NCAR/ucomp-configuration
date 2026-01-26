@@ -4,9 +4,10 @@
 &#x1F4D5;  = calib<details><summary>find_imageDrift.menu</summary><blockquote><pre><details><summary>find_imageDrift.cbk</summary><blockquote><pre><details><summary>ND_IN.rcp</summary><blockquote><pre>nd	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1083_imageDrift.rcp</summary><blockquote><pre>shut	out
  &#xE0020;o1	62.75
@@ -39,21 +40,24 @@ Calibs:
  &#xE0020;shut	in
  &#xE0020;
 Integration:0.39 minutes.  Hardware:0.00 minutes. total:0.39 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [ND_OUT.rcp](tuningplots/ND_OUT.rcp.png)</summary><blockquote><pre>nd	out
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:0.39 minutes.  Hardware:0.00 minutes. total:0.39 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details></pre></blockquote></details>

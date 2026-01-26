@@ -4,9 +4,10 @@
 &#x1F4D5;  = calib<details><summary>dark.menu</summary><blockquote><pre><details><summary>dark.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
- Darks:   
-Flats:  
- Data:   
+
+ Darks:    
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_1sums_16rep_BOTH.rcp](tuningplots/dark_01wave_1beam_1sums_16rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D9; data	rcam	both	656.28	1
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	1
@@ -26,21 +27,24 @@ Calibs:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	1
  &#xE0020;
 Integration:0.18 minutes.  Hardware:0.00 minutes. total:0.18 minutes 
- Darks: dark_01wave_1beam_1sums_16rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_1sums_16rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_1rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
 Integration:0.10 minutes.  Hardware:0.00 minutes. total:0.10 minutes 
- Darks: dark_01wave_1beam_16sums_1rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_1rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:0.28 minutes.  Hardware:0.00 minutes. total:0.28 minutes 
- Darks: dark_01wave_1beam_16sums_1rep_BOTH.rcp, dark_01wave_1beam_1sums_16rep_BOTH.rcp  
-Flats:  
- Data:   
+
+ Darks:  dark_01wave_1beam_16sums_1rep_BOTH.rcp, dark_01wave_1beam_1sums_16rep_BOTH.rcp  
+Flats:   
+ Data:     
 Calibs:   
 </pre></blockquote></details></pre></blockquote></details>
