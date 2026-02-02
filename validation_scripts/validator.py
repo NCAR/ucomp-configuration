@@ -324,12 +324,12 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
                         emoji = icons["flat"]
                         flat_recipes.append(script_name)
-                        if state['gain']+sums+cam+cont+wave not in flats:
-                            flats.append(state['gain']+sums+cam+cont+wave)
+                        if state['gain']+cam+cont+wave not in flats:
+                            flats.append(state['gain']+cam+cont+wave)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
                         emoji = icons["data"]
                         data_recipes.append(script_name)
-                        coronal.append(state['gain']+sums+cam+cont+wave)
+                        coronal.append(state['gain']+cam+cont+wave)
                         coronalExp.append(state['exposure']+state['gain']+sums)
                     
                     if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
