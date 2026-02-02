@@ -1628,11 +1628,11 @@
 ------------------> prefilterrange	1079
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -1655,844 +1655,844 @@
 ------------------> data	tcam	both	1079.91	16
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1079_03wave_2beam_16sums_2rep_BOTH.rcp
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -2514,11 +2514,11 @@
 ------------------> calib	out
  ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+------------------> data	tcam	both	1074.59	14
  ------------ > 1079_FW.rcp
 ------------------> prefilterrange	1079
  ------------ > 1079_03wave_2beam_16sums_2rep_BOTH.rcp

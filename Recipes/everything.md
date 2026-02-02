@@ -86,11 +86,11 @@ Flats:
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_03wave_2beam_14sums_1_rep_BOTH.rcp</summary><blockquote><pre>data	rcam	both	1074.59	14
- &#xE0020;data	rcam	both	1074.81	14
  &#xE0020;data	rcam	both	1074.70	14
- &#xE0020;data	tcam	both	1074.59	14
+ &#xE0020;data	rcam	both	1074.81	14
  &#xE0020;data	tcam	both	1074.81	14
  &#xE0020;data	tcam	both	1074.70	14
+ &#xE0020;data	tcam	both	1074.59	14
  &#xE0020;
 Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes 
 
