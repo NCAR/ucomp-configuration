@@ -1362,7 +1362,6 @@ Calibs:
  &#xE0020;data	rcam	both	1079.86	16
  &#xE0020;data	rcam	both	1079.91	16
  &#xE0020;data	rcam	both	1079.96	16
- &#xE0020;data	rcam	both	1079.98	16
  &#xE0020;data	tcam	both	1079.64	16
  &#xE0020;data	tcam	both	1079.69	16
  &#xE0020;data	tcam	both	1079.74	16
@@ -1370,7 +1369,6 @@ Calibs:
  &#xE0020;data	tcam	both	1079.86	16
  &#xE0020;data	tcam	both	1079.91	16
  &#xE0020;data	tcam	both	1079.96	16
- &#xE0020;data	tcam	both	1079.98	16
  &#xE0020;data	rcam	both	1079.64	16
  &#xE0020;data	rcam	both	1079.69	16
  &#xE0020;data	rcam	both	1079.74	16
@@ -1378,7 +1376,6 @@ Calibs:
  &#xE0020;data	rcam	both	1079.86	16
  &#xE0020;data	rcam	both	1079.91	16
  &#xE0020;data	rcam	both	1079.96	16
- &#xE0020;data	rcam	both	1079.98	16
  &#xE0020;data	tcam	both	1079.64	16
  &#xE0020;data	tcam	both	1079.69	16
  &#xE0020;data	tcam	both	1079.74	16
@@ -1386,7 +1383,6 @@ Calibs:
  &#xE0020;data	tcam	both	1079.86	16
  &#xE0020;data	tcam	both	1079.91	16
  &#xE0020;data	tcam	both	1079.96	16
- &#xE0020;data	tcam	both	1079.98	16
  &#xE0020;data	rcam	both	1079.64	16
  &#xE0020;data	rcam	both	1079.69	16
  &#xE0020;data	rcam	both	1079.74	16
@@ -1394,7 +1390,6 @@ Calibs:
  &#xE0020;data	rcam	both	1079.86	16
  &#xE0020;data	rcam	both	1079.91	16
  &#xE0020;data	rcam	both	1079.96	16
- &#xE0020;data	rcam	both	1079.98	16
  &#xE0020;data	tcam	both	1079.64	16
  &#xE0020;data	tcam	both	1079.69	16
  &#xE0020;data	tcam	both	1079.74	16
@@ -1402,7 +1397,6 @@ Calibs:
  &#xE0020;data	tcam	both	1079.86	16
  &#xE0020;data	tcam	both	1079.91	16
  &#xE0020;data	tcam	both	1079.96	16
- &#xE0020;data	tcam	both	1079.98	16
  &#xE0020;data	rcam	both	1079.64	16
  &#xE0020;data	rcam	both	1079.69	16
  &#xE0020;data	rcam	both	1079.74	16
@@ -1410,7 +1404,6 @@ Calibs:
  &#xE0020;data	rcam	both	1079.86	16
  &#xE0020;data	rcam	both	1079.91	16
  &#xE0020;data	rcam	both	1079.96	16
- &#xE0020;data	rcam	both	1079.98	16
  &#xE0020;data	tcam	both	1079.64	16
  &#xE0020;data	tcam	both	1079.69	16
  &#xE0020;data	tcam	both	1079.74	16
@@ -1418,9 +1411,8 @@ Calibs:
  &#xE0020;data	tcam	both	1079.86	16
  &#xE0020;data	tcam	both	1079.91	16
  &#xE0020;data	tcam	both	1079.96	16
- &#xE0020;data	tcam	both	1079.98	16
  &#xE0020;
-Integration:6.72 minutes.  Hardware:0.00 minutes. total:6.72 minutes 
+Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
 Flats:   
@@ -11218,7 +11210,7 @@ Flats:
  Data:     
 Calibs:   
 </pre></blockquote></details>
-Integration:624.22 minutes.  Hardware:46.08 minutes. total:670.30 minutes 
+Integration:623.38 minutes.  Hardware:46.08 minutes. total:669.46 minutes 
 
  Darks:  1083_01wave_2beam_16sums_1rep_BOTH.rcp, 530_01wave_1beam_16sums_1rep_BOTH.rcp, 530_01wave_2beam_16sums_16rep_BOTH.rcp, 530_01wave_2beam_16sums_1rep_BOTH.rcp, 530_01wave_2beam_16sums_4rep_BOTH.rcp, 530_03wave_2beam_16sums_4rep_RED.rcp, 530_03wave_2beam_16sums_8rep_BOTH.rcp, 530_05wave_2beam_16sums_4rep_RED.rcp, 530_07wave_2beam_16sums_1rep_BOTH.rcp, 530_07wave_2beam_16sums_2rep_BOTH.rcp, 530_11wave_2beam_16sums_4rep_BOTH.rcp, 530_13wave_1beam_16sums_1rep_BOTH.rcp, 530_13wave_2beam_16sums_4rep_BOTH.rcp, 530_13wave_2beam_16sums_4rep_RED.rcp, 530_21wave_1beam_16sums_1rep_BOTH.rcp, 637_01wave_1beam_16sums_1rep_BOTH.rcp, 637_01wave_2beam_16sums_16rep_BOTH.rcp, 637_01wave_2beam_16sums_1rep_BOTH.rcp, 637_01wave_2beam_16sums_4rep_BOTH.rcp, 637_03wave_2beam_16sums_3rep_BOTH.rcp, 637_03wave_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp, 637_05wave_0.03step_2beam_16sums_4reps_BOTH.rcp, 637_05wave_2beam_16sums_4rep_BOTH.rcp, 637_07wave_0.03step_2beam_16sums_4reps_BOTH.rcp, 637_07wave_2beam_16sums_1rep_BOTH.rcp, 637_09wave_0.03step_2beam_16sums_4reps_BOTH.rcp, 637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 637_13wave_1beam_16sums_1rep_BOTH.rcp, 637_21_2beam_16sums_BOTH.rcp, 637_21wave_1beam_16sums_1rep_BOTH.rcp, 656_01wave_1beam_16sums_1rep_BOTH.rcp, 656_01wave_2beam_16sums_16rep_BOTH.rcp, 656_01wave_2beam_16sums_1rep_BOTH.rcp, 656_01wave_2beam_16sums_4rep_BOTH.rcp, 656_05wave_2beam_16sums_2rep_BOTH.rcp, 656_05wave_2beam_16sums_4rep_BOTH.rcp, 656_07wave_2beam_16sums_1rep_BOTH.rcp, 656_13wave_1beam_16sums_1rep_BOTH.rcp, 656_21wave_1beam_16sums_1rep_BOTH.rcp, 670_01wave_1beam_16sums_1rep_BOTH.rcp, 670_01wave_2beam_16sums_1rep_BOTH.rcp, 670_03wave_2beam_16sums_4rep_BOTH.rcp, 670_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp, 670_07wave_0.03step_2beam_16sums_4reps_BOTH.rcp, 670_09wave_0.03step_2beam_16sums_4reps_BOTH.rcp, 670_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 670_13wave_2beam_16sums_2rep_BOTH.rcp, 706_01wave_1beam_16sums_1rep_BOTH.rcp, 706_01wave_2beam_16sums_16rep_BOTH.rcp, 706_01wave_2beam_16sums_1rep_BOTH.rcp, 706_01wave_2beam_16sums_4rep_BOTH.rcp, 706_03wave_2beam_16sums_4rep_BLUE.rcp, 706_03wave_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.025step_2beam_16sums_4reps_BOTH.rcp, 706_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4reps_BOTH.rcp, 706_05wave_2beam_16sums_4rep_BLUE.rcp, 706_07wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 706_07wave_2beam_16sums_1rep_BOTH.rcp, 706_09wave_0.03step_2beam_16sums_4reps_BOTH.rcp, 706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 706_11wave_2beam_16sums_4rep_BOTH.rcp, 706_13wave_1beam_16sums_1rep_BOTH.rcp, 706_13wave_2beam_16sums_4rep_BLUE.rcp, 706_13wave_2beam_16sums_4rep_BOTH.rcp, 706_21wave_2beam_16sums_1rep_BOTH.rcp, 761_01wave_1beam_16sums_1rep_BOTH.rcp, 761_01wave_2beam_16sums_16rep_BOTH.rcp, 761_01wave_2beam_16sums_1rep_BOTH.rcp, 761_03wave_2beam_16sums_4rep_BOTH.rcp, 761_05wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 761_07wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 761_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 761_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp, 761_13wave_2beam_16sums_2rep_BOTH.rcp, 789_01wave_1beam_16sums_1rep_BOTH.rcp, 789_01wave_2beam_16sums_16rep_BOTH.rcp, 789_01wave_2beam_16sums_1rep_BOTH.rcp, 789_01wave_2beam_16sums_4rep_BOTH.rcp, 789_03wave_2beam_11sums_1rep_BOTH.rcp, 789_03wave_2beam_16sums_1rep_BOTH.rcp, 789_03wave_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.035step_2beam_16sums_4reps_BOTH.rcp, 789_05wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4reps_BOTH.rcp, 789_05wave_2beam_16sums_4rep_BOTH.rcp, 789_07wave_0.05step_2beam_16sums_4reps_BOTH.rcp, 789_07wave_2beam_16sums_1rep_BOTH.rcp, 789_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp, 789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp, 789_13wave_1beam_16sums_1rep_BOTH.rcp, 789_21wave_1beam_16sums_1rep_BOTH.rcp, 789_focus_whole_range-b.rcp, Dark.rcp, Dark_4Sums.rcp, dark_01wave_1beam_11sums_10rep_BOTH.rcp, dark_01wave_1beam_14sums_10rep_BOTH.rcp, dark_01wave_1beam_16sums_10rep_BOTH.rcp, dark_01wave_1beam_16sums_16rep_BOTH.rcp, dark_01wave_1beam_16sums_1rep_BOTH.rcp, dark_01wave_1beam_16sums_200rep_BOTH.rcp, dark_01wave_1beam_1sums_16rep_BOTH.rcp  
 Flats:  1074_01wave_2beam_16sums_1rep_BOTH.rcp, 1079_01wave_2beam_16sums_1rep_BLUE.rcp, 637_01wave_2beam_16sums_1rep_BOTH.rcp, 670_01wave_2beam_16sums_1rep_BOTH.rcp, 706_01wave_2beam_16sums_1rep_BOTH.rcp, 761_01wave_2beam_16sums_1rep_BOTH.rcp, 789_01wave_2beam_16sums_1rep_BOTH.rcp, 802_01wave_2beam_16sums_1rep_BOTH.rcp, 991_01wave_2beam_16sums_1rep_BOTH.rcp, lisa_someone_530_05wave_2beam_16sums_4rep_BOTH.rcp, mcotter-530_5wave__2beam_16sum_4rep_BOTH.rcp 

@@ -54,7 +54,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -62,7 +61,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -70,7 +68,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -78,7 +75,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -86,7 +82,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -94,7 +89,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -102,7 +96,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -110,9 +103,8 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;
-Integration:6.72 minutes.  Hardware:0.00 minutes. total:6.72 minutes 
+Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
 Flats:  1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp 
@@ -216,7 +208,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -224,7 +215,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -232,7 +222,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -240,7 +229,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -248,7 +236,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -256,7 +243,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -264,7 +250,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -272,9 +257,8 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;
-Integration:6.72 minutes.  Hardware:0.00 minutes. total:6.72 minutes 
+Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
 Flats:  1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp 
@@ -378,7 +362,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -386,7 +369,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -394,7 +376,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -402,7 +383,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -410,7 +390,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -418,7 +397,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.74	16
@@ -426,7 +404,6 @@ Calibs:
  &#xE0020;&#x1F4D8; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.74	16
@@ -434,9 +411,8 @@ Calibs:
  &#xE0020;&#x1F4D8; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D8; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D8; data	tcam	both	1079.98	16
  &#xE0020;
-Integration:6.72 minutes.  Hardware:0.00 minutes. total:6.72 minutes 
+Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
 Flats:  1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp 
@@ -604,7 +580,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.74	16
@@ -612,7 +587,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.74	16
@@ -620,7 +594,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.74	16
@@ -628,7 +601,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.74	16
@@ -636,7 +608,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.74	16
@@ -644,7 +615,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.74	16
@@ -652,7 +622,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.74	16
@@ -660,9 +629,8 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	tcam	both	1079.98	16
  &#xE0020;
-Integration:6.72 minutes.  Hardware:0.00 minutes. total:6.72 minutes 
+Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
 Flats:   
@@ -754,7 +722,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.74	16
@@ -762,7 +729,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.74	16
@@ -770,7 +736,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.74	16
@@ -778,7 +743,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.74	16
@@ -786,7 +750,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.74	16
@@ -794,7 +757,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	tcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.74	16
@@ -802,7 +764,6 @@ Calibs:
  &#xE0020;&#x1F4D7; data	rcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	rcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	rcam	both	1079.98	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.64	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.69	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.74	16
@@ -810,16 +771,15 @@ Calibs:
  &#xE0020;&#x1F4D7; data	tcam	both	1079.86	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.91	16
  &#xE0020;&#x1F4D7; data	tcam	both	1079.96	16
- &#xE0020;&#x1F4D7; data	tcam	both	1079.98	16
  &#xE0020;
-Integration:6.72 minutes.  Hardware:0.00 minutes. total:6.72 minutes 
+Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
 Flats:   
  Data:   1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details>
-Integration:64.02 minutes.  Hardware:7.08 minutes. total:71.10 minutes 
+Integration:59.82 minutes.  Hardware:7.08 minutes. total:66.90 minutes 
 
  Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:  1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp, 1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp 
