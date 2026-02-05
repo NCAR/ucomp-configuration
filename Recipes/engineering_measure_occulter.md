@@ -13,17 +13,13 @@
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
-<<<<<<< HEAD:Recipes/engineering_measure_occulter.md
-Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes  </pre></blockquote></details><details><summary>setupFlat_occulter.rcp</summary><blockquote><pre>diffuser	in
-=======
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
  Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
-</pre></blockquote></details><details><summary>setupFlat-occulter.rcp</summary><blockquote><pre>diffuser	in
->>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/measure-occulter.md
+</pre></blockquote></details><details><summary>setupFlat_occulter.rcp</summary><blockquote><pre>diffuser	in
  &#xE0020;cover	out
  &#xE0020;occ	in
  &#xE0020;shut	out

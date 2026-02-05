@@ -10,6 +10,12 @@
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
+ ------------ > scripts\setupFlat.rcp
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
+------------------> shut	out
+------------------> calib	out
  ------------ > scripts\setupDark.rcp
 ------------------> shut	in
  ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
@@ -338,5 +344,7 @@
 ------------------> data	tcam	both	1083.00	16
 ------------------> data	rcam	both	1083.00	16
 ------------------> data	tcam	both	1083.00	16
+ ------------ > scripts\setupDark.rcp
+------------------> shut	in
  ------------ > scripts\setupDark.rcp
 ------------------> shut	in
