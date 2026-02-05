@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
 2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
 2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
@@ -43,6 +44,8 @@
 2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
 2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
 2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+=======
+>>>>>>> 6e12e1e51e9481ae651ba1708f0ea8fca8e500c5
 read_script: 2026-options.menu,synoptic-original-lines.cbk, **synoptic-original-lines.cbk** command not found.
 read_script: 2026-options.menu,synoptic-old-double-data.cbk, **synoptic-old-double-data.cbk** command not found.
 read_script: 2026-options.menu,synoptic-brightlines-2026.cbk, **synoptic-brightlines-2026.cbk** command not found.
@@ -99,6 +102,7 @@ daily.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_bo
 daily.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
 daily.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
 daily.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+<<<<<<< HEAD
 daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
 daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
 daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
@@ -144,6 +148,8 @@ daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2
 daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
 daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
 daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+=======
+>>>>>>> 6e12e1e51e9481ae651ba1708f0ea8fca8e500c5
 engineering_diffuser_calibration.menu,engineering_diffuser_calibration.cbk { <<<<<<<	head:recipes/scripts/engineering_diffuser_calibration.cbk } command not found.
 engineering_diffuser_calibration.menu,engineering_diffuser_calibration.cbk { ======= } command not found.
 read_script: engineering_diffuser_calibration.menu,engineering_diffuser_calibration.cbk,gain_high.rcp, **gain_high.rcp** command not found.
@@ -153,6 +159,99 @@ engineering_diffuser_calibration.menu,engineering_diffuser_calibration.cbk { <<<
 engineering_diffuser_calibration.menu,engineering_diffuser_calibration.cbk { ======= } command not found.
 read_script: engineering_diffuser_calibration.menu,engineering_diffuser_calibration.cbk,nd_out.rcp, **nd_out.rcp** command not found.
 engineering_diffuser_calibration.menu,engineering_diffuser_calibration.cbk { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/diffuser-calibration.cbk } command not found.
+<<<<<<< HEAD
+=======
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+2024_eclipse.menu,synoptic_fexiii_cross_calibration.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { <<<<<<<	head:recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_both.rcp } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { ======= } command not found.
+daily_with_polarizations.menu,synoptic_fexiii_density.cbk,1079_07wave_0.06step_2beam_16sums_4rep_both.rcp { >>>>>>>	ba92e9810d93cb11471c3d717ad6a977089e53e1:recipes/1079_07wave_0.06step_2beam_16sums_4reps_both.rcp } command not found.
+>>>>>>> 6e12e1e51e9481ae651ba1708f0ea8fca8e500c5
 read_script: poor_weather.menu,all_wavelength_coronal_flat.cbk, **all_wavelength_coronal_flat.cbk** command not found.
 read_script: poor_weather.menu,all_wavelength_coronal.cbk, **all_wavelength_coronal.cbk** command not found.
 read_script: poor_weather.menu,all_wavelength_coronal.cbk, **all_wavelength_coronal.cbk** command not found.
