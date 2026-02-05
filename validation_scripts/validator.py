@@ -20,9 +20,7 @@ import numpy as np
 from mlso_utils import *
 from pathlib import Path
 import glob
-print(os.getcwd())
-print(glob.glob("."))
-print("other tests")
+
 os.chdir("Recipes")
 import glob
 
@@ -98,7 +96,7 @@ def read_and_plot_rcp(recipe_path):
                 if len(waves) < 3:
                     percent_onband = np.sum(seen_tunings[key+'onband'][1])/(np.sum(onband_trans)*100)
                     percent_offband = np.sum(seen_tunings[key+'offband'][1])/(np.sum(offband_trans)*100)
-                    print(f"{key}  {percent_onband:.2f},  {percent_offband:.2f} {percent_onband-percent_offband:.2f} {percent_onband/percent_offband:.2f}")
+                #    print(f"{key}  {percent_onband:.2f},  {percent_offband:.2f} {percent_onband-percent_offband:.2f} {percent_onband/percent_offband:.2f}")
             legend = fig.legend(loc='center left', bbox_to_anchor=(1, 0.5))
             plt.ylabel("Filter throughput [%]")
             plt.xlabel("wavelength [nm]")
@@ -173,11 +171,12 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     
     #script_name = [Path(file) for file in glob.glob(str(scriptDir) + "/*") if file.lower() ==str(script_name_in).lower()]
     
-    script_name = list(scriptDir.glob(script_name_in, case_sensitive=False))
+    script_name = list(scriptDir.glob(script_name_in.name, case_sensitive=False))
     if len(script_name) == 0 :
-      print(script_name_in)
+     # print(script_name_in)
       warning.write(f"read_script: {parent}, **{script_name_in}** command not found.\n")
-      return 0,0
+      return None
+    #print(f"script_name(list) = {script_name}")
     script_name = script_name[0]
       
     script = open(script_name,"r")
@@ -235,14 +234,16 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         if len(commands) > 0 and commands[0].split(":")[0] not in ignore_commands:
             if child_extension in commands[0]:
                 try:
-                    print(f"Reading script {filename} called by {parent}")
-                    (tTime,hTime,data_recipes_rtn,flat_recipes_rtn,dark_recipes_rtn,calib_recipes_rtn) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
-                    runTime += tTime
-                    hardwareTime += hTime
-                    data_recipes.extend(data_recipes_rtn)
-                    flat_recipes.extend(flat_recipes_rtn)
-                    dark_recipes.extend(dark_recipes_rtn)
-                    calib_recipes.extend(calib_recipes_rtn)
+                   # print(f"Reading script {filename} called by {parent}")
+                    script_results = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
+                    if script_results is not None:
+                        (tTime,hTime,data_recipes_rtn,flat_recipes_rtn,dark_recipes_rtn,calib_recipes_rtn) = script_results
+                        runTime += tTime
+                        hardwareTime += hTime
+                        data_recipes.extend(data_recipes_rtn)
+                        flat_recipes.extend(flat_recipes_rtn)
+                        dark_recipes.extend(dark_recipes_rtn)
+                        calib_recipes.extend(calib_recipes_rtn)
                     
                 except FileNotFoundError:
                     warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
@@ -342,18 +343,20 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                         emoji = icons["dark"]
                         if state['exposure']+state['gain'] not in darks:
                             darks.append(state['exposure']+state['gain'])
+                            dark_recipes.append(script_name.name)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
                         emoji = icons["flat"]
                         if state['gain']+cam+cont+wave not in flats:
                             flats.append(state['gain']+cam+cont+wave)
+                            flat_recipes.append(script_name.name)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
                         emoji = icons["data"]
                         coronal.append(state['gain']+cam+cont+wave)
                         coronalExp.append(state['exposure']+state['gain'])
-                    
+                        data_recipes.append(script_name.name)
                     if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
                         emoji = icons["calib"]
-                        calib_recipes.append(script_name)
+                        calib_recipes.append(script_name.name)
                     runTime += relaxation_time +(int(state['exposure'])+camera_readout[state["gain"]])*4*int(sums)
                 summary.write(f"{tab*6*'-'}> {tab_space.join(commands)}\n")
                 if "_FW" not in commands[0] and "setup" not in commands[0] and "cbk" not in commands[0] and "menu" not in commands[0]:
@@ -366,6 +369,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                 pass
     script.close()
     if "rcp" in child_extension: 
+       # print(script_name_in,".rcp recipes",dark_recipes,calib_recipes,flat_recipes,data_recipes)
         md.write(f"\nIntegration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes \n\n ")
         md.write(f"Darks:  {", ".join(sorted(list(set(dark_recipes))))}  \n")
         md.write(f"Flats:  {", ".join(sorted(list(set(flat_recipes))))} \n ")
