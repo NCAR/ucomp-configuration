@@ -172,7 +172,8 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         scriptDir = Path("scripts")#script_name = [file for file in glob.glob("scripts/*") if file.lower() ==script_name_in.lower()]
     
     #script_name = [Path(file) for file in glob.glob(str(scriptDir) + "/*") if file.lower() ==str(script_name_in).lower()]
-    script_name = list(scriptDir.glob(script_name_in.name, case_sensitive=False))
+    
+    script_name = list(scriptDir.glob(script_name_in, case_sensitive=False))
     if len(script_name) == 0 :
       print(script_name_in)
       warning.write(f"read_script: {parent}, **{script_name_in}** command not found.\n")
@@ -234,6 +235,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         if len(commands) > 0 and commands[0].split(":")[0] not in ignore_commands:
             if child_extension in commands[0]:
                 try:
+                    print(f"Reading script {filename} called by {parent}")
                     (tTime,hTime,data_recipes_rtn,flat_recipes_rtn,dark_recipes_rtn,calib_recipes_rtn) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
                     runTime += tTime
                     hardwareTime += hTime
@@ -378,7 +380,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                 warning.write(f"{parent} missing flat for {{ {corona} }}\n")
         
     md.write("</pre></blockquote></details>")
-    return runTime,hardwareTime
+    return runTime,hardwareTime,data_recipes,flat_recipes,dark_recipes,calib_recipes
 
 
 
