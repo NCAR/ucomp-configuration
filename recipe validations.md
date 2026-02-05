@@ -10,10 +10,11 @@ The UCoMP (Upgraded Coronal Multi-channel Polarimeter) configuration repository 
 ucomp-configuration/
 ├── Recipes/                    # All observing scripts
 │   ├── *.menu                  # Daily observing menus
-│   ├── *.cbk                   # Cookbook programs
-│   ├── *.rcp                   # Individual recipes
-│   ├── *.md                    # Auto-generated markdown summaries
-│   └── *.summary               # Auto-generated text summaries
+│   ├── scripts/
+|     ├──*.cbk                   # Cookbook programs
+│      ├── *.rcp                   # Individual recipes
+│      ├── *.md                    # Auto-generated markdown summaries
+│      └── *.summary               # Auto-generated text summaries
 └── validation_scripts/
     └── validator.py             # Recipe validation script
 ```
