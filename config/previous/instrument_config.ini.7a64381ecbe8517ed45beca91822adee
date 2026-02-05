@@ -1,0 +1,279 @@
+#Configuration for the UCoMP instrument
+
+[main]
+#Data directory to write new observation data
+Data Dir = d:\data\obs-code
+#Local mount of data server to be used for copy to Boulder.
+Server Data Dir = z:\ucomp
+#Server Data Dir = c:\data  <- Use this value if Kodiak is unavailable
+
+[SGS]
+#Future use to convert SGS data to UCoMP pixel units
+Arcsec Error Limit = .1
+Voltage to Arcsec = 1920
+
+[ports] 
+# Serial communication channels, these should only be updated when 
+# hardware is physically moved/upgraded or replaced.
+ILX COM PORT = COM44
+Cropico PORT = COM43
+O1 PORT = COM4
+Diffuser PORT = COM3
+
+[SGS Config]  
+IP Address = 128.171.190.18
+Port = 6341
+
+[sampling info]
+#Parameters to configure the Lyot filter waveforms: default is fs = 8000, numS = 10000
+fs = 8000
+numS = 10000
+
+[FeLC Voltages]
+#Modulator tuning voltages: Higher voltages give greater crystal motion.
+#Modulator was calibrated in the lab for +/-7V
+vneg = -7
+vpos = 7
+
+[DAQ Physical Channels]
+# Data communication channels, these should only be updated when 
+# hardware is physically moved/upgraded or replaced.
+lyotAO = Dev1/ao0:7
+felcAO = Dev1/ao5:6
+triggerAO = Dev1/ao7
+triggerCtl = Dev1/ctr0
+coverMotor = Dev1/port1/line0
+coverDirection = Dev1/port1/line1
+coverOutOfBeam = Dev1/port1/line2
+coverInBeam = Dev1/port1/line3
+shutterTrigger = Dev1/port1/line4
+shutterFeedBack = Dev1/port1/line5
+occulterSwitch = Dev1/port1/line6
+
+[Filter config]
+# Location of tuning scripts for tuning.
+LCVR Tuning Files = C:\ucomp-configuration\config\Lyot Calibration.ini
+# Relaxation time between initial tuning and first camera read in seconds. 
+# This is needed to allow the crystals some time to align.
+LCVR Relaxation = .30
+# Temperature compensation on or off/
+Temperature Compensation = true
+# Integral parameter for temperature filtering..
+Temperature Compensation step size = .05
+
+[Camera Config]
+## The camera config needs to change when we swap cameras.
+## To build a camera config, open up XCAP get the camera settings tweaked to be 
+## the desired settings.  Then go PCXCI->PCXCI Export Video Setup  and use the 
+## dialog box to create a new fmt file for the new cameras.  Then edit this
+## config tile to point at the newly created video format.
+Config File = C:\xcapconfig\2-camera-offset-gain-10006-10055.fmt
+##Config File no trigger = C:\xcapconfig\2-cameras-maunal-exposure-high-gain-a.fmt
+###Triggered Config File = C:\xcapconfig\2-camera-triggered.fmt
+# Array TEC setpoint in degrees C
+TEC Setpoint = 5
+#Camera gain true = high, false = low
+High gain = true
+# Min/max frame rate parameters used to coerce commanded framerates to camera hardware  
+Max Framerate = 670
+Min Framerate = 0
+# NUC options  Offset corrected,  Offset + gain corrected, normal, offset + gain  + dark
+# Exact spelling and case is important
+NUC Type = Offset + gain corrected
+#NUC Type = normal
+## IF Save all Image is true, instead of summing N times, we will generate N (extra) extended header extensions.  This should go full rate without the modulator stabilization time
+Save all images without summing = false
+Busy read cycle = 10
+
+[Use Real Hardware]
+#Options to simulate various hardware components.  When true, the code will try to use the real hardware;e when false, the system will 
+#try to use a simulated version of the same hardware.
+Diffuser = true
+Cover = true
+O1 Focus = true
+Saftey Shutter = true
+Occ X = true
+Occ Y = true
+FilterWheel = true
+Cal Pol Rot = true
+Cal Ret Rot = true
+Cal Trans = true
+Lyot = true
+Camera1 = true
+Camera2 = true
+Cropico = true
+ILX = true
+Spectragraph = false
+SGS = true
+WeatherTower = false
+
+[Weather Tower Info]
+# Location UCoMP should look for the weather data.
+weather file = z:\weather\current.log
+#Column information for the weather information UCoMP should read.
+windspeed col = 7
+winddir col = 8
+
+[Mech In Beam Pos]
+### Position UCOMP will drive hardware when commanded in-beam
+Cal Pol Rot = 0
+Cal Ret Rot = 0
+Cal Trans = 85
+#OCCX/OCCY are changed on every hardware alignment; values should be 
+# approximately 62 and 4.2 if positions are widely different 
+# The hardware must have changed in some way.
+Occ X = 62.30    
+Occ Y = 4.43
+Diffuser = 0
+Shutter = 1
+Cover = 1
+
+[Mech Out Beam Pos]
+### Position UCOMP will drive hardware when commanded out of the  beam
+Cal Pol Rot = 0
+Cal Ret Rot = 0
+Cal Trans = 0
+Occ X = -3
+Occ Y = 0
+Diffuser = -75
+Shutter = 0
+Cover = 0
+
+[Mech Home Offset]
+### Counts are raw. Linear stages are 200 counts per mm.  Rotation stages are 100 counts per degree  
+Cal Pol Rot = 11021
+Cal Ret Rot = 8694
+Cal Trans = 0
+Occ X = 0
+Occ Y = 0
+
+[Internal conversion]
+### Counts are raw. Linear stages are 200 counts per mm.  Rotation stages are 100 counts per degree  
+Cal Pol Rot = 100
+Cal Ret Rot = 100
+Cal Trans = 200
+Occ X = 200
+Occ Y = 800
+
+[Initialization Position]
+# Position to drive hardware to after starting/restarting the UCoMP-controller.
+#O1 61.59 ~1074
+O1 = 61.59
+#Filterwheel 9 = 1079
+FilterWheel = 9
+# ILX 35C 
+ILX = 35
+
+[Standa Serial numbers]
+#Serial numbers of standa stages needed to map stage ids to stage names.
+Cal Pol Rot = 10106
+Cal Ret Rot = 10009
+Cal Trans = 10133
+Occ X = 10294
+Occ Y = 10283
+
+[O1 Config]
+#Conversion factor for counts to mm
+counts2mm = 1290
+#O1 end of positive range limit, ~62.7 mm
+o1countlimit = 80302
+#Current O1 ID
+O1ID = O1#1
+#
+#  Configuration for each wave region
+#  Filter wheel position number and O1 position in mm for each O1ID.  
+#
+
+[FILTER 637]
+Filter Pos = 1
+O1#1 Pos = 21.49
+O1#2 Pos = 22.89
+
+[FILTER 670]
+Filter Pos = 2
+O1#1 Pos = 25.77
+
+[FILTER 706]
+Filter Pos = 3
+O1#1 Pos = 30.28
+O1#2 Pos = 31.7
+
+[FILTER 761]
+Filter Pos = 4
+O1#1 Pos = 36.54
+
+[FILTER 789]
+Filter Pos = 5
+O1#1 Pos = 39.29
+O1#2 Pos = 41.84
+
+[FILTER 802]
+Filter Pos = 6
+O1#1 Pos = 40.48
+
+[FILTER 991]
+Filter Pos = 7
+O1#1 Pos = 55.01
+
+[FILTER 1074]
+Filter Pos = 8
+O1#1 Pos = 61.22
+O1#2 Pos = 61.5
+
+[FILTER 1079]
+Filter Pos = 9
+O1#1 Pos = 61.25
+O1#2 Pos = 62
+
+[FILTER 656]
+Filter Pos = 0
+O1#1 Pos = 23.9
+#O1#2 Pos = 25.58
+
+[FILTER 691]
+Filter Pos = 0
+O1#1 Pos = 28.1
+#O1#2 Pos = 29.95
+
+[FILTER 530]
+Filter Pos = 0
+O1#1 Pos = 2.24
+#O1#2 Pos = 3.7
+
+[FILTER 1083]
+Filter Pos = 0
+O1#1 Pos = 61.31
+#O1#2 Pos = 62
+
+[TEMP Sensor Names]
+#  Mapping of cropico sensor number to UCoMP names.
+#  May 26, filter wheel RTD dead moving rack to A0 so T9 and T0 swapped.
+#
+T0 = T_RACK
+T1 = T_LCVR1
+T2 = T_LCVR2
+T3 = T_LCVR3
+T4 = T_LN1
+T5 = T_MODULATE
+T6 = T_LN2
+T7 = T_LCVR4
+T8 = T_LCVR5
+T9 = T_BASE
+# Temperature  limits +/-limits to be used for future warnings for the observers.
+
+[TEMP Limits]
+T_RACK = 25,35
+T_LCVR1 = 33,35
+T_LCVR3 = 33,36
+T_LCVR2 = 33,36
+T_LN1 = 33,36
+T_MODULATE = 32,34
+T_LN2 = 33,36
+T_LCVR4 = 33,36
+T_LCVR5 = 33,36
+T_BASE = 25,35
+T_ILX = 34.5,35.5
+T_CAM_ARR0 = 4,7
+T_CAM_ARR1 = 40,50
+T_CAM_ARR2 = 4,7
+T_CAM_ARR3 = 40,50

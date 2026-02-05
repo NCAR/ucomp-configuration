@@ -1,0 +1,37 @@
+AUTHOR Berkey
+DESCRIPTION Preform a 7 point scan to find filter drift in 1074.7
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+1074_FW.rcp
+setupObserving.rcp
+1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp
+setupFlat.rcp
+1074_09wave_0.12step_2beam_16sums_1reps_BOTH.rcp
+
+setupObserving.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer1.rcp
+setupFlat.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer1.rcp
+
+setupObserving.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer2.rcp
+setupFlat.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer2.rcp
+
+setupObserving.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer3.rcp
+setupFlat.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer3.rcp
+
+setupObserving.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer4.rcp
+setupFlat.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer4.rcp
+
+setupObserving.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer5.rcp
+setupFlat.rcp
+1074_06wave_0.12step_2beam_16sums_1reps_BOTH-outer5.rcp
+
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp

@@ -1,0 +1,42 @@
+
+#DARK 
+setupDark.rcp
+dark_01wave_1beam_14sums_10rep_BOTH.rcp
+
+1074_FW.rcp
+setupFlat.rcp 
+# 1074 flat
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
+1079_FW.rcp
+# 1079 flat
+1079_03wave_2beam_16sums_4rep_BOTH.rcp
+
+# 1074 flat
+
+setupObserving.rcp
+1079_03wave_2beam_16sums_4rep_BOTH.rcp
+1074_FW.rcp
+FOR 60
+1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ENDFOR
+
+setupFlat.rcp 
+1074_03wave_2beam_14sums_1rep_BOTH.rcp
+1079_FW.rcp
+1079_03wave_2beam_16sums_4rep_BOTH.rcp
+setupObserving.rcp
+1079_03wave_2beam_16sums_4rep_BOTH.rcp
+
+
+789_FW.rcp
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+setupFlat.rcp 
+789_03wave_2beam_16sums_1rep_BOTH.rcp
+setupObserving.rcp
+FOR 60
+789_03wave_2beam_16sums_1rep_BOTH.rcp
+ENDFOR
+
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp

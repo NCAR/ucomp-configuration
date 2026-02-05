@@ -1,0 +1,20 @@
+###Copied from comp.
+###
+
+#camera_Exposure_80.rcp 
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+setupFlat.rcp
+setup_distortion_in.rcp
+setupFlat.rcp
+
+1074_FW.rcp
+1074_01wave_2beam_16sums_16rep_BOTH.rcp
+
+setup_distortion_out.rcp
+setupDark.rcp
+setupFlat.rcp
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
+setupObserving.rcp
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
+setupDark.rcp

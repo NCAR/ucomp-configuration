@@ -1,0 +1,39 @@
+AUTHOR Berkey
+DESCRIPTION Preform a 7 point scan to find filter drift in the fainter lines
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+
+## 1074
+1074_FW.rcp
+setupObserving.rcp
+1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp 
+setupFlat.rcp
+1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
+
+
+## 1079
+1079_FW.rcp
+setupFlat.rcp
+1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
+setupObserving.rcp
+1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
+
+##789
+789_FW.rcp
+789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp   
+setupFlat.rcp
+789_09wave_0.05step_2beam_16sums_4reps_BOTH.rcp  
+
+#637
+637_FW.rcp
+637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp 
+setupObserving.rcp
+637_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  
+
+#706
+706_FW.rcp
+706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp  
+setupFlat.rcp
+706_09wave_0.04step_2beam_16sums_4reps_BOTH.rcp 
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp

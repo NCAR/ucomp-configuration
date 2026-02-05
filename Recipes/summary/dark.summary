@@ -1,0 +1,23 @@
+  > dark.menu
+ ------ > scripts\dark.cbk
+ ------------ > scripts\setupDark.rcp
+------------------> shut	in
+ ------------ > scripts\dark_01wave_1beam_1sums_16rep_BOTH.rcp
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+------------------> data	rcam	both	656.28	1
+ ------------ > scripts\dark_01wave_1beam_16sums_1rep_BOTH.rcp
+------------------> data	rcam	both	656.28	16

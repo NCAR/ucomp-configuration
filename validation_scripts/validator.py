@@ -19,7 +19,8 @@ import os
 import numpy as np
 from mlso_utils import *
 from pathlib import Path
-os.chdir("Recipes")
+
+os.chdir("../Recipes")
 import glob
 
 import glob
@@ -69,29 +70,36 @@ def read_and_plot_rcp(recipe_path):
         line = line.split("#")[0]
         if len(line.split()) > 0 and "data" == line.split()[0].lower():
             waves.append(line.split()[3]+" "+line.split()[2])
-
-    if len(waves) > 0 and not os.path.exists("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png"):
+    
+    if len(waves) > 0 and not os.path.exists("tuningplots"+"/"+recipe_path.name+".png"):
+        
         fig = plt.figure()
-        plt.title(recipe_path.split("\\")[-1]+"\nTuning Profiles + Pre-filter and Kitt Peat Atlas")
+        plt.title(recipe_path.name+"\nTuning Profiles + Pre-filter and Kitt Peat Atlas")
         mvalue = np.mean(np.array([d.split()[0] for d in waves],dtype=np.float32))
         wave_keys = np.array(list(tuning_configs.keys()),dtype=np.uint16)
         tuning_key  = list(tuning_configs.keys())[find_nearest(wave_keys,mvalue)]
         if "prefilter" in tuning_configs[tuning_key]:
+            tuning_wave,onband_trans = createStages(filterConfig=tuning_configs[tuning_key],cam="onband",cont=(waves[0].split()[1]).lower())
+            tuning_wave,offband_trans = createStages(filterConfig=tuning_configs[tuning_key],cam="offband",cont=(waves[0].split()[1]).lower())
+
             for key in list(set(sorted(waves))):
-                
+               
                 if key+"onband" not in  seen_tunings:
                     seen_tunings[key+"onband" ] = convolve_filters(np.float32(key.split()[0]),config=tuning_configs[tuning_key],cam="onband",cont=(key.split()[1]).lower())
                 if key+"offband" not in  seen_tunings:  
                     seen_tunings[key+"offband" ] = convolve_filters(np.float32(key.split()[0]),config=tuning_configs[tuning_key],cam="offband",cont=(key.split()[1]).lower())
                 
-                plt.plot(*seen_tunings[key+"onband"  ],label=f"{np.float32(key.split()[0]):.2f} {key.split()[1]} onband")
-                plt.plot(*seen_tunings[key+"offband" ],label=f"{np.float32(key.split()[0]):.2f} {key.split()[1]} offband")
+                plt.plot(*seen_tunings[key+"onband"  ],label=f"{np.float32(key.split()[0]):.2f} {key.split()[1]} {np.sum(seen_tunings[key+'onband'][1])/(np.sum(onband_trans)*100):.2f} onband")
+                plt.plot(*seen_tunings[key+"offband" ],label=f"{np.float32(key.split()[0]):.2f} {key.split()[1]} {np.sum(seen_tunings[key+'offband'][1])/(np.sum(offband_trans)*100):.2f} offband")
                 plt.plot(tuning_configs[tuning_key]["prefilter"][:,0],tuning_configs[tuning_key]["prefilter"][:,1])
-
+                if len(waves) < 3:
+                    percent_onband = np.sum(seen_tunings[key+'onband'][1])/(np.sum(onband_trans)*100)
+                    percent_offband = np.sum(seen_tunings[key+'offband'][1])/(np.sum(offband_trans)*100)
+                    print(f"{key}  {percent_onband:.2f},  {percent_offband:.2f} {percent_onband-percent_offband:.2f} {percent_onband/percent_offband:.2f}")
             legend = fig.legend(loc='center left', bbox_to_anchor=(1, 0.5))
             plt.ylabel("Filter throughput [%]")
             plt.xlabel("wavelength [nm]")
-            fig.savefig("tuningplots"+"/"+recipe_path.split("\\")[-1]+".png", bbox_extra_artists=(legend,), bbox_inches='tight')
+            fig.savefig("tuningplots"+"/"+recipe_path.name+".png", bbox_extra_artists=(legend,), bbox_inches='tight')
         plt.close(fig)
 
 valid_commands = ["data", "cal", "dark", "fw", "occ", 
@@ -154,8 +162,16 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     if child_extension != ".rcp":
         coronal = []
         coronalExp = []
-    script_name = [file for file in glob.glob("*") if file.lower() ==script_name_in.lower()]
-    if len(script_name) == 0:
+    script_name_in = Path(script_name_in)
+    if script_name_in.suffix == ".menu":
+        scriptDir = Path(".")
+    else:
+        scriptDir = Path("scripts")#script_name = [file for file in glob.glob("scripts/*") if file.lower() ==script_name_in.lower()]
+    
+    #script_name = [Path(file) for file in glob.glob(str(scriptDir) + "/*") if file.lower() ==str(script_name_in).lower()]
+    script_name = list(scriptDir.glob(script_name_in, case_sensitive=False))
+    if len(script_name) == 0 :
+      print(script_name_in)
       warning.write(f"read_script: {parent}, **{script_name_in}** command not found.\n")
       return 0,0
     script_name = script_name[0]
@@ -163,11 +179,11 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     script = open(script_name,"r")
     results = script.readlines()
     script.close()
-    if  ".cbk" in script_name:  #Remove this test when LabView can handle for loops in rcp files.
+    if  script_name.suffix == ".cbk":  #Remove this test when LabView can handle for loops in rcp files.
         results2 = unroll_forloop(results)
     else:
         results2 = results
-    summary.write(f" {tab*6*'-'} > {script_name.split('#')[0]}\n")
+    summary.write(f" {tab*6*'-'} > {script_name}\n")
     runTime = 0
     hardwareTime = 0
             
@@ -177,7 +193,8 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     ## We dont have a prefect filter for valid data script, (maybe we could key on wave and beam)
     ## so instead we try to ignore recipe that look like a setup script.
     emoji = None
-    if "_FW" not in script_name and "_POL" not in script_name and "setup" not in script_name and "cbk" not in script_name and "menu" not in script_name and "_in" not in script_name and "_out" not in script_name:
+    name = str(script_name).lower()
+    if "_fw" not in name and "_pol" not in name and "setup" not in name and "cbk" not in name and "menu" not in name and "_in" not in name and "_out" not in name:
         if state['shut'] == "in":
             emoji = icons["dark"]
         if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
@@ -192,14 +209,14 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     md.write(f"<details><summary>")
     if emoji is not None: 
         md.write(emoji)
-        md.write(f"[{script_name}](tuningplots/{script_name}.png)</summary><blockquote><pre>")
+        md.write(f"[{script_name.name}](tuningplots/{script_name.name}.png)</summary><blockquote><pre>")
         #try:
         read_and_plot_rcp(script_name)
         #except:
         #    pass
         
     else:
-        md.write(f"{script_name}</summary><blockquote><pre>")
+        md.write(f"{script_name.name}</summary><blockquote><pre>")
     tab = tab +1
     for child in results2:
         filename =child.split('#')[0].strip()
@@ -309,16 +326,16 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                     
                     if state['shut'] == "in":
                         emoji = icons["dark"]
-                        if state['exposure']+state['gain']+sums not in darks:
-                            darks.append(state['exposure']+state['gain']+sums)
+                        if state['exposure']+state['gain'] not in darks:
+                            darks.append(state['exposure']+state['gain'])
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
                         emoji = icons["flat"]
-                        if state['gain']+sums+cam+cont+wave not in flats:
-                            flats.append(state['gain']+sums+cam+cont+wave)
+                        if state['gain']+cam+cont+wave not in flats:
+                            flats.append(state['gain']+cam+cont+wave)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
                         emoji = icons["data"]
-                        coronal.append(state['gain']+sums+cam+cont+wave)
-                        coronalExp.append(state['exposure']+state['gain']+sums)
+                        coronal.append(state['gain']+cam+cont+wave)
+                        coronalExp.append(state['exposure']+state['gain'])
                     
                     if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
                         emoji = icons["calib"]
@@ -345,6 +362,10 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         
     md.write("</pre></blockquote></details>")
     return runTime,hardwareTime
+
+
+
+
 menus = glob.glob("*.menu")
 state = {}
 darks = []
@@ -363,7 +384,7 @@ for menu in menus:
     coronalExp = []
     menu_name = menu.split(".menu")[0]
     md = open(menu_name+".md","w")
-    summary = open(menu_name+".summary","w")
+    summary = open(Path("summary")/Path(menu_name+".summary"),"w")
     md.write("  \n".join([f'{icons[key]} = {key}' for key in icons.keys()]))
     read_script(menu,menu,0,state,darks,flats,coronal,coronalExp,summary,md,warning,".cbk")
     md.close()
