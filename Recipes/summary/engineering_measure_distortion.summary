@@ -1,8 +1,8 @@
   > engineering_measure_distortion.menu
- ------ > scripts\engineering_measure_distortion.cbk
- ------------ > scripts\setupDark.rcp
+ ------ > scripts/engineering_measure_distortion.cbk
+ ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -14,21 +14,21 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts\setupFlat.rcp
+ ------------ > scripts/setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts\setupFlat.rcp
+ ------------ > scripts/setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts\637_FW.rcp
+ ------------ > scripts/637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts\637_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/637_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
 ------------------> data	rcam	both	637.40	16
@@ -61,9 +61,9 @@
 ------------------> data	tcam	both	637.40	16
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
- ------------ > scripts\670_FW.rcp
+ ------------ > scripts/670_FW.rcp
 ------------------> prefilterrange	670
- ------------ > scripts\637_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/637_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
 ------------------> data	rcam	both	637.40	16
@@ -96,9 +96,9 @@
 ------------------> data	tcam	both	637.40	16
 ------------------> data	rcam	both	637.40	16
 ------------------> data	tcam	both	637.40	16
- ------------ > scripts\706_FW.rcp
+ ------------ > scripts/706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts\706_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/706_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
 ------------------> data	rcam	both	706.20	16
@@ -131,9 +131,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
- ------------ > scripts\761_FW.rcp
+ ------------ > scripts/761_FW.rcp
 ------------------> prefilterrange	761
- ------------ > scripts\706_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/706_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
 ------------------> data	rcam	both	706.20	16
@@ -166,9 +166,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	rcam	both	706.20	16
 ------------------> data	tcam	both	706.20	16
- ------------ > scripts\789_FW.rcp
+ ------------ > scripts/789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts\789_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/789_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	789.40	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	rcam	both	789.40	16
@@ -201,16 +201,16 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	tcam	both	789.40	16
- ------------ > scripts\802_FW.rcp
+ ------------ > scripts/802_FW.rcp
 ------------------> prefilterrange	802
- ------------ > scripts\802_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/802_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	802.41	16
 ------------------> data	tcam	both	802.41	16
 ------------------> data	rcam	both	802.41	16
 ------------------> data	tcam	both	802.41	16
- ------------ > scripts\991_FW.rcp
+ ------------ > scripts/991_FW.rcp
 ------------------> prefilterrange	991
- ------------ > scripts\991_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/991_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	991.26	16
 ------------------> data	tcam	both	991.26	16
 ------------------> data	rcam	both	991.26	16
@@ -243,9 +243,9 @@
 ------------------> data	tcam	both	991.26	16
 ------------------> data	rcam	both	991.26	16
 ------------------> data	tcam	both	991.26	16
- ------------ > scripts\1074_FW.rcp
+ ------------ > scripts/1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts\1074_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/1074_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	rcam	both	1074.70	16
@@ -278,9 +278,9 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
- ------------ > scripts\1079_FW.rcp
+ ------------ > scripts/1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts\1079_01wave_2beam_16sums_16rep_BOTH.rcp
+ ------------ > scripts/1079_01wave_2beam_16sums_16rep_BOTH.rcp
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	rcam	both	1079.80	16
@@ -313,5 +313,5 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	tcam	both	1079.80	16
- ------------ > scripts\setupDark.rcp
+ ------------ > scripts/setupDark.rcp
 ------------------> shut	in
