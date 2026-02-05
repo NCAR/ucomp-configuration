@@ -22,6 +22,7 @@ from pathlib import Path
 import glob
 print(os.getcwd())
 print(glob.glob("."))
+print("other tests")
 os.chdir("Recipes")
 import glob
 
