@@ -57,7 +57,8 @@ for tuning_config in glob.glob("../resource/*ini"):
 def convolve_filters(wave,config,cam="onband",cont="both"):
     tuning_wave,tuning_trans = createStages(filterConfig=config,wavelength=wave,cam=cam,cont=cont)
     for i in range(len(tuning_wave)):
-        tuning_trans[i] = tuning_trans[i]*config["prefilter"][find_nearest(config["prefilter"][:,0],tuning_wave[i]),1]
+        tuning_trans[i] = tuning_trans[i]*config["prefilter"][find_nearest(config
+                                                                           ["prefilter"][:,0],tuning_wave[i]),1]
     return tuning_wave,tuning_trans
 
 print(tuning_configs.keys())
@@ -343,12 +344,12 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                         emoji = icons["dark"]
                         if state['exposure']+state['gain'] not in darks:
                             darks.append(state['exposure']+state['gain'])
-                            dark_recipes.append(script_name.name)
+                        dark_recipes.append(script_name.name)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
                         emoji = icons["flat"]
                         if state['gain']+cam+cont+wave not in flats:
                             flats.append(state['gain']+cam+cont+wave)
-                            flat_recipes.append(script_name.name)
+                        flat_recipes.append(script_name.name)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "out":
                         emoji = icons["data"]
                         coronal.append(state['gain']+cam+cont+wave)
