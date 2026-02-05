@@ -172,7 +172,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         scriptDir = Path("scripts")#script_name = [file for file in glob.glob("scripts/*") if file.lower() ==script_name_in.lower()]
     
     #script_name = [Path(file) for file in glob.glob(str(scriptDir) + "/*") if file.lower() ==str(script_name_in).lower()]
-    script_name = list(scriptDir.glob(script_name_in, case_sensitive=False))
+    script_name = list(scriptDir.glob(script_name_in.name, case_sensitive=False))
     if len(script_name) == 0 :
       print(script_name_in)
       warning.write(f"read_script: {parent}, **{script_name_in}** command not found.\n")
