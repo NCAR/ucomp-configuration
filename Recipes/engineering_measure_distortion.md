@@ -142,7 +142,7 @@ Calibs:
 Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes 
 
  Darks:    
-Flats:   
+Flats:  637_01wave_2beam_16sums_16rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange	706
@@ -236,7 +236,7 @@ Calibs:
 Integration:3.36 minutes.  Hardware:0.00 minutes. total:3.36 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_01wave_2beam_16sums_16rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789

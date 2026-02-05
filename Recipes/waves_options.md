@@ -1688,7 +1688,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -3293,7 +3293,7 @@ Calibs:
 </pre></blockquote></details>
 Integration:77.24 minutes.  Hardware:1.75 minutes. total:78.99 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:  789_03wave_2beam_16sums_1rep_BOTH.rcp 
  Data:   789_03wave_2beam_16sums_1rep_BOTH.rcp  
 Calibs:   
@@ -3319,7 +3319,7 @@ Calibs:
  &#xE0020;
 Integration:0.92 minutes.  Hardware:0.00 minutes. total:0.92 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -3371,7 +3371,7 @@ Calibs:
 Integration:2.52 minutes.  Hardware:0.00 minutes. total:2.52 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_03wave_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange	1079
@@ -4267,7 +4267,7 @@ Calibs:
 Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_03wave_2beam_14sums_1rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange	1079
@@ -4306,7 +4306,7 @@ Calibs:
 Integration:2.52 minutes.  Hardware:0.00 minutes. total:2.52 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_03wave_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -4383,7 +4383,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -4409,7 +4409,7 @@ Calibs:
 Integration:0.63 minutes.  Hardware:0.00 minutes. total:0.63 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_03wave_2beam_16sums_1rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -5227,15 +5227,15 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:87.87 minutes.  Hardware:4.08 minutes. total:91.95 minutes 
 
- Darks:    
-Flats:  1079_03wave_2beam_16sums_4rep_BOTH.rcp 
+ Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp, dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  1074_03wave_2beam_14sums_1rep_BOTH.rcp, 1074_03wave_2beam_16sums_4rep_BOTH.rcp, 1079_03wave_2beam_16sums_4rep_BOTH.rcp, 789_03wave_2beam_16sums_1rep_BOTH.rcp 
  Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp, 1079_03wave_2beam_16sums_4rep_BOTH.rcp, 789_03wave_2beam_16sums_1rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details></pre></blockquote></details>

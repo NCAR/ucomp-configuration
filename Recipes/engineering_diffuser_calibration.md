@@ -273,7 +273,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -497,7 +497,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   

@@ -637,7 +637,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -670,7 +670,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -908,7 +908,7 @@ Calibs:
 Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
@@ -979,7 +979,7 @@ Calibs:
 Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
@@ -1062,7 +1062,7 @@ Calibs:
 Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
@@ -1133,7 +1133,7 @@ Calibs:
 Integration:5.88 minutes.  Hardware:0.00 minutes. total:5.88 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -1428,7 +1428,7 @@ Calibs:
 </pre></blockquote></details>
 Integration:59.82 minutes.  Hardware:6.42 minutes. total:66.24 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:  1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp, 1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp 
  Data:   1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp, 1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
@@ -1462,7 +1462,7 @@ Calibs:
  &#xE0020;
 Integration:0.92 minutes.  Hardware:0.00 minutes. total:0.92 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -3079,14 +3079,14 @@ Calibs:
 Integration:2.52 minutes.  Hardware:0.00 minutes. total:2.52 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_03wave_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:70.01 minutes.  Hardware:1.75 minutes. total:71.76 minutes 
 
- Darks:    
-Flats:   
+ Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp  
+Flats:  1074_03wave_2beam_16sums_4rep_BOTH.rcp 
  Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>Polarization_calibration_bright_filters.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
@@ -3111,7 +3111,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -3224,14 +3224,14 @@ Calibs: 1074_01wave_2beam_16sums_1rep_BOTH.rcp
 Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_01wave_2beam_16sums_1rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:1.89 minutes.  Hardware:0.83 minutes. total:2.72 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_01wave_2beam_16sums_1rep_BOTH.rcp 
  Data:     
 Calibs: 1074_01wave_2beam_16sums_1rep_BOTH.rcp  
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange	1079
@@ -3462,14 +3462,14 @@ Calibs: 789_01wave_2beam_16sums_1rep_BOTH.rcp
 Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_01wave_2beam_16sums_1rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:1.89 minutes.  Hardware:0.83 minutes. total:2.72 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_01wave_2beam_16sums_1rep_BOTH.rcp 
  Data:     
 Calibs: 789_01wave_2beam_16sums_1rep_BOTH.rcp  
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange	637
@@ -3819,14 +3819,14 @@ Calibs: 706_01wave_2beam_16sums_1rep_BOTH.rcp
 Integration:0.21 minutes.  Hardware:0.00 minutes. total:0.21 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_01wave_2beam_16sums_1rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:1.89 minutes.  Hardware:0.83 minutes. total:2.72 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_01wave_2beam_16sums_1rep_BOTH.rcp 
  Data:     
 Calibs: 706_01wave_2beam_16sums_1rep_BOTH.rcp  
 </pre></blockquote></details><details><summary>761_FW.rcp</summary><blockquote><pre>prefilterrange	761
@@ -4201,8 +4201,8 @@ Calibs:
 </pre></blockquote></details>
 Integration:18.05 minutes.  Hardware:18.25 minutes. total:36.30 minutes 
 
- Darks:    
-Flats:  1079_01wave_2beam_16sums_1rep_BLUE.rcp, 637_01wave_2beam_16sums_1rep_BOTH.rcp, 670_01wave_2beam_16sums_1rep_BOTH.rcp, 761_01wave_2beam_16sums_1rep_BOTH.rcp, 802_01wave_2beam_16sums_1rep_BOTH.rcp, 991_01wave_2beam_16sums_1rep_BOTH.rcp 
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  1074_01wave_2beam_16sums_1rep_BOTH.rcp, 1079_01wave_2beam_16sums_1rep_BLUE.rcp, 637_01wave_2beam_16sums_1rep_BOTH.rcp, 670_01wave_2beam_16sums_1rep_BOTH.rcp, 706_01wave_2beam_16sums_1rep_BOTH.rcp, 761_01wave_2beam_16sums_1rep_BOTH.rcp, 789_01wave_2beam_16sums_1rep_BOTH.rcp, 802_01wave_2beam_16sums_1rep_BOTH.rcp, 991_01wave_2beam_16sums_1rep_BOTH.rcp 
  Data:     
 Calibs: 1074_01wave_2beam_16sums_1rep_BOTH.rcp, 1079_01wave_2beam_16sums_1rep_BLUE.rcp, 637_01wave_2beam_16sums_1rep_BOTH.rcp, 670_01wave_2beam_16sums_1rep_BOTH.rcp, 706_01wave_2beam_16sums_1rep_BOTH.rcp, 761_01wave_2beam_16sums_1rep_BOTH.rcp, 789_01wave_2beam_16sums_1rep_BOTH.rcp, 802_01wave_2beam_16sums_1rep_BOTH.rcp, 991_01wave_2beam_16sums_1rep_BOTH.rcp  
 </pre></blockquote></details><details><summary>synoptic_bright_lines.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
@@ -4227,7 +4227,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -4418,7 +4418,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
@@ -4473,7 +4473,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
@@ -4528,7 +4528,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange	706
@@ -4583,7 +4583,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange	637
@@ -4638,7 +4638,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -4841,15 +4841,15 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:44.08 minutes.  Hardware:5.17 minutes. total:49.24 minutes 
 
- Darks:    
-Flats:   
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:   1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>synoptic_bright_lines.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
@@ -4874,7 +4874,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -5065,7 +5065,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
@@ -5120,7 +5120,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
@@ -5175,7 +5175,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange	706
@@ -5230,7 +5230,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange	637
@@ -5285,7 +5285,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -5488,15 +5488,15 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:44.08 minutes.  Hardware:5.83 minutes. total:49.91 minutes 
 
- Darks:    
-Flats:   
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:   1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>synoptic_bright_lines.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
@@ -5521,7 +5521,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -5712,7 +5712,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
@@ -5767,7 +5767,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
@@ -5822,7 +5822,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange	706
@@ -5877,7 +5877,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange	637
@@ -5932,7 +5932,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -6135,15 +6135,15 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:44.08 minutes.  Hardware:5.83 minutes. total:49.91 minutes 
 
- Darks:    
-Flats:   
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:   1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>synoptic_bright_lines.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
@@ -6168,7 +6168,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -6359,7 +6359,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
@@ -6414,7 +6414,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
@@ -6469,7 +6469,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange	706
@@ -6524,7 +6524,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange	637
@@ -6579,7 +6579,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -6782,15 +6782,15 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:44.08 minutes.  Hardware:5.83 minutes. total:49.91 minutes 
 
- Darks:    
-Flats:   
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:   1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>synoptic_bright_lines.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
@@ -6815,7 +6815,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -7006,7 +7006,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
@@ -7061,7 +7061,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
@@ -7116,7 +7116,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange	706
@@ -7171,7 +7171,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange	637
@@ -7226,7 +7226,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -7429,15 +7429,15 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:44.08 minutes.  Hardware:5.83 minutes. total:49.91 minutes 
 
- Darks:    
-Flats:   
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:   1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details><details><summary>synoptic_bright_lines.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
@@ -7462,7 +7462,7 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
@@ -7653,7 +7653,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
@@ -7708,7 +7708,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
@@ -7763,7 +7763,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>706_FW.rcp</summary><blockquote><pre>prefilterrange	706
@@ -7818,7 +7818,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>637_FW.rcp</summary><blockquote><pre>prefilterrange	637
@@ -7873,7 +7873,7 @@ Calibs:
 Integration:4.20 minutes.  Hardware:0.00 minutes. total:4.20 minutes 
 
  Darks:    
-Flats:   
+Flats:  637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp 
  Data:     
 Calibs:   
 </pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
@@ -8076,15 +8076,15 @@ Calibs:
  &#xE0020;
 Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes 
 
- Darks:    
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:   
  Data:     
 Calibs:   
 </pre></blockquote></details>
 Integration:44.08 minutes.  Hardware:5.83 minutes. total:49.91 minutes 
 
- Darks:    
-Flats:   
+ Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
+Flats:  1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp 
  Data:   1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp, 637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp, 706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp  
 Calibs:   
 </pre></blockquote></details></pre></blockquote></details>
