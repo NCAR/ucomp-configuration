@@ -13,10 +13,6 @@ data	tcam	both	1079.80	16
 data	tcam	both	1079.86	16
 data	tcam	both	1079.91	16
 data	tcam	both	1079.96	16
-<<<<<<< HEAD:Recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
-=======
-
->>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 
 data	rcam	both	1079.64	16
 data	rcam	both	1079.69	16
@@ -41,10 +37,6 @@ data	rcam	both	1079.80	16
 data	rcam	both	1079.86	16
 data	rcam	both	1079.91	16
 data	rcam	both	1079.96	16
-<<<<<<< HEAD:Recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
-
-=======
->>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 
 data	tcam	both	1079.64	16
 data	tcam	both	1079.69	16
@@ -53,10 +45,6 @@ data	tcam	both	1079.80	16
 data	tcam	both	1079.86	16
 data	tcam	both	1079.91	16
 data	tcam	both	1079.96	16
-<<<<<<< HEAD:Recipes/scripts/1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
-=======
-
->>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/1079_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 
 data	rcam	both	1079.64	16
 data	rcam	both	1079.69	16

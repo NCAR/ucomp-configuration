@@ -29,18 +29,6 @@ Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes
 Flats:   
  Data:     
 Calibs:   
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
- &#xE0020;cover	out
- &#xE0020;occ	out
- &#xE0020;shut	out
- &#xE0020;calib	out
- &#xE0020;
-Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes 
-
- Darks:    
-Flats:   
- Data:     
-Calibs:   
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
@@ -719,16 +707,8 @@ Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
 Flats:   
  Data:     
 Calibs:   
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes 
-
- Darks:    
-Flats:   
- Data:     
-Calibs:   
 </pre></blockquote></details>
-Integration:23.30 minutes.  Hardware:14.25 minutes. total:37.55 minutes 
+Integration:23.30 minutes.  Hardware:13.25 minutes. total:36.55 minutes 
 
  Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp  
 Flats:  1074_01wave_2beam_16sums_4rep_BOTH.rcp, 1079_01wave_2beam_16sums_4rep_BOTH.rcp, 1083_01wave_2beam_16sums_4rep_BOTH.rcp, 530_01wave_2beam_16sums_4rep_BOTH.rcp, 637_01wave_2beam_16sums_4rep_BOTH.rcp, 656_01wave_2beam_16sums_4rep_BOTH.rcp, 706_01wave_2beam_16sums_4rep_BOTH.rcp, 789_01wave_2beam_16sums_4rep_BOTH.rcp 

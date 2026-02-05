@@ -1,10 +1,10 @@
   > waves_options.menu
- ------ > scripts/waves_1074_1hour.cbk
- ------------ > scripts/1074_FW.rcp
+ ------ > scripts\waves_1074_1hour.cbk
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_14sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_14sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
@@ -16,860 +16,860 @@
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1074_03wave_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	rcam	both	1074.81	16
@@ -894,12 +894,12 @@
 ------------------> data	tcam	both	1074.59	16
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
- ------ > scripts/waves_789_1hour.cbk
- ------------ > scripts/1074_FW.rcp
+ ------ > scripts\waves_789_1hour.cbk
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -911,870 +911,870 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------ > scripts/waves_1074_789_1hour.cbk
- ------------ > scripts/setupDark.rcp
+ ------ > scripts\waves_1074_789_1hour.cbk
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_14sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_14sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
@@ -1786,15 +1786,15 @@
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1074_03wave_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	rcam	both	1074.81	16
@@ -1819,9 +1819,9 @@
 ------------------> data	tcam	both	1074.59	16
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_03wave_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_03wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	rcam	both	1079.91	16
@@ -1846,14 +1846,14 @@
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_03wave_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_03wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	rcam	both	1079.91	16
@@ -1878,444 +1878,444 @@
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_03wave_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_03wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	rcam	both	1079.91	16
@@ -2340,14 +2340,14 @@
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_03wave_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_03wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	rcam	both	1079.91	16
@@ -2372,11 +2372,11 @@
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2388,449 +2388,449 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/789_03wave_2beam_16sums_1rep_BOTH.rcp
+ ------------ > scripts\789_03wave_2beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	789.33	16
 ------------------> data	rcam	both	789.40	16
 ------------------> data	rcam	both	789.47	16
 ------------------> data	tcam	both	789.33	16
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.47	16
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
