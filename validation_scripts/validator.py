@@ -20,7 +20,7 @@ import numpy as np
 from mlso_utils import *
 from pathlib import Path
 import glob
-print(os.os.getcwd())
+print(os.getcwd())
 print(glob.glob("."))
 os.chdir("../Recipes")
 import glob
