@@ -30,7 +30,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -38,7 +37,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -46,7 +44,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -54,7 +51,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -62,7 +58,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -70,7 +65,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -78,7 +72,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -86,8 +79,12 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
 ------------------> data	tcam	both	1079.98	16
  ------------ > scripts\1074_FW.rcp
+=======
+ ------------ > 1074_FW.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> prefilterrange	1074
  ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
@@ -162,7 +159,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -170,7 +166,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -178,7 +173,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -186,7 +180,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -194,7 +187,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -202,7 +194,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -210,7 +201,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -218,8 +208,12 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
 ------------------> data	tcam	both	1079.98	16
  ------------ > scripts\1074_FW.rcp
+=======
+ ------------ > 1074_FW.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> prefilterrange	1074
  ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
@@ -294,7 +288,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -302,7 +295,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -310,7 +302,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -318,7 +309,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -326,7 +316,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -334,7 +323,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -342,7 +330,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -350,8 +337,12 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
 ------------------> data	tcam	both	1079.98	16
  ------------ > scripts\1074_FW.rcp
+=======
+ ------------ > 1074_FW.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> prefilterrange	1074
  ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
@@ -484,7 +475,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -492,7 +482,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -500,7 +489,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -508,7 +496,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -516,7 +503,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -524,7 +510,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -532,7 +517,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -540,8 +524,12 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
 ------------------> data	tcam	both	1079.98	16
  ------------ > scripts\1074_FW.rcp
+=======
+ ------------ > 1074_FW.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> prefilterrange	1074
  ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4reps_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
@@ -610,7 +598,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -618,7 +605,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -626,7 +612,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -634,7 +619,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -642,7 +626,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -650,7 +633,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -658,7 +640,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -666,9 +647,14 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
 ------------------> data	tcam	both	1079.98	16
  ------ > scripts\waves_1074_1hour.cbk
  ------------ > scripts\1074_FW.rcp
+=======
+ ------ > waves_1074_1hour.cbk
+ ------------ > 1074_FW.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> prefilterrange	1074
  ------------ > scripts\setupDark.rcp
 ------------------> shut	in
@@ -706,845 +692,1325 @@
 ------------------> shut	out
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_14sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------------ > scripts\setupFlat.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > setupFlat.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
@@ -1552,13 +2018,18 @@
 ------------------> calib	out
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/eclipseDayBefore.summary
  ------ > scripts\synoptic-original-lines.cbk
  ------------ > scripts\setupDark.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------ > synoptic-original-lines.cbk
+ ------------ > setupDark.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/eclipseDayBefore.summary
 ------------------> shut	in
  ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in

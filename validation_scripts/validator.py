@@ -1,17 +1,17 @@
-#Validates all the .menu files in the recipe folder for to meet UCoMP rules.
+#Validates all the .menu files in the recipe folder to meet UCoMP rules.
 #
-# Rule 1) Cookbook files can have 
-# Rule 2) Sub-scripts should exist
+# Rule 1) Cookbook files can have subscripts.
+# Rule 2) Subscripts should exist
 # Rule 3) coronal measurement should have flats and darks with the same camera modes and tunings
-# Rule 4) Only valid_commands (See list) should be in the recipe files
+# Rule 4) Only valid commands (See list) should be in the recipe files
 # Rule 5) prefilterrange should be in prefilter list (see below)
 # Rule 6) Exposure should be between 0 and 86ms
 # Rule 7) Data Commands should be formatted DATA [TCAM|RCAM], [BLUE|RED|BOTH], WAVELENGTH, NUMSUM[1-16] 
 # Rule 8) cover, occ, shut,calib,distortiongrid,nd should have values [IN|OUT]
-# Rule 9) gain should have values [HIGH|LOW]
+# Rule 9) Gain should have values [HIGH|LOW]
 #
-# DARKS are any beam configuration with dark shutter the beam
-# FLATS are beam configuration with only the Diffuser in the beam (script currently only tracks, cover,diffuser,occ,calib,shut not the other optics)
+# DARKS are any beam configuration with a dark shutter in the beam
+# FLATS are beam configurations with only the Diffuser in the beam (script currently only tracks cover,diffuser,occ,calib,shut not the other optics)
 # Violations of the rules will be recorded in recipes\warnings.txt
 #
 
@@ -186,6 +186,11 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     summary.write(f" {tab*6*'-'} > {script_name}\n")
     runTime = 0
     hardwareTime = 0
+
+    data_recipes = []
+    flat_recipes = []
+    dark_recipes = []
+    calib_recipes = []
             
     ## Attempt to guess what icon to put next to a recipe name based on state coming in to that.
     ## this is kind of fragile but mostly works because most of our operational scripts dont change
@@ -226,9 +231,13 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         if len(commands) > 0 and commands[0].split(":")[0] not in ignore_commands:
             if child_extension in commands[0]:
                 try:
-                    (tTime,hTime) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
+                    (tTime,hTime,data_recipes_rtn,flat_recipes_rtn,dark_recipes_rtn,calib_recipes_rtn) = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
                     runTime += tTime
                     hardwareTime += hTime
+                    data_recipes.extend(data_recipes_rtn)
+                    flat_recipes.extend(flat_recipes_rtn)
+                    dark_recipes.extend(dark_recipes_rtn)
+                    calib_recipes.extend(calib_recipes_rtn)
                     
                 except FileNotFoundError:
                     warning.write(f"{parent} tried to call *{filename}* which does not exist\n")
@@ -339,6 +348,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                     
                     if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
                         emoji = icons["calib"]
+                        calib_recipes.append(script_name)
                     runTime += relaxation_time +(int(state['exposure'])+camera_readout[state["gain"]])*4*int(sums)
                 summary.write(f"{tab*6*'-'}> {tab_space.join(commands)}\n")
                 if "_FW" not in commands[0] and "setup" not in commands[0] and "cbk" not in commands[0] and "menu" not in commands[0]:
@@ -351,7 +361,11 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                 pass
     script.close()
     if "rcp" in child_extension: 
-        md.write(f"\nIntegration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes  ")
+        md.write(f"\nIntegration:{runTime/1000/60:.2f} minutes.  Hardware:{hardwareTime/60:.2f} minutes. total:{runTime/1000/60 + hardwareTime/60:.2f} minutes \n\n ")
+        md.write(f"Darks:  {", ".join(sorted(list(set(dark_recipes))))}  \n")
+        md.write(f"Flats:  {", ".join(sorted(list(set(flat_recipes))))} \n ")
+        md.write(f"Data:   {", ".join(sorted(list(set(data_recipes))))}  \n")
+        md.write(f"Calibs: {", ".join(sorted(list(set(calib_recipes))))}  \n")
     else:
         for corona in coronalExp:
             if corona not in darks:

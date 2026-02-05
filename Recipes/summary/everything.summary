@@ -56,12 +56,16 @@
 ------------------> data	tcam	both	1074.70	11
  ------------ > scripts\1074_03wave_2beam_14sums_1_rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
-------------------> data	rcam	both	1074.81	14
 ------------------> data	rcam	both	1074.70	14
-------------------> data	tcam	both	1074.59	14
+------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
+<<<<<<< HEAD:Recipes/summary/everything.summary
  ------------ > scripts\1074_03wave_2beam_16sums_1_rep_BOTH.rcp
+=======
+------------------> data	tcam	both	1074.59	14
+ ------------ > 1074_03wave_2beam_16sums_1_rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/everything.summary
 ------------------> data	rcam	both	1074.59	12
 ------------------> data	rcam	both	1074.81	12
 ------------------> data	rcam	both	1074.70	12
@@ -948,7 +952,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -956,7 +959,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -964,7 +966,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -972,7 +973,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -980,7 +980,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -988,7 +987,6 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
-------------------> data	tcam	both	1079.98	16
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -996,7 +994,6 @@
 ------------------> data	rcam	both	1079.86	16
 ------------------> data	rcam	both	1079.91	16
 ------------------> data	rcam	both	1079.96	16
-------------------> data	rcam	both	1079.98	16
 ------------------> data	tcam	both	1079.64	16
 ------------------> data	tcam	both	1079.69	16
 ------------------> data	tcam	both	1079.74	16
@@ -1004,8 +1001,12 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
+<<<<<<< HEAD:Recipes/summary/everything.summary
 ------------------> data	tcam	both	1079.98	16
  ------------ > scripts\1079_07wave_0.1step_2beam_16sums_4reps_BOTH.rcp
+=======
+ ------------ > 1079_07wave_0.1step_2beam_16sums_4reps_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/everything.summary
 ------------------> data	rcam	both	1079.50	16
 ------------------> data	rcam	both	1079.60	16
 ------------------> data	rcam	both	1079.70	16

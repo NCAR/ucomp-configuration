@@ -1,9 +1,15 @@
 AUTHOR BERKEY
-DESCRIPTION Perform 7 point wavelength flats for all 9 wavelengths
+DESCRIPTION: Collect information to get the diffuser radiance
 
+<<<<<<< HEAD:Recipes/scripts/engineering_diffuser_calibration.cbk
 camera_gain_high.rcp
 camera_Exposure_80.rcp
 setupFlat.rcp #doing setupflat here to soak up extra time between gain exposure change and  first dark by moving all devices to nonomial position before dark. 
+=======
+gain_high.rcp
+Exposure_80.rcp
+setupFlat.rcp 
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/diffuser-calibration.cbk
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
 
@@ -51,6 +57,7 @@ setupND.rcp
 
 setupDark.rcp
 dark_01wave_1beam_16sums_10rep_BOTH.rcp
+<<<<<<< HEAD:Recipes/scripts/engineering_diffuser_calibration.cbk
 setup_ND_OUT.rcp
 
 
@@ -72,3 +79,7 @@ setupND.rcp
 1083_FW.rcp
 1083_01wave_2beam_16sums_4rep_BOTH.rcp
 setupDark.rcp
+=======
+ND_OUT.rcp
+setupDark.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/diffuser-calibration.cbk

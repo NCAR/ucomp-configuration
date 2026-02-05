@@ -1,8 +1,15 @@
   > checkout.menu
+<<<<<<< HEAD:Recipes/summary/checkout.summary
  ------ > scripts\checkout.cbk
  ------------ > scripts\setupDark.rcp
 ------------------> shut	in
  ------------ > scripts\1074_FW.rcp
+=======
+ ------ > checkout.cbk
+ ------------ > setupDark.rcp
+------------------> shut	in
+ ------------ > 1074_FW.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/checkout.summary
 ------------------> prefilterrange	1074
  ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
@@ -12,9 +19,15 @@
 ------------------> prefilterrange	789
  ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
+<<<<<<< HEAD:Recipes/summary/checkout.summary
  ------------ > scripts\setupDark.rcp
 ------------------> shut	in
  ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
+=======
+ ------------ > setupDark.rcp
+------------------> shut	in
+ ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/checkout.summary
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -26,13 +39,21 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
+<<<<<<< HEAD:Recipes/summary/checkout.summary
  ------------ > scripts\setupFlat.rcp
+=======
+ ------------ > setupFlat.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/checkout.summary
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
+<<<<<<< HEAD:Recipes/summary/checkout.summary
  ------------ > scripts\1079_03wave_2beam_16sums_4rep_BOTH.rcp
+=======
+ ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/checkout.summary
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	rcam	both	1079.91	16
@@ -141,15 +162,25 @@
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
+<<<<<<< HEAD:Recipes/summary/checkout.summary
  ------------ > scripts\setupCover.rcp
 ------------------> cover	in
  ------------ > scripts\setupFlat.rcp
+=======
+ ------------ > setupCover.rcp
+------------------> cover	in
+ ------------ > setupFlat.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/checkout.summary
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
+<<<<<<< HEAD:Recipes/summary/checkout.summary
  ------------ > scripts\1079_03wave_2beam_16sums_4rep_BOTH.rcp
+=======
+ ------------ > 1079_03wave_2beam_16sums_4rep_BOTH.rcp
+>>>>>>> ba92e9810d93cb11471c3d717ad6a977089e53e1:Recipes/checkout.summary
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
 ------------------> data	rcam	both	1079.91	16
