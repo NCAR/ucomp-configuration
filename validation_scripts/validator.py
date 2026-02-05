@@ -22,7 +22,7 @@ from pathlib import Path
 import glob
 print(os.getcwd())
 print(glob.glob("."))
-os.chdir("../Recipes")
+os.chdir("Recipes")
 import glob
 
 import glob
