@@ -72,17 +72,28 @@ When GitHub detects a commit to the ucomp-configuration repository, it automatic
 A flat text file with tree-like output showing the hierarchy of scripts:
 
 ```
-   > daily.menu
- ------ > all_wavelength_coronal_flat.cbk
- ------------ > setupFlat.rcp
-------------------> diffuser  in
-------------------> cover out
-------------------> occ       out
-------------------> shut      out
-------------------> calib     out
- ------------ > dark_01wave_1beam_16sums_10rep_BOTH.rcp
-------------------> shut      in
-------------------> data      rcam    both    656.28  16
+  > daily.menu
+ ------ > scripts/synoptic_bright_lines.cbk
+ ------------ > scripts/setupDark.rcp
+------------------> shut	in
+ ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------------ > scripts/setupObserving.rcp
+------------------> shut	in
+------------------> cover	out
+------------------> calib	out
+------------------> occ	in
+------------------> diffuser	out
 ....
 ```
 
@@ -368,12 +379,11 @@ Recipes represent discrete observation steps. Each line can command instrument c
 ### Synoptic Program
 
 **Files:**
-- [all_wavelength_coronal.cbk](https://github.com/NCAR/ucomp-configuration/blob/main/Recipes/all_wavelength_coronal.cbk)
-- [all_wavelength_coronal_flat.cbk](https://github.com/NCAR/ucomp-configuration/blob/main/Recipes/all_wavelength_coronal_flat.cbk)
+- [synoptic_bright_lines.cbk](https://github.com/NCAR/ucomp-configuration/blob/main/Recipes/synoptic_bright_lines.cbk)
 
-The synoptic program cycles through all 9 prefilters (5 original 2021 filters + 4 replaced in Nov 2022). Within each filter, it performs 2 measurements averaging polarization data from 3 wavelength tunings over ~2.5 minutes, then proceeds to the next prefilter.
 
-Current revisit time between prefilters: ~45 minutes. A planned reduction to 1 measurement per pass would reduce this to ~22 minutes for better tracking of dynamic events.
+This synoptic program cycles through the 5 brightest prefilters . Within each filter, it collects a flat and coronal file with 5 tunings across each emission line with 4 repeats of each lyot filter tuning.
+
 
 ### Waves Program
 
