@@ -1,8 +1,12 @@
-DATE  Wed Sep 29 14:39:04 2021
+DATE 2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 13 measurements with 2 beams 16 sums, continuum blue repeated 4 times.
 
-#Expected execution time: 69.810 s
 
-#DATATYPE BEAM CONTINUUM WAVELENGTH NUMSUMS
+
+
+#Expected execution time: 654.867 seconds (assuming 80ms high gain)
+
 DATA	RCAM	BLUE	 705.78	   16
 DATA	RCAM	BLUE	 705.85	   16
 DATA	RCAM	BLUE	 705.92	   16

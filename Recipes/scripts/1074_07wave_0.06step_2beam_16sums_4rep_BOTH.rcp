@@ -1,3 +1,10 @@
+DATE 2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 7 measurements with 2 beams 16 sums, continuum both repeated 4 times.
+
+
+
+#Expected execution time: 352.621 seconds (assuming 80ms high gain)
 data	rcam	both	1074.54	16
 data	rcam	both	1074.59	16
 data	rcam	both	1074.64	16

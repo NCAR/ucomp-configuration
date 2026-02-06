@@ -1,10 +1,13 @@
-DATE  Weds Apr 08 2020
-AUTHOR Tomczyk
-DESCRIPTION Take dark images
+DATE 2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 1 measurements with 1 beams 16 sums, continuum both repeated 10 times.
+
+
+
+#Expected execution time: 62.968 seconds (assuming 80ms high gain)
 
 SHUT	IN
 
-#DATATYPE BEAM  CONTINUM WAVELENGTH  NUMSUMS
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16
 DATA	RCAM	BOTH	656.28	16

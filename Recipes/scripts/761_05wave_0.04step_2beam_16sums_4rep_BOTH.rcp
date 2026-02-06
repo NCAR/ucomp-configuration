@@ -1,6 +1,10 @@
-DATE Mon Mar 25 08:49:40 2024
-AUTHOR: rcp GeneratorExpected execution time 216.8
-#DATATYPE BEAM  WAVELENGTH  NUMSUMS
+DATE 2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 5 measurements with 2 beams 16 sums, continuum both repeated 4 times.
+
+
+
+#Expected execution time: 251.872 seconds (assuming 80ms high gain)
 DATA RCAM	BOTH    761.020	16
 DATA RCAM	BOTH    761.060	16
 DATA RCAM	BOTH    761.100	16

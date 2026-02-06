@@ -1,6 +1,10 @@
-DATE  Weds Apr 28 2020
-AUTHOR Berkey
-DESCRIPTION Perform flat at 1083 nm
+DATE 2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 1 measurements with 1 beams 16 sums, continuum both repeated 1 times.
+
+
+
+#Expected execution time: 6.297 seconds (assuming 80ms high gain)
 #COVER OUT
 #DIFFUSER OUT
 #SHUT OUT

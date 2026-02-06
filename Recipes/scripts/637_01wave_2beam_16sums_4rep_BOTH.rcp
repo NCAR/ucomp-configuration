@@ -1,6 +1,10 @@
-DATE  Weds May 1 2020
-AUTHOR Berkey
-DESCRIPTION Perform polarization flat at 637 nm
+DATE 2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 1 measurements with 2 beams 16 sums, continuum both repeated 4 times.
+
+
+
+#Expected execution time: 50.374 seconds (assuming 80ms high gain)
 #SHUT OUT
 DATA	RCAM	BOTH	637.40	16
 DATA	TCAM	BOTH	637.40	16

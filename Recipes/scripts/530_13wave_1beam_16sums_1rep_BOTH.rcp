@@ -1,8 +1,12 @@
-DATE  Wed Sep 29 14:37:12 2021
+DATE 2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 13 measurements with 1 beams 16 sums, continuum both repeated 1 times.
 
-#Expected execution time: 69.810 s
 
-#DATATYPE BEAM CONTINUUM WAVELENGTH NUMSUMS
+
+
+#Expected execution time: 81.858 seconds (assuming 80ms high gain)
+
 DATA	RCAM	BOTH	 529.94	   16
 DATA	RCAM	BOTH	 530.00	   16
 DATA	RCAM	BOTH	 530.06	   16
