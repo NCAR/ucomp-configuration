@@ -1,7 +1,12 @@
+DATE  2026 Feb 06
+AUTHOR Berkey
+DESCRIPTION Take over 1 hour of 3pt 1074 data with associated flats/darks
 
 1074_FW.rcp
 setupDark.rcp
 dark_01wave_1beam_14sums_10rep_BOTH.rcp
+setupFlat.rcp 
+1074_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
 FOR 120
 1074_03wave_2beam_14sums_1rep_BOTH.rcp

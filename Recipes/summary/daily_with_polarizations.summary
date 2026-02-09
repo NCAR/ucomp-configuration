@@ -1,8 +1,8 @@
   > daily_with_polarizations.menu
- ------ > scripts/synoptic_bright_lines.cbk
- ------------ > scripts/setupDark.rcp
+ ------ > scripts\synoptic_bright_lines.cbk
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -14,16 +14,16 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -64,9 +64,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -107,15 +107,15 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -156,9 +156,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -199,9 +199,9 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -242,9 +242,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -285,9 +285,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -328,16 +328,16 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -378,9 +378,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -421,9 +421,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -464,24 +464,9 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
-------------------> shut	in
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic_feXIII_density.cbk
- ------------ > scripts/setupDark.rcp
-------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -493,15 +478,30 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupFlat.rcp
+ ------ > scripts\synoptic_feXIII_density.cbk
+ ------------ > scripts\setupDark.rcp
+------------------> shut	in
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -558,9 +558,9 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.64	16
@@ -617,15 +617,15 @@
 ------------------> data	tcam	both	1074.76	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -682,9 +682,9 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.64	16
@@ -741,15 +741,15 @@
 ------------------> data	tcam	both	1074.76	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -806,9 +806,9 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.64	16
@@ -865,14 +865,14 @@
 ------------------> data	tcam	both	1074.76	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.64	16
@@ -929,9 +929,9 @@
 ------------------> data	tcam	both	1074.76	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -988,9 +988,9 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.64	16
@@ -1047,9 +1047,9 @@
 ------------------> data	tcam	both	1074.76	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_07wave_0.06step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.74	16
@@ -1106,12 +1106,12 @@
 ------------------> data	tcam	both	1079.86	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------ > scripts/waves_1074_1hour.cbk
- ------------ > scripts/1074_FW.rcp
+ ------ > scripts\waves_1074_1hour.cbk
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_14sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_14sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
@@ -1123,860 +1123,891 @@
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
 ------------------> data	rcam	both	656.28	14
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupFlat.rcp
+------------------> diffuser	in
+------------------> cover	out
+------------------> occ	out
+------------------> shut	out
+------------------> calib	out
+ ------------ > scripts\1074_03wave_2beam_16sums_4rep_BOTH.rcp
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+------------------> data	rcam	both	1074.59	16
+------------------> data	rcam	both	1074.70	16
+------------------> data	rcam	both	1074.81	16
+------------------> data	tcam	both	1074.59	16
+------------------> data	tcam	both	1074.70	16
+------------------> data	tcam	both	1074.81	16
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	14
 ------------------> data	rcam	both	1074.70	14
 ------------------> data	rcam	both	1074.81	14
 ------------------> data	tcam	both	1074.81	14
 ------------------> data	tcam	both	1074.70	14
 ------------------> data	tcam	both	1074.59	14
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1074_03wave_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_03wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	rcam	both	1074.81	16
@@ -2001,10 +2032,10 @@
 ------------------> data	tcam	both	1074.59	16
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
- ------ > scripts/Polarization_calibration_bright_filters.cbk
- ------------ > scripts/setupDark.rcp
+ ------ > scripts\Polarization_calibration_bright_filters.cbk
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2016,439 +2047,439 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_Pol_Calibrate.rcp
+ ------------ > scripts\1074_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
 ------------------> calpol	45
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
 ------------------> calpol	90
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
 ------------------> calpol	135
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
 ------------------> calpol	45
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
 ------------------> calpol	90
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
 ------------------> calpol	135
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
 ------------------> calib	out
- ------------------ > scripts/1074_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\1074_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	1074.70	16
 ------------------------> data	tcam	both	1074.70	16
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/1079_Pol_Calibrate.rcp
+ ------------ > scripts\1079_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
 ------------------> calpol	45
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
 ------------------> calpol	90
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
 ------------------> calpol	135
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
 ------------------> calpol	45
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
 ------------------> calpol	90
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
 ------------------> calpol	135
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
 ------------------> calib	out
- ------------------ > scripts/1079_01wave_2beam_16sums_1rep_BLUE.rcp
+ ------------------ > scripts\1079_01wave_2beam_16sums_1rep_BLUE.rcp
 ------------------------> data	rcam	blue	1079.80	16
 ------------------------> data	tcam	blue	1079.80	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/789_Pol_Calibrate.rcp
+ ------------ > scripts\789_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
 ------------------> calpol	45
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
 ------------------> calpol	90
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
 ------------------> calpol	135
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
 ------------------> calpol	45
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
 ------------------> calpol	90
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
 ------------------> calpol	135
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
 ------------------> calib	out
- ------------------ > scripts/789_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\789_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	789.40	16
 ------------------------> data	tcam	both	789.40	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/637_Pol_Calibrate.rcp
+ ------------ > scripts\637_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
 ------------------> calpol	45
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
 ------------------> calpol	90
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
 ------------------> calpol	135
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
 ------------------> calpol	45
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
 ------------------> calpol	90
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
 ------------------> calpol	135
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
 ------------------> calib	out
- ------------------ > scripts/637_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\637_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	637.40	16
 ------------------------> data	tcam	both	637.40	16
- ------------ > scripts/670_FW.rcp
+ ------------ > scripts\670_FW.rcp
 ------------------> prefilterrange	670
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/670_Pol_Calibrate.rcp
+ ------------ > scripts\670_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
 ------------------> calpol	45
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
 ------------------> calpol	90
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
 ------------------> calpol	135
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
 ------------------> calpol	45
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
 ------------------> calpol	90
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
 ------------------> calpol	135
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
 ------------------> calib	out
- ------------------ > scripts/670_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\670_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	670.16	16
 ------------------------> data	tcam	both	670.16	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/706_Pol_Calibrate.rcp
+ ------------ > scripts\706_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
 ------------------> calpol	45
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
 ------------------> calpol	90
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
 ------------------> calpol	135
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
 ------------------> calpol	45
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
 ------------------> calpol	90
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
 ------------------> calpol	135
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
 ------------------> calib	out
- ------------------ > scripts/706_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\706_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	706.20	16
 ------------------------> data	tcam	both	706.20	16
- ------------ > scripts/761_FW.rcp
+ ------------ > scripts\761_FW.rcp
 ------------------> prefilterrange	761
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/761_Pol_Calibrate.rcp
+ ------------ > scripts\761_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
 ------------------> calpol	45
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
 ------------------> calpol	90
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
 ------------------> calpol	135
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
 ------------------> calpol	45
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
 ------------------> calpol	90
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
 ------------------> calpol	135
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
 ------------------> calib	out
- ------------------ > scripts/761_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\761_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	761.16	16
 ------------------------> data	tcam	both	761.16	16
- ------------ > scripts/802_FW.rcp
+ ------------ > scripts\802_FW.rcp
 ------------------> prefilterrange	802
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/802_Pol_Calibrate.rcp
+ ------------ > scripts\802_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
 ------------------> calpol	45
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
 ------------------> calpol	90
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
 ------------------> calpol	135
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
 ------------------> calpol	45
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
 ------------------> calpol	90
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
 ------------------> calpol	135
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
 ------------------> calib	out
- ------------------ > scripts/802_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\802_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	802.41	16
 ------------------------> data	tcam	both	802.41	16
- ------------ > scripts/991_FW.rcp
+ ------------ > scripts\991_FW.rcp
 ------------------> prefilterrange	991
- ------------ > scripts/setupCal.rcp
+ ------------ > scripts\setupCal.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	in
- ------------ > scripts/991_Pol_Calibrate.rcp
+ ------------ > scripts\991_Pol_Calibrate.rcp
 ------------------> calret	0
 ------------------> calpol	0
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
 ------------------> calpol	45
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
 ------------------> calpol	90
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
 ------------------> calpol	135
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
 ------------------> calret	45
 ------------------> calpol	0
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
 ------------------> calpol	45
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
 ------------------> calpol	90
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
 ------------------> calpol	135
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
 ------------------> calib	out
- ------------------ > scripts/991_01wave_2beam_16sums_1rep_BOTH.rcp
+ ------------------ > scripts\991_01wave_2beam_16sums_1rep_BOTH.rcp
 ------------------------> data	rcam	both	991.26	16
 ------------------------> data	tcam	both	991.26	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------ > scripts/synoptic_bright_lines.cbk
- ------------ > scripts/setupDark.rcp
+ ------ > scripts\synoptic_bright_lines.cbk
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2460,16 +2491,16 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -2510,9 +2541,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -2553,15 +2584,15 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -2602,9 +2633,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -2645,9 +2676,9 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -2688,9 +2719,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -2731,9 +2762,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -2774,16 +2805,16 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -2824,9 +2855,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -2867,9 +2898,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -2910,24 +2941,9 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
-------------------> shut	in
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic_bright_lines.cbk
- ------------ > scripts/setupDark.rcp
-------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2939,16 +2955,31 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupObserving.rcp
+ ------ > scripts\synoptic_bright_lines.cbk
+ ------------ > scripts\setupDark.rcp
+------------------> shut	in
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -2989,9 +3020,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -3032,15 +3063,15 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -3081,9 +3112,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -3124,9 +3155,9 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -3167,9 +3198,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -3210,9 +3241,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -3253,16 +3284,16 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -3303,9 +3334,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -3346,9 +3377,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -3389,24 +3420,9 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
-------------------> shut	in
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic_bright_lines.cbk
- ------------ > scripts/setupDark.rcp
-------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -3418,16 +3434,31 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupObserving.rcp
+ ------ > scripts\synoptic_bright_lines.cbk
+ ------------ > scripts\setupDark.rcp
+------------------> shut	in
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -3468,9 +3499,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -3511,15 +3542,15 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -3560,9 +3591,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -3603,9 +3634,9 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -3646,9 +3677,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -3689,9 +3720,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -3732,16 +3763,16 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -3782,9 +3813,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -3825,9 +3856,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -3868,24 +3899,9 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
-------------------> shut	in
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic_bright_lines.cbk
- ------------ > scripts/setupDark.rcp
-------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -3897,16 +3913,31 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupObserving.rcp
+ ------ > scripts\synoptic_bright_lines.cbk
+ ------------ > scripts\setupDark.rcp
+------------------> shut	in
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -3947,9 +3978,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -3990,15 +4021,15 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -4039,9 +4070,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -4082,9 +4113,9 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -4125,9 +4156,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -4168,9 +4199,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -4211,16 +4242,16 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -4261,9 +4292,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -4304,9 +4335,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -4347,24 +4378,9 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
-------------------> shut	in
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic_bright_lines.cbk
- ------------ > scripts/setupDark.rcp
-------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -4376,16 +4392,31 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupObserving.rcp
+ ------ > scripts\synoptic_bright_lines.cbk
+ ------------ > scripts\setupDark.rcp
+------------------> shut	in
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -4426,9 +4457,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -4469,15 +4500,15 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -4518,9 +4549,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -4561,9 +4592,9 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -4604,9 +4635,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -4647,9 +4678,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -4690,16 +4721,16 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -4740,9 +4771,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -4783,9 +4814,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -4826,24 +4857,9 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
-------------------> shut	in
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic_bright_lines.cbk
- ------------ > scripts/setupDark.rcp
-------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -4855,16 +4871,31 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------------ > scripts/setupObserving.rcp
+ ------ > scripts\synoptic_bright_lines.cbk
+ ------------ > scripts\setupDark.rcp
+------------------> shut	in
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
+------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -4905,9 +4936,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -4948,15 +4979,15 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/setupFlat.rcp
+ ------------ > scripts\setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
 ------------------> occ	out
 ------------------> shut	out
 ------------------> calib	out
- ------------ > scripts/1079_FW.rcp
+ ------------ > scripts\1079_FW.rcp
 ------------------> prefilterrange	1079
- ------------ > scripts/1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1079_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1079.64	16
 ------------------> data	rcam	both	1079.69	16
 ------------------> data	rcam	both	1079.80	16
@@ -4997,9 +5028,9 @@
 ------------------> data	tcam	both	1079.80	16
 ------------------> data	tcam	both	1079.91	16
 ------------------> data	tcam	both	1079.96	16
- ------------ > scripts/1074_FW.rcp
+ ------------ > scripts\1074_FW.rcp
 ------------------> prefilterrange	1074
- ------------ > scripts/1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\1074_05wave_0.1step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.54	16
 ------------------> data	rcam	both	1074.59	16
 ------------------> data	rcam	both	1074.70	16
@@ -5040,9 +5071,9 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	tcam	both	1074.81	16
 ------------------> data	tcam	both	1074.86	16
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -5083,9 +5114,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -5126,9 +5157,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -5169,16 +5200,16 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupObserving.rcp
+ ------------ > scripts\setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
 ------------------> calib	out
 ------------------> occ	in
 ------------------> diffuser	out
 ------------------> shut	out
- ------------ > scripts/789_FW.rcp
+ ------------ > scripts\789_FW.rcp
 ------------------> prefilterrange	789
- ------------ > scripts/789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.315	16
 ------------------> data	rcam	both	789.35	16
 ------------------> data	rcam	both	789.40	16
@@ -5219,9 +5250,9 @@
 ------------------> data	tcam	both	789.40	16
 ------------------> data	tcam	both	789.45	16
 ------------------> data	tcam	both	789.485	16
- ------------ > scripts/706_FW.rcp
+ ------------ > scripts\706_FW.rcp
 ------------------> prefilterrange	706
- ------------ > scripts/706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\706_05wave_0.03step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	706.14	16
 ------------------> data	rcam	both	706.17	16
 ------------------> data	rcam	both	706.20	16
@@ -5262,9 +5293,9 @@
 ------------------> data	tcam	both	706.20	16
 ------------------> data	tcam	both	706.23	16
 ------------------> data	tcam	both	706.26	16
- ------------ > scripts/637_FW.rcp
+ ------------ > scripts\637_FW.rcp
 ------------------> prefilterrange	637
- ------------ > scripts/637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
+ ------------ > scripts\637_05wave_0.035step_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.330	16
 ------------------> data	rcam	both	637.365	16
 ------------------> data	rcam	both	637.400	16
@@ -5305,9 +5336,9 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.435	16
 ------------------> data	tcam	both	637.470	16
- ------------ > scripts/setupDark.rcp
+ ------------ > scripts\setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts\dark_01wave_1beam_16sums_10rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16

@@ -195,6 +195,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
     flat_recipes = []
     dark_recipes = []
     calib_recipes = []
+    wavelengths = []
             
     ## Attempt to guess what icon to put next to a recipe name based on state coming in to that.
     ## this is kind of fragile but mostly works because most of our operational scripts dont change
@@ -238,12 +239,13 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                    # print(f"Reading script {filename} called by {parent}")
                     script_results = read_script(filename,   parent+","+commands[0],tab,state,darks,flats,coronal,coronalExp,summary,md,warning)
                     if script_results is not None:
-                        (tTime,hTime,data_recipes_rtn,flat_recipes_rtn,dark_recipes_rtn,calib_recipes_rtn) = script_results
+                        (tTime,hTime,data_recipes_rtn,flat_recipes_rtn,dark_recipes_rtn,calib_recipes_rtn,wavelengths_rtn) = script_results
                         runTime += tTime
                         hardwareTime += hTime
                         data_recipes.extend(data_recipes_rtn)
                         flat_recipes.extend(flat_recipes_rtn)
                         dark_recipes.extend(dark_recipes_rtn)
+                        wavelengths.extend(wavelengths_rtn)
                         calib_recipes.extend(calib_recipes_rtn)
                     
                 except FileNotFoundError:
@@ -347,6 +349,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                         dark_recipes.append(script_name.name)
                     if state['shut'] == "out" and state['calib'] =='out' and state['diffuser'] == "in":
                         emoji = icons["flat"]
+                        wavelengths.append(wave)
                         if state['gain']+cam+cont+wave not in flats:
                             flats.append(state['gain']+cam+cont+wave)
                         flat_recipes.append(script_name.name)
@@ -355,9 +358,11 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                         coronal.append(state['gain']+cam+cont+wave)
                         coronalExp.append(state['exposure']+state['gain'])
                         data_recipes.append(script_name.name)
+                        wavelengths.append(wave)
                     if state['shut'] == "out" and state['calib'] =='in' and state['diffuser'] == "in":
                         emoji = icons["calib"]
                         calib_recipes.append(script_name.name)
+                        wavelengths.append(wave)
                     runTime += relaxation_time +(int(state['exposure'])+camera_readout[state["gain"]])*4*int(sums)
                 summary.write(f"{tab*6*'-'}> {tab_space.join(commands)}\n")
                 if "_FW" not in commands[0] and "setup" not in commands[0] and "cbk" not in commands[0] and "menu" not in commands[0]:
@@ -376,6 +381,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
         md.write(f"Flats:  {", ".join(sorted(list(set(flat_recipes))))} \n ")
         md.write(f"Data:   {", ".join(sorted(list(set(data_recipes))))}  \n")
         md.write(f"Calibs: {", ".join(sorted(list(set(calib_recipes))))}  \n")
+        md.write(f"Wavelengths used: {", ".join(sorted(list(set(wavelengths))))}  \n")
     else:
         for corona in coronalExp:
             if corona not in darks:
@@ -385,7 +391,7 @@ def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,s
                 warning.write(f"{parent} missing flat for {{ {corona} }}\n")
         
     md.write("</pre></blockquote></details>")
-    return runTime,hardwareTime,data_recipes,flat_recipes,dark_recipes,calib_recipes
+    return runTime,hardwareTime,data_recipes,flat_recipes,dark_recipes,calib_recipes,wavelengths
 
 
 

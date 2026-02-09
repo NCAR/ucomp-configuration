@@ -21,6 +21,7 @@ Integration:1.36 minutes.  Hardware:0.00 minutes. total:1.36 minutes
 Flats:   
  Data:     
 Calibs:   
+Wavelengths used:   
 </pre></blockquote></details>
 Integration:1.36 minutes.  Hardware:0.00 minutes. total:1.36 minutes 
 
@@ -28,4 +29,5 @@ Integration:1.36 minutes.  Hardware:0.00 minutes. total:1.36 minutes
 Flats:   
  Data:     
 Calibs:   
+Wavelengths used:   
 </pre></blockquote></details></pre></blockquote></details>

@@ -1,6 +1,5 @@
 DATE  Tue Apr 02 10:40:23 2019
 AUTHOR Tomczyk
-DESCRIPTION move filter wheel to position 2 for 656
+DESCRIPTION Move filter wheel and O1 for the 656 wave region
 
-#DATATYPE BEAM  WAVELENGTH  NUMSUMS
 PREFILTERRANGE 656

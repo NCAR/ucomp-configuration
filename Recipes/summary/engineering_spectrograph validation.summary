@@ -1,6 +1,6 @@
   > engineering_spectrograph validation.menu
- ------ > scripts/engineering_spectragraph_validation.cbk
- ------------ > scripts/1079_13wave_1beam_16sums_1rep_BOTH.rcp
+ ------ > scripts\engineering_spectragraph_validation.cbk
+ ------------ > scripts\1079_13wave_1beam_16sums_1rep_BOTH.rcp
 ------------------> data	rcam	both	1079.14	16
 ------------------> data	rcam	both	1079.25	16
 ------------------> data	rcam	both	1079.36	16
