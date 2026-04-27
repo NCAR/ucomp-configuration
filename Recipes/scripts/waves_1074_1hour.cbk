@@ -8,7 +8,7 @@ dark_01wave_1beam_14sums_10rep_BOTH.rcp
 setupFlat.rcp 
 1074_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
-FOR 120
+FOR 144
 1074_03wave_2beam_14sums_1rep_BOTH.rcp
 ENDFOR
 setupFlat.rcp 
