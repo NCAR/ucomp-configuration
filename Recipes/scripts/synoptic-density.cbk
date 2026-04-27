@@ -2,14 +2,17 @@ DATE  2026 Feb 06
 AUTHOR Berkey
 DESCRIPTION: Synoptic density program to run before and after waves.
 
-1074_FW.rcp
+
 setupDark.rcp
 dark_01wave_1beam_14sums_10rep_BOTH.rcp
-setupFlat.rcp 
-1074_03wave_2beam_16sums_4rep_BOTH.rcp
 setupObserving.rcp
-FOR 144
-1074_03wave_2beam_14sums_1rep_BOTH.rcp
-ENDFOR
+1074_FW.rcp
+1074_07wave_0.6step_2beam_16sums_2rep_BOTH.rcp
+1079_FW.rcp
+1079_07wave_0.6step_2beam_16sums_2rep_BOTH.rcp
 setupFlat.rcp 
-1074_03wave_2beam_16sums_4rep_BOTH.rcp
+1079_07wave_0.6step_2beam_16sums_2rep_BOTH.rcp
+1074_FW.rcp
+1074_07wave_0.6step_2beam_16sums_2rep_BOTH.rcp
+setupDark.rcp
+dark_01wave_1beam_14sums_10rep_BOTH.rcp
