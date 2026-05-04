@@ -1,6 +1,6 @@
 DATE  2026 Feb 06
 AUTHOR Berkey
-DESCRIPTION Take over 1 hour of 3pt 1074 data with associated flats/darks
+DESCRIPTION Take 80 minutes of 3pt 1074 waves data.
 
 1074_FW.rcp
 setupObserving.rcp
