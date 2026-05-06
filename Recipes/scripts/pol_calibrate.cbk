@@ -1,0 +1,14 @@
+DATE  Weds Apr 28 2020
+AUTHOR Berkey
+DESCRIPTION Perform polarization calibration in the used wavelengths nm
+setupDark.rcp
+dark_01wave_1beam_16sums_10rep_BOTH.rcp
+setupCal.rcp
+637_FW.rcp
+637_Pol_Calibrate.rcp
+789_FW.rcp
+789_Pol_Calibrate.rcp
+1074_FW.rcp
+1074_Pol_Calibrate.rcp
+1079_FW.rcp
+1079_Pol_Calibrate.rcp

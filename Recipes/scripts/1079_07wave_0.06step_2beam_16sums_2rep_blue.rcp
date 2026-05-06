@@ -1,0 +1,36 @@
+DATE 2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 7 measurements with 2 beams, 16 sums, continuum=blue, repeated 2 times.
+
+#Expected execution time: 352.621 seconds (assuming 80ms high gain)
+data	rcam	blue	1079.620	16
+data	rcam	blue	1079.690	16
+data	rcam	blue	1079.740	16
+data	rcam	blue	1079.800	16
+data	rcam	blue	1079.860	16
+data	rcam	blue	1079.910	16
+data	rcam	blue	1079.980	16
+
+data	tcam	blue	1079.620	16  
+data	tcam	blue	1079.690	16
+data	tcam	blue	1079.740	16
+data	tcam	blue	1079.800	16
+data	tcam	blue	1079.860	16
+data	tcam	blue	1079.910	16
+data	tcam	blue	1079.980	16
+
+data	rcam	blue	1079.620	16
+data	rcam	blue	1079.690	16
+data	rcam	blue	1079.740	16
+data	rcam	blue	1079.800	16
+data	rcam	blue	1079.860	16
+data	rcam	blue	1079.910	16
+data	rcam	blue	1079.980	16
+
+data	tcam	blue	1079.620	16  
+data	tcam	blue	1079.690	16
+data	tcam	blue	1079.740	16
+data	tcam	blue	1079.800	16
+data	tcam	blue	1079.860	16
+data	tcam	blue	1079.910	16
+data	tcam	blue	1079.980	16

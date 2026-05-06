@@ -1,10 +1,43 @@
 
-#Take some early morning Morning coronal images 
-synoptic_bright_lines.cbk
-synoptic_feXIII_density.cbk
-waves_1074_1hour.cbk
+#Morning synoptic obs
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk
 
-Polarization_calibration_bright_filters.cbk
+#waves with density
+synoptic-density.cbk
+waves_1074_1hour.cbk
+synoptic-density.cbk
+
+#Polarization check
+pol_calibrate.cbk
+
+#Afternoon synoptic obs
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk
+
+
+
 
 synoptic_bright_lines.cbk
 synoptic_bright_lines.cbk

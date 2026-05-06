@@ -161,9 +161,9 @@ def unroll_forloop(results):
 
 
 def  read_script(script_name_in,parent,tab,state,darks,flat,coronal,coronalExp,summary,md,warning,child_extension=".rcp"):
-    if child_extension != ".rcp":
-        coronal = []
-        coronalExp = []
+    #if child_extension != ".rcp":
+    #    coronal = []
+     #   coronalExp = []
     script_name_in = Path(script_name_in)
     if script_name_in.suffix == ".menu":
         scriptDir = Path(".")
