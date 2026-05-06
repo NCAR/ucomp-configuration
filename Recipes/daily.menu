@@ -11,12 +11,8 @@ synoptic-density.cbk
 waves_1074_1hour.cbk
 synoptic-density.cbk
 
-# measure plate scale
+# flats with occulter in for plate scale
 eng_platescale.cbk
-
-#calibration sequence
-
-#flats with occulter in 
 
 #Afternoon synoptic obs
 synoptic-flat.cbk
