@@ -1,5 +1,4 @@
 read_script: daily.menu,eng_platescale.cbk,fw_637.rcp, **fw_637.rcp** command not found.
-read_script: daily.menu,eng_platescale.cbk,637_01wave_2beam_16sums_4rep_both.rcp, **637_01wave_2beam_16sums_4rep_both.rcp** command not found.
 read_script: daily.menu,eng_platescale.cbk,fw_789.rcp, **fw_789.rcp** command not found.
 read_script: daily.menu,eng_platescale.cbk,fw_1074.rcp, **fw_1074.rcp** command not found.
 read_script: daily.menu,eng_platescale.cbk,fw_1079.rcp, **fw_1079.rcp** command not found.
