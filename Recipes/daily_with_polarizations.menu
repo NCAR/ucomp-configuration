@@ -14,6 +14,9 @@ synoptic-density.cbk
 #Polarization check
 pol_calibrate.cbk
 
+#Check plate scale
+eng_platescale.cbk
+
 #Afternoon synoptic obs
 synoptic-flat.cbk
 synoptic-corona.cbk
