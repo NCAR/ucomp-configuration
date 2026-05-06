@@ -1501,7 +1501,7 @@ Wavelengths used:
  &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.820	16
+ &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
  &#xE0020;&#x1F4D8; data	rcam	both	1074.520	16
  &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
@@ -1515,7 +1515,7 @@ Wavelengths used:
  &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.820	16
+ &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
  &#xE0020;&#x1F4D8; data	rcam	both	1074.520	16
  &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
@@ -1529,7 +1529,7 @@ Wavelengths used:
  &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.820	16
+ &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
  &#xE0020;
 Integration:4.41 minutes.  Hardware:0.00 minutes. total:4.41 minutes
@@ -1537,7 +1537,7 @@ Darks:
 Flats:  1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp
 Data:   
 Calibs: 
-Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.820, 1074.880
+Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.880
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
@@ -3677,7 +3677,7 @@ Wavelengths used:
  &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.820	16
+ &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
  &#xE0020;&#x1F4D8; data	rcam	both	1074.520	16
  &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
@@ -3691,7 +3691,7 @@ Wavelengths used:
  &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.820	16
+ &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
  &#xE0020;&#x1F4D8; data	rcam	both	1074.520	16
  &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
@@ -3705,7 +3705,7 @@ Wavelengths used:
  &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.820	16
+ &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
  &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
  &#xE0020;
 Integration:4.41 minutes.  Hardware:0.00 minutes. total:4.41 minutes
@@ -3713,7 +3713,7 @@ Darks:
 Flats:  1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp
 Data:   
 Calibs: 
-Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.820, 1074.880
+Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.880
 </pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
