@@ -3904,9 +3904,45 @@ Flats:
 Data:   
 Calibs: 
 Wavelengths used: 
+</pre></blockquote></details><details><summary>637_Pol_Calibrate.rcp</summary><blockquote><pre>calret	0
+ &#xE0020;calpol	0
+ &#xE0020;calpol	45
+ &#xE0020;calpol	90
+ &#xE0020;calpol	135
+ &#xE0020;calret	45
+ &#xE0020;calpol	0
+ &#xE0020;calpol	45
+ &#xE0020;calpol	90
+ &#xE0020;calpol	135
+ &#xE0020;calib	out
+ &#xE0020;
+Integration:0.00 minutes.  Hardware:0.83 minutes. total:0.83 minutes
+Darks:  
+Flats:  
+Data:   
+Calibs: 
+Wavelengths used: 
 </pre></blockquote></details><details><summary>789_FW.rcp</summary><blockquote><pre>prefilterrange	789
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
+Darks:  
+Flats:  
+Data:   
+Calibs: 
+Wavelengths used: 
+</pre></blockquote></details><details><summary>789_Pol_Calibrate.rcp</summary><blockquote><pre>calret	0
+ &#xE0020;calpol	0
+ &#xE0020;calpol	45
+ &#xE0020;calpol	90
+ &#xE0020;calpol	135
+ &#xE0020;calret	45
+ &#xE0020;calpol	0
+ &#xE0020;calpol	45
+ &#xE0020;calpol	90
+ &#xE0020;calpol	135
+ &#xE0020;calib	out
+ &#xE0020;
+Integration:0.00 minutes.  Hardware:1.17 minutes. total:1.17 minutes
 Darks:  
 Flats:  
 Data:   
@@ -3920,6 +3956,24 @@ Flats:
 Data:   
 Calibs: 
 Wavelengths used: 
+</pre></blockquote></details><details><summary>1074_Pol_Calibrate.rcp</summary><blockquote><pre>calret	0
+ &#xE0020;calpol	0
+ &#xE0020;calpol	45
+ &#xE0020;calpol	90
+ &#xE0020;calpol	135
+ &#xE0020;calret	45
+ &#xE0020;calpol	0
+ &#xE0020;calpol	45
+ &#xE0020;calpol	90
+ &#xE0020;calpol	135
+ &#xE0020;calib	out
+ &#xE0020;
+Integration:0.00 minutes.  Hardware:1.17 minutes. total:1.17 minutes
+Darks:  
+Flats:  
+Data:   
+Calibs: 
+Wavelengths used: 
 </pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange	1079
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
@@ -3928,8 +3982,26 @@ Flats:
 Data:   
 Calibs: 
 Wavelengths used: 
+</pre></blockquote></details><details><summary>1079_Pol_Calibrate.rcp</summary><blockquote><pre>calret	0
+ &#xE0020;calpol	0
+ &#xE0020;calpol	45
+ &#xE0020;calpol	90
+ &#xE0020;calpol	135
+ &#xE0020;calret	45
+ &#xE0020;calpol	0
+ &#xE0020;calpol	45
+ &#xE0020;calpol	90
+ &#xE0020;calpol	135
+ &#xE0020;calib	out
+ &#xE0020;
+Integration:0.00 minutes.  Hardware:1.17 minutes. total:1.17 minutes
+Darks:  
+Flats:  
+Data:   
+Calibs: 
+Wavelengths used: 
 </pre></blockquote></details>
-Integration:1.05 minutes.  Hardware:2.00 minutes. total:3.05 minutes
+Integration:1.05 minutes.  Hardware:6.33 minutes. total:7.38 minutes
 Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp
 Flats:  
 Data:   
@@ -3967,7 +4039,7 @@ Wavelengths used:
  &#xE0020;shut	out
  &#xE0020;calib	out
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes
+Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes
 Darks:  
 Flats:  
 Data:   
@@ -4210,7 +4282,7 @@ Data:
 Calibs: 
 Wavelengths used: 
 </pre></blockquote></details>
-Integration:17.84 minutes.  Hardware:2.33 minutes. total:20.17 minutes
+Integration:17.84 minutes.  Hardware:2.67 minutes. total:20.51 minutes
 Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp
 Flats:  1074_05wave_0.11step_2beam_16sums_4rep_BOTH.rcp, 1079_05wave_0.11step_2beam_16sums_4rep_BLUE.rcp, 637_03wave_0.045step_2beam_16sums_5rep_BOTH.rcp, 789_05wave_0.05step_2beam_16sums_4rep_BOTH.rcp
 Data:   
