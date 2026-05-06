@@ -2291,6 +2291,15 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
+ ------------ > scripts/1079_01wave_2beam_16sums_4rep_BLUE.rcp
+------------------> data	rcam	blue	1079.80	16
+------------------> data	tcam	blue	1079.80	16
+------------------> data	rcam	blue	1079.80	16
+------------------> data	tcam	blue	1079.80	16
+------------------> data	rcam	blue	1079.80	16
+------------------> data	tcam	blue	1079.80	16
+------------------> data	rcam	blue	1079.80	16
+------------------> data	tcam	blue	1079.80	16
  ------ > scripts/synoptic-flat.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
