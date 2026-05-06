@@ -2282,6 +2282,8 @@
 ------------------> occ	in
 ------------------> shut	out
 ------------------> calib	out
+ ------------ > scripts/637_FW.rcp
+------------------> prefilterrange	637
  ------------ > scripts/637_01wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	637.400	16
 ------------------> data	tcam	both	637.400	16
@@ -2291,6 +2293,8 @@
 ------------------> data	tcam	both	637.400	16
 ------------------> data	rcam	both	637.400	16
 ------------------> data	tcam	both	637.400	16
+ ------------ > scripts/789_FW.rcp
+------------------> prefilterrange	789
  ------------ > scripts/789_01wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	789.400	16
 ------------------> data	tcam	both	789.400	16
@@ -2300,6 +2304,8 @@
 ------------------> data	tcam	both	789.400	16
 ------------------> data	rcam	both	789.400	16
 ------------------> data	tcam	both	789.400	16
+ ------------ > scripts/1074_FW.rcp
+------------------> prefilterrange	1074
  ------------ > scripts/1074_01wave_2beam_16sums_4rep_BOTH.rcp
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
@@ -2309,6 +2315,8 @@
 ------------------> data	tcam	both	1074.70	16
 ------------------> data	rcam	both	1074.70	16
 ------------------> data	tcam	both	1074.70	16
+ ------------ > scripts/1079_FW.rcp
+------------------> prefilterrange	1079
  ------------ > scripts/1079_01wave_2beam_16sums_4rep_BLUE.rcp
 ------------------> data	rcam	blue	1079.80	16
 ------------------> data	tcam	blue	1079.80	16
