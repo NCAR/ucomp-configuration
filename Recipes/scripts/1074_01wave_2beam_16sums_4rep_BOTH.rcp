@@ -1,11 +1,8 @@
-DATE 2026 Feb 06
+DATE 2026 May 6
 AUTHOR Automated summary script
-DESCRIPTION Take 1 measurements with 2 beams 16 sums, continuum both repeated 4 times.
-
-
+DESCRIPTION Take 1 measurement with 2 beams, 16 sums, continuum, both repeated 4 times.
 
 #Expected execution time: 50.374 seconds (assuming 80ms high gain)
-#SHUT OUT
 DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
 
@@ -17,4 +14,3 @@ DATA	TCAM	BOTH	1074.70	16
 
 DATA	RCAM	BOTH	1074.70	16
 DATA	TCAM	BOTH	1074.70	16
-#SHUT IN
