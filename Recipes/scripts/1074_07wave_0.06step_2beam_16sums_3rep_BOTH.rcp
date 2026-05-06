@@ -15,7 +15,7 @@ data	tcam	both	1074.590	16
 data	tcam	both	1074.640	16
 data	tcam	both	1074.700	16
 data	tcam	both	1074.760	16
-data	tcam	both	1074.820	16
+data	tcam	both	1074.810	16
 data	tcam	both	1074.880	16
 
 
@@ -32,7 +32,7 @@ data	tcam	both	1074.590	16
 data	tcam	both	1074.640	16
 data	tcam	both	1074.700	16
 data	tcam	both	1074.760	16
-data	tcam	both	1074.820	16
+data	tcam	both	1074.810	16
 data	tcam	both	1074.880	16
 
 data	rcam	both	1074.520	16
@@ -48,5 +48,5 @@ data	tcam	both	1074.590	16
 data	tcam	both	1074.640	16
 data	tcam	both	1074.700	16
 data	tcam	both	1074.760	16
-data	tcam	both	1074.820	16
+data	tcam	both	1074.810	16
 data	tcam	both	1074.880	16
