@@ -2,7 +2,7 @@ DATE 2026 May 5
 AUTHOR Berkey
 DESCRIPTION Take 5 measurements with 2 beams 16 sums, continuum blue repeated 2 times.
 
-#Expected execution time: 251.872 seconds (assuming 80ms high gain)
+#Expected execution time: 126 seconds (assuming 80ms high gain)
 data	rcam	blue	1079.620	16
 data	rcam	blue	1079.690	16
 data	rcam	blue	1079.800	16
