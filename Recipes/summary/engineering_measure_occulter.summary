@@ -1,17 +1,5 @@
   > engineering_measure_occulter.menu
  ------ > scripts/engineering_measure_occulter.cbk
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
-------------------> shut	in
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
-------------------> data	rcam	both	656.28	16
  ------------ > scripts/setupFlat_occulter.rcp
 ------------------> diffuser	in
 ------------------> cover	out
