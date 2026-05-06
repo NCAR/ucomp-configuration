@@ -928,6 +928,35 @@
 ------------------> data	tcam	both	1074.880	16
  ------------ > scripts/1079_FW.rcp
 ------------------> prefilterrange	1079
+ ------------ > scripts/1079_07wave_0.06step_2beam_16sums_2rep_BLUE.rcp
+------------------> data	rcam	blue	1079.620	16
+------------------> data	rcam	blue	1079.690	16
+------------------> data	rcam	blue	1079.740	16
+------------------> data	rcam	blue	1079.800	16
+------------------> data	rcam	blue	1079.860	16
+------------------> data	rcam	blue	1079.910	16
+------------------> data	rcam	blue	1079.980	16
+------------------> data	tcam	blue	1079.620	16
+------------------> data	tcam	blue	1079.690	16
+------------------> data	tcam	blue	1079.740	16
+------------------> data	tcam	blue	1079.800	16
+------------------> data	tcam	blue	1079.860	16
+------------------> data	tcam	blue	1079.910	16
+------------------> data	tcam	blue	1079.980	16
+------------------> data	rcam	blue	1079.620	16
+------------------> data	rcam	blue	1079.690	16
+------------------> data	rcam	blue	1079.740	16
+------------------> data	rcam	blue	1079.800	16
+------------------> data	rcam	blue	1079.860	16
+------------------> data	rcam	blue	1079.910	16
+------------------> data	rcam	blue	1079.980	16
+------------------> data	tcam	blue	1079.620	16
+------------------> data	tcam	blue	1079.690	16
+------------------> data	tcam	blue	1079.740	16
+------------------> data	tcam	blue	1079.800	16
+------------------> data	tcam	blue	1079.860	16
+------------------> data	tcam	blue	1079.910	16
+------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -2109,6 +2138,35 @@
 ------------------> data	tcam	both	1074.880	16
  ------------ > scripts/1079_FW.rcp
 ------------------> prefilterrange	1079
+ ------------ > scripts/1079_07wave_0.06step_2beam_16sums_2rep_BLUE.rcp
+------------------> data	rcam	blue	1079.620	16
+------------------> data	rcam	blue	1079.690	16
+------------------> data	rcam	blue	1079.740	16
+------------------> data	rcam	blue	1079.800	16
+------------------> data	rcam	blue	1079.860	16
+------------------> data	rcam	blue	1079.910	16
+------------------> data	rcam	blue	1079.980	16
+------------------> data	tcam	blue	1079.620	16
+------------------> data	tcam	blue	1079.690	16
+------------------> data	tcam	blue	1079.740	16
+------------------> data	tcam	blue	1079.800	16
+------------------> data	tcam	blue	1079.860	16
+------------------> data	tcam	blue	1079.910	16
+------------------> data	tcam	blue	1079.980	16
+------------------> data	rcam	blue	1079.620	16
+------------------> data	rcam	blue	1079.690	16
+------------------> data	rcam	blue	1079.740	16
+------------------> data	rcam	blue	1079.800	16
+------------------> data	rcam	blue	1079.860	16
+------------------> data	rcam	blue	1079.910	16
+------------------> data	rcam	blue	1079.980	16
+------------------> data	tcam	blue	1079.620	16
+------------------> data	tcam	blue	1079.690	16
+------------------> data	tcam	blue	1079.740	16
+------------------> data	tcam	blue	1079.800	16
+------------------> data	tcam	blue	1079.860	16
+------------------> data	tcam	blue	1079.910	16
+------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupFlat.rcp
 ------------------> diffuser	in
 ------------------> cover	out

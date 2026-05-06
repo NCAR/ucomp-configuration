@@ -1,2 +1,0 @@
-read_script: daily.menu,synoptic-density.cbk,1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp, **1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp** command not found.
-read_script: daily.menu,synoptic-density.cbk,1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp, **1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp** command not found.
