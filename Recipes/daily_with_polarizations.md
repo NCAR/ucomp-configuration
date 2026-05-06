@@ -733,282 +733,6 @@ Flats:
 Data:   1074_05wave_0.11step_2beam_16sums_2reps_BOTH.rcp, 1079_05wave_0.11step_2beam_16sums_2reps_blue.rcp, 637_03wave_0.045step_2beam_16sums_4reps_both.rcp, 789_05wave_0.05step_2beam_16sums_3reps_both.rcp
 Calibs: 
 Wavelengths used: 1074.520, 1074.590, 1074.700, 1074.810, 1074.880, 1079.620, 1079.690, 1079.800, 1079.910, 1079.980, 637.355, 637.400, 637.445, 789.315, 789.350, 789.400, 789.450, 789.485
-</pre></blockquote></details><details><summary>synoptic-density.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_14sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_14sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;
-Integration:0.92 minutes.  Hardware:0.00 minutes. total:0.92 minutes
-Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
- &#xE0020;cover	out
- &#xE0020;calib	out
- &#xE0020;occ	in
- &#xE0020;diffuser	out
- &#xE0020;shut	out
- &#xE0020;
-Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp](tuningplots/1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.880	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.880	16
- &#xE0020;
-Integration:2.94 minutes.  Hardware:0.00 minutes. total:2.94 minutes
-Darks:  
-Flats:  
-Data:   1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.880
-</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange	1079
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D7; [1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp](tuningplots/1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.980	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.980	16
- &#xE0020;
-Integration:2.94 minutes.  Hardware:0.00 minutes. total:2.94 minutes
-Darks:  
-Flats:  
-Data:   1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp
-Calibs: 
-Wavelengths used: 1079.620, 1079.690, 1079.740, 1079.800, 1079.860, 1079.910, 1079.980
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
- &#xE0020;cover	out
- &#xE0020;occ	out
- &#xE0020;shut	out
- &#xE0020;calib	out
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D8; [1079_07wave_0.06step_2beam_16sums_3rep_blue.rcp](tuningplots/1079_07wave_0.06step_2beam_16sums_3rep_blue.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.980	16
- &#xE0020;
-Integration:4.41 minutes.  Hardware:0.00 minutes. total:4.41 minutes
-Darks:  
-Flats:  1079_07wave_0.06step_2beam_16sums_3rep_blue.rcp
-Data:   
-Calibs: 
-Wavelengths used: 1079.620, 1079.690, 1079.740, 1079.800, 1079.860, 1079.910, 1079.980
-</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D8; [1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp](tuningplots/1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
- &#xE0020;
-Integration:4.41 minutes.  Hardware:0.00 minutes. total:4.41 minutes
-Darks:  
-Flats:  1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp
-Data:   
-Calibs: 
-Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.880
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_14sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_14sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;
-Integration:0.92 minutes.  Hardware:0.00 minutes. total:0.92 minutes
-Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details>
-Integration:16.54 minutes.  Hardware:2.58 minutes. total:19.12 minutes
-Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp
-Flats:  1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp, 1079_07wave_0.06step_2beam_16sums_3rep_blue.rcp
-Data:   1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp, 1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp
-Calibs: 
-Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.880, 1079.620, 1079.690, 1079.740, 1079.800, 1079.860, 1079.910, 1079.980
 </pre></blockquote></details><details><summary>waves_1074_1hour.cbk</summary><blockquote><pre><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
@@ -1024,2167 +748,1891 @@ Wavelengths used:
  &#xE0020;diffuser	out
  &#xE0020;shut	out
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
- &#xE0020;
-Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details>
-Integration:79.88 minutes.  Hardware:0.75 minutes. total:80.63 minutes
-Darks:  
-Flats:  
-Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
-Calibs: 
-Wavelengths used: 1074.590, 1074.700, 1074.810
-</pre></blockquote></details><details><summary>synoptic-density.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
-Darks:  
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_14sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_14sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;
-Integration:0.92 minutes.  Hardware:0.00 minutes. total:0.92 minutes
-Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp
-Flats:  
-Data:   
-Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>setupObserving.rcp</summary><blockquote><pre>shut	in
- &#xE0020;cover	out
- &#xE0020;calib	out
- &#xE0020;occ	in
- &#xE0020;diffuser	out
- &#xE0020;shut	out
- &#xE0020;
 Integration:0.00 minutes.  Hardware:1.00 minutes. total:1.00 minutes
 Darks:  
 Flats:  
 Data:   
 Calibs: 
 Wavelengths used: 
-</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
 Darks:  
 Flats:  
-Data:   
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D7; [1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp](tuningplots/1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.880	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D7; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D7; data	tcam	both	1074.880	16
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
  &#xE0020;
-Integration:2.94 minutes.  Hardware:0.00 minutes. total:2.94 minutes
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
 Darks:  
 Flats:  
-Data:   1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.880
-</pre></blockquote></details><details><summary>1079_FW.rcp</summary><blockquote><pre>prefilterrange	1079
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
 Darks:  
 Flats:  
-Data:   
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D7; [1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp](tuningplots/1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.980	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D7; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D7; data	tcam	blue	1079.980	16
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
  &#xE0020;
-Integration:2.94 minutes.  Hardware:0.00 minutes. total:2.94 minutes
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
 Darks:  
 Flats:  
-Data:   1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 1079.620, 1079.690, 1079.740, 1079.800, 1079.860, 1079.910, 1079.980
-</pre></blockquote></details><details><summary>setupFlat.rcp</summary><blockquote><pre>diffuser	in
- &#xE0020;cover	out
- &#xE0020;occ	out
- &#xE0020;shut	out
- &#xE0020;calib	out
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.33 minutes. total:0.33 minutes
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
 Darks:  
 Flats:  
-Data:   
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D8; [1079_07wave_0.06step_2beam_16sums_3rep_blue.rcp](tuningplots/1079_07wave_0.06step_2beam_16sums_3rep_blue.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	rcam	blue	1079.980	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.620	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.690	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.740	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.800	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.860	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.910	16
- &#xE0020;&#x1F4D8; data	tcam	blue	1079.980	16
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
  &#xE0020;
-Integration:4.41 minutes.  Hardware:0.00 minutes. total:4.41 minutes
-Darks:  
-Flats:  1079_07wave_0.06step_2beam_16sums_3rep_blue.rcp
-Data:   
-Calibs: 
-Wavelengths used: 1079.620, 1079.690, 1079.740, 1079.800, 1079.860, 1079.910, 1079.980
-</pre></blockquote></details><details><summary>1074_FW.rcp</summary><blockquote><pre>prefilterrange	1074
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.42 minutes. total:0.42 minutes
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
 Darks:  
 Flats:  
-Data:   
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D8; [1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp](tuningplots/1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D8; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	rcam	both	1074.880	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.520	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.590	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.640	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.700	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.760	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.810	16
- &#xE0020;&#x1F4D8; data	tcam	both	1074.880	16
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
  &#xE0020;
-Integration:4.41 minutes.  Hardware:0.00 minutes. total:4.41 minutes
-Darks:  
-Flats:  1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp
-Data:   
-Calibs: 
-Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.880
-</pre></blockquote></details><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
- &#xE0020;
-Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
 Darks:  
 Flats:  
-Data:   
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_14sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_14sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
- &#xE0020;&#x1F4D9; data	rcam	both	656.28	14
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
  &#xE0020;
-Integration:0.92 minutes.  Hardware:0.00 minutes. total:0.92 minutes
-Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
 Flats:  
-Data:   
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
+</pre></blockquote></details><details><summary>&#x1F4D7; [1074_03wave_2beam_14sums_1rep_BOTH.rcp](tuningplots/1074_03wave_2beam_14sums_1rep_BOTH.rcp.png)</summary><blockquote><pre>&#x1F4D7; data	rcam	both	1074.590	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	rcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.810	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.700	14
+ &#xE0020;&#x1F4D7; data	tcam	both	1074.590	14
+ &#xE0020;
+Integration:0.55 minutes.  Hardware:0.00 minutes. total:0.55 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
+Calibs: 
+Wavelengths used: 1074.590, 1074.700, 1074.810
 </pre></blockquote></details>
-Integration:16.54 minutes.  Hardware:2.58 minutes. total:19.12 minutes
-Darks:  dark_01wave_1beam_14sums_10rep_BOTH.rcp
-Flats:  1074_07wave_0.06step_2beam_16sums_3rep_BOTH.rcp, 1079_07wave_0.06step_2beam_16sums_3rep_blue.rcp
-Data:   1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp, 1079_07wave_0.06step_2beam_16sums_2rep_blue.rcp
+Integration:79.88 minutes.  Hardware:1.42 minutes. total:81.30 minutes
+Darks:  
+Flats:  
+Data:   1074_03wave_2beam_14sums_1rep_BOTH.rcp
 Calibs: 
-Wavelengths used: 1074.520, 1074.590, 1074.640, 1074.700, 1074.760, 1074.810, 1074.880, 1079.620, 1079.690, 1079.740, 1079.800, 1079.860, 1079.910, 1079.980
+Wavelengths used: 1074.590, 1074.700, 1074.810
 </pre></blockquote></details><details><summary>pol_calibrate.cbk</summary><blockquote><pre><details><summary>setupDark.rcp</summary><blockquote><pre>shut	in
  &#xE0020;
 Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
@@ -3199,7 +2647,7 @@ Wavelengths used:
  &#xE0020;shut	out
  &#xE0020;calib	in
  &#xE0020;
-Integration:0.00 minutes.  Hardware:0.67 minutes. total:0.67 minutes
+Integration:0.00 minutes.  Hardware:0.00 minutes. total:0.00 minutes
 Darks:  
 Flats:  
 Data:   
@@ -3634,7 +3082,7 @@ Data:
 Calibs: 
 Wavelengths used: 1079.80
 </pre></blockquote></details>
-Integration:7.56 minutes.  Hardware:6.67 minutes. total:14.22 minutes
+Integration:7.56 minutes.  Hardware:6.00 minutes. total:13.56 minutes
 Darks:  
 Flats:  1074_01wave_2beam_16sums_1rep_BOTH.rcp, 1079_01wave_2beam_16sums_1rep_BLUE.rcp, 637_01wave_2beam_16sums_1rep_BOTH.rcp, 789_01wave_2beam_16sums_1rep_BOTH.rcp
 Data:   
