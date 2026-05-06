@@ -1,1 +1,0 @@
-read_script: daily_with_polarizations.menu,eng_platescale.cbk, **eng_platescale.cbk** command not found.
