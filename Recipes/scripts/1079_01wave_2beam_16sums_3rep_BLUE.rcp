@@ -1,11 +1,8 @@
 DATE 2026 May 6
 AUTHOR Automated summary script
-DESCRIPTION Take 1 measurement with 2 beams, 16 sums, continuum=BLUE repeated 4 times.
+DESCRIPTION Take 1 measurement with 2 beams, 16 sums, continuum=BLUE repeated 3 times.
 
 #Expected execution time: 50.374 seconds (assuming 80ms high gain)
-DATA	RCAM	BLUE	1079.80	16
-DATA	TCAM	BLUE	1079.80	16
-
 DATA	RCAM	BLUE	1079.80	16
 DATA	TCAM	BLUE	1079.80	16
 
