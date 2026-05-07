@@ -1,3 +1,4 @@
 cme_manual_flat.menu { cme_flat.ckb } command not found.
 read_script: daily.menu,eng_platescale.cbk,1074_01wave_2beam_16sums_4rep_both.rcp, **1074_01wave_2beam_16sums_4rep_both.rcp** command not found.
 read_script: daily.menu,eng_platescale.cbk,1079_01wave_2beam_16sums_4rep_blue.rcp, **1079_01wave_2beam_16sums_4rep_blue.rcp** command not found.
+read_script: daily.menu,eng_platescale.cbk,789_01wave_2beam_16sums_4rep_both.rcp, **789_01wave_2beam_16sums_4rep_both.rcp** command not found.
