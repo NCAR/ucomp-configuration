@@ -3,7 +3,7 @@ AUTHOR GdT
 DESCRIPTION: Synoptic density program to run before and after waves
 
 setupDark.rcp
-dark_01wave_1beam_16sums_10rep_BOTH.rcp
+dark_01wave_1beam_16sums_18rep_BOTH.rcp
 setupFlat.rcp 
 1079_FW.rcp
 1079_07wave_0.06step_2beam_16sums_2rep_BLUE.rcp
@@ -18,4 +18,4 @@ setupFlat.rcp
 1074_FW.rcp
 1074_07wave_0.06step_2beam_16sums_2rep_BOTH.rcp
 setupDark.rcp
-dark_01wave_1beam_16sums_10rep_BOTH.rcp
+dark_01wave_1beam_16sums_18rep_BOTH.rcp
