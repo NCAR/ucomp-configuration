@@ -1,0 +1,39 @@
+DATE 2026 June 10
+AUTHOR GdT
+DESCRIPTION 7 wavelengths, 0.01nm step, 2 beams, 16 sums, continuum=both, repeated 3 times
+
+data	rcam	both	 1074.680	16
+data	rcam	both	 1074.690	16
+data	rcam	both	 1074.700	16
+data	rcam	both	 1074.710	16
+data	rcam	both	 1074.720	16
+
+data	tcam	both	 1074.680	16
+data	tcam	both	 1074.690	16
+data	tcam	both	 1074.700	16
+data	tcam	both	 1074.710	16
+data	tcam	both	 1074.720	16
+
+data	rcam	both	 1074.680	16
+data	rcam	both	 1074.690	16
+data	rcam	both	 1074.700	16
+data	rcam	both	 1074.710	16
+data	rcam	both	 1074.720	16
+
+data	tcam	both	 1074.680	16
+data	tcam	both	 1074.690	16
+data	tcam	both	 1074.700	16
+data	tcam	both	 1074.710	16
+data	tcam	both	 1074.720	16
+
+data	rcam	both	 1074.680	16
+data	rcam	both	 1074.690	16
+data	rcam	both	 1074.700	16
+data	rcam	both	 1074.710	16
+data	rcam	both	 1074.720	16
+
+data	tcam	both	 1074.680	16
+data	tcam	both	 1074.690	16
+data	tcam	both	 1074.700	16
+data	tcam	both	 1074.710	16
+data	tcam	both	 1074.720	16

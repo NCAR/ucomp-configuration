@@ -1,0 +1,51 @@
+DATE 2026 June 10
+AUTHOR GdT
+DESCRIPTION 7 wavelengths, 0.05nm step, 2 beams, 16 sums, continuum=blue, repeated 3 times
+
+data	rcam	blue	 1079.650	16
+data	rcam	blue	 1079.700	16
+data	rcam	blue	 1079.750	16
+data	rcam	blue	 1079.800	16
+data	rcam	blue	 1079.850	16
+data	rcam	blue	 1079.900	16
+data	rcam	blue	 1079.950	16
+
+data	tcam	blue	 1079.650	16
+data	tcam	blue	 1079.700	16
+data	tcam	blue	 1079.750	16
+data	tcam	blue	 1079.800	16
+data	tcam	blue	 1079.850	16
+data	tcam	blue	 1079.900	16
+data	tcam	blue	 1079.950	16
+
+data	rcam	blue	 1079.650	16
+data	rcam	blue	 1079.700	16
+data	rcam	blue	 1079.750	16
+data	rcam	blue	 1079.800	16
+data	rcam	blue	 1079.850	16
+data	rcam	blue	 1079.900	16
+data	rcam	blue	 1079.950	16
+
+data	tcam	blue	 1079.650	16
+data	tcam	blue	 1079.700	16
+data	tcam	blue	 1079.750	16
+data	tcam	blue	 1079.800	16
+data	tcam	blue	 1079.850	16
+data	tcam	blue	 1079.900	16
+data	tcam	blue	 1079.950	16
+
+data	rcam	blue	 1079.650	16
+data	rcam	blue	 1079.700	16
+data	rcam	blue	 1079.750	16
+data	rcam	blue	 1079.800	16
+data	rcam	blue	 1079.850	16
+data	rcam	blue	 1079.900	16
+data	rcam	blue	 1079.950	16
+
+data	tcam	blue	 1079.650	16
+data	tcam	blue	 1079.700	16
+data	tcam	blue	 1079.750	16
+data	tcam	blue	 1079.800	16
+data	tcam	blue	 1079.850	16
+data	tcam	blue	 1079.900	16
+data	tcam	blue	 1079.950	16
