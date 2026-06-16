@@ -1,9 +1,17 @@
   > daily.menu
- ------ > scripts/synoptic-flat.cbk
+ ------ > scripts/synoptic_flat.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -184,7 +192,7 @@
 ------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -196,7 +204,15 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic-corona.cbk
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -356,7 +372,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -516,7 +532,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -676,11 +692,19 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-flat.cbk
+ ------ > scripts/synoptic_flat.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -861,7 +885,7 @@
 ------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -873,11 +897,27 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic-density.cbk
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------ > scripts/density.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -1119,8 +1159,16 @@
 ------------------> data	tcam	both	1074.880	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2149,11 +2197,19 @@
 ------------------> data	tcam	both	1074.810	14
 ------------------> data	tcam	both	1074.700	14
 ------------------> data	tcam	both	1074.590	14
- ------ > scripts/synoptic-density.cbk
+ ------ > scripts/density.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2395,7 +2451,7 @@
 ------------------> data	tcam	both	1074.880	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2407,7 +2463,15 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > scripts/eng_platescale.cbk
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------ > scripts/eng_flat_occulter.cbk
  ------------ > scripts/setupFlat_occulter.rcp
 ------------------> diffuser	in
 ------------------> cover	out
@@ -2709,11 +2773,19 @@
 ------------------------> data	tcam	blue	1079.800	16
 ------------------------> data	rcam	blue	1079.800	16
 ------------------------> data	tcam	blue	1079.800	16
- ------ > scripts/synoptic-flat.cbk
+ ------ > scripts/synoptic_flat.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2894,7 +2966,7 @@
 ------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -2906,7 +2978,15 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic-corona.cbk
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -3066,7 +3146,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -3226,7 +3306,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -3386,11 +3466,19 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-flat.cbk
+ ------ > scripts/synoptic_flat.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -3571,7 +3659,7 @@
 ------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -3583,7 +3671,15 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic-corona.cbk
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -3743,7 +3839,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -3903,7 +3999,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -4063,11 +4159,19 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-flat.cbk
+ ------ > scripts/synoptic_flat.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -4248,7 +4352,7 @@
 ------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -4260,7 +4364,15 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic-corona.cbk
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -4420,7 +4532,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -4580,7 +4692,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -4740,11 +4852,19 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-flat.cbk
+ ------ > scripts/synoptic_flat.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -4925,7 +5045,7 @@
 ------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -4937,7 +5057,15 @@
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
- ------ > scripts/synoptic-corona.cbk
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -5097,7 +5225,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -5257,7 +5385,7 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-corona.cbk
+ ------ > scripts/synoptic_corona.cbk
  ------------ > scripts/setupObserving.rcp
 ------------------> shut	in
 ------------------> cover	out
@@ -5417,11 +5545,19 @@
 ------------------> data	tcam	both	637.355	16
 ------------------> data	tcam	both	637.400	16
 ------------------> data	tcam	both	637.445	16
- ------ > scripts/synoptic-flat.cbk
+ ------ > scripts/synoptic_flat.cbk
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
@@ -5602,8 +5738,16 @@
 ------------------> data	tcam	blue	1079.980	16
  ------------ > scripts/setupDark.rcp
 ------------------> shut	in
- ------------ > scripts/dark_01wave_1beam_16sums_10rep_BOTH.rcp
+ ------------ > scripts/dark_01wave_1beam_16sums_18rep_BOTH.rcp
 ------------------> shut	in
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
+------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16
 ------------------> data	rcam	both	656.28	16

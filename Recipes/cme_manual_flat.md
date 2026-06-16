@@ -9,7 +9,15 @@ Flats:
 Data:   
 Calibs: 
 Wavelengths used: 
-</pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_10rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_10rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
+</pre></blockquote></details><details><summary>&#x1F4D9; [dark_01wave_1beam_16sums_18rep_BOTH.rcp](tuningplots/dark_01wave_1beam_16sums_18rep_BOTH.rcp.png)</summary><blockquote><pre>shut	in
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
+ &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
@@ -21,8 +29,8 @@ Wavelengths used:
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;&#x1F4D9; data	rcam	both	656.28	16
  &#xE0020;
-Integration:1.05 minutes.  Hardware:0.00 minutes. total:1.05 minutes
-Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp
+Integration:1.89 minutes.  Hardware:0.00 minutes. total:1.89 minutes
+Darks:  dark_01wave_1beam_16sums_18rep_BOTH.rcp
 Flats:  
 Data:   
 Calibs: 
@@ -83,8 +91,8 @@ Data:
 Calibs: 
 Wavelengths used: 1074.450, 1074.520, 1074.590, 1074.700, 1074.810, 1074.880, 1074.950
 </pre></blockquote></details>
-Integration:3.99 minutes.  Hardware:1.42 minutes. total:5.40 minutes
-Darks:  dark_01wave_1beam_16sums_10rep_BOTH.rcp
+Integration:4.83 minutes.  Hardware:1.42 minutes. total:6.24 minutes
+Darks:  dark_01wave_1beam_16sums_18rep_BOTH.rcp
 Flats:  1074_07wave_widestep_2beam_16sums_2rep_BOTH.rcp
 Data:   
 Calibs: 
