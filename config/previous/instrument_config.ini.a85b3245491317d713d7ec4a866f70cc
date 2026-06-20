@@ -4,13 +4,8 @@
 #Data directory to write new observation data
 Data Dir = d:\data\obs-code
 #Local mount of data server to be used for copy to Boulder.
-Data Server Dir = d:\more-data	
-
-[config file paths]
-Menu Path = C:\ucomp-configuration\Recipes
-Cookbook Path = C:\ucomp-configuration\Recipes\scripts
-Recipe Path = C:\ucomp-configuration\Recipes\scripts
-Cached program path = C:\ucomp-configuration\Recipes\previous
+Server Data Dir = z:\ucomp
+#Server Data Dir = c:\data  <- Use this value if Kodiak is unavailable
 
 [SGS]
 #Future use to convert SGS data to UCoMP pixel units
@@ -64,7 +59,7 @@ LCVR Relaxation = .30
 # Temperature compensation on or off/
 Temperature Compensation = true
 # Integral parameter for temperature filtering..
-Temperature Compensation step size = .2
+Temperature Compensation step size = .05
 
 [Camera Config]
 ## The camera config needs to change when we swap cameras.
@@ -93,23 +88,23 @@ Busy read cycle = 10
 [Use Real Hardware]
 #Options to simulate various hardware components.  When true, the code will try to use the real hardware;e when false, the system will 
 #try to use a simulated version of the same hardware.
-Diffuser = false
-Cover = false
-O1 Focus = false
-Saftey Shutter = false
-Occ X = false
-Occ Y = false
-FilterWheel = false
-Cal Pol Rot = false
-Cal Ret Rot = false
-Cal Trans = false
-Lyot = false
-Camera1 = false
-Camera2 = false
-Cropico = false
-ILX = false
+Diffuser = true
+Cover = true
+O1 Focus = true
+Saftey Shutter = true
+Occ X = true
+Occ Y = true
+FilterWheel = true
+Cal Pol Rot = true
+Cal Ret Rot = true
+Cal Trans = true
+Lyot = true
+Camera1 = true
+Camera2 = true
+Cropico = true
+ILX = true
 Spectragraph = false
-SGS = false
+SGS = true
 WeatherTower = false
 
 [Weather Tower Info]

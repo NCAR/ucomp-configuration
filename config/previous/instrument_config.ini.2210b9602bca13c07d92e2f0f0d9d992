@@ -40,6 +40,11 @@ numS = 10000
 vneg = -7
 vpos = 7
 
+[Initialization Position]
+O1 = 61.59
+FilterWheel 9
+ILX = 35
+
 [DAQ Physical Channels]
 # Data communication channels, these should only be updated when 
 # hardware is physically moved/upgraded or replaced.
@@ -64,7 +69,7 @@ LCVR Relaxation = .30
 # Temperature compensation on or off/
 Temperature Compensation = true
 # Integral parameter for temperature filtering..
-Temperature Compensation step size = .2
+Temperature Compensation step size = .05
 
 [Camera Config]
 ## The camera config needs to change when we swap cameras.

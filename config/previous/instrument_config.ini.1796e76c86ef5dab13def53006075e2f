@@ -4,7 +4,8 @@
 #Data directory to write new observation data
 Data Dir = d:\data\obs-code
 #Local mount of data server to be used for copy to Boulder.
-Data Server Dir = d:\more-data	
+Server Data Dir = z:\ucomp
+#Server Data Dir = c:\data  <- Use this value if Kodiak is unavailable
 
 [config file paths]
 Menu Path = C:\ucomp-configuration\Recipes
@@ -64,7 +65,7 @@ LCVR Relaxation = .30
 # Temperature compensation on or off/
 Temperature Compensation = true
 # Integral parameter for temperature filtering..
-Temperature Compensation step size = .2
+Temperature Compensation step size = .05
 
 [Camera Config]
 ## The camera config needs to change when we swap cameras.
