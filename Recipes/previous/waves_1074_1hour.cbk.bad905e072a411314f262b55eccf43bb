@@ -1,0 +1,9 @@
+DATE  2026 Feb 06
+AUTHOR Automated summary script
+DESCRIPTION Take 80 minutes of 3pt 1074 waves data.
+
+1074_FW.rcp
+setupObserving.rcp
+FOR 144
+1074_03wave_2beam_14sums_1rep_BOTH.rcp
+ENDFOR

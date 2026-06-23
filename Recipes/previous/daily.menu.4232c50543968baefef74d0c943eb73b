@@ -1,0 +1,37 @@
+
+#Morning synoptic obs
+synoptic-flat.cbk
+#synoptic-corona.cbk
+#synoptic-corona.cbk
+#synoptic-corona.cbk
+#synoptic-flat.cbk
+
+#waves with density
+#synoptic-density.cbk
+#waves_1074_1hour.cbk
+#synoptic-density.cbk
+
+# flats with occulter in for plate scale
+#eng_platescale.cbk
+
+# Run polarization calibration.
+pol_calibrate.cbk
+
+#Afternoon synoptic obs
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-corona.cbk
+synoptic-flat.cbk

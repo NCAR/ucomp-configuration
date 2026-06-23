@@ -1,0 +1,43 @@
+DATE 2026 June 10
+AUTHOR GdT
+DESCRIPTION  3 wavelengths, 2 beams, 16 sums, continuum=both, repeated 5 times
+
+data	rcam	both	     637.355	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.445	   16
+
+data	tcam	both	     637.355	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.445	   16
+
+data	rcam	both	     637.355	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.445	   16
+
+data	tcam	both	     637.355	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.445	   16
+
+data	rcam	both	     637.355	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.445	   16
+
+data	tcam	both	     637.355	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.445	   16
+
+data	rcam	both	     637.355	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.445	   16
+
+data	tcam	both	     637.355	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.445	   16
+
+data	rcam	both	     637.355	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.445	   16
+
+data	tcam	both	     637.355	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.445	   16
