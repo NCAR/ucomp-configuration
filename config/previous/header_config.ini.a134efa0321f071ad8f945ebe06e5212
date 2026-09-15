@@ -99,7 +99,6 @@ T_INST_UNFILTER{6},		TU_LNB2,	float5.3,	[C] LiNb2 Temp Unfiltered
 T_INST_UNFILTER{7},		TU_LCVR4,	float5.3,	[C] Lyot LCVR4 Temp Unfiltered
 T_INST_UNFILTER{8},		TU_LCVR5,	float5.3,	[C] Lyot LCVR5 Temp Unfiltered
 T_INST_UNFILTER{9},		TU_BASE,	float5.3,	[C] Instrument Baseplate Temp Unfiltered
-T_ILX,                  TU_ILX,     float5.3,   [C] Lyot filter heater temp Unfiltered
 Camera temp{0}, 		T_C0ARR,	float5.3,	[C] Camera 0 Sensor array temp
 Camera temp{1},			T_C0PCB,	float5.3,	[C] Camera 0 PCB board temp
 Camera temp{2}, 		T_C1ARR,	float5.3,	[C] Camera 1 Sensor array temp

@@ -20,10 +20,10 @@ Voltage to Arcsec = 1920
 [ports] 
 # Serial communication channels, these should only be updated when 
 # hardware is physically moved/upgraded or replaced.
-ILX COM PORT = COM7
-Cropico PORT = COM6
-O1 PORT = COM5
-Diffuser PORT = COM4
+ILX COM PORT = COM44
+Cropico PORT = COM43
+O1 PORT = COM4
+Diffuser PORT = COM3
 
 [SGS Config]  
 IP Address = 128.171.190.18
@@ -94,9 +94,9 @@ Busy read cycle = 10
 #Options to simulate various hardware components.  When true, the code will try to use the real hardware;e when false, the system will 
 #try to use a simulated version of the same hardware.
 Diffuser = True
-Cover = True
-O1 = True
-Shutter = True
+Cover = true
+O1 Focus = True
+Saftey Shutter = True
 Occ X = True
 Occ Y = True
 FilterWheel = True
@@ -127,13 +127,13 @@ Cal Trans = 85
 #OCCX/OCCY are changed on every hardware alignment; values should be 
 # approximately 62 and 4.2 if positions are widely different 
 # The hardware must have changed in some way.
-Occ X = 62.25    
-Occ Y = 4.35
+Occ X = -1.00    
+Occ Y = -1.00
 Diffuser = 0
 Shutter = 1
 Cover = 1
 
-[Mech Out Beam Pos] 
+[Mech Out Beam Pos]
 ### Position UCOMP will drive hardware when commanded out of the  beam
 Cal Pol Rot = 0
 Cal Ret Rot = 0
@@ -279,9 +279,9 @@ T_LCVR5 = 33,36
 T_BASE = 25,35
 T_ILX = 34.5,35.5
 T_CAM_ARR0 = 4,7
-T_CAM_ARR1 = 15,50
+T_CAM_ARR1 = 40,50
 T_CAM_ARR2 = 4,7
-T_CAM_ARR3 = 15,50
+T_CAM_ARR3 = 40,50
 
 [camera saturation levels]
 threshold1_count = 100000

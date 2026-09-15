@@ -127,13 +127,13 @@ Cal Trans = 85
 #OCCX/OCCY are changed on every hardware alignment; values should be 
 # approximately 62 and 4.2 if positions are widely different 
 # The hardware must have changed in some way.
-Occ X = 62.25    
-Occ Y = 4.35
+Occ X = 62.00    
+Occ Y = 4.20
 Diffuser = 0
 Shutter = 1
 Cover = 1
 
-[Mech Out Beam Pos] 
+[Mech Out Beam Pos]
 ### Position UCOMP will drive hardware when commanded out of the  beam
 Cal Pol Rot = 0
 Cal Ret Rot = 0
@@ -279,9 +279,9 @@ T_LCVR5 = 33,36
 T_BASE = 25,35
 T_ILX = 34.5,35.5
 T_CAM_ARR0 = 4,7
-T_CAM_ARR1 = 15,50
+T_CAM_ARR1 = 40,50
 T_CAM_ARR2 = 4,7
-T_CAM_ARR3 = 15,50
+T_CAM_ARR3 = 40,50
 
 [camera saturation levels]
 threshold1_count = 100000

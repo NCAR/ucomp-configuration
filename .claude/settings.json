@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/dump_cell.py dawn:/tmp/dump_cell.py)",
+      "Bash(ssh dawn *)",
+      "Read(//c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/**)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook9.py dawn:/tmp/patch_notebook9.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch9.sh dawn:/tmp/run_patch9.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook10.py dawn:/tmp/patch_notebook10.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch10.sh dawn:/tmp/run_patch10.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook11.py dawn:/tmp/patch_notebook11.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch11.sh dawn:/tmp/run_patch11.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook12.py dawn:/tmp/patch_notebook12.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch12.sh dawn:/tmp/run_patch12.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook13.py dawn:/tmp/patch_notebook13.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch13.sh dawn:/tmp/run_patch13.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook14.py dawn:/tmp/patch_notebook14.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch14.sh dawn:/tmp/run_patch14.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook15.py dawn:/tmp/patch_notebook15.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch15.sh dawn:/tmp/run_patch15.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook16.py dawn:/tmp/patch_notebook16.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch16.sh dawn:/tmp/run_patch16.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook17.py dawn:/tmp/patch_notebook17.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch17.sh dawn:/tmp/run_patch17.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook19.py dawn:/tmp/patch_notebook19.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch19.sh dawn:/tmp/run_patch19.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook20.py dawn:/tmp/patch_notebook20.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch20.sh dawn:/tmp/run_patch20.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/patch_notebook21.py dawn:/tmp/patch_notebook21.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_patch21.sh dawn:/tmp/run_patch21.sh)",
+      "Bash(python3 -c ' *)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/build_summary_notebook.py dawn:/tmp/build_summary_notebook.py)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/run_build_summary.sh dawn:/tmp/run_build_summary.sh)",
+      "Bash(scp /c/Users/mlso/AppData/Local/Temp/claude/c--ucomp-configuration/db50137f-9783-47b5-ba61-9468d6283be1/scratchpad/validate_notebook.py dawn:/tmp/validate_notebook.py)"
+    ]
+  }
+}
