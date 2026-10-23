@@ -1,0 +1,3 @@
+read_script: checkout.menu,checkout.cbk,1079_03wave_2beam_16sums_4rep_both.rcp, **1079_03wave_2beam_16sums_4rep_both.rcp** command not found.
+read_script: checkout.menu,checkout.cbk,1079_03wave_2beam_16sums_4rep_both.rcp, **1079_03wave_2beam_16sums_4rep_both.rcp** command not found.
+read_script: checkout.menu,checkout.cbk,1079_03wave_2beam_16sums_4rep_both.rcp, **1079_03wave_2beam_16sums_4rep_both.rcp** command not found.
