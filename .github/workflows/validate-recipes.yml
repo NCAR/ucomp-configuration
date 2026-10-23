@@ -3,50 +3,47 @@ name: Run Validator and Commit Changes
 on:
   push:
     branches:
-      - main  # Monitor pushes to the main branch
+      - main
+
+permissions:
+  contents: write   # required for the push
 
 jobs:
   run-validator:
-    runs-on:  ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out the repository
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # Step 2: Set up Python
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      # Step 3: Install dependencies
       - name: Install dependencies
-        run: |
-          python -m pip install numpy
-          python -m pip install matplotlib
-      #    pip install -r requirements.txt
+        run: python -m pip install numpy matplotlib
 
-      # Step 4: Run the validator script
       - name: Run validator.py
-        run: |
-          python validation_scripts/validator.py   # validator.py
-      # Step 5: Configure Git
+        run: python validation_scripts/validator.py
+
       - name: Configure Git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      # Step 6: Check for Changes
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Check for changes
+        id: check_changes
         run: |
           git add -A
-          git diff --cached --exit-code || echo "changes detected"
-      - name: Debug Outputs
-        run: |
-          echo "Changes-detected: ${{ steps.check_changes.outputs.changes-detected }}"
-      # Step 7: Commit and Push Changes
+          if git diff --cached --quiet; then
+            echo "changes-detected=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changes-detected=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Commit and push changes
-       # if: success() && steps['Check for changes'].outputs.changes-detected == true
+        if: steps.check_changes.outputs.changes-detected == 'true'
         run: |
           git commit -m "Apply changes from validator.py"
           git push origin main
