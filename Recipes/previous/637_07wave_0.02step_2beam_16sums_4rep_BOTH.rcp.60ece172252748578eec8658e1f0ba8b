@@ -1,0 +1,67 @@
+DATE 2026 June 10
+AUTHOR GdT
+DESCRIPTION  7 wavelengths, 0.02nm step, 2 beams, 16 sums, continuum=both, repeated 4 times
+
+data	rcam	both	     637.340	   16
+data	rcam	both	     637.360	   16
+data	rcam	both	     637.380	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.420	   16
+data	rcam	both	     637.440	   16
+data	rcam	both	     637.460	   16
+
+data	tcam	both	     637.340	   16
+data	tcam	both	     637.360	   16
+data	tcam	both	     637.380	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.420	   16
+data	tcam	both	     637.440	   16
+data	tcam	both	     637.460	   16
+
+data	rcam	both	     637.340	   16
+data	rcam	both	     637.360	   16
+data	rcam	both	     637.380	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.420	   16
+data	rcam	both	     637.440	   16
+data	rcam	both	     637.460	   16
+
+data	tcam	both	     637.340	   16
+data	tcam	both	     637.360	   16
+data	tcam	both	     637.380	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.420	   16
+data	tcam	both	     637.440	   16
+data	tcam	both	     637.460	   16
+
+data	rcam	both	     637.340	   16
+data	rcam	both	     637.360	   16
+data	rcam	both	     637.380	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.420	   16
+data	rcam	both	     637.440	   16
+data	rcam	both	     637.460	   16
+
+data	tcam	both	     637.340	   16
+data	tcam	both	     637.360	   16
+data	tcam	both	     637.380	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.420	   16
+data	tcam	both	     637.440	   16
+data	tcam	both	     637.460	   16
+
+data	rcam	both	     637.340	   16
+data	rcam	both	     637.360	   16
+data	rcam	both	     637.380	   16
+data	rcam	both	     637.400	   16
+data	rcam	both	     637.420	   16
+data	rcam	both	     637.440	   16
+data	rcam	both	     637.460	   16
+
+data	tcam	both	     637.340	   16
+data	tcam	both	     637.360	   16
+data	tcam	both	     637.380	   16
+data	tcam	both	     637.400	   16
+data	tcam	both	     637.420	   16
+data	tcam	both	     637.440	   16
+data	tcam	both	     637.460	   16
